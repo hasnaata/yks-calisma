@@ -2,6 +2,20 @@
    İlerleme yalnızca bu tarayıcıda (localStorage) tutulur; sunucuya hiçbir şey gönderilmez. */
 const SINAV_TARIHI = new Date('2027-06-19T10:15:00+03:00'); // TYT
 const ARALIKLAR = [1, 3, 7, 16, 35]; // aralıklı tekrar (gün)
+/* Ders rengi ve simgesi: anahtar, ders kimliğinin sınav ön eki atılmış hâlidir. */
+const DERS_GORSEL = {
+  'biyoloji': ['#2f855a', 'M5 19c0-8 5-13 14-14 0 9-5 14-14 14zM5 19l7-7'],
+  'cografya': ['#b7791f', 'M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18zM3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18'],
+  'din-kulturu-ve-ahlak-bilgisi': ['#6b46c1', 'M12 6c-2-1.5-5-2-8-1.5v13c3-.5 6 0 8 1.5 2-1.5 5-2 8-1.5v-13c-3-.5-6 0-8 1.5zM12 6v13'],
+  'felsefe': ['#2b6cb0', 'M9 18h6M10 21h4M12 3a6 6 0 0 0-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.800 1-2.5A6 6 0 0 0 12 3z'],
+  'fizik': ['#c53030', 'M12 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2zM12 3c2.500 0 4.500 4 4.500 9s-2 9-4.500 9-4.500-4-4.500-9 2-9 4.500-9zM4.200 7.500c1.250-2.170 5.750-1.900 10.050.600s6.800 6.230 5.550 8.400-5.750 1.900-10.050-.600-6.800-6.230-5.550-8.400z'],
+  'kimya': ['#b83280', 'M9 3h6M10 3v6l-5 9a2 2 0 0 0 2 3h10a2 2 0 0 0 2-3l-5-9V3M7.500 15h9'],
+  'matematik': ['#c05621', 'M4 7h6M7 4v6M14 7h6M5 15l5 5M10 15l-5 5M14 16h6M14 19h6'],
+  'tarih': ['#2c5282', 'M6 3h12M6 21h12M7 3c0 5 10 5 10 9s-10 4-10 9M17 3c0 5-10 5-10 9s10 4 10 9'],
+  'turkce': ['#0f766e', 'M4 20l4-1 11-11-3-3L5 16l-1 4zM14 6l3 3'],
+  'turk-dili-ve-edebiyati': ['#0f766e', 'M4 20l4-1 11-11-3-3L5 16l-1 4zM14 6l3 3'],
+};
+const dersGorsel = (id) => { const [renk, yol] = DERS_GORSEL[id.replace(/^(tyt|ayt)-/, '')] || ['#1f5fbf', 'M4 12h16']; return { renk, simge: `<span class="simge" aria-hidden="true"><svg viewBox="0 0 24 24"><path d="${yol}"/></svg></span>` }; };
 const $ = (s, k = document) => k.querySelector(s);
 const el = (ad, ozellik = {}, ic = '') => { const e = document.createElement(ad); Object.assign(e, ozellik); if (ic) e.innerHTML = ic; return e; };
 const bugun = () => new Date().toISOString().slice(0, 10);
@@ -31,9 +45,18 @@ const Ilerleme = {
   alistirmaBitti(yol, dogru, toplam) {
     const k = this.al(yol), basarili = dogru / toplam >= 0.7;
     const adim = basarili ? Math.min((k.adim ?? -1) + 1, ARALIKLAR.length - 1) : 0;
+    Seri.isle();
     return this.guncelle(yol, { puan: dogru, toplam, son: bugun(), adim, sonraki: gunEkle(ARALIKLAR[adim]),
       deneme: (k.deneme || 0) + 1 });
   },
+};
+
+/* Seri: üst üste kaç gün en az bir alıştırma bitirildi. */
+const Seri = {
+  anahtar: () => 'yks.seri.' + Profil.secili(),
+  isle() { const s = Depo.oku(this.anahtar(), {}), t = bugun(); if (s.son === t) return;
+    Depo.yaz(this.anahtar(), { son: t, gun: s.son === gunEkle(-1) ? (s.gun || 0) + 1 : 1 }); },
+  gun() { const s = Depo.oku(this.anahtar(), {}); return s.son === bugun() || s.son === gunEkle(-1) ? s.gun || 0 : 0; },
 };
 
 /* ---------- Müfredat ---------- */
@@ -69,6 +92,12 @@ function md(kaynak, satirIci = false) {
   let s = kaynak.replace(/\$\$([\s\S]+?)\$\$/g, (_, t) => sakla(t, true))
                 .replace(/\$(?!\s)([^$\n]+?)(?<!\s)\$/g, (_, t) => sakla(t, false));
   s = satirIci ? marked.parseInline(s) : marked.parse(s);
+  /* Tek başına duran görsel -> <figure>. Başlık (title) alt yazı olur; .svg şemalar yana kayabilir. */
+  s = s.replace(/<p>(<img [^>]*>)<\/p>/g, (_, img) => {
+    const alt = (/alt="([^"]*)"/.exec(img) || [])[1] || '', baslik = (/title="([^"]*)"/.exec(img) || [])[1] || '';
+    const sema = /src="[^"]*\.svg"/.test(img);
+    return `<figure class="sekil"><div class="kaydir" ${sema ? 'tabindex="0"' : ''}>${img.replace('<img ', `<img loading="lazy" ${sema ? 'class="sema" onload="this.style.setProperty(\'--enaz\', Math.round(this.naturalWidth*0.62)+\'px\')" ' : ''}`).replace(/ title="[^"]*"/, '')}</div>${baslik || alt ? `<figcaption>${baslik || alt}</figcaption>` : ''}</figure>`;
+  });
   s = s.replace(/<table>/g, '<div class="tablo" tabindex="0"><table>').replace(/<\/table>/g, '</table></div>');
   return s.replace(/\u0000M(\d+)\u0000/g, (_, i) => {
     const p = parcalar[+i];

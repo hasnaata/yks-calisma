@@ -1,9 +1,9 @@
 <!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="assets/stil.css?v=2">
+<link rel="stylesheet" href="assets/stil.css?v=3">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script src="assets/uygulama.js?v=2"></script>
+<script src="assets/uygulama.js?v=3"></script>
 <title>Ders</title></head><body>
 <main><div id="ic"></div></main>
 <script>
@@ -14,7 +14,7 @@ ustCubuk();
   const d = m.find(x => x.id == id), il = Ilerleme.hepsi(), t = bugun();
   if (!d) { $('#ic').textContent = 'Ders bulunamadı.'; return; }
   document.title = d.sinav + ' ' + d.ad;
-  let h = `<p class="kucuk ui"><a href="index.html">← Tüm dersler</a></p><h1>${d.sinav} ${d.ad}</h1>
+  let h = `<p class="kucuk ui"><a href="index.html">← Tüm dersler</a></p><div class="dersbaslik" style="--renk:${dersGorsel(d.id).renk}">${dersGorsel(d.id).simge}<h1>${d.sinav} ${d.ad}</h1></div>
     <p><a class="dugme" href="konu.html?karisik=${d.id}">Karışık tekrar testi</a>
     <span class="soluk kucuk"> Tamamladığın derslerden rastgele 10 soru.</span></p>`;
   for (const k of d.konular) {

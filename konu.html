@@ -1,9 +1,9 @@
 <!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="assets/stil.css?v=2">
+<link rel="stylesheet" href="assets/stil.css?v=3">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script src="assets/uygulama.js?v=2"></script>
+<script src="assets/uygulama.js?v=3"></script>
 <title>Konu</title></head><body>
 <main class="dar"><div id="ust"></div><article id="ic">Yükleniyor…</article><div id="alt"></div></main>
 <script>
@@ -47,8 +47,9 @@ ustCubuk();
     sorulariKur(ic, sorular, (dg, tp) => {
       if (tur != 'alistirma') return;
       const k = Ilerleme.alistirmaBitti(yol, dg, tp);
-      $('#alt').insertAdjacentHTML('afterbegin', `<div class="sonuc"><b>${dg}/${tp}</b> doğru.
-        ${dg / tp >= .7 ? 'Güzel.' : 'Yanlışlarının çözümünü oku, dersi bir kez daha gözden geçir.'}
+      $('#alt').insertAdjacentHTML('afterbegin', `<div class="sonuc ${dg / tp >= .7 ? 'iyi' : ''}"><b>${dg}/${tp}</b> doğru.
+        ${dg === tp ? 'Tam isabet! Bu konu sende.' : dg / tp >= .7 ? 'İyi iş. Yanlışlarının çözümüne bir göz at.' : 'Bu konu biraz daha tekrar istiyor; yanlışlarının çözümünü oku, yarın yeniden dene.'}
+        ${Seri.gun() > 1 ? `Serin: <b>${Seri.gun()} gün</b>.` : ''}
         Sonraki tekrar: <b>${k.sonraki}</b>. <a href="">Tekrar çöz</a></div>`);
     });
   } catch (e) { ic.innerHTML = '<p class="bilgi">Bu ders henüz yazılmadı. Şimdilik yukarıdaki MEBİ konu özetinden çalışabilirsin.</p>'; }

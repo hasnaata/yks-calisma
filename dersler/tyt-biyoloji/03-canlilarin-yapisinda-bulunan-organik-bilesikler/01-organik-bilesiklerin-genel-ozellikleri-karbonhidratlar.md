@@ -29,6 +29,8 @@ Canlıda üretilemez, sindirilmez, enerji vermez, düzenleyicidir, C ve H'yi bir
 
 **Monomer** yapı taşı, **polimer** çok sayıda monomerin birleşmiş hâlidir.
 
+![Monomerler dehidrasyonla polimere dönüşür ve su çıkar; polimer hidrolizle monomerlerine ayrılır ve su harcanır.](gorsel/tyt-biyoloji/03-01-dehidrasyon-hidroliz.svg "Aynı yolun iki yönü: yapım su verir, yıkım su harcar.")
+
 | | Dehidrasyon | Hidroliz |
 |---|---|---|
 | Yön | Monomer → polimer (yapım) | Polimer → monomer (yıkım) |
@@ -52,9 +54,13 @@ $$\text{kurulan bağ sayısı} = \text{açığa çıkan su sayısı} = n - 1$$
 - Yapıya da katılır: hücre zarı, hücre çeperi, DNA, RNA, ATP.
 - Monomerleri arasındaki bağ: **glikozit bağı**.
 
+![Karbonhidratlar üçe ayrılır: monosakkaritler, disakkaritler ve polisakkaritler. Polisakkaritler depo (nişasta, glikojen) ve yapı (selüloz, kitin) olarak ikiye ayrılır.](gorsel/tyt-biyoloji/03-01-karbonhidrat-cesitleri.svg "Bütün konu tek şemada. Önce bunu aklına yerleştir, ayrıntılar sonra gelir.")
+
 ### Monosakkaritler (tek şekerler)
 
 Sindirilmez, hücre zarından doğrudan geçer.
+
+![Glikoz molekülünün üç boyutlu top-çubuk modeli](gorsel/tyt-biyoloji/03-01-glikoz-3b.png "Glikoz molekülü (C₆H₁₂O₆). Siyah: karbon, kırmızı: oksijen, beyaz: hidrojen. Altı karbonu say. Görsel: Ben Mills, kamu malı.")
 
 | Grup | Şeker | Bilinmesi gereken |
 |---|---|---|
@@ -81,6 +87,8 @@ Glikoz, fruktoz ve galaktozun kapalı formülü aynıdır ($\text{C}_6\text{H}_{
 ### Polisakkaritler (çoklu şekerler)
 
 Hepsi **çok sayıda glikozdan** oluşur. Farklı olmalarının nedeni glikozit bağlarının konumudur.
+
+![Mikroskop altında patates hücrelerindeki nişasta taneleri](gorsel/tyt-biyoloji/03-01-nisasta-taneleri.jpg "Patates hücresinde nişasta taneleri (mikroskop, 400×). Bitki fazla glikozu böyle depolar. Görsel: Quant8, CC BY-SA 4.0.")
 
 | Polisakkarit | Görev | Bulunduğu canlı | Ayırt edici bilgi |
 |---|---|---|---|
