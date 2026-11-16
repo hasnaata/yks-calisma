@@ -1,0 +1,4 @@
+# MEB ve ÖSYM içeriği teliflidir: ham PDF ve metinler yalnızca yerelde durur, repoya girmez.
+raw/mebi/pdf/
+raw/mebi/metin/
+raw/osym/*.pdf

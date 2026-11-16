@@ -1,0 +1,984 @@
+# TYT|Biyoloji (TYT)
+## Canlıların Ortak Özellikleri
+- Canlıların Ortak Özellikleri|d4d0b9c404|1|8f03bdff-bdc9-4614-ff21-08dc08944ba8|5721e547e0_c
+## Canlıların Yapısında Bulunan İnorganik Bileşikler
+- İnorganik Bileşiklerin Genel Özellikleri ve Canlılar İçin Önemi|dcbf4d3c9a|0|206e4747-3ed9-47d2-7e97-08dc08997563|11e8c9829b_c
+## Canlıların Yapısında Bulunan Organik Bileşikler
+- Organik Bileşiklerin Genel Özellikleri, Karbonhidratlar|7d7e1dcac2|1|896aae7e-83c2-4a12-8451-08dc0895c7e9|57ffdfc8c6_c
+- Lipitler|c3f3ce67c2|1|5b94a2d8-5a64-4db9-8452-08dc0895c7e9|6415a5dbf9_c
+- Proteinler|3e148ffcca|1|99eedeea-7bab-4229-8453-08dc0895c7e9|0fde5d2ce6_c
+- Enzimler|bdfd85462b|0|ff2022a0-7fdc-4281-8455-08dc0895c7e9|319702b55c_c
+- Vitaminler ve Hormonlar|3b535ed85a|0|a0c4ece1-20b9-418b-8454-08dc0895c7e9|cdff1d7d13_c
+- Nükleik Asitler|5715adcb61|1|52ca2d1b-7f2b-447a-8456-08dc0895c7e9|c0db2545c6_c
+- ATP (Adenozin trifosfat)|663ccdb712|0|1a8c0b58-47bc-4db4-8457-08dc0895c7e9|ed60d8437a_c
+- Sağlıklı Beslenme|8d42a40d5b|0|fe776773-3b24-43ca-c9a3-08dc0b08ee6c|d10d9bf379_c
+## Hücresel Yapılar ve Görevleri
+- Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı|2178f5e829|1|5203e425-edc4-4e8f-8459-08dc0895c7e9|26436d0300_c
+- Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek|d08b25252e|1|05b51175-6634-4653-845a-08dc0895c7e9|e1643e8cec_c
+- Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful|a7af107264|1|0309b2f9-7623-4c2e-845b-08dc0895c7e9|035fd19b5c_c
+- Peroksizom, Sentrozom, Hücre İskeleti|3bab89a462|1|444cbfbe-14d8-47d4-845c-08dc0895c7e9|871edcc6cc_c
+- Mitokondri ve Plastitler|7f034d8cab|0|bb62aa5d-4684-45a3-845d-08dc0895c7e9|1dfba1cbac_c
+## Hücre Zarından Madde Geçişleri
+- Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon|74434844c5|0|ffd8dd99-74e2-4333-845e-08dc0895c7e9|c6ee03fdb5_c
+- Osmoz|58cafc184e|0|4e51ec75-88a4-48ec-845f-08dc0895c7e9|638359bf6d_c
+- Aktif Taşıma|a57e9854ec|1|20be0f83-250f-4181-8460-08dc0895c7e9|541db68034_c
+- Endositoz, Ekzositoz|1911234502|1|7f920527-2bba-458a-8461-08dc0895c7e9|9edd2b5a5a_c
+- Bilimsel Yöntem ve Basamakları|4a4b47ef3e|1|d4006f9b-8dfd-4f64-c9a4-08dc0b08ee6c|d9593d7692_c
+## Canlıların Sınıflandırılması
+- Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler|07fce13a1e|1|8511e678-b0bb-4c66-8463-08dc0895c7e9|c5cdc6d2b8_c
+## Canlı Âlemleri
+- Bakteriler Âlemi, Arkeler Âlemi|05be472e60|1|8c56aa46-2f71-46ed-8464-08dc0895c7e9|e1af48335b_c
+- Protista Âlemi|e2f5e6b7c8|1|d1c6ae35-ff7b-4e1c-8465-08dc0895c7e9|344f5ceb12_c
+- Bitkiler Âlemi|8a50dcc247|0|224f53c3-f67d-4c4a-8466-08dc0895c7e9|2a9c0546c9_c
+- Mantarlar Âlemi|1508675dc0|1|b4e9b572-d83b-4837-8467-08dc0895c7e9|1412b72810_c
+- Hayvanlar Âlemi-Omurgasız Hayvanlar|51885b5f36|0|6aa68c98-c717-4764-8468-08dc0895c7e9|f0f7cce574_c
+- Hayvanlar Âlemi-Omurgalı Hayvanlar|4d5b059bd6|1|86c8f02c-6fd0-4554-8469-08dc0895c7e9|1dd48011b4_c
+- Virüsler|8abaf092e7|0|2fff74d8-ed3f-4217-3eb1-08dc0b072932|6456452abe_c
+## Hücre Döngüsü ve Mitoz
+- Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz|f3a2d630f0|0|e69715a2-5215-4db0-3da2-08dc0aa10b23|d5d6fde15f_c
+- Mitozun Genel Özellikleri ve Evreleri|d932e2b90f|1|d9ace9f8-5343-4071-3da3-08dc0aa10b23|79ab06a392_c
+- Hücre Döngüsünün Kontrolü|548dd015dd|0|5acb3589-5198-4b28-3da4-08dc0aa10b23|176c4a12f9_c
+## Eşeysiz Üreme
+- Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri|f07d91443e|1|7e05dde3-cf25-44e9-3da5-08dc0aa10b23|a07cdfaf4b_c
+## Mayoz
+- Mayozun Genel Özellikleri ve Evreleri|b882896bf2|1|4336dbd2-d12f-43a3-3da6-08dc0aa10b23|b61c0823c0_c
+## Eşeyli Üreme
+- Eşeyli Üremenin Genel Özellikleri ve Örnekleri|225a221a17|1|8c3e8e67-ab52-4989-3da7-08dc0aa10b23|06ae8db273_c
+## Kalıtım
+- Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması|a8cdc267b5|0|7931b9ed-b680-4342-3da8-08dc0aa10b23|5bc59ee98d_c
+- Mendel İlkeleri ve Çaprazlamalar|3b0d17daba|1|f8b06816-daa9-49ad-3da9-08dc0aa10b23|1c636ea2e9_c
+- Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı|2c32ff5fe5|0|0f505feb-acc8-404f-3daa-08dc0aa10b23|72c581698c_c
+- Eşeye Bağlı Kalıtım, Akraba Evliliği|ec1023e80d|1|18a75455-6e82-4667-3dab-08dc0aa10b23|05dd8f3c15_c
+- Soyağacı Analizi ve Örnekleri|3c8b563fa0|1|54388976-98d6-43b0-3dac-08dc0aa10b23|b72ec33b63_c
+## Genetik Varyasyonlar
+- Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik|ac2592db80|0|217077d1-fe46-42ad-3dad-08dc0aa10b23|cbacca404e_c
+## Ekosistem Ekolojisi
+- Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri|40e433c64c|0|4cacf182-b1f3-4193-3dae-08dc0aa10b23|2fef1e0d3b_c
+- Canlılardaki Beslenme Şekilleri|f913f3d80b|0|10faf796-d244-4739-3daf-08dc0aa10b23|529893d801_c
+- Ekosistemde Madde ve Enerji Akışı|18e48d60ea|1|e462243f-0a37-41ab-3db0-08dc0aa10b23|bc60fc9c51_c
+- Madde Döngüleri|1ccd8d74ee|0|103bb536-b9e7-4587-3db1-08dc0aa10b23|c8cbe77d3f_c
+## Güncel Çevre Sorunları
+- Güncel Çevre Sorunlarının Sebepleri , Hava Kirliliği, Asit Yağmurları, Küresel İklim Değişikliği|345733ab10|0|12717265-6e6c-4ee4-3db2-08dc0aa10b23|14c5b527ab_c
+- Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği|663bba95e6|0|63f950fa-c2ed-4ca8-3db3-08dc0aa10b23|46a25049d8_c
+- Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyolojik Çeşitliliğin Azalması|d33548b0fb|0|5cfa8dcb-28e1-44d9-3db4-08dc0aa10b23|1dcd0a1e9d_c
+- Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm Önerileri|281270c28f|0|f935358e-71f6-4f66-3db5-08dc0aa10b23|0c453601f3_c
+## Doğal Kaynakların Sürdürülebilirliği
+- Doğal Kaynakların Sürdürülebilirliğinin Önemi|264d24520e|1|0f725a85-ee3c-4c86-3db6-08dc0aa10b23|1f962a044b_c
+## Biyolojik Çeşitliliğin Korunması
+- Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması|53296ab219|1|118bb1a5-1be6-48e5-3db7-08dc0aa10b23|b33d62aeb9_c
+# TYT|Coğrafya (TYT)
+## Coğrafya Bilimi, İnsan ve Doğa
+- Doğa ve İnsan Etkileşimi|1b0bbf646d|0|836961e6-e756-46f6-9be9-08dc0a909075|a8896e4380_c
+- Coğrafyanın Konusu ve Bölümleri|736b021842|1|b6dacd6c-b5b7-4da4-9bea-08dc0a909075|d61b8f910e_c
+## Dünya'nın Şekli ve Hareketleri
+- Dünya'nın Şekli ve Günlük Hareketi|39ad845b79|0|759babd7-23e1-4ee9-9beb-08dc0a909075|6c9df56587_c
+- Dünya'nın Yıllık Hareketi ve Eksen Eğikliği|079264a825|1|3719333a-718d-4009-9bec-08dc0a909075|9a0c0f860b_c
+## Yer ve Zaman, Koordinat Sistemi
+- Koordinat Sistemi|bf5df8a9c0|0|51379adb-f470-4849-9bed-08dc0a909075|2f03e279b5_c
+- Yerel Saat ve Ulusal Saat|9a301d6035|0|877a9087-6f6d-42b3-9bee-08dc0a909075|f6a96325dc_c
+- Türkiye'nin Konumu|0c1bd155f4|0|595da55b-ed8e-4ed0-9bef-08dc0a909075|5337b3e722_c
+## Harita Bilimi
+- Harita Unsurları ve Harita Çeşitleri|9686690dc5|1|6ec58ac9-312c-4c37-9bf0-08dc0a909075|21585f72a8_c
+- Haritalarda Hesaplamalar|f4450a1d38|0|e4597351-6b39-4bbb-9bf1-08dc0a909075|2c712360de_c
+- Yeryüzü Şekillerinin Haritalara Aktarılması|d7a063eaca|0|08525330-86bc-4d37-9bf2-08dc0a909075|74206acf0c_c
+## İklim Bilimi
+- Atmosfer, Hava Durumu ve İklim|6edefea61e|1|eedd40fe-0d36-48dc-9bf3-08dc0a909075|c618210743_c
+- Sıcaklık|1062e8cb6a|1|b99aa4b4-2c99-4f3f-9bf4-08dc0a909075|9dc37a4856_c
+- Basınç ve Rüzgârlar|cef0e26864|0|696d91d3-f681-4cf8-9bf5-08dc0a909075|be29b67be3_c
+- Nem ve Yağış|c76c2781a9|0|2b7fbed4-7db4-4b7c-9bf6-08dc0a909075|59cf585531_c
+- İklim Tipleri|8e4d7da122|1|c83447e4-f39c-4efb-9bf7-08dc0a909075|8d638cd510_c
+- Türkiye İklimi|bc787df946|1|6b3254a5-520c-4aed-9bf8-08dc0a909075|fc6bbbc1ed_c
+## Yerleşmeler
+- Yerleşme ve Türkiye'de Yerleşmeler|8b13f6a962|0|2265d5c1-6257-4194-9bf9-08dc0a909075|027a70b5c1_c
+## Bölgeler ve Ülkeler
+- Bölge Sınıflandırılması ve Türleri|6bb2051130|1|786c9ed8-2f98-4d34-9bfa-08dc0a909075|6309ce8c9c_c
+## İnsan ve Çevre
+- Doğal Çevrenin Kullanımı|67cc99a75c|0|7e8121e0-02dc-40c8-9bfb-08dc0a909075|31d793f137_c
+## Dünya'nın Yapısı ve Oluşum Süreci
+- Dünya'nın Tektonik Oluşumu ve Jeolojik Zamanlar|5d62318e2c|0|05dabf86-1073-44af-9efe-08dc0a9f878d|1a678ed989_c
+- İç Kuvvetler ve Kayaçlar|1f6f6332b7|1|68d59e40-831b-4039-9eff-08dc0a9f878d|e49fb83f7c_c
+- Dış Kuvvetler (Çözülme, Kütle Hareketleri, Rüzgârlar, Buzullar)|4ddbcd283d|0|c2536505-a05a-4902-9f00-08dc0a9f878d|fc80a12548_c
+- Dış Kuvvetler (Akarsular)|788e5edbf0|1|d900d2bb-d18c-42cd-9f01-08dc0a9f878d|a8e9318888_c
+- Dış Kuvvetler (Karstik Şekiller, Dalgalar, Akıntılar)|e590a25e6c|0|080dac50-0cf2-45ea-9f02-08dc0a9f878d|7d0bfe375a_c
+- Türkiye'de Ana Yer Şekilleri, İç ve Dış Kuvvetler|5045bdf775|1|217057ac-535f-4e5d-9f03-08dc0a9f878d|442c518e1c_c
+## Su Kaynakları, Topraklar, Bitkiler
+- Dünyada Su Kaynakları|0638882395|0|3fe0f82d-67d9-481a-9f04-08dc0a9f878d|03c033ddaa_c
+- Türkiye'de Su Kaynakları|d00d6bd546|1|0d2e41c7-66cd-4a6f-9f05-08dc0a9f878d|dc326885c3_c
+- Dünyada ve Türkiye'de Topraklar|58b43cd788|0|568f6dcb-98ab-418f-9f06-08dc0a9f878d|91d44a0f55_c
+- Dünyada ve Türkiye'de Bitkiler|57080d81ea|1|186a6404-7f05-4c14-9f07-08dc0a9f878d|2ba6ad6154_c
+## Nüfus, Göç, Ekonomik Faaliyetler
+- Nüfusun Özellikleri ve Gelişimi|c707bc831a|1|8f344ac7-a4f1-4553-9f08-08dc0a9f878d|53326d957f_c
+- Nüfusun Dağılışı ve Nüfus Piramitleri|c68c69e5b3|1|17614ca5-8ff8-488c-9f09-08dc0a9f878d|53477849d2_c
+- Türkiye Nüfusu|8ac96349fe|1|c7eb9869-9c89-48ab-9f0a-08dc0a9f878d|26ee300449_c
+- Göçler|f6e5b5a0ea|0|166cc600-61de-4d1b-9f0b-08dc0a9f878d|18424a15ec_c
+- Ekonomik Faaliyetler|4b9c4fcb09|1|7768b0c1-0178-47a3-9f0c-08dc0a9f878d|c94781ec84_c
+## Ulaşım
+- Uluslararası Ulaşım Hatları|07822ae1f2|0|102c36e1-3300-41a1-9f0d-08dc0a9f878d|f5fe4611a4_c
+## Afetler
+- Afetlerin Genel Özellikleri ve Sınıflandırılması|f90181f921|0|574c9052-4150-4c44-9f0e-08dc0a9f878d|1b7e831c78_c
+- Deprem, Tsunami ve Volkanik Faaliyetler, Kütle Hareketleri, Erozyon|2e721e1861|1|7ba582aa-308c-45ba-9f0f-08dc0a9f878d|19f18fce70_c
+- Şiddetli Rüzgârlar, Sel ve Taşkın, Çığ, Orman Yangınları, Salgın Hastalıklar|f1bdc61a4d|1|1f5bdf9d-032a-4485-9f10-08dc0a9f878d|f218543cd6_c
+# TYT|Din Kültürü ve Ahlak Bilgisi (TYT)
+## Bilgi ve İnanç
+- İslam'da Bilgi Kaynakları|252527163f|1|ead21ed7-c814-43ab-f51b-08dce6df7543|ccb9154d2d
+- İslam İnancında İmanın Mahiyeti|cc7b0e931a|1|2e79adeb-8807-4665-f51c-08dce6df7543|cac44c9291
+- Kur'an'dan Mesajlar: İsrâ Suresi 36. Ayet ve Mülk Suresi 23. Ayet|a34b7a4792|1|4cf2cba2-d76b-4bdb-f51d-08dce6df7543|4352109152
+## Din ve İslam
+- Dinin Tanımı ve Kaynağı|9706e96269|0|687c2021-d4b2-4612-f51e-08dce6df7543|81d84bc635
+- İnsanın Doğası ve Din|2d8ce6ffc7|1|da457694-15a4-4df5-f51f-08dce6df7543|089173b375
+- İman ve İslam İlişkisi|c1ec5ee589|0|4bf489c6-6013-4a81-f520-08dce6df7543|5be855c2c3
+- İslam İnanç Esaslarının Özellikleri|b478aa5b22|1|96cbacbb-3226-498e-f521-08dce6df7543|d213c64633
+- Kur'an'dan Mesajlar: Nisâ Suresi 136. Ayet|fe49593846|0|f42f0267-b78f-4fcf-f522-08dce6df7543|b1432b706c
+## İslam ve İbadet
+- İslam'da İbadet ve Kapsamı|cef29a89a6|1|4306bd8a-fb9c-4ac9-f523-08dce6df7543|05836f2da6
+- İslam'da İbadetin Amacı ve Önemi|356201b973|1|d6ba75ec-e1a4-4882-f524-08dce6df7543|a8308548ed
+- İslam'da İbadet Yükümlülüğü|4e9376e045|1|7518b336-06ee-4721-f525-08dce6df7543|b4e5fbf18f
+- İslam'da İbadetlerin Temel İlkeleri|d67f13a7fc|1|223ba090-4f41-4722-f526-08dce6df7543|083bda2b95
+- İslam'da İbadet Ahlak İlişkisi|e194455a63|0|da8e0988-ae19-43fe-f527-08dce6df7543|baeb180e40
+- Kur'an'dan Mesajlar: Bakara Suresi 177. Ayet|76d0fd221f|1|733768f8-583b-4779-f528-08dce6df7543|a1f1b47d1c
+## Gençlik ve Değerler
+- Değerler ve Değerlerin Kaynağı|97d1f93e66|0|3682db3d-9a84-4867-f529-08dce6df7543|ea91fe0fa8
+- Gençlerin Kişilik Gelişiminde Değerlerin Yeri ve Önemi|0ab38a7cd1|0|d65448c8-4a30-47fc-f52a-08dce6df7543|2d37c35e92
+- Temel Değerler|6254eaf1d0|1|3777dce8-1b31-4148-f52b-08dce6df7543|4fc20fcb2f
+- Kur'an'dan Mesajlar: İsrâ Suresi 23-29. Ayetler|6e43eef497|0|38e8acc5-65df-427b-f52c-08dce6df7543|94d2e86d2a
+## Gönül Coğrafyamız
+- İslam Medeniyeti ve Özellikleri|0929429356|0|4aa356af-82bb-466e-f52d-08dce6df7543|b945ac6046
+- İslam Medeniyetinin Farklı Coğrafyalardaki İzleri|bd1225cfe9|1|7fedfa2a-109c-4bec-f52e-08dce6df7543|c23627b2a5
+- Kur'an'dan Mesajlar: Hucurât Suresi 13. Ayet|908a693546|1|a3129a50-2ba8-4155-f52f-08dce6df7543|57dc114393
+## Allah İnsan İlişkisi
+- Allah İnancı ve İnsan|171186d62c|1|89b709ee-ac11-4c67-f530-08dce6df7543|dd1ab34647
+- Allah'ın Varlığı ve Birliği|874d6aee58|1|d8fb4bb6-278a-42a7-f531-08dce6df7543|8b3eefe0a9
+- Allah'ın İsim ve Sıfatları|55ffc81882|1|b96cdb28-6e87-4475-f532-08dce6df7543|e58b67db94
+- Kur'an-ı Kerim'de İnsan ve Özellikleri|16842ec60e|0|9cac969e-6cdf-4eae-f533-08dce6df7543|2973c38925
+- İnsanın Allah İle İrtibatı|6199bc0bf2|1|4b80506b-331e-4cbe-f534-08dce6df7543|9ee4a7901e
+- Kur'an'dan Mesajlar: Rûm Suresi 18-27. Ayetler|5884e7decf|1|e4d6726e-2012-4807-f535-08dce6df7543|8217f4ce5e
+## Hz. Muhammed ve Gençlik
+- Kur'an-ı Kerim'de Gençler|78eb8c26c1|0|9414313e-b89d-43c5-f536-08dce6df7543|a5ed593363
+- Bir Genç Olarak Hz. Muhammed|67b55d2a18|1|51cf037a-7b30-462a-f537-08dce6df7543|440eda11e5
+- Hz. Muhammed ve Gençler|0378e87ad2|1|85039fd5-9c3b-434f-f538-08dce6df7543|afee6ee6ac
+- Bazı Genç Sahabiler|244e642488|1|c8b1003c-15bf-4a54-f539-08dce6df7543|593069eee7
+- Kur'an'dan Mesajlar: Âl-i İmrân Suresi 159. Ayet|51953935df|1|ed6dbe71-370f-4fe4-f53a-08dce6df7543|9f85daef5a
+## Din ve Hayat
+- Din ve Aile|ed263f1872|0|1170b366-aa03-4d5a-f53b-08dce6df7543|3ea21aeb19
+- Din, Kültür ve Sanat|b5a475fdc9|1|3f151c46-71b5-43ca-f53c-08dce6df7543|49c8bbfebe
+- Din ve Çevre|09df30c96c|0|7f5d452b-a739-45e9-f53d-08dce6df7543|530c678989
+- Din ve Sosyal Değişim|4aa76fe645|1|14998912-d9a6-4eb1-f53e-08dce6df7543|5c3a72deb0
+- Din ve Ekonomi|a43899e514|1|2293d746-12c7-407f-f53f-08dce6df7543|b9996d95a5
+- Din ve Sosyal Adalet|23f45b7ea6|1|4955bd27-dffb-492f-f540-08dce6df7543|014f0edffa
+- Kur'an'dan Mesajlar: Âl-i İmrân Suresi 103-105. Ayetler|83175790b8|0|019cfe27-a177-44a4-f541-08dce6df7543|aa67e3eade
+## Ahlaki Tutum Davranışlar
+- İslam Ahlakının Konusu ve Gayesi - İslam Ahlakının Kaynakları|dd8c5af911|1|546c5227-049c-4719-f542-08dce6df7543|4686cf5260
+- Ahlak ve Terbiye İlişkisi|1dd7771dce|0|a7530bb4-d516-4de5-f544-08dce6df7543|746be99134
+- İslam Ahlakında Yerilen Bazı Davranışlar|e68f36da0f|1|c854ebdd-ae52-43f9-f545-08dce6df7543|9a1420771b
+- Tutum ve Davranışlarda Ölçülü Olmak|6d4d228dbf|1|e694e4f7-7e03-4390-91c7-08dd3ad55a15|91005ee0de
+- Kur'an'dan Mesajlar: Hucurât Suresi 11-12. Ayetler|0d71a93c5d|1|100f5061-f31e-4d2f-f546-08dce6df7543|6675e6ba92
+## İslam Düşüncesinde İtikadi, Siyasi ve Fıkhi Yorumlar
+- Dinî Yorum Farklılıklarının Sebepleri|fa4e53fc87|1|f3514470-3896-49be-f547-08dce6df7543|a07eb37c1a
+- Dinî Yorumlarla İlgili Bazı Kavramlar|73dd36d977|0|83e5b389-0904-4bbe-f548-08dce6df7543|585424042f
+- İslam Düşüncesinde İtikadi ve Siyasi Yorumlar|e7890f5b48|0|64f02fe9-2830-48a6-f549-08dce6df7543|ef1e7a7751
+- İslam Düşüncesinde Fıkhi Yorumlar|2c6330968b|1|75df80de-87b6-4cf3-f54a-08dce6df7543|3ceccf226b
+- Kur'an'dan Mesajlar: Nisâ Suresi 59. Ayet|5229258676|0|756f4a0f-6206-4e73-f54b-08dce6df7543|f8ea5ae787
+# TYT|Felsefe (TYT/AYT)
+## Felsefeyi Tanıma
+- Felsefenin Anlamı|d689bfa7d4|1|d941d850-0cc9-4810-5fcb-08dc0b6b6139|3c633e120e_c
+- Felsefi Düşüncenin Ortaya Çıkışı ve Özellikleri - Felsefe Sorusu Nedir?|0d21c70fc9|1|ceb39dc5-b451-4714-5fcc-08dc0b6b6139|a947561492_c
+- Felsefenin İnsan ve Toplum Hayatı Üzerindeki Rolü|477e5b6d29|1|4810b0bb-c15f-4496-5fcd-08dc0b6b6139|67b67d886f_c
+## Felsefe ile Düşünme
+- Düşünme ve Akıl Yürütmeye İlişkin Kavramlar|46058fbbc6|1|c277ffc1-a119-41b2-419f-08dc11d1d100|7b1ce9318f_c
+- Düşünme ve Dil İlişkisi - Felsefi Bir Görüşü veya Argümanı Sorgulama|2fac5978fc|1|f8b14112-4eca-43c0-5fcf-08dc0b6b6139|1995ceb6e2_c
+## Varlık Felsefesi
+- Varlık Felsefesinin Konusu ve Problemleri|b92302725f|0|6938cf0f-3078-4951-5fd0-08dc0b6b6139|a874c88532_c
+- Varlık Felsefesi Alanındaki Çağdaş Yaklaşımlar|e0f7ba4485|1|f1600897-bd25-4271-5fd1-08dc0b6b6139|c98e24ef5b_c
+- Evrende Amaçlılık ve Düzenlilik-Varlık Türlerinin Sınıflandırılması-Bir konunun Varlık Felsefesi Açısından Değerlendirilmesi|31f870f553|0|769bbb3a-7210-458e-590c-08dc0b78c6d4|72578984d2_c
+## Bilgi Felsefesi
+- Bilgi Felsefesinin Konusu ve Bilginin İmkânı Problemi|9d336991a7|1|a3010124-000c-44fb-590d-08dc0b78c6d4|577dc07862_c
+- Bilginin Kaynağı İle İlgili Görüşler|4edff1a8c1|1|b37fe227-14b8-47d9-590e-08dc0b78c6d4|a9fdd9564a_c
+- Bilginin Sınırları-Doğru Bilginin Ölçütü-Doğruluk ve Gerçeklik-Bilginin Değeri ve Güvenirliği|06318b9bb3|1|ac2f66bf-1533-408c-590f-08dc0b78c6d4|a3ffbb88e7_c
+## Bilim Felsefesi
+- Bilim Felsefesinin Konusu ve Problemleri|abf328b356|0|ed377237-a7b4-409d-5910-08dc0b78c6d4|070152afad_c
+- Bilimin Değeri-Bilim Felsefe İlişkisi-Bilim ve Hayat İlişkisi|854fbfd673|1|3e2aa265-ec3e-4690-5911-08dc0b78c6d4|6808f2c8b7_c
+## Ahlak Felsefesi
+- Ahlak Felsefesinin Konusu ve Problemleri-İyi ve Kötünün Ölçütü|5fcb4f2305|1|89ace329-7561-41c3-5912-08dc0b78c6d4|2aa178e64a_c
+- Özgürlük ve Sorumluluk|f21fe783fe|1|ba53ec89-c26a-4b31-5913-08dc0b78c6d4|e965837ea3_c
+- Evrensel Bir Ahlak Yasasını Kabul Eden Görüşler|9f5c59f655|0|bc4f7041-eba3-4e59-5914-08dc0b78c6d4|63ad745f01_c
+- Evrensel Bir Ahlak Yasasını Reddeden Görüşler ve Filozoflar|2b259255f4|1|a278a848-88c0-428c-5915-08dc0b78c6d4|e457a5b23d_c
+- İyilik ve Mutluluk İlişkisi-Özgürlük, Sorumluluk ve Kural İlişkisi|d25b3b74e6|1|ddcfb336-7cc9-46c4-5916-08dc0b78c6d4|f533da50e9_c
+## Din Felsefesi
+- Din Felsefesinin Konusu ve Soruları Tanrı’nın Varlığı İle İlgili Görüşler|ed724e0aa9|1|1353183a-cb35-4b10-5917-08dc0b78c6d4|05eeb71d20_c
+- Din Felsefesinin Soruları-Teoloji ve Din Felsefesi-Felsefe, Bilim ve Din Açısından Ben Kimim?|052e93aa6e|1|9627ca51-a957-4aa1-5918-08dc0b78c6d4|30923807bc_c
+## Siyaset Felsefesi
+- Siyaset Felsefesinin Konusu ve Problemleri-Hak, Adalet, Özgürlük-İktidarın Kaynağı|e68311a5e6|1|e027a4e0-2252-4aa9-5919-08dc0b78c6d4|b25732273a_c
+- İdeal Devlet Düzenine Yönelik Görüşler-Ütopya|f3b36e0119|0|d6d4752c-e3de-4411-591a-08dc0b78c6d4|587fc8ba93_c
+- Egemenlik Sorunu-Toplumsal Sorunlara Felsefi Bakış|a3a459e437|1|d96c50f6-5831-4c31-591b-08dc0b78c6d4|9e2c080efe_c
+## Sanat Felsefesi
+- Sanat Felsefesinin Konusu ve Problemleri-Güzellik-Sanat Nedir?|e1d029c6ba|1|f61c74e7-30c6-4081-591c-08dc0b78c6d4|905f43db7d_c
+- Sanat Kuramları-Sanat Eserinin Özellikleri-Sanat ve Duyarlılık-Şehir, İnsan ve Sanat|440cd15423|1|1f52304e-962d-4ac5-591d-08dc0b78c6d4|fe8812850d_c
+## Felsefi Okuma ve Yazma
+- Felsefi Okuma ve Yazma|c351e488c7|1|86a3f68e-8eda-4559-591e-08dc0b78c6d4|2d02622925_c
+## MÖ 6. Yüzyıl-MS 2. Yüzyıl Felsefesi
+- İlk Medeniyetlerin Felsefenin Doğuşuna Etkisi-Anadolu’da Yaşamış Filozoflar|3877c5518f|0|c77f7d02-cefd-46e0-591f-08dc0b78c6d4|e1eeecfc93_c
+- İlk Neden(Arkhe) ve Değişim Problemi|d6f166f5f2|1|c361b9b6-7172-461d-5920-08dc0b78c6d4|4d775d6bc5_c
+- Sofistler ile Sokrates'in Bilgi ve Değer Anlayışları|cdd67c2205|1|32d7431a-4410-47bb-5921-08dc0b78c6d4|c0f36fdafb_c
+- Platon’un Varlık, Bilgi ve Değer Anlayışı|7fdbe00da8|1|303a0103-f16f-4f4f-5922-08dc0b78c6d4|4b16162275_c
+- Aristoteles’in Varlık, Bilgi ve Değer Anlayışı|f204698a55|1|2f0125b3-a4ca-45bc-5923-08dc0b78c6d4|5131038bef_c
+- Görüş Analizi: Konfüçyüs, Sokrates, Platon ve Aristoteles|13ea8575a7|0|1cbf0470-0748-4002-5924-08dc0b78c6d4|c2709f7352_c
+## MS 2. Yüzyıl-MS 15. Yüzyıl Felsefesi
+- MS2.Yüzyıl-MS 15.Yüzyıl Felsefesinin Ortaya Çıkışı-Hristiyan Felsefesinin Özellikleri ve Problemleri|2ca3a12d07|1|8492cf62-ec65-45f9-5925-08dc0b78c6d4|7ae5377ded_c
+- İslam Felsefesinin Özellikleri ve Problemleri|24c8597e41|1|85ca6d87-3ffa-494b-5926-08dc0b78c6d4|5fa819af2e_c
+- İnanç-Akıl İlişkisi - Çeviri Faaliyetleri|ab94fb16ee|1|404128ad-fe86-42eb-5927-08dc0b78c6d4|1b493bddf8_c
+- Görüş Analizi (Augustinus, Fârâbî, İbn Sîna, Gâzâlî ve İbn Rüşd)-Tasavvuf Düşüncesi|f4716e3b24|1|e04f475c-ab8a-49b6-5928-08dc0b78c6d4|4989d6be11_c
+## 15. Yüzyıl-17. Yüzyıl Felsefesi
+- 15. Yüzyıl-17. Yüzyıl Felsefesinin Ortaya Çıkışı|8c052349d9|0|647fcee6-37ca-456f-5929-08dc0b78c6d4|5478f26404_c
+- 15. Yüzyıl-17. Yüzyıl Felsefesinde Öne Çıkan Görüşler|ef51255df5|1|c2251095-272c-4691-592a-08dc0b78c6d4|b190b5b87f_c
+- Bilimsel Çalışmaların 15. Yüzyıl-17. Yüzyıl Felsefesine Etkisi|0115e5bdaf|1|ab2f6801-fafc-42ac-592b-08dc0b78c6d4|2762f6cce3_c
+- Görüş Analizi: R. Descartes, B. Spinoza ve T. Hobbes|af06641229|1|1a7b537d-f9df-4dbb-592c-08dc0b78c6d4|ff80ca0264_c
+## 18. Yüzyıl-19. Yüzyıl Felsefesi
+- 18. Yüzyıl-19. Yüzyıl Felsefesinin Ortaya Çıkışı-Genel Özellikleri - Dil ve Edebiyatla İlişkisi|6a82e35658|1|b81895c5-62f2-46bf-592d-08dc0b78c6d4|42f3341db3_c
+- 18. Yüzyıl-19. Yüzyıl Felsefesinin Öne Çıkan Problemleri-1|5107e48c4a|1|20523cb7-5634-4cea-592e-08dc0b78c6d4|899381587e_c
+- 18. Yüzyıl-19. Yüzyıl Felsefesinin Öne Çıkan Problemleri-2|16702ec7ea|1|e632ff6d-2975-411f-592f-08dc0b78c6d4|79d76a2ebb_c
+- Görüş Analizi: J. Locke, I. Kant ve F. Hegel|ce7c01e4bc|1|0ed74389-44f8-4a43-5930-08dc0b78c6d4|1ae2f2d8f3_c
+## 20. Yüzyıl Felsefesi
+- 20. Yüzyıl Felsefesinin Ortaya Çıkışı|770394a773|0|39e13cec-19fa-4284-5932-08dc0b78c6d4|36363248d2_c
+- 20. Yüzyıl Felsefesi:Fenomenoloji, Hermeneutik, Varoluşçuluk|a37e6bed9f|1|c57d351a-94d5-4dac-5933-08dc0b78c6d4|537b17c603_c
+- 20. Yüzyıl Felsefesi: Diyalektik Materyalizm, Mantıksal Pozitivizm, Yeni Ontoloji|1212d6bea9|1|8aa2b4a6-0ae8-4261-5934-08dc0b78c6d4|db1d4170e1_c
+- Türkiye’de Felsefi Düşünceye Katkıda Bulunan Felsefeciler-Çağımızın Felsefecileri-Yaşadıkları Yerler|ab1907df99|0|791ce0b7-40eb-470f-5935-08dc0b78c6d4|b876007065_c
+- Görüş Analizi: F. Nietzsche, H. Bergson, J. P. Sartre ve T. Kuhn|eba3de4dae|1|7ba9988e-107a-41e0-5936-08dc0b78c6d4|8f35005dbf_c
+- N. Topçu, T. Mengüşoğlu ve K. Popper’ın Görüşlerinin Tartışılması|9d2f6242b5|1|ebf4d15f-434f-4111-5937-08dc0b78c6d4|0da80973d7_c
+# TYT|Fizik (TYT)
+## Fizik Bilimine Giriş
+- Fizik Bilimine Giriş|6722c23d61|1|a74851b7-ead8-4edf-152c-08dc17ff7dd4|2f24f27074_c
+## Madde ve Özellikleri
+- Kütle ve Hacim|9117ccf4fd|0|f1f9d908-9756-416e-9cc2-08dc086eb842|487da94d73_c
+- Özkütle|d497096e91|1|5cd32219-a4a1-478f-9cf9-08dc086eb842|674cfd9fd0_c
+- Dayanıklılık|619002261b|0|25c397b8-3d3f-4117-9cfa-08dc086eb842|418b15ff2d_c
+- Adezyon, Kohezyon, Yüzey Gerilimi ve Kılcallık|6c4461a1e1|1|278780d6-a908-4685-9cfb-08dc086eb842|a60dc5f3dc_c
+## Hareket ve Kuvvet
+- Hareket Kavramları|2d35af54b2|1|62ac11b7-314c-435d-9cc6-08dc086eb842|b967011ab3_c
+- İvme Kavramı|fb1f1065d3|0|6db3313d-7385-482d-9cfc-08dc086eb842|48584daddc_c
+- Kuvvet Kavramı|ae58af0a0c|1|3a5cc4d6-abc9-420f-9cfd-08dc086eb842|ffcec1a52f_c
+- Newton'ın Hareket Yasaları|b86f4f3d9e|1|4b775802-0c05-4b4a-9cfe-08dc086eb842|5998e290e8_c
+- Sürtünme Kuvveti|91c3da4d28|1|f624f565-a9f5-4dc2-9cff-08dc086eb842|fe77917547_c
+## Enerji
+- İş, Enerji ve Güç Kavramı|6c7e8d8c4f|1|a8c8dcd6-2489-4fa8-9d00-08dc086eb842|58721b8b91_c
+- Enerji Çeşitleri ve Mekanik Enerji|bc780d6413|0|5c5444ff-3601-440f-9d01-08dc086eb842|bdea3fea90_c
+- Enerji Korunumu|98edfad872|0|7ce7b6a4-3f70-428a-9d02-08dc086eb842|49baac6e0f_c
+- Verim ve Enerji Kaynakları|4acfd255ce|0|3ef6c69d-e0d7-447e-9d03-08dc086eb842|b76b41b09c_c
+## Isı ve Sıcaklık
+- Isı ve Sıcaklık Kavramları, Termometreler|b4ab632c83|1|23fc75b2-6a60-473c-9ccf-08dc086eb842|2176ad42e0_c
+- Isı Alışverişi|b3a10a2273|1|de7109a0-22c0-4fdb-9d05-08dc086eb842|9719a685ff_c
+- Hal Değişimi|d02ca5378a|0|3020d8bb-2164-4afb-9d06-08dc086eb842|ced4ac9e04_c
+- Isıl Denge|775b6d9fc9|1|81881a8b-9b28-4c58-9d07-08dc086eb842|ab21d87e1d_c
+- Enerji İletim Yolları|fc9908d2d0|1|73086710-43e0-4c5b-9d08-08dc086eb842|d67d6233be
+- Genleşme|c210ef1a97|1|6eed2d95-2bbd-4b77-9d0a-08dc086eb842|0778048171_c
+## Elektrostatik
+- Elektrik Yüklerinin Özellikleri ve Elektrikle Yüklenme Çeşitleri|6f9c188977|1|ba3ec29e-43af-44b2-9cd6-08dc086eb842|033a840386_c
+- İletken ve Yalıtkanlarda Yük Dağılımı|b052abb00d|0|8201424f-4ef6-4143-9d0c-08dc086eb842|9e42e42e8b_c
+- Elektriksel Kuvvet ve Elektrik Alan|c65005211a|1|f730f63d-7429-475d-9d0d-08dc086eb842|7ca9552c67_c
+## Elektrik ve Manyetizma
+- Elektrik Akımı ve Direnç|9eec58f6dc|1|027e84ab-c211-4fff-9d0e-08dc086eb842|79d9cc572c_c
+- Ohm Yasası ve Dirençlerin Bağlanması|849ac711be|0|e1d60dec-45a6-48ae-9d0f-08dc086eb842|160f064cbc_c
+- Üreteçler|bc1f79a6be|0|4189c832-481f-481e-9d10-08dc086eb842|3ec796e4c8_c
+- Elektrik Enerjisi, Elektriksel Güç ve Lamba Parlaklıkları|129f0d7902|1|cde775ea-1730-4709-9d11-08dc086eb842|3fda9c0a6d_c
+- Mıknatıslar ve Manyetik Alan|00d222dc7d|0|5ebd1a19-1258-471c-9d12-08dc086eb842|ad2b66d178_c
+- Akım ve Manyetik Alan|69c5d7efc3|0|6d37589a-dfc6-4b5e-9d13-08dc086eb842|00fd0c0934_c
+## Basınç ve Kaldırma Kuvveti
+- Basınç Kavramı, Katılarda Basınç ve Basınç Kuvveti|07bb4061a4|1|c48fca6f-e5c8-492c-9cdf-08dc086eb842|165407ea16_c
+- Durgun Sıvılarda Basınç ve Basınç Kuvveti, Pascal Prensibi|665930e772|0|f4923265-b43d-4802-9d15-08dc086eb842|d1891f507f_c
+- Gaz Basıncı, Atmosfer Basıncı ve Basınç Ölçen Aletler|db9e8fba55|1|a425dbcc-d785-49bd-9d16-08dc086eb842|ea5bd96771_c
+- Akışkan Basıncı (Bernoulli İlkesi)|206d81ab26|1|7231e917-e35e-4613-9d17-08dc086eb842|f3cef35ec7_c
+- Kaldırma Kuvveti|f8a3d12691|1|ebe6760e-a93a-4448-9d18-08dc086eb842|c3899065fd_c
+## Dalgalar
+- Dalgalarda Temel Kavramlar ve Özellikleri|c2dd01fba2|1|abe8fbdb-94e4-42e8-9ce4-08dc086eb842|1680097f0e_c
+- Yay Dalgalarının Hızı ve Yansıması|715230e0a1|1|99c5ce98-a689-437a-9d1a-08dc086eb842|87fda44a6f_c
+- Yay Dalgalarının Farklı Ortamlara Geçişi ve Yay Dalgalarının Girişimi|189682471a|0|31a48106-9d76-4026-9d1b-08dc086eb842|df889cecb6_c
+- Su Dalgalarının Özellikleri ve Yansıması|aa01a35c23|0|c2eb5895-7923-4eb4-9d1c-08dc086eb842|e63a08eccd_c
+- Su Dalgalarının Hızı ve Kırılması|17c2801927|1|f66a2052-eead-4f4c-9d1d-08dc086eb842|9e9ac69593_c
+- Ses Dalgaları|6c0b3846d2|1|ee415160-edff-4135-9d1e-08dc086eb842|54c73706cf_c
+- Deprem Dalgaları|1d9dd0be45|0|2b7bc55d-61c9-474c-9d1f-08dc086eb842|a41d26e30c_c
+## Optik
+- Işık, Işık Şiddeti, Işık Akısı ve Aydınlanma Şiddeti|9267e611e5|1|e4110177-c5e1-40b2-9cec-08dc086eb842|6d1e10451f_c
+- Gölge|a7ac86c586|0|8d1938ed-2e9d-4bdd-9d20-08dc086eb842|30f7b66b51_c
+- Işığın Yansıması ve Düzlem Aynalar|953bff0a4b|1|b40b7540-e7b4-43c1-9d21-08dc086eb842|e6a3417d72_c
+- Küresel Aynaların Özellikleri ve Küresel Aynalarda Özel Işınlar|ae7df41d29|1|e02f14b7-83e9-4f55-9d23-08dc086eb842|f7d91b8127_c
+- Küresel Aynalarda Görüntü Oluşumu|c5f7dbf683|1|dbb1a626-25c9-4f72-9d24-08dc086eb842|96ba77be91_c
+- Işığın Kırılması|70f4a49deb|1|589d8ce2-379f-4a9c-9d25-08dc086eb842|5bb47138a4_c
+- Tam Yansıma, Sınır Açısı ve Görünür Uzaklık|2b19e80ff2|1|a7b9ec6d-7370-43ee-9d26-08dc086eb842|f8ea68bd99_c
+- Merceklerin Özellikleri ve Merceklerde Özel Işınlar|59260e38a7|1|cc9cf725-d629-4dbc-9d27-08dc086eb842|3a9546ace4_c
+- Merceklerde Görüntü Oluşumu|528ed7a1c7|1|ff99e87d-21e7-4aa5-9d28-08dc086eb842|021856d396_c
+- Işık Prizmaları|3ddaeaab6b|0|9882b4ff-3c2a-448f-9d29-08dc086eb842|1c8774b012_c
+- Renk|496defd693|1|fcaa1342-aeac-47c7-9d2a-08dc086eb842|f2501d2fd0_c
+# TYT|Kimya (TYT)
+## Kimya Bilimi
+- Simyadan Kimyaya|f56d278546|0|236c298e-8ac6-4038-c9dd-08dc090fb628|03911cbe1c_c
+- Kimya Disiplinleri ve Kimyacıların Çalışma Alanları|30bfcf6706|1|b1948423-b059-49ee-c9de-08dc090fb628|6438978327_c
+- Kimyanın Sembolik Dili|ed1f88f6b4|1|2805121a-cc2f-4d35-c9df-08dc090fb628|9c056fb77f_c
+- Kimya Uygulamalarında İş Sağlığı ve Güvenliği|69756fea77|1|e9a935cf-d3b7-4c62-c9e0-08dc090fb628|92bf0f165d_c
+## Atom ve Periyodik Sistem
+- Atom Modelleri|2d5ef731f8|1|9fa17fef-7016-4794-8d33-08dc09119ceb|2beb3bd62a_c
+- Atomun Yapısı|82df427921|1|1348853e-e969-4324-8d34-08dc09119ceb|63df59876c_c
+- Elementlerin Periyodik Sistemdeki Yerleşim Esasları|e63839e3f5|1|345ee2ec-f036-4174-8d35-08dc09119ceb|976080a12f_c
+- Elementlerin Sınıflandırılması|f17431a2ae|1|6e249abe-6956-4f61-8d36-08dc09119ceb|8a38522760_c
+- Periyodik Özelliklerin Değişme Eğilimleri|403725de32|1|59418b14-6066-4f19-8d37-08dc09119ceb|5e4f93e80c_c
+## Kimyasal Türler Arası Etkileşimler
+- Kimyasal Tür ve Kimyasal Türler Arası Etkileşimlerin Sınıflandırılması|32e4d35f37|0|342a64fb-b0a7-43cc-11f3-08dc091a2912|dfa74e6885_c
+- Güçlü Etkileşimler|9250b36ace|1|0070fe9c-ee31-4c34-11f4-08dc091a2912|ae85b1aee2
+- Zayıf Etkileşimler|09d2ac9b93|1|cf713ac2-f63e-4d1a-11f5-08dc091a2912|c5cdbc5e9e_c
+- Fiziksel ve Kimyasal Değişimler|53d5c1dc72|1|f16641e0-a822-49f1-5880-08dc091a472a|2c9ca31638_c
+## Maddenin Hâlleri
+- Maddenin Fiziksel Hâlleri|dd2019bafb|0|85d5f9d1-e823-4efc-c599-08dc090e19dd|cacf382e29_c
+- Katılar ve Sıvılar|b0bf6abb81|1|fcf04b0e-a720-4d91-c59a-08dc090e19dd|21b4f7a6d0_c
+- Gazlar ve Plazma|10ca361488|1|48e6852a-b4ed-4ae7-c59b-08dc090e19dd|b00458e415_c
+## Doğa ve Kimya
+- Su ve Hayat|f86701d0a2|0|ede20d03-f290-4f95-c597-08dc090e19dd|85a4f84b69_c
+- Çevre Kimyası|e5a20a8cb1|0|b77f0ee5-7db1-455f-c598-08dc090e19dd|55c882197e_c
+## Kimyanın Temel Kanunları ve Kimyasal Hesaplamalar
+- Kimyanın Temel Kanunları|08e94c837a|1|6e4620b7-beaa-4847-5881-08dc091a472a|d6e535f852_c
+- Mol Kavramı|ae25fdc6b1|1|e56b8a3e-a1b7-467a-5882-08dc091a472a|b41b278a68_c
+- Kimyasal Tepkimeler ve Denklemler|ae20a70d73|0|9ff84b93-c48f-4e44-5883-08dc091a472a|f8964f22e0_c
+- Kimyasal Tepkimelerde Hesaplamalar|d7220bd898|1|1435dccd-a67d-490e-5884-08dc091a472a|bbdef9ce1c_c
+## Karışımlar
+- Homojen-Heterojen Karışımlar (I)|18d594c4e4|1|9c016dea-8fb1-4d42-5885-08dc091a472a|a18ff414a4_c
+- Homojen-Heterojen Karışımlar (II)|58d86e1408|1|6c1a925d-9906-4872-5886-08dc091a472a|52a1c4d5e7_c
+- Ayırma ve Saflaştırma Teknikleri|2c66556393|1|16e1131a-38dd-4476-5887-08dc091a472a|08f3e1bb0a_c
+## Asitler, Bazlar ve Tuzlar
+- Asitlerin ve Bazların Özellikleri|5182bf439a|1|4a81d4f9-cea4-4d69-5888-08dc091a472a|f713314924_c
+- Asitlerin ve Bazların Tepkimeleri|6ba5d5524d|1|739ff489-30be-4db7-5889-08dc091a472a|b91785b9f9_c
+- Asitler ve Bazlar - Tuzlar|fa9775a4a7|0|fcdf4a30-1972-4911-7eb2-08dc091bb6a9|ce8bc0ec63_c
+## Kimya Her Yerde
+- Yaygın Günlük Hayat Kimyasalları|f4e4f9e481|1|99a56fe7-b0f2-4675-7eb3-08dc091bb6a9|9a1f86a4cb_c
+- Kozmetikler-İlaçlar-Gıdalar|5d035a55bb|1|a4b654aa-a9b9-47ee-7eb4-08dc091bb6a9|3722b8ae8b_c
+# TYT|Matematik (TYT)
+## Sayı Kümeleri
+- Sayı Kümeleri|fb85b97e86|1|a7bace37-2e4d-4831-e9d6-08dc0b6ad494|4e18c0bd1c_c
+- Temel İşlemler|d864386300|1|42a96ee6-de6e-49bc-e9d7-08dc0b6ad494|fdfafd1500_c
+- Tek ve Çift Sayılar|11e883cea3|1|dfbadd51-c1fa-4aac-e9d8-08dc0b6ad494|9264e7acf1_c
+- Pozitif ve Negatif Sayılar|ec41536b86|0|cc6d4eaa-fb41-430a-e9d9-08dc0b6ad494|0038c9e40e_c
+- Ardışık Sayılar|6b6a0b7f99|1|0e1aa939-6df8-43cb-2280-08dc0b6af052|10ce292013_c
+- Sayı Basamakları|7850c6c58e|1|f0fed4a7-20b4-43f0-e9da-08dc0b6ad494|9dec800d80_c
+- Asal ve Aralarında Asal Sayılar|55a84c2edf|1|c80a52cd-4665-45e3-af7d-08dc0b6afc03|38349c71e1_c
+- Ondalık ve Devirli Ondalık Sayılar|a3f464f3e4|1|51969f2b-06b4-40cb-568b-08dc0b6b5532|3d452ede9b_c
+- Rasyonel Sayılarda İşlemler|7999b16dd9|1|ed2aa349-dcd9-4a56-c844-08dc224a8549|efd64add53_c
+## Bölünebilme Kuralları
+- Tamsayılarda Kalanlı Bölme İşlemi|8aa2f97a11|1|fc8e27f3-8778-440e-568d-08dc0b6b5532|1923b447ca_c
+- Bölünebilme Kuralları 1|f7b60732c9|1|03c6794c-67d6-453c-568e-08dc0b6b5532|a5c4b57267_c
+- Bölünebilme Kuralları 2|afccf19128|1|dc24b757-dcbe-44cf-1593-08dc0c34b5fa|a772b9a04f_c
+- Asal Çarpanlar|aa74283ccd|1|4c1b662b-5fbb-405b-568f-08dc0b6b5532|1d8c374a09_c
+- EBOB-EKOK Kavramı ve Özellikleri|09a0e51875|1|f461e084-d8cf-4c35-2282-08dc0b6af052|69fc1514b6_c
+- EBOB-EKOK Problemleri|b7d1686991|0|264b62f2-e64c-4e8e-e9dd-08dc0b6ad494|0cb0e415c5_c
+- Periyodik Problemler|3e385c2ca5|1|e6abeb3d-339d-418f-af80-08dc0b6afc03|d6c8b835ac_c
+## Birinci Dereceden Denklemler ve Eşitsizlikler
+- Aralık Kavramı|5d54cb82db|0|3fc5e036-f251-4420-e9de-08dc0b6ad494|4179ff96fd_c
+- Birinci Dereceden Bir Bilinmeyenli Denklemler|18df908184|1|8cfafab3-b44b-44de-b6bc-08dc0b6b444a|be6703f255_c
+- Basit Eşitsizlikler|dc6e58d0e7|1|0658e545-4322-40e8-b6bd-08dc0b6b444a|94affca579_c
+- Birinci Dereceden İki Bilinmeyenli Denklemler|add5518705|1|3777fc8e-bec0-49bb-e9df-08dc0b6ad494|0bd2574920_c
+- Birinci Dereceden İki Bilinmeyenli Eşitsizlikler|01d11ac5c1|0|d5e0ae7f-3b3e-4a54-e9e0-08dc0b6ad494|e8dc1c5cd6_c
+- Birinci Dereceden İki Bilinmeyenli Eşitsizlik Sistemleri|a0a558963f|1|83d74541-2b8a-43ee-5690-08dc0b6b5532|c96a3fe5a9_c
+- Mutlak Değer Kavramı ve Özellikleri|37851bfa74|1|783ac38f-6cd6-4aff-31d6-08dc0b6b4f46|5d5ddc5e67_c
+- Mutlak Değerli Denklemler ve Eşitsizlikler|d86a66b754|1|89b0f9f2-6afa-4e81-8b87-08dc0b6b07fd|9521327841_c
+## Üslü İfadeler ve Denklemler
+- Üslü İfadeler ve Özellikleri|c503fcd74e|1|15d9e824-647a-4b03-5691-08dc0b6b5532|95373310c4_c
+- Üslü İfade İçeren Denklem ve Eşitsizlikler|1b30d425e4|1|40674ae3-9d4c-44c3-8b88-08dc0b6b07fd|7b245d96bb_c
+- Köklü İfadeler ve Özellikleri|c53a0b0cfd|1|4a9b0c1b-d4ed-4799-af81-08dc0b6afc03|7a0df42737_c
+- Köklü İfadeleri İçeren Denklem ve Eşitsizlikler|2aae7edcd1|1|7b52799a-0d83-46ef-2283-08dc0b6af052|bdcfe09b15_c
+## Denklemler ve Eşitsizlikler ile İlgili Uygulamalar
+- Oran-Orantı Kavramları ve Özellikleri|db2747c6b2|0|562f645f-7262-4de5-5692-08dc0b6b5532|c0e95438ad_c
+- Oran-Orantı Problemleri|5b79ab590f|1|48d41471-990b-476e-af82-08dc0b6afc03|091f5e648e_c
+- Sayı Problemleri|364ee2b827|1|5ce9f6eb-7505-4c48-af83-08dc0b6afc03|453a9fa45b_c
+- Kesir Problemleri|d33a576a81|1|8f8127ee-0908-4079-5faf-08dc0b6b6139|030c6d4108_c
+- Yaş Problemleri|d5211d5a59|1|7e20c648-308c-470b-5693-08dc0b6b5532|f32ce4f33d_c
+- İşçi Problemleri|f28501b49a|0|030a3a36-4896-405c-b6be-08dc0b6b444a|b04b5c050f_c
+- Yüzde Problemleri|94e996a2a3|1|21657ed2-c3f6-4315-b6bf-08dc0b6b444a|5a315652a6_c
+- Kar-Zarar Problemleri|a5221a5e18|1|45cebedf-d996-4238-8b89-08dc0b6b07fd|1aa7db8c10_c
+- Karışım Problemleri|d329034d67|1|c84da182-8aa6-4587-e9e1-08dc0b6ad494|1aa2520e29_c
+- Hareket Problemleri|a5770ab95d|1|0d83ce2c-0f2f-46c2-31d7-08dc0b6b4f46|100f83263a_c
+- Rutin Olmayan Problemler|50f9db09ce|1|0735ba31-5bed-4949-b6c0-08dc0b6b444a|8cee315f45_c
+## Önermeler ve Bileşik Önermeler
+- Önermeler|417f2eca34|0|441b9036-b3f2-471e-31d8-08dc0b6b4f46|7f565a9572_c
+- Bileşik Önermeler|f11d72b5cb|1|5797b1f3-ae77-42e4-b6c1-08dc0b6b444a|a6bb9e5888_c
+- Koşullu Önerme|946d4f187e|1|b405f11f-0770-4da8-e9e2-08dc0b6ad494|f485a796b6_c
+- İki Yönlü Koşullu Önerme|01686bd48b|0|2622943e-6e95-4d94-5fb0-08dc0b6b6139|4f367dae38_c
+- Niceleyiciler|2f5c308f94|0|c40c3f3c-3e71-4d1d-5fb1-08dc0b6b6139|199333d803_c
+- Tanım, Aksiyom, Teorem ve İspat Kavramları|f65ea46531|1|c4f771be-7d48-497e-e9e3-08dc0b6ad494|3c759fd2d3_c
+## Kümelerde Temel Kavramlar
+- Kümelerde Temel Kavramlar|84a5cc28c9|1|bfdbf326-d5c3-4560-b6c2-08dc0b6b444a|4c0b1bab5b_c
+- Alt Küme|0e9a9d8a87|0|5dd5568e-8073-4014-31d9-08dc0b6b4f46|9719425010_c
+## Kümelerde İşlemler
+- Kümelerde Kesişim ve Birleşim İşlemleri|b96c4ae392|1|f64b9d70-06c6-41b8-af8c-08dc0b6afc03|b233675c41_c
+- Kümelerde Fark ve Tümleme İşlemleri|b82a06dffe|1|4f6ec219-204d-40e4-8b8a-08dc0b6b07fd|3dfbb51989_c
+- Küme Problemleri|828737039b|1|500c543c-c211-40ef-5694-08dc0b6b5532|a459307df4_c
+- Sıralı İkililer ve Kartezyen Çarpım|82824aa912|1|5643fe17-1400-462f-e9e4-08dc0b6ad494|d8505f66ed_c
+## Sıralama ve Seçme
+- Saymanın Temel İlkesi|4748fa90fd|1|e337f040-8cc8-40a3-5fb2-08dc0b6b6139|f8db14900c_c
+- Faktöriyel Kavramı|aa423e9603|1|7714382a-acee-4a76-af8d-08dc0b6afc03|34de39083b_c
+- Permütasyon|90c5f9f8a3|1|3b9ef917-85e0-4fd8-2284-08dc0b6af052|0cc82b2546_c
+- Tekrarlı Permütasyon|2d7a05988e|1|4ba7d0ec-08ab-479c-2285-08dc0b6af052|3cd64c80fe_c
+- Kombinasyon Kavramı ve Özellikleri|6a9890787e|1|0f4269b2-7941-45e1-e9e5-08dc0b6ad494|3576ac2e89_c
+- Kombinasyon Problemleri|4019557f82|1|1b84b9c2-feac-4838-8b8b-08dc0b6b07fd|de8accab69_c
+- Kombinasyon ve Geometri|9e9d4f39f8|0|8837ac9b-8823-4a70-02af-08dc5d2c64f3|b9973f22e2_c
+- Pascal Üçgeni ve Binom Açılımı|53bfd274bb|1|a6a1fa5d-c443-4773-31da-08dc0b6b4f46|fdfd557ea8_c
+## Basit Olayların Olasılıkları
+- Olasılıkta Temel Kavramlar|2b4cdac8ac|0|882d753d-9925-4933-5695-08dc0b6b5532|add4960bb6_c
+- Olasılık Kavramı İle İlgili Uygulamalar|44b292d4db|1|82820b04-9d79-437b-2287-08dc0b6af052|6912970a8c_c
+## Fonksiyon Kavramı ve Gösterimi
+- Fonksiyon Kavramı ve Gösterimi|7cc0376018|0|a8ed90b4-2221-44f9-31db-08dc0b6b4f46|afdefd0638_c
+- Fonksiyon Soruları|02dbcbc400|1|eae2ad0f-cda8-4838-5697-08dc0b6b5532|ac39ecec75_c
+- İçine, Örten, Birebir ve Eşit Fonksiyonlar|aad486ecb6|0|d1fef26e-364b-40b2-5696-08dc0b6b5532|cfd24003ab_c
+- Birim ve Sabit Fonksiyon|d612185080|0|bf93c133-0857-47eb-af8e-08dc0b6afc03|f5ee0bf5fb_c
+- Doğrusal ve Parçalı Fonksiyonlar|260cbab73e|0|c7ead496-24b3-45db-5fb3-08dc0b6b6139|cb633f7e11
+- Tek-Çift Fonksiyonlar|1abc2e1bd8|0|f329b0b3-ca7d-4110-8b8c-08dc0b6b07fd|bad033d935_c
+- Fonksiyonlarda Dört İşlem|4e05a4ffc0|1|a7debb85-25b0-4ff2-8b8d-08dc0b6b07fd|5478428750_c
+- Fonksiyon Grafikleri|b4b0f53717|1|fbad582a-5578-451e-5698-08dc0b6b5532|67d6038bbe_c
+## İki Fonksiyonun Bileşkesi ve Bir Fonksiyonun Tersi
+- İki Fonksiyonun Bileşkesi|36ad81c827|1|d987156d-8491-43ed-31dd-08dc0b6b4f46|7b47454dab_c
+- Bir Fonksiyonun Tersi|9f29a60f53|0|fe8278f1-341f-4940-af8f-08dc0b6afc03|12ef48f3ca_c
+- Fonksiyon Grafikleri ile İlgili Uygulamalar|4ea6fcd12f|1|b4cc5134-26be-426b-cde3-08dce44c7538|f1f4066dcb_c
+## Polinom Kavramı ve Polinomlarda İşlemler
+- Polinom Kavramı|b24c173fec|1|1d3d46ca-1726-4b87-5699-08dc0b6b5532|56b7aa4006_c
+- Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri|176317e2fa|1|4c93cb58-36f9-458c-af93-08dc0b6afc03|74957fd9b0_c
+- Polinomlarda Bölme İşlemi|188ef0d5f1|0|838d1114-2874-4092-5fb4-08dc0b6b6139|6317db29d5_c
+- Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma|4e318d2bb9|1|fdcf3390-10f8-48c8-2288-08dc0b6af052|bf02eb07d8_c
+## Polinomların Çarpanlara Ayrılması
+- Ortak Çarpan Parantezine Alma|e421f9a3d1|0|d4daa420-c8e9-43d1-2289-08dc0b6af052|26ebefc338_c
+- Tam Kare veya İki Kare Farkı Özdeşliklerinde Faydalanarak Çarpanlara Ayırma|1d884531b7|1|9d366c1b-60f7-430a-8b8f-08dc0b6b07fd|945971780a_c
+- Tam Küp, İki Küp Toplamı veya Farkı Özdeşliklerinden Faydalanarak Çarpanlara Ayırma|c49f4ae1ab|1|e4d4941a-8da0-410d-569a-08dc0b6b5532|56abd79a5a_c
+- Üç Terimli İfadelerin Çarpanlarına Ayrılması|b7d774edeb|1|223bcc2e-689d-4e95-5fb5-08dc0b6b6139|db64b507d5_c
+- Rasyonel İfadelerin Sadeleştirilmesi|9dbdbe4d4b|0|39d09cbc-77ef-4f03-569b-08dc0b6b5532|38e7c4d040_c
+## İkinci Dereceden Bir Bilinmeyenli Denklemler
+- İkinci Dereceden Bir Bilinmeyenli Denklemler|33f3fe2a0a|0|d7327ae0-5a72-41fc-af9b-08dc0b6afc03|6bdcbd3c4b_c
+- İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi|38df35be86|1|f8d22b84-3bd0-446e-af9c-08dc0b6afc03|e67c433eee_c
+- Diskriminant Kavramı ve Diskriminantın Kullanılması|7902b07f4b|1|48abdca4-ec25-4691-5fb6-08dc0b6b6139|63e8dcb141_c
+- İkinci Dereceden Denklemlerde Kök-Katsayı İlişkisi|a0df19a8b4|1|dc486e24-9a39-42a2-8b90-08dc0b6b07fd|dcaf596abb_c
+- Karmaşık Sayılar|b4f4d2bc65|0|0a3af494-5f2b-405e-31de-08dc0b6b4f46|fd2833b90f_c
+## Merkezi Eğilim ve Yayılım Ölçüleri
+- Merkezi Eğilim Ölçüleri|e0e804535c|1|37f2cb9e-1454-4941-228a-08dc0b6af052|e8d708eab2_c
+- Merkezi Yayılım Ölçüleri|85718ea3a8|1|6f5dfdd5-d3a1-4a5e-31df-08dc0b6b4f46|c4771560bb_c
+## Verilerin Grafikle Gösterilmesi
+- Histogram|0e38692b7d|0|d62a2a1a-086f-4a32-af9d-08dc0b6afc03|12d7859064_c
+- Çizgi, Sütun ve Daire Grafikleri|cafaa7832b|1|0fcde9db-2137-44cc-569c-08dc0b6b5532|f9341563a3_c
+## Üçgenlerde Temel Kavramlar
+- Açı Kavramı ve Çeşitleri|46407f0b2d|1|bf118af2-a14d-4462-b6c5-08dc0b6b444a|be8c673fea_c
+- Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar|583bb8ac94|1|e0f295ba-69b8-477d-b6c6-08dc0b6b444a|b4518201c7
+- Üçgende Açılar|340c464f4a|1|c21a1316-4b7c-4737-8b91-08dc0b6b07fd|bb64a091c4_c
+- İkizkenar ve Eşkenar Üçgende Açı Özellikleri|a49e51e874|1|88144b68-3e67-4c7d-31e8-08dc0b6b4f46|584633d3bf
+- Üçgende Açı-Kenar Bağıntıları|36aa445876|1|a7a1cb28-b201-438e-31ea-08dc0b6b4f46|d128552f67_c
+- Üçgen Eşitsizliği|075c58448d|1|0681068f-b6c4-48fb-5fb7-08dc0b6b6139|11bd841c39_c
+## Üçgenlerde Eşlik ve Benzerlik
+- Üçgenlerde Eşlik|cde084b5ab|0|1e8d6134-2e07-45bc-228b-08dc0b6af052|1bda888dcd_c
+- Üçgenlerde Benzerlik|1928b82e41|1|99b09934-a44e-4e57-569d-08dc0b6b5532|2a9a21ab74_c
+- Üçgende Temel Orantı Teoremi|bba21e0006|1|ca5c077f-8812-4fb5-5fb8-08dc0b6b6139|ed38251823_c
+- Üçgenlerin Benzerliği İle İlgili Uygulamalar|21788ad791|1|1f9655d5-1bda-43c6-569e-08dc0b6b5532|912ded7025_c
+## Üçgenin Yardımcı Elemanları
+- Üçgende Açıortay ve Özellikleri|06dbfb93a8|1|663987b3-688a-4c7d-e9e6-08dc0b6ad494|ca726774c4_c
+- Üçgende Açıortay Teoremleri|c28592a518|0|b3231603-b5d4-4f80-569f-08dc0b6b5532|0ab93b7d60_c
+- Üçgende Kenarortay|481bc8bb71|0|91208901-048e-49a1-5fb9-08dc0b6b6139|b5f86c3ef4_c
+- Üçgende Yükseklik|c7d83b5a70|1|4078e3de-eecf-4343-af9e-08dc0b6afc03|6734f4daac_c
+- Üçgende Kenar Orta Dikme|22984e2f0a|0|d1120f60-3ffc-48ba-31f1-08dc0b6b4f46|94aa55770a_c
+## Dik Üçgen ve Trigonometri
+- Dik Üçgende Pisagor Teoremi|e9eb52be47|1|bc154e6a-18f4-4ac1-31f3-08dc0b6b4f46|534cbb8942_c
+- Dik Üçgende Öklid Teoremi|3f6ca2625c|0|f7f99c16-7305-4985-e9e7-08dc0b6ad494|a6a69080f3_c
+- Trigonometrik Oranlar|b67d4b1d14|1|dd4fe81e-8854-4379-e9e8-08dc0b6ad494|8abadd408c_c
+- 30,45 ve 60 Derecelerin Trigonometrik Oranları|08d4da8df9|0|add31939-9699-4ade-a9be-08dca664d222|1ae33e8d39_c
+- Birim Çember|b7900d490f|0|48fa29b2-9397-476e-8b92-08dc0b6b07fd|c987359126_c
+## Üçgenin Alanı
+- Üçgenin Alanı|f7d58464ab|0|3df3692c-ef06-4e4d-56a0-08dc0b6b5532|b6466e8508_c
+- Üçgenin Alanıyla İlgili Uygulamalar|dd9cd726d3|1|5e2c39f8-e600-47ce-e9e9-08dc0b6ad494|001850a211_c
+## Çokgenler
+- Çokgenler|d29c2bb071|1|8d38aba1-1884-42fb-b6c7-08dc0b6b444a|838814a0d3_c
+## Dörtgenler ve Özellikleri
+- Dörtgenler ve Özellikleri|78b28ad897|1|b3fde499-107e-414c-af9f-08dc0b6afc03|9bfbbb5a52_c
+## Özel Dörtgenler
+- Yamukta Açı ve Uzunluk|b86fd38bf3|1|ba55ec77-d08b-46f1-31f8-08dc0b6b4f46|a81befd37d_c
+- İkizkenar ve Dik Yamuk|06c2283cdd|1|e13ba3ae-fceb-438a-31f9-08dc0b6b4f46|f845310786_c
+- Yamuğun Alanı|1d1534aae3|1|89b099e0-b6bf-4409-99ed-08dc48bc468e|efe33def70_c
+- Paralelkenarda Açı ve Uzunluk|c5688aeaf4|0|0e2b0ba9-1e56-41e1-228c-08dc0b6af052|b0e2cd6d5c_c
+- Eşkenar Dörtgen|d9988fb2c3|1|47aec3c4-1e9a-42d0-228d-08dc0b6af052|9d7a7a9680_c
+- Paralelkenarın Alanı|beacc4f03a|1|6c6e88ef-2bac-440c-afa0-08dc0b6afc03|4fe00fcf26_c
+- Dikdörtgende Açı ve Uzunluk|af1f234c19|1|62ab8080-0654-4c68-afa1-08dc0b6afc03|71a603f34c_c
+- Kare|635a4a0706|1|da357cd8-c265-4516-8b93-08dc0b6b07fd|52f5cc6909_c
+- Dikdörtgenin Alanı|230957714a|1|7618f3a2-3d6b-4a35-b6c8-08dc0b6b444a|8101f648cd_c
+- Deltoid|600e5c8c35|1|800cbf06-32a0-4836-e9ea-08dc0b6ad494|0486512697_c
+## Katı Cisimler
+- Dik Prizmalar|2aa5a0f3d5|1|8722458a-4b63-4b70-1594-08dc0c34b5fa|3ebc4cda45_c
+- Küp|dba71cdf63|1|5c631438-b2ce-4d01-1595-08dc0c34b5fa|d59ca19843_c
+- Dik Piramitler|4033d4531e|0|1025353b-bcb6-416b-1596-08dc0c34b5fa|609c12423e_c
+- Düzgün Dört Yüzlü|0e0c5c451f|0|db328284-b1ed-48f1-1597-08dc0c34b5fa|0f12272538_c
+# TYT|Tarih (TYT)
+## Tarih ve Zaman
+- İnsanlığın Hafızası Tarih|b8f6c6376b|0|ec3d47b0-574d-4eb9-be97-08dc086e2d92|f811794bed_c
+- Zamanın Taksimi|11718a62d2|0|0cf1782a-b13d-4f2c-be98-08dc086e2d92|552a020435_c
+## İlk ve Orta Çağlarda Türk Dünyası
+- Avrasya’da İlk Türk İzleri-Coğrafya ile Oluşan Yaşam Tarzı|f6f6416a49|1|f4183780-93af-4dee-138f-08dc0c366532|9c6c8b50e0_c
+- Boylardan Devlete-I|b7e21772e5|1|dc92cdb5-a8e1-466e-3bfa-08dc297154ce|48d183f577_c
+- Boylardan Devlete-II|73aa658945|0|a5e8e378-92fd-422b-3bfb-08dc297154ce|450ae7b758_c
+- Kavimler Göçü|8bf0ccab54|1|a07c3e66-949c-42d1-3bfc-08dc297154ce|72f5c013e2_c
+## İslam Medeniyetinin Doğuşu
+- İslamiyet’in Doğduğu Dönemde Dünya, İslamiyet Yayılıyor|f6bffb99b6|0|228bbfa5-9fa6-4260-1196-08dc0c3729ba|8232916031_c
+- Emeviler|92e2c384f2|0|c8011bdf-a273-4514-1197-08dc0c3729ba|44ad6c1434_c
+- Abbasi Devleti ve Türkler-Bilim Medeniyeti|bdf2931cba|0|afeba593-d31c-48dd-1198-08dc0c3729ba|eee7500a39_c
+## Türk İslam Tarihindeki Siyasi Gelişmeler, Türklerin İslamiyet'i Kabulü
+- Türklerin İslamiyet’i Kabulü|2711c84bf7|1|f4474675-40a3-42d3-1199-08dc0c3729ba|36c4c7ab68_c
+- İslamiyet’in Türk Devlet ve Toplum Yapısına Etkisi|e648505540|1|b32fb2f3-db2c-4bb5-119a-08dc0c3729ba|f61ece46e8_c
+- Büyük Selçuklu Devleti|82bf4ad566|1|1523cbc4-add9-42e4-119b-08dc0c3729ba|955dae4fee_c
+## Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi
+- Türklerin Anadolu’ya Yerleşme Süreci|bc411500ae|0|e1349dfd-a0ed-42ed-7244-08dc0c38ed73|542e53945a_c
+- Anadolu’nun İlk Türk Siyasi Teşekkülleri|45dccfe01b|1|972caf13-38dd-4923-7245-08dc0c38ed73|7846c09fa2_c
+- Hilal ve Haç Mücadelesi|b0ea7710f4|0|e3595a04-dd70-46b0-7246-08dc0c38ed73|39aeb3bf3e_c
+- Moğol İstilası ve Anadolu|b13a4b0970|0|4c96ecf1-f85f-4ce8-7247-08dc0c38ed73|e8daa45803_c
+## Beylikten Devlete Osmanlı Siyaseti (1302-1453)
+- Osmanlı Beyliği'nin Kuruluşu ve İlk Fetihleri|67ca055a0f|1|b30de759-6072-49de-7248-08dc0c38ed73|a7fbb3468a_c
+- Osmanlı Devleti’nin Rumeli’deki İskân ve İstimâlet Politikası|6d5ddb4a63|1|dff96c56-333f-407e-7249-08dc0c38ed73|199037c6a3_c
+- Anadolu’da Türk Siyasi Birliğini Sağlama Çabaları|ef2c6412d2|0|126e637a-e308-49e3-724a-08dc0c38ed73|4d80f71364_c
+## Devletleşme Sürecinde Savaşçılar ve Askerler
+- Devletleşme Sürecinde Savaşçılar ve Askerler|02b80b9f48|0|ca29562d-a815-4dff-724b-08dc0c38ed73|27b9821f11_c
+## Beylikten Devlete Osmanlı Medeniyeti
+- Beylikten Devlete Osmanlı Medeniyeti|8e3712b9ae|0|b503c75d-b6c6-4c2e-119c-08dc0c3729ba|ca28b1651c_c
+## Dünya Gücü Osmanlı (1453-1595)
+- İstanbul’un Fethi ve Fethin Sonuçları|1f3228c01f|0|5e348334-fd37-4cb7-119d-08dc0c3729ba|badf7932cf_c
+- Türk İslam Dünyasında Birliği Sağlama Çabaları|4c76a3bb2b|0|99dd0651-4ab0-4be4-e17f-08dc0c3ddf62|6796612280_c
+- Dünyanın Muhteşem Gücü Osmanlı|f0b713c695|0|645dfd25-bba3-4364-e180-08dc0c3ddf62|5f835a4a1b_c
+- Stratejik Siyaset ve Dünya Gücü Olan Osmanlı Devleti|0dd2145c33|0|d4df3864-327b-4231-e181-08dc0c3ddf62|d315e55555_c
+## Sultan ve Osmanlı Merkez Teşkilatı
+- Saray ve Şehir Kültürü- Gelenekler Işığında Devlet İdaresi|dafe26c4e5|1|080382dd-0219-4fca-e182-08dc0c3ddf62|a2d8a25fb5_c
+## Klasik Çağda Osmanlı Toplum Düzeni
+- Osmanlı Devleti’nde Millet Sistemi-Fethettiği Yerlerdeki Kültürel Değişim|ab59ceba46|0|3ede761d-0f2f-4c3c-e183-08dc0c3ddf62|20144513e6_c
+- Osmanlı Toprak Sistemi-Lonca Teşkilatı-Vakıflar|0cc2ff3c03|0|799961c2-7508-4101-e184-08dc0c3ddf62|0a721f620e_c
+## Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)
+- Uzun Savaşlardan Diplomasiye|18f026237b|1|b7327b31-68c5-4892-724c-08dc0c38ed73|f4d70009f2_c
+- Okyanusların Önem Kazanması ve Sömürgecilik Faaliyetleri|ee9964c272|0|7d209d9b-1ec1-4737-724d-08dc0c38ed73|56af1c066f_c
+- Fetihlerden Savunmaya|400b3f37b3|0|036ecc04-9905-44ba-724e-08dc0c38ed73|03637162ea_c
+## Değişim Çağında Avrupa ve Osmanlı
+- Avrupa’da Değişim Çağı|c0a38ee620|0|1d9c7d00-1dff-4aa8-724f-08dc0c38ed73|ce17a72218_c
+- Osmanlı Devleti’nde Değişim|83999b155e|0|af376b50-a702-4ce1-7250-08dc0c38ed73|ce9562f67e_c
+- Osmanlı Devleti’nde İsyanlar ve Düzeni Koruma Çabaları|47b053bcf0|0|9e4dc6e9-8a77-438d-7251-08dc0c38ed73|a907457df5_c
+## Devrimler Çağında Değişen Devlet -Toplum İlişkileri
+- İhtilaller Çağı-Sömürgeciliğin Küresel Etkileri|522e0bf767|0|149f32ab-5eb4-46a2-40aa-08dc0c4c5ac8|7627187006_c
+- Osmanlı Devleti’nde Modern Orduya Geçiş|0a2660d312|0|9b9c9b87-2692-402f-40ab-08dc0c4c5ac8|182c778670_c
+- XIX. Yüzyılda Sosyal Hayattaki Değişimler|8e8649dce4|0|3f4430ed-ea21-47e5-40ac-08dc0c4c5ac8|574527e640_c
+## Uluslararası İlişkilerde Denge Stratejisi (1774-1914)
+- Osmanlı Devleti’ne Yönelik Tehditler-I|84b16624e8|0|0cf68405-2f4a-43f1-40ad-08dc0c4c5ac8|e855169c26_c
+- Osmanlı Devleti’nde Demokratikleşme Hareketleri|5e2ec66210|1|a26f2e69-3944-4436-40ae-08dc0c4c5ac8|238550b0c2_c
+- Osmanlı Devleti’nde Darbeler|3bdbb70513|0|9bde0f4a-907f-48d5-40af-08dc0c4c5ac8|8d5ada5d2a_c
+- Osmanlı Devletine Yönelik Tehditler-II|953f9102f9|0|35743fb5-0439-4e87-ae18-08dc42a247db|61a456afa4_c
+## XIX. ve XX. Yüzyılda Değişen Sosyo-Ekonomik Hayat
+- Osmanlı Devleti’nde Sanayileşme Çabaları|3debbaf936|1|544ed010-9d47-4889-40b0-08dc0c4c5ac8|b28a0d1f19_c
+- XIX ve XX. Yüzyılda Osmanlı Nüfusu, Metropoller, Salgınlar ve Kamuoyu|04b864b401|0|452d6e49-c39c-4049-40b1-08dc0c4c5ac8|4c64d6250b_c
+## XX. Yüzyıl Başlarında Osmanlı Devleti ve Dünya
+- Mustafa Kemal’in Lider Olarak Yetişmesinde Etkili Koşullar|abb4ff67e1|0|dcc31fe3-78d2-4c81-df14-08dc0c51228f|d23e956ee8_c
+- 20. Yüzyıl Başlarında Osmanlı Devleti|bf95675104|0|5c23fc41-4cff-4c04-df15-08dc0c51228f|3fee9a5bdb_c
+- I. Dünya Savaşı Sürecinde Osmanlı Devleti|752c172c2d|0|4d60daa4-3453-41da-df16-08dc0c51228f|7b012ab8f4_c
+- I. Dünya Savaşı’nın Sonuçları|ff3d4ce812|0|f95165f8-8929-4037-df17-08dc0c51228f|0bb0f6098b_c
+## Millî Mücadele
+- Millî Mücadele’ye Hazırlık Dönemi-I|a11dc433a0|1|ebb581c4-43c9-43ac-df18-08dc0c51228f|e23cc1d446_c
+- Millî Mücadele’ye Hazırlık Dönemi-II|4fd5cb5704|0|5db09e81-8576-4523-5711-08dc48e1127d|97eac21b51_c
+- Büyük Millet Meclisinin Açılması-Sevr Antlaşması|b991f283a9|1|40d142e9-e23d-40fb-df19-08dc0c51228f|bb92f6a44a_c
+- Doğu, Güney ve Batı Cepheleri|87d606308b|1|6e2f5a4b-4e77-41c0-df1a-08dc0c51228f|79d530be21_c
+- Millî Mücadele’nin Sona Ermesi ve Lozan Barış Antlaşması|26d5a39bc2|1|51c2ef95-2c09-4551-df1b-08dc0c51228f|c356375926_c
+## Atatürkçülük ve Türk İnkılabı
+- Atatürk İlkeleri, Siyasi ve Hukuk Alanındaki Gelişmeler|c6d94f26e1|1|b05cab19-d5e6-476e-df1c-08dc0c51228f|38e720ca7b_c
+- Atatürk Dönemi'nde Yapılan İnkılaplar|773aabcf89|1|34ca99d8-53b6-4510-df1d-08dc0c51228f|543cc87c49_c
+# TYT|Türkçe (TYT)
+## Sözcükte Anlam
+- Sözcükte Anlam 1|2785b79bf5|1|f9e30103-a839-42b0-057d-08dcd0c59898|b9b24f955a_c
+- Sözcükte Anlam 2|620af01446|1|e53c3cde-41c9-4bc7-fbbc-08dcd0c6d012|f9d4a55eec_c
+- Sözcükte Anlam 3|b271308b1a|0|6a3c46e1-9bb4-405b-fbbd-08dcd0c6d012|411ea695fd_c
+- Sözcükte Anlam 4|18039b45a0|1|cca8f75f-1640-4eaa-fbbe-08dcd0c6d012|bad40710ed_c
+## Cümlede Anlam
+- Cümlede Anlam 1|0771225b7b|1|6ee548d8-9eaf-4958-4dcb-08dc086aa5c7|de88c984e4_c
+- Cümlede Anlam 2|e10bc5fc40|1|36d2e89d-fd46-446b-4dcc-08dc086aa5c7|2d8af19c67_c
+- Cümlede Anlam 3|6a5dedb9e1|1|07ce389f-b7cc-4465-4dcd-08dc086aa5c7|d3f9fbf862_c
+## Paragrafta Anlam
+- Paragrafta Anlam 1|bbc5ef5a37|1|e65cabe4-531b-42bd-7b1b-08dc08725919|b5a8c636c8_c
+- Paragrafta Anlam 2|7a0b72f15d|1|3e75c332-0cd6-4db9-7b1c-08dc08725919|733d38816d_c
+- Paragrafta Anlam 3|b4a84242b0|1|7d097f3d-4d46-41de-7b1d-08dc08725919|1aede0ab80_c
+- Paragrafın Yapısı|8903ee328d|1|39abd433-d9d5-4e09-7b1e-08dc08725919|c2b5efcc3c_c
+## Ses Bilgisi
+- Ses Bilgisi-1|070244e232|1|11b486d5-1f5f-4831-7b1f-08dc08725919|f9e980a3c5_c
+- Ses Bilgisi-2|9336b32c59|1|380bc714-6181-4aec-7b20-08dc08725919|63258fe269_c
+## Yazım Kuralları
+- Yazım Kuralları-1|665883121d|1|9a4cb5d5-71e5-41dd-7b21-08dc08725919|38a47ae2dd_c
+- Yazım Kuralları-2|51c6f9e023|1|613127e1-4441-40d3-7b22-08dc08725919|a9b29c599b_c
+- Yazım Kuralları-3|1a5669c1ed|1|f6680a95-ffc2-49e3-7b23-08dc08725919|f7eaa7874a_c
+## Noktalama İşaretleri
+- Noktalama İşaretleri-1|622de15320|1|f64f944d-2473-4732-7b25-08dc08725919|42defa2ffd_c
+- Noktalama İşaretleri-2|e8fb7096e0|0|6a6cee21-946c-4293-7b26-08dc08725919|a4a6752260_c
+- Noktalama İşaretleri-3|da3649e9ef|1|93d85818-a2f8-4f55-7b27-08dc08725919|a5cb9cb2f7_c
+## Biçim Bilgisi
+- Biçim Bilgisi 1|385a32aea7|1|f04af8a4-8e2f-45fd-7b29-08dc08725919|cd0a35a96d_c
+- Biçim Bilgisi 2|2b1197fe28|0|5b182fb1-1a43-425f-7b2a-08dc08725919|872c9eafc1_c
+## Sözcük Türleri
+- İsim|578a79a6c5|1|1ea85fc9-c662-4b20-7b2b-08dc08725919|9bd19a2153_c
+- Sıfat|d899cae25c|1|492dce7a-901f-491d-7b2c-08dc08725919|a921933c12_c
+- Zamir|f0343b4a88|1|615fd38a-d7ea-43af-7b2d-08dc08725919|ce7e2d898e_c
+- İsim ve Sıfat Tamlamaları|1863a56680|1|1bf6837a-7a58-4914-7b2e-08dc08725919|0ee5e8a45f_c
+- Zarf|12a70f98df|0|cc00a6a4-d3ab-48ec-7b2f-08dc08725919|c57b966581_c
+- Edat, Bağlaç ve Ünlem|b20130dc83|1|22baeaf9-d9d6-44b0-7b31-08dc08725919|82cee027d5_c
+## Fiiller
+- Fiilde Kip|8a1eddea26|0|dabe3a5b-7697-49ed-7b32-08dc08725919|2bfb0d3ecd_c
+- Ek-Fiil|c928399298|0|597ebca8-9308-412f-7b33-08dc08725919|7692e68df6_c
+- Fiilde Yapı|2a0c56846e|0|49cf446a-861e-48d6-7b34-08dc08725919|d6aacc5bd0_c
+- Fiilimsiler|690180b259|1|0c1d00a7-c990-4ce8-7b35-08dc08725919|2eecd1bd33_c
+- Fiilde Çatı|ea5efd8e3d|0|73b58517-1879-4d95-7b36-08dc08725919|f62ded0bdc_c
+## Cümlenin Ögeleri
+- Cümlenin Ögeleri|7f23c0a98b|1|52809184-af78-429c-7b37-08dc08725919|fe8bfa6f65_c
+## Cümle Türleri
+- Cümle Türleri|337dd73b0b|1|3c7c3622-1db1-4803-7b39-08dc08725919|687fc83bd2_c
+## Anlatım Bozuklukları
+- Anlama Dayalı Bozukluklar|260a1b2a0e|1|0fb9d339-de10-437b-7b3b-08dc08725919|4cf47790bd_c
+- Yapıya Dayalı Bozukluklar|fbe9576114|0|a954c054-e8ac-4e0a-7b3c-08dc08725919|1d39b6c296_c
+# AYT|Coğrafya (AYT)
+## Ekosistemlerin İşleyişi ve Özellikleri
+- Biyoçeşitlilik ve Biyomlar|e00bfbf4af|1|d63bda78-52a5-402f-5f36-08dc0aa02b9a|2af88da65c_c
+- Ekosistemler ve Madde Döngüleri|20fd022c2d|1|ca7c7551-8c76-46e8-9f11-08dc0a9f878d|a73e4f5e4e_c
+## Nüfus Politikaları ve Yerleşmeler
+- Nüfus Politikaları ve Türkiye Nüfusunun Geleceği|b8ea5bcbfa|1|65d45dde-e796-4cca-9f12-08dc0a9f878d|2520988d2e_c
+- Yerleşme Özellikleri ve Şehirler|de55066387|1|67500892-2e8a-4673-9f13-08dc0a9f878d|2e2e3dc2d7_c
+## Ekonomik Faaliyetler ve Doğal Kaynaklar
+- Üretim, Dağıtım ve Tüketim|50df33fa70|1|3187777b-4ed3-4330-9f14-08dc0a9f878d|3599a7a435_c
+- Doğal Kaynaklar ve Ekonomi|8ecb7df4ac|1|7fef4373-abed-43ee-9f15-08dc0a9f878d|ee5fdf4502_c
+## Türkiye'de Ekonomi
+- Türkiye’nin Ekonomi Politikaları ve Tarımı Etkileyen Faktörler|a3b4edacba|1|56d67f1f-00fe-4641-9f16-08dc0a9f878d|7e72895486_c
+- Türkiye’de Tarım Ürünleri|68c1b8db10|1|625edebe-2f86-4e75-9f17-08dc0a9f878d|02026e9df0_c
+- Türkiye’de Ormancılık ve Hayvancılık|d99e23525d|0|74d0f8d1-ca48-4e17-9f18-08dc0a9f878d|adcad16d0b_c
+- Türkiye’de Madencilik ve Enerji Kaynakları|569ef6e95b|1|82d7db88-6fa0-4d28-9f19-08dc0a9f878d|da73158a48_c
+- Türkiye’de Sanayi|3983787050|1|49fd2093-dd3d-46ba-9f1a-08dc0a9f878d|dd032f6521_c
+## Kültür Bölgeleri
+- İlk Kültür Merkezleri ve Kültür Bölgeleri|890c6bd7cf|1|8a645cee-e6ac-4d6a-9f1b-08dc0a9f878d|d29ab43c4a_c
+- Türk Kültürü ve Anadolu'nun Kültürel Özellikleri|9d3c3571a6|1|cdc25781-7e82-4064-9f1c-08dc0a9f878d|a7f9aae324_c
+## Küreselleşen Dünya
+- Küresel Ticaret|a2fdccf742|1|de2de792-f64b-4dcb-9f1d-08dc0a9f878d|3f3944447e_c
+- Turizm|694e482695|1|7bec1ecb-3876-4489-9f1e-08dc0a9f878d|7d4a43abe1_c
+- Ülkelerin Sanayileşme Süreci ve Tarım-Ekonomi İlişkisi|0ce1776542|1|ddf3839d-09f9-4ec5-9f1f-08dc0a9f878d|2b96b23af0_c
+- Uluslararası Örgütler|ef00f243b0|1|53dfbc6b-5585-4080-9f20-08dc0a9f878d|1a67dc78af_c
+## Çevre Sorunları
+- Çevre Sorunları ve Türleri|f0e73157f0|1|9e29e100-3a77-44e2-076d-08dc0aa06dd7|6ff8cc3699_c
+- Doğal Kaynaklar, Madenler ve Enerji Kaynakları Kullanımının Çevresel Etkileri|5ecdfa6721|1|ebefb5af-b11d-4144-076e-08dc0aa06dd7|642db31bfd_c
+- Arazi Kullanımı, Küresel Çevre Sorunları ve Geri Dönüşüm|5a5a822ebb|1|e24abeb8-2bca-4f46-076f-08dc0aa06dd7|4867da7e2d_c
+## Ekstrem Doğa Olayları ve Doğa Olaylarının Geleceği
+- Ekstrem Doğa Olayları|ab369d8e58|1|640cae38-d74f-4288-0770-08dc0aa06dd7|76a75bbac9_c
+- Doğa Olaylarının Geleceği|9651808622|1|ea2a3188-89c0-4192-0771-08dc0aa06dd7|7129f80153_c
+## Ekonomi, Şehirleşme ve Göç
+- Geçmişten Geleceğe Şehir ve Ekonomi|a58e04d85e|1|1577d549-cfe0-4622-0772-08dc0aa06dd7|4962ac7bc1_c
+- Geleceğin Dünyası|12b192a6c7|1|48ec02dd-3540-411c-0773-08dc0aa06dd7|6af7c73bf3_c
+## Türkiye'nin İşlevsel Bölgeleri ve Kalkınma Projeleri
+- Türkiye'nin İşlevsel Bölgeleri|e0e851feea|1|26b7caca-285f-40db-0774-08dc0aa06dd7|7b1b2db298_c
+- Türkiye'nin Bölgesel Kalkınma Projeleri|c553d16450|1|63aab54c-dbc9-41b3-0775-08dc0aa06dd7|a1c46f9e2a_c
+## Ulaşım, Ticaret, Turizm
+- Hizmet Sektörü ve Ulaşım|ec3214ecf1|1|6725a230-1e3e-4307-0776-08dc0aa06dd7|625016867f_c
+- Dünyada ve Türkiye'de Ticaret|32acebc184|1|0aad96b9-7506-4df9-0777-08dc0aa06dd7|c037904b10_c
+- Türkiye Turizmi|d86ee2d3ad|1|b8f0788d-f99e-4914-0778-08dc0aa06dd7|3548996b83_c
+## Jeopolitik Konum ve Ülkeler Arası Etkileşim
+- Ülkelerin Konumunun Etkileri ve Türkiye'nin Jeopolitik Konumu|9033f99904|1|7f7dad63-619b-4193-0779-08dc0aa06dd7|358a47d7ee_c
+- Ülkelerin Gelişmişliği|90bdd6dbe6|1|cdd8c5f3-bd81-4184-077a-08dc0aa06dd7|1f3414422a_c
+- Enerji Nakil Hatları|f568c117a8|1|cbdf33c3-4850-4f7c-077b-08dc0aa06dd7|8609ba0819_c
+- Çatışma Bölgeleri|83c1f7b2b3|0|3026850c-5f82-46c0-077c-08dc0aa06dd7|55fd8698bb_c
+## Doğal Çevrenin Sınırlılığı, Çevresel Örgüt ve Anlaşmalar
+- Doğal Çevrenin Sınırlılığı, Çevresel Örgüt ve Anlaşmalar|52c2e1354e|1|4492a156-5106-44ca-077d-08dc0aa06dd7|7c92bbb11b_c
+# AYT|Matematik (AYT)
+## Fonksiyonlar ile İlgili Uygulamalar
+- Fonksiyonun Grafikleri ile İlgili Uygulamalar|7987b08086|1|3e8541fe-2066-44c6-5fba-08dc0b6b6139|67f1cd5f68_c
+- Fonksiyon Grafiğinin Eksenleri Kestiği Noktalar, Fonksiyonun Pozitif ve Negatif Olduğu Aralıklar|26c23bee21|1|c55912c8-14b6-46cc-228f-08dc0b6af052|50b7608157_c
+- Fonksiyonun Artan ve Azalan Olduğu Aralıklar, Bir Fonksiyonun Maksimum ve Minimum Değerleri|7f9fca1811|0|42d2ec5c-4e7f-44c8-8b94-08dc0b6b07fd|d1b8c839c9_c
+- Ortalama Değişim Hızı|93ac92eeec|0|da67c3b6-3065-499f-3206-08dc0b6b4f46|0518ff6717_c
+## İkinci Dereceden Fonksiyon ve Grafikleri
+- İkinci Dereceden Bir Değişkenli Fonksiyonun Grafiğinin Çizimi|08e4900732|1|5f1d1ad4-f3e1-4602-2290-08dc0b6af052|d66ec231d4_c
+- Parabolün Tepe Noktası, Simetri Ekseni ve Görüntü Kümesi ile İlgili Uygulamalar|919e6428c4|1|2c316fcd-4ecb-4193-320b-08dc0b6b4f46|848842425a_c
+- Parabolün Grafik Çizimi|f1b9771572|0|54931179-dc3e-4938-9d5c-08dc69047b62|34d9d7ddfa_c
+- Bazı Elemanları Verilen Parabol Denklemini Yazma|1f809f117a|1|846d8ae0-4ea9-4984-afa3-08dc0b6afc03|09d7e2f217_c
+- Bir Parabol ile Bir Doğrunun Birbirlerine Göre Durumları|d15aa6e6fd|1|e2924598-1541-43c0-e9ec-08dc0b6ad494|ea9239aa97_c
+- İkinci Dereceden Fonksiyonlarla Modellenebilen Problemler|3fc660465c|0|c485acbb-e9de-4560-e9ed-08dc0b6ad494|249a8cd2d8_c
+## Fonksiyon Dönüşümleri
+- Tek ve Çift Fonksiyonların Grafiklerinin Simetri Özellikleri|66ecf7e615|1|3cc65133-f826-4af0-afa4-08dc0b6afc03|459e0c53f2_c
+## İkinci Dereceden İki Bilinmeyenli Denklem Sistemleri
+- İkinci Dereceden İki Bilinmeyenli Denklem Sistemleri|cbb59f226c|1|d7c339b2-7301-4a98-2291-08dc0b6af052|c284198daa_c
+## İkinci Dereceden Bir Bilinmeyenli Eşitsizlikler
+- İkinci Dereceden Bir Bilinmeyenli Eşitsizliklerin Çözüm Kümesi|5fcffe057c|1|bcba3167-faa3-41b0-b905-08dc0c395ea3|faadac20a1_c
+- İki İfadenin Çarpımı ve Bölümü Şeklinde Verilen Eşitsizliklerin Çözüm Kümesi|9d38b4fc8c|1|14cb499c-729d-41a7-b906-08dc0c395ea3|aded5715f4_c
+## İkinci Dereceden Bir Bilinmeyenli Eşitsizlik Sistemleri
+- İkinci Dereceden Bir Bilinmeyenli Eşitsizlik Sistemleri|b7c9ce5f6e|1|49803d81-dece-4431-b6ca-08dc0b6b444a|cea90d550a_c
+## Koşullu Olasılık
+- Koşullu Olasılık|3d131ad7a5|1|7e06d3ab-64e9-40e5-5fbd-08dc0b6b6139|f5418637ed_c
+- Bağımlı ve Bağımsız Olayların Olasılıkları|3415a414a4|1|99732f75-dcd2-45af-b907-08dc0c395ea3|ea3122902d_c
+- Bileşik Olayların Olasılığı|f0e7a0be9a|0|362bc702-3cc6-4f7b-b908-08dc0c395ea3|c5e461eeaa
+## Deneysel ve Teorik Olasılık
+- Deneysel ve Teorik Olasılık|790af5500d|0|6c90763a-badc-4d38-b909-08dc0c395ea3|c4ddba4ab4_c
+## Yönlü Açılar
+- Yönlü Açılar ve Esas ölçü|b615bb8042|0|e5d4fa03-cd5f-4b43-e9f0-08dc0b6ad494|3286e9dfd6_c
+## Trigonometrik Fonksiyonlar
+- Birim Çember|752ef9ee33|0|ec5fe873-35da-4a56-b90a-08dc0c395ea3|45fd19db73_c
+- Sinüs ve Kosinüs Fonksiyonları|48f8e6254a|0|29857cb9-6fb0-421e-5fbe-08dc0b6b6139|5fc1829dcb_c
+- Tanjant ve Kotanjant Fonksiyonları|4129c36f71|1|228d9191-d2ef-4e8a-e9f1-08dc0b6ad494|8415ed3478_c
+- Sekant ve Kosekant Fonksiyonları|8458925885|1|7677dbce-d3e6-49df-5fbf-08dc0b6b6139|0ad548e564_c
+- Trigonometrik Fonksiyonların Açı Değerlerine Göre Sıralanması|860b2ec28f|1|5a9d91d2-2c21-4ee5-3221-08dc0b6b4f46|0cf3b23750
+- Bir Açının Trigonometrik Değerlerinin Dar Açı Cinsinden Yazılması|438a95cf74|0|ad51ef17-3ecd-47e0-3220-08dc0b6b4f46|16b6460e07_c
+- Kosinüs Teoremi|2e2982fab5|1|e3831785-439d-4fb0-6873-08dc0c3abb60|cb6bdfe0ee_c
+- Sinüs Teoremi|fb25bafc5d|0|fda7e75b-68e9-4c83-6874-08dc0c3abb60|f632fb0293_c
+- Periyot ve Periyodik Fonksiyon|dd5f46d12f|0|9a7b7994-e4d4-4723-6875-08dc0c3abb60|668b8e1eac_c
+- Trigonometrik Fonksiyonların Grafikleri|aad64b7384|0|c6113c17-ac57-4fbc-6876-08dc0c3abb60|c020ad04b3_c
+- Ters Trigonometrik Fonksiyonlar|8d592daa0c|0|024c2997-0cfe-4bc9-6877-08dc0c3abb60|1da6172f7a_c
+## Toplam-Fark ve İki Kat Açı Formülleri
+- Sinüs ve Kosinüs Fonksiyonlarının Toplam Fark Formülleri|ecf00d4b7b|1|9e780042-e9c2-443d-5fc1-08dc0b6b6139|8126973451_c
+- Tanjant ve Kotanjant Fonksiyonlarının Toplam Fark Formülleri|5aa22338be|1|4a5346ae-19cd-4c4c-e9f4-08dc0b6ad494|6dbf397d7c_c
+- Sinüs ve Kosinüs Fonksiyonlarının İki Kat Açı Formülleri|9412aa2b48|1|33b2cc81-4781-49d8-6878-08dc0c3abb60|cc69efdb46_c
+- Tanjant ve Kotanjant Fonksiyonlarının İki Kat Açı Formülleri|38bd0182d3|0|0f4c4b49-4f31-4925-6879-08dc0c3abb60|c744e04c56_c
+## Trigonometrik Denklemler
+- sinx=a , cosx=a ,tanx=a ve cotx=a Denklemlerinin Çözüm Kümesi|13383b8961|1|8cc2bafc-2534-42e7-3222-08dc0b6b4f46|46209fbae8_c
+- Lineer ve Homojen Denklemlerin Çözüm Kümesi|cad284d8ee|0|0b5b7e78-0797-4c8f-56a3-08dc0b6b5532|4c9d3f2759_c
+## Üstel Fonksiyon
+- Üstel Fonksiyon ve Üstel Fonksiyonun Grafiği|6e504dd280|1|74684e9c-e06d-452a-e9f5-08dc0b6ad494|e9af1a4f86_c
+## Logaritma Fonksiyonu
+- Logaritma Fonksiyonu ve Logaritma Fonksiyonunun Grafiği|56a37c6b63|1|f6340aef-aba2-4ce4-687b-08dc0c3abb60|09c190911b_c
+- 10 ve e tabanında Logaritma Fonksiyonu|fecc3d451e|0|749d28b6-0696-4b28-56a4-08dc0b6b5532|87fb12848d_c
+- Logaritma Fonksiyonunun Özellikleri|e42b026d3c|1|39e81ddb-dbad-411f-687c-08dc0c3abb60|ebc7803912_c
+## Üstel, Logaritmik Denklemler ve Eşitsizlikler
+- Üstel ve Logaritmik Denklemler|6403a59ffa|1|acf85da1-0e15-4ebb-e9f6-08dc0b6ad494|265b68ec7a_c
+- Üstel ve Logaritmik Eşitsizlikler|77a76dbb17|1|8d8391a8-f647-4555-687a-08dc0c3abb60|e796ce8df9_c
+- Gerçek Hayat Durumları ile İlgili Üstel ve Logaritmik Fonksiyon Problemleri|4aec44368d|0|7e74023a-bbe9-43cf-687d-08dc0c3abb60|af832f6263_c
+## Gerçek Sayı Dizileri
+- Dizi Kavramı ve Dizinin Terimleri|a120ad6d82|0|5d05b78b-c618-4244-63fa-08dc0b7443b3|eb2ef123ee_c
+- Dizi Çeşitleri ve İndirgeme Bağıntısı|8308010d61|1|a13fb72d-46fa-4dcd-56a5-08dc0b6b5532|f908661c03_c
+- Aritmetik Dizi ve Özellikleri|52a2b5cf8f|1|ef00de4a-a7ce-4739-682b-08dc0c3d6cb8|13a85e1933_c
+- Geometrik Dizi ve Özellikleri|96c2c89d1e|1|5877f320-c23d-4b20-682c-08dc0c3d6cb8|f07710d692_c
+- Aritmetik ve Geometrik Dizilerde Sonlu Toplamlar|6cb310c89e|0|e80a6eea-646e-43b8-682d-08dc0c3d6cb8|c95876223a_c
+- Gerçek Hayat Durumları ile İlgili Dizi Problemleri|10ce58779b|0|3ae1239e-2298-4b10-682e-08dc0c3d6cb8|1529c2f37f_c
+## Limit ve Süreklilik
+- Limit Kavramı|b6720c529a|1|94d2e776-3a08-4867-8b98-08dc0b6b07fd|d2550c74a3_c
+- Limit Özellikleri ve Uygulamaları|e9ea83956f|1|f4ade1eb-5b7f-4468-e9f7-08dc0b6ad494|02b9219126_c
+- Limitte Belirsizlik Durumları ve Uygulamaları|fa08b557cd|1|e7dac6a9-919f-4b03-56a6-08dc0b6b5532|a4c252ca2f_c
+- Süreklilik|5c252e8174|1|b7cd7c9d-1358-432c-8b99-08dc0b6b07fd|d841b4de06_c
+## Anlık Değişim Oranı ve Türev
+- Türev Kavramı|fa388ca2cd|0|09efa4d9-6304-4f65-e9f9-08dc0b6ad494|4eae52b4b4_c
+- Türev Alma Kuralları|51cecf719a|1|31a1e436-9822-4757-439e-08dc0b75bce4|b4580248f5_c
+- Türevlenebilen İki Fonksiyonun Toplamının, Farkının, Çarpımının ve Bölümünün Türevi|1648b158cd|1|2f85d566-cdad-4868-439f-08dc0b75bce4|bbde199538_c
+- İki Fonksiyonun Bileşkesinin Türevi|957e8bbbb8|1|edc43d02-c910-44ae-43a0-08dc0b75bce4|4c4da26fb2_c
+## Türevin Uygulamaları
+- Bir Fonksiyonun Artan Ve Azalan olduğu Aralıklar|8313492a4b|1|bd3dafbd-9490-4ea8-3227-08dc0b6b4f46|ce4e2376a1_c
+- Bir Fonksiyonun Ekstremum Noktaları|6f65410fcb|1|9d4da3f6-9879-4672-5fc2-08dc0b6b6139|e90f84ff17_c
+- Türev Yardımıyla Bir Fonksiyonun Grafiğinin Çizimi|46c71b0699|1|fd8b32bd-9310-4371-3228-08dc0b6b4f46|7dc3d4ff28_c
+- Maksimum ve Minimum Problemleri|3e7f041745|1|090f8b43-3deb-4e1b-56a8-08dc0b6b5532|30ce0ed2a7_c
+## Belirsiz İntegral
+- Belirsiz İntegral ve İntegral Alma Kuralları|94650e50fa|0|8c2b516e-f5b3-4339-3229-08dc0b6b4f46|b312b50934_c
+- Değişken Değiştirme Yöntemi|79b325e354|1|66189a34-5623-4ebc-5df8-08dc0b758099|cf267526d8_c
+## Belirli İntegral ve Uygulamaları
+- Riemann Toplamı|91e8f500a1|1|4c90cd87-e04d-41f6-5df9-08dc0b758099|641d5c0a43_c
+- Belirli İntegral Kavramı|52ccdf8f12|0|0830ca30-8386-4a4c-e9fb-08dc0b6ad494|f31b5232a2_c
+- Belirli İntegralin Özellikleri|1ea00a6e23|1|37fd1b29-2cdc-449c-e9fc-08dc0b6ad494|d27741eaff_c
+- Belirli İntegral ile Alan Hesabı|b4ac16b9bb|1|14bec4e6-1397-422b-e9fd-08dc0b6ad494|09b8547876_c
+- İki Fonksiyonun Grafiği Arasında Kalan Sınırlı Bölgenin Alanı|48a99296bf|1|93d9bb7e-5bd6-4c23-5fc4-08dc0b6b6139|3c79de5d73_c
+## Doğrunun Analitik İncelenmesi
+- Analitik Düzlem|bc7e4357b9|1|011f8885-7ec3-4057-322a-08dc0b6b4f46|7385831857_c
+- Analitik Düzlemde İki Nokta Arasındaki Uzaklık|5c57afc445|1|7245647b-74d6-4531-8b9c-08dc0b6b07fd|19feb557c8_c
+- Bir Doğru Parçasının Orta Noktası ve Üçgenin Ağırlık Merkezinin Koordinatları|828fa767c9|1|22098ced-b3d6-4634-8b9d-08dc0b6b07fd|baf55f5bd1_c
+- Doğrunun Eğimi|a902246ea0|1|bfba078f-5c98-4dbf-322b-08dc0b6b4f46|925bb6ae77_c
+- Doğru Denklemleri|749e28a668|1|6f9048e6-da72-45c0-e9fe-08dc0b6ad494|1a571bb719_c
+- Doğrunun Grafiği, Doğruların Birbirlerine Göre Durumları|df7e63ff6c|1|05d33961-ab78-43d7-8b9e-08dc0b6b07fd|f171623840_c
+- Bir Noktanın Bir Doğruya Uzaklığı, Paralel İki Doğru Arasındaki Uzaklık|6a2d3b5468|1|d39682b8-08dc-4e3e-5fc6-08dc0b6b6139|4a6e9b0f22_c
+- Bir Doğru Parçasını Belirli Bir Oranda İçten ve Dıştan Noktanın Koordinatları|28b75cfce2|0|a873fc27-ce86-4033-dfee-08dc429b7ae2|0f0b93188f_c
+## Çemberin Analitik İncelenmesi
+- Çemberin Standart Denklemi|fe28b08474|1|3a3a557b-94fd-46c8-5e06-08dc0b758099|3f61c9f0f3_c
+- Özel Çember Denklemleri|49b97ed900|0|5c2e86fc-47f7-4168-3230-08dc0b6b4f46|a54563d1df_c
+- Çemberin Genel Denklemi|dad82e7a7d|0|5dbd6d4e-91fe-47cc-80a6-08dc0c41c04c|c5d0611df1_c
+- Bir Doğru ile Bir Çemberin Birbirine Göre Durumları|b3729e929a|1|774359d9-fc21-4042-3231-08dc0b6b4f46|8ebf7f744a_c
+## Analitik Düzlemde Temel Dönüşümler
+- Öteleme Dönüşümü|1afb230f48|1|83e5404e-a02d-426e-5908-08dc0b78c6d4|f26874bee8_c
+- Dönme Dönüşümü|6155709c23|1|fd3c2e47-dec4-4f8e-5fc7-08dc0b6b6139|168f82fdd1_c
+- Simetri Dönüşümü|0af475de44|1|0661866b-34b3-452b-5fc8-08dc0b6b6139|74189bb184_c
+- Temel Dönüşümlerin Bileşkeleri|13cacb8bc0|1|7fba12a2-c589-4dc1-e9ff-08dc0b6ad494|384eae8215
+## Çemberin Temel Elemanları
+- Çemberde Teğet, Kiriş, Çap, Yay ve Kesen|d0f9fedc49|0|2b0dc9b4-9e49-4029-5909-08dc0b78c6d4|ce0d50a505_c
+- Çemberde Kirişin Özellikleri|5cd0eda3c7|1|71881bef-c95f-4b58-5e02-08dc0b758099|119cab8154_c
+## Çemberde Açılar
+- Çemberde Merkez Açı ve Çevre Açı|f1fb7dd192|1|bd0d54e5-fa99-4aa2-43a2-08dc0b75bce4|54e55c5940_c
+- Çemberde Teğet-Kiriş Açı ve İç-Dış Açı|f48caafa97|0|17ecfac3-f905-4378-43a3-08dc0b75bce4|a091e238ef_c
+## Çemberde Teğet
+- Çevrel Çember, Çemberde Sinüs Teoremi, Çemberde Teğet Özellikleri, Üçgenin İç Teğet ve Dış Teğet Çemberleri|76d5c86724|1|cb753d9e-0e0b-4777-52c3-08dc0c427da1|91f4dd3075_c
+## Dairenin Çevresi ve Alanı
+- Dairenin Çevresi ile Daire Diliminin Çevresi|1c881ddefe|1|645f2e98-83c3-4b40-322f-08dc0b6b4f46|3e74c3a5fe_c
+- Dairenin Alanı ve Daire Diliminin Alanı|401520f923|1|ada73396-46be-4977-d9e3-08dc4ff8c3c3|0d5c87d850_c
+## Katı Cisimler
+- Dik Dairesel Silindirde Uzunluk ve Alan|208eb80afd|0|dd081c06-99fe-4b70-ea02-08dc0b6ad494|b6cb0c1bfc_c
+- Dik Dairesel Silindirde Hacim|05bf0675d7|1|ce306ff9-9c5e-46c7-5fc9-08dc0b6b6139|c839ea0e3a_c
+- Dik Dairesel Konide Uzunluk ve Alan|55cd5ffa7c|1|706fbab5-c729-4dc8-8ba0-08dc0b6b07fd|3d61436df8_c
+- Dik Dairesel Konide Hacim|e5b2e1b21f|1|8afdfdb4-de24-4d85-3232-08dc0b6b4f46|a8aa57f013_c
+- Kürede Uzunluk, Alan ve Hacim|ef71321b9e|1|fedac704-4d6b-42f8-5fca-08dc0b6b6139|626b143456_c
+# AYT|Tarih (AYT)
+## Tarih ve Zaman
+- İnsanlığın Hafızası Tarih|c65b17564f|1|36336755-8f93-4b62-5790-08dc12a4d276|684023e2b2_c
+- Zamanın Taksimi|a19f2344fb|1|e5d389ce-66be-4e7e-5791-08dc12a4d276|1f209f83ee_c
+## İnsanlığın İlk Dönemleri
+- İnsanlığın İlk İzleri, Yazının İcadı|8248edb784|1|1056aec3-fbf0-460a-5792-08dc12a4d276|16762dca79_c
+- İlk Çağ’da Başlıca Medeniyet Havzaları|0c43f2868e|1|986338a9-a5ea-4b61-5793-08dc12a4d276|bd09f2fbda_c
+- İnsan ve Göç|9d9f6feb3a|0|51f85086-5e19-48aa-5794-08dc12a4d276|d11a5501f9_c
+- Kabileden Devlete|d487198764|0|c9c0f52e-d2ca-4dd4-5795-08dc12a4d276|e2d5d2f0fc_c
+- Kanunlar Doğuyor|ce7d33c702|1|7ca950e9-6bb8-44e5-5796-08dc12a4d276|61e56fd000_c
+## Orta Çağ’da Dünya
+- Orta Çağ’da Siyasi Yapılar|92315451d8|0|2a50be8b-d62e-450c-5797-08dc12a4d276|a09e727b94_c
+- Tarımdan Ticarete Ekonomi|94946a4be5|0|ecb10550-76e4-4b8b-5798-08dc12a4d276|da90b2a175_c
+- Orta Çağ’da Ordu|e19090c01b|0|7f93b8a5-9e93-40fc-5799-08dc12a4d276|8f7f3295aa_c
+- Kanunlar Gelişiyor|79de403c32|0|16660cb8-8fb7-49db-579a-08dc12a4d276|cc445b8d95_c
+## İlk ve Orta Çağlarda Türk Dünyası
+- Avrasya’da İlk Türk İzleri, Coğrafya ile Oluşan Yaşam Tarzı|97fd5b7d52|1|08a4c993-cca2-43c3-579b-08dc12a4d276|950c988e23_c
+- Boylardan Devlete-I|9c2235db2f|1|77606779-2eaa-4478-579c-08dc12a4d276|36bef8cf51_c
+- Kavimler Göçü|6f59e19aba|1|5142dc32-e028-45f3-579d-08dc12a4d276|f2335bb278_c
+- Boylardan Devlete-II|8eee5e1ba5|1|203df411-edae-4bbd-3bfd-08dc297154ce|13aec378d5_c
+## İslam Medeniyetinin Doğuşu
+- İslamiyet’in Doğduğu Dönemde Dünya, İslamiyet Yayılıyor|9c8197ca32|1|5ffc1283-9dee-406d-579e-08dc12a4d276|debb833d71_c
+- Emeviler|a95cf3dd3c|0|ebb9ce5c-b224-40cd-579f-08dc12a4d276|a864e719cc_c
+- Abbasi Devleti ve Türkler, Bilim Medeniyeti|029a63f20d|1|98e42dc1-e070-47ac-57a0-08dc12a4d276|5c9da0ee2a_c
+## Türklerin İslamiyet'i Kabulü ve İlk Türk İslam Devletleri
+- Türklerin İslamiyet’i Kabulü|ae3cad21e2|0|ee88eac0-12d8-41f6-0725-08dc12a6af1d|37b61658e3_c
+- İslamiyet’in Türk Devlet ve Toplum Yapısına Etkisi|308d100961|1|cd9c40e7-2a8d-4f83-0726-08dc12a6af1d|99e900fa2b_c
+- Büyük Selçuklu Devleti|02217be0ab|1|cbf445f4-ebba-4151-0727-08dc12a6af1d|ea9bf86d31_c
+## Yerleşme ve Devletleşme Sürecinde Selçuklu Türkiyesi
+- Türklerin Anadolu’ya Yerleşme Süreci|1f210585ef|0|a7797680-f1f1-4acc-0728-08dc12a6af1d|47c10919a0_c
+- Anadolu’nun İlk Türk Siyasi Teşekkülleri|cdd83b5a70|1|f7391f56-f121-4a0e-0729-08dc12a6af1d|b6490ca63e
+- Hilal ve Haç Mücadelesi|6596baff4a|1|898bf27d-bc67-4a97-072a-08dc12a6af1d|3c3e1de04e_c
+- Moğol İstilası ve Anadolu|552c0234d7|1|dadd4bc2-f635-48d8-072b-08dc12a6af1d|03da788940_c
+## Beylikten Devlete Osmanlı Siyaseti (1302-1453)
+- Osmanlı Beyliği'nin Kuruluşu ve İlk Fetihleri|2540901877|1|6f10b055-46d9-4131-072c-08dc12a6af1d|7ac1f4f10c_c
+- Osmanlı Devleti’nin Rumeli’deki İskân ve İstimâlet Politikası|62affc85b6|1|beca703e-8336-40f1-072d-08dc12a6af1d|c488612f97_c
+- Anadolu’da Türk Siyasi Birliğini Sağlama Çabaları|01c3d44781|1|b0aa2d22-4237-4aa1-072e-08dc12a6af1d|82ac7d0134_c
+## Devletleşme Sürecinde Savaşçılar ve Askerler
+- Devletleşme Sürecinde Savaşçılar ve Askerler|20a37961f9|1|5bb2e968-1778-4f46-0730-08dc12a6af1d|289eddc24d_c
+## Beylikten Devlete Osmanlı Medeniyeti
+- Beylikten Devlete Osmanlı Medeniyeti|077d8dea0e|1|e8a90663-a52b-4711-73d9-08dc12a9e7a8|47081aa789_c
+## Dünya Gücü Osmanlı (1453-1595)
+- İstanbul’un Fethi ve Fethin Sonuçları|b322e9a624|1|753b6a4e-7690-490e-73da-08dc12a9e7a8|f5a13bc02d_c
+- Türk İslam Dünyasında Birliği Sağlama Çabaları|11dd42438f|1|f599becb-7049-4401-73db-08dc12a9e7a8|6d4bf3d458_c
+- Dünyanın Muhteşem Gücü Osmanlı|45e09bae50|1|67b409de-dd95-4249-73dc-08dc12a9e7a8|cdf0ff5066_c
+- Stratejik Siyaset ve Dünya Gücü Olan Osmanlı Devleti|2bc05b6e6c|0|9151bcd3-9938-42fc-73dd-08dc12a9e7a8|35a869b384_c
+## Sultan ve Osmanlı Merkez Teşkilatı
+- Saray ve Şehir Kültürü-Gelenekler Işığında Devlet İdaresi|501b91e0d9|1|368960a0-84d8-413e-73de-08dc12a9e7a8|6b402934c1_c
+## Klasik Çağda Osmanlı Toplum Düzeni
+- Osmanlı Devleti’nde Millet Sistemi-Fethettiği Yerlerdeki Kültürel Değişim|83ba2697d6|1|4ed85259-1c61-484d-73df-08dc12a9e7a8|6590d8800c_c
+- Osmanlı Toprak Sistemi-Lonca Teşkilatı-Vakıflar|ef7aca440c|1|b5d0d8cc-0621-434e-b34c-08dc12ad0ae1|b73a218d09_c
+## Değişen Dünya Dengeleri Karşısında Osmanlı Siyaseti (1595-1774)
+- Uzun Savaşlardan Diplomasiye|3bc9986745|1|1426d048-1e3d-454d-b34d-08dc12ad0ae1|925bcacd65_c
+- Okyanusların Önem Kazanması ve Sömürgecilik Faaliyetleri|d0b5fabac9|0|162cfa14-c2b6-4667-b34e-08dc12ad0ae1|d20adaa03e_c
+- Fetihlerden Savunmaya|bd92262348|1|01587a27-1428-4df2-b34f-08dc12ad0ae1|816d6db003_c
+## Değişim Çağında Avrupa ve Osmanlı
+- Avrupa’da Değişim Çağı|10ccb186cb|1|c8c858ed-5ed3-4156-b350-08dc12ad0ae1|a197852509_c
+- Osmanlı Devleti’nde Değişim|0c25a20d8c|0|181744d8-ff1a-40c5-b351-08dc12ad0ae1|524983a8a6_c
+- Osmanlı Devleti’nde İsyanlar ve Düzeni Koruma Çabaları|28824aa9fb|1|bfd52539-eccd-4273-b352-08dc12ad0ae1|9db59bcb67_c
+## Devrimler Çağında Değişen Devlet -Toplum İlişkileri
+- İhtilaller Çağı, Sömürgeciliğin Küresel Etkileri|88a299e878|1|d7b88f07-f1be-4c32-b353-08dc12ad0ae1|afab894de2_c
+- Osmanlı Devleti’nde Modern Orduya Geçiş|7aa8543238|1|557ab83c-9711-4c17-b354-08dc12ad0ae1|9714a979c6_c
+- XIX. Yüzyılda Sosyal Hayattaki Değişimler|41b3c4610c|0|fe30a2fd-565b-4993-b355-08dc12ad0ae1|b4d3edfc2e_c
+## Uluslararası İlişkilerde Denge Stratejisi (1774-1914)
+- Osmanlı Devleti’ne Yönelik Tehditler-I|e931aa9917|1|9bcd20ce-6c95-4bf2-b356-08dc12ad0ae1|786ac5e1e7_c
+- Osmanlı Devleti’nde Demokratikleşme Hareketleri|6efb7e994f|1|c500b36f-c66f-4ebe-b357-08dc12ad0ae1|db5d3e068f_c
+- Osmanlı Devleti’nde Darbeler|70da725cc1|0|eb986a82-8587-4953-b358-08dc12ad0ae1|0884262d12_c
+- Osmanlı Devleti'ne Yönelik Tehditler-II|05496ef36e|0|089b4753-3c66-45a6-1fbc-08dc53071537|0436e49d76_c
+## XIX. ve XX. Yüzyılda Değişen Sosyo-Ekonomik Hayat
+- Osmanlı Devleti’nde Sanayileşme Çabaları|d4c8c206c0|1|915bc2e0-93a2-4170-b359-08dc12ad0ae1|07af370ecf_c
+- XIX ve XX. Yüzyılda Osmanlı Nüfusu, Metropoller, Salgınlar ve Kamuoyu|d2e5c0e386|0|95867c2e-b62b-4da0-b35a-08dc12ad0ae1|22cd9e0a66_c
+## XX. Yüzyıl Başlarında Osmanlı Devleti ve Dünya
+- Mustafa Kemal’in Lider Olarak Yetişmesinde Etkili Koşullar|6311c2a201|1|63843bfe-6a76-456a-958c-08dc12ae4f95|c9ae019939_c
+- 20. Yüzyıl Başlarında Osmanlı Devleti|67d80cc8b2|1|c2bbf546-a230-4f1a-958d-08dc12ae4f95|960f8a717a_c
+- I. Dünya Savaşı Sürecinde Osmanlı Devleti|12db9f2ba1|1|c0f71cd0-8c41-4d6f-958e-08dc12ae4f95|e3cda7a685_c
+- I. Dünya Savaşı’nın Sonuçları|c012dbb138|1|00d1b540-570b-4d50-958f-08dc12ae4f95|b959f48ad0_c
+## Millî Mücadele
+- Millî Mücadele’ye Hazırlık Dönemi-I|7d779fcc20|1|02eff7c6-e29a-454c-9590-08dc12ae4f95|4ac0f5b4eb_c
+- Millî Mücadele’ye Hazırlık Dönemi-II|10cb91df8e|1|ed4c8ebe-c889-42bc-1fbd-08dc53071537|adf63fa40f_c
+- Büyük Millet Meclisinin Açılması-Sevr Antlaşması|ddee54a2c9|1|45c5b145-2924-4062-9591-08dc12ae4f95|d396050e86
+- Doğu, Güney ve Batı Cepheleri|b1bc87c520|1|4a75842a-3703-4640-9592-08dc12ae4f95|c11c17e74b_c
+- Millî Mücadele’nin Sona Ermesi ve Lozan Barış Antlaşması|cfec92911e|1|12463677-1714-4e4d-9593-08dc12ae4f95|4ad0f277c7_c
+## Atatürkçülük ve Türk İnkılabı
+- Atatürk İlkeleri-Siyasi ve Hukuk Alanındaki Gelişmeler|bf22bc3983|1|2832331e-fae8-42bd-04e9-08dc530272a8|2d24e798b0_c
+- Atatürk Dönemi'nde Yapılan İnkılaplar|c15658af52|1|0380fdd5-3fc8-4df4-04ea-08dc530272a8|15368c248c_c
+## İki Savaş Arasındaki Dönemde Türkiye ve Dünya
+- Atatürk Dönemi İç Politikadaki Gelişmeler|bd5737df67|0|ea1452c4-7da4-4681-9595-08dc12ae4f95|01fde724db_c
+- İki Dünya Savaşı Arasındaki Dönemde Dünya|92891c68d4|0|c4b30216-312e-4ea4-9596-08dc12ae4f95|999107f50c_c
+- Atatürk Dönemi Türk Dış Politikası|c7900e0be3|1|0cbbf3e6-840a-4db5-30a9-08dc44f49d58|48afba42c5_c
+## II. Dünya Savaşı Sürecinde Türkiye ve Dünya
+- II. Dünya Savaşı Sürecinde Türkiye ve Savaşı’nın Sonuçları|c788b56eda|1|905366ca-eb2e-4875-73e0-08dc12a9e7a8|3d1feeeda9_c
+## II. Dünya Savaşı Sonrasında Türkiye ve Dünya
+- II. Dünya Savaşı Sonrası Gelişmeler|298dfcf6a9|1|e47bf5ab-7530-496e-f69b-08dc12aff86d|56f687c8ee_c
+## Toplumsal Devrim Çağında Dünya ve Türkiye
+- 1960 Sonrası Dünyada Yaşanan Siyasi Gelişmeler|d6fbf914dd|0|f389ae35-a22f-45ac-f698-08dc12aff86d|139e90e18c_c
+- 1960 Sonrasında Türk Dış Politikası|2e58f03178|1|5051daf7-48cd-42d5-f699-08dc12aff86d|5702743d82_c
+- Türkiye’deki Siyasi, Ekonomik, Sosyokültürel Hayat|3fe65ca563|0|126304aa-d4cc-4256-f69a-08dc12aff86d|c4a565127e_c
+## XXI. Yüzyılın Eşiğinde Türkiye ve Dünya
+- 1990 Sonrasında Türkiye|1618bcf159|0|f095bcaa-c3e8-4c9f-73e1-08dc12a9e7a8|30fdcbf78f_c
+- 1990 Sonrasında Meydana Gelen Siyasi Gelişmelerin Türkiye’ye Etkileri|a86d703878|1|0c2bfac3-76e7-4604-73e2-08dc12a9e7a8|8d33cd41f3_c
+# AYT|Türk Dili ve Edebiyatı (AYT)
+## Edebiyata Giriş
+- Edebiyata Giriş|765842ffb2|0|d57ec53d-6820-49b4-02bb-08dc0976adfb|b2b8966fb6_c
+## Şiir Bilgisi
+- Şiir Bilgisi-1|1e11629c8e|1|5856b7b3-f5e5-4ea5-02bc-08dc0976adfb|4769ba6110_c
+- Şiir Bilgisi-2|16cc779076|1|c549735c-fce2-457a-02bd-08dc0976adfb|5e0bc230ce_c
+## Edebî Sanatlar
+- Edebî Sanatlar|d1bc492821|1|8dc70ff9-c043-4f9b-02bf-08dc0976adfb|a3f3231b8d_c
+## İslamiyet Öncesi Türk Şiiri
+- İslamiyet Öncesi Türk Şiiri|10f3ca5285|0|f367ed86-835a-427b-02c1-08dc0976adfb|5ede3e50f6_c
+## Geçiş Dönemi Türk Şiiri
+- Geçiş Dönemi Türk Şiiri|aeebd2f735|1|9e35bbb1-995a-4a77-02c2-08dc0976adfb|34fa43c4f2_c
+## Halk Şiiri
+- Halk Şiiri 1|44699c487d|1|bfde0fe2-513d-4a78-02c3-08dc0976adfb|e0a24ea062_c
+- Halk Şiiri 2|62c5e80068|0|007ca7de-863c-4939-02c6-08dc0976adfb|0370331b01_c
+- Halk Şiiri 3|c7812c4f1e|1|bfe37a0f-4fe5-4eb9-02c8-08dc0976adfb|a91c82951e_c
+## Divan Şiiri
+- Divan Şiiri 1|f0b2d4fd8c|1|e125fa5f-3498-4fe8-02c9-08dc0976adfb|0d6a509790_c
+- Divan Şiiri 2|20a0dfc8cb|1|2d3f5beb-1754-40bb-02ca-08dc0976adfb|1b51c5a17e_c
+- Divan Şiiri 3|af5d5b937a|1|75b45b0a-8ec7-4573-02cb-08dc0976adfb|aa6a32a5ad_c
+## Tanzimat Dönemi Türk Şiiri
+- Tanzimat Dönemi Türk Şiiri|d1163f55e5|1|c9c4b643-8b69-4686-02cc-08dc0976adfb|2ef1412986_c
+## Servetifünun Dönemi Türk Şiiri
+- Servetifünun Dönemi Türk Şiiri|9acdf802d8|1|5d15531c-2ca7-4e54-02ce-08dc0976adfb|4c849cc53c_c
+## Fecriati Dönemi Türk Şiiri
+- Fecriati Dönemi Türk Şiiri Genel Özellikleri ve Sanatçıları|0afb96ecc2|0|4333b169-67d5-41b1-02d0-08dc0976adfb|7cd03c14a8_c
+## Millî Edebiyat Dönemi Türk Şiiri
+- Millî Edebiyat Dönemi Türk Şiiri|b83843fc88|1|252afa69-5ca2-4f45-02d1-08dc0976adfb|a18291d0d9_c
+## Cumhuriyet Dönemi Türk Şiiri
+- Cumhuriyet Dönemi Türk Şiiri 1|3b34abd9ee|1|fdb3ab61-bad7-4394-02d3-08dc0976adfb|80e490f6a3_c
+- Cumhuriyet Dönemi Türk Şiiri 2|98fca1a7de|0|8eaaafc9-de0b-4764-02d4-08dc0976adfb|6bd96c4b39_c
+- Cumhuriyet Dönemi Türk Şiiri 3|b99e811ff4|0|0a3bb79c-7fec-4ba5-02d5-08dc0976adfb|863569b954_c
+- Cumhuriyet Dönemi Türk Şiiri 4|7e5f7ae9c2|1|29d12731-f1ee-4eda-02d6-08dc0976adfb|44cacd523c_c
+- Cumhuriyet Dönemi Türk Şiiri 5|d4ffb27500|1|f80a9c16-5496-4eb1-02d7-08dc0976adfb|02f00f3770_c
+- Cumhuriyet Dönemi Türk Şiiri 6|e174168c8f|0|0e5b942f-e508-46f4-02d8-08dc0976adfb|d3ea9da708_c
+- Cumhuriyet Dönemi Türk Şiiri 7|d4e4f7f067|0|f4bf1265-7a64-4cda-02d9-08dc0976adfb|b2851d672b_c
+- Cumhuriyet Dönemi Türk Şiiri 8|be5f049045|0|fd9f7261-0b6e-4b19-02da-08dc0976adfb|e0963b5209_c
+- Cumhuriyet Dönemi Türk Şiiri 9|a92f109823|0|f4edfb40-dd07-4016-02db-08dc0976adfb|e9ebb1cfd1_c
+## Hikâye Türleri ve Hikâyenin Yapı Unsurları
+- Hikâye Türleri ve Hikâyenin Yapı Unsurları|edac19a868|1|b5e603c0-1758-4458-02dc-08dc0976adfb|a00c8f3623_c
+## Tanzimat Dönemi'ne Kadar Halk Hikâyesi ve Mesneviler
+- Tanzimat Dönemi'ne Kadar Halk Hikâyesi ve Mesneviler|a3fd4700c9|1|2d027102-8e35-4556-02dd-08dc0976adfb|6cb7b107e6_c
+## Tanzimat ve Servetifünun Dönemi Türk Hikâyesi
+- Tanzimat ve Servetifünun Dönemi Türk Hikâyesi|e8dd0de101|0|e0c9af37-cd90-40db-02de-08dc0976adfb|a4d1a5900e_c
+## Millî Edebiyat Dönemi Türk Hikâyesi
+- Millî Edebiyat Dönemi Türk Hikâyesi|bfa063ee76|0|9f415656-3d32-4bdd-02df-08dc0976adfb|4a7f34b9ca_c
+## Cumhuriyet Dönemi Türk Hikâyesi
+- Cumhuriyet Dönemi Türk Hikâyesi-1|e3dfb2e7f3|1|b4b5299b-a683-44b9-02e0-08dc0976adfb|3a8f44c8af_c
+- Cumhuriyet Dönemi Türk Hikâyesi-2|66cf6f10b4|0|24cbb22e-dcdb-46df-02e1-08dc0976adfb|4b04c91663_c
+## Roman Türü ve Yapı Unsurları
+- Roman Türü ve Yapı Unsurları|f74192a7ea|1|9f875a1d-252a-4450-02e2-08dc0976adfb|13127e50cd_c
+## Tanzimat Dönemi Türk Romanı
+- Tanzimat Dönemi Türk Romanı|2f9daf1676|1|64413303-5504-49cc-02e3-08dc0976adfb|3d32d92e0f_c
+## Servetifünun Dönemi Türk Romanı
+- Servetifünun Dönemi Türk Romanı|797beeaaf0|1|367ca461-f090-4681-02e4-08dc0976adfb|755708fe8c_c
+## Millî Edebiyat Dönemi Türk Romanı
+- Millî Edebiyat Dönemi Türk Romanı|33f9910d4f|1|d16bc9e3-a533-4524-02e5-08dc0976adfb|95477d733e_c
+## Cumhuriyet Dönemi Türk Romanı
+- Cumhuriyet Dönemi Türk Romanı-1|2012f812b0|1|5a570f7a-54c2-45ec-02e6-08dc0976adfb|2585bf4a94_c
+- Cumhuriyet Dönemi Türk Romanı-2|c8c5e0970f|1|e3b3e7c6-d28e-4f4c-02e7-08dc0976adfb|3b17c8d420_c
+## Dünya Edebiyatında Roman
+- Dünya Edebiyatında Roman|ef7db4fcca|0|7d8a63fc-c1c3-47fd-02e8-08dc0976adfb|f173d5be03_c
+## Tiyatro Türü ve Yapı Unsurları
+- Tiyatro Türü ve Yapı Unsurları|9f0dd2c70a|0|0d383752-92c8-45dd-02e9-08dc0976adfb|c6e873b9fa_c
+## Geleneksel Türk Tiyatrosu
+- Geleneksel Türk Tiyatrosu|e9ecabbc8b|1|cea2942a-ea39-45ea-02ea-08dc0976adfb|cb7ee4a543_c
+## Tanzimat, Servetifünun ve Millî Edebiyat Dönemi Türk Tiyatrosu
+- Tanzimat, Servetifünun ve Millî Edebiyat Dönemi Türk Tiyatrosu|20ad43d767|1|25307a27-9e42-43c6-02eb-08dc0976adfb|1afefc263d_c
+## Cumhuriyet Dönemi Türk Tiyatrosu
+- Cumhuriyet Dönemi Türk Tiyatrosu-1|395be88183|1|808a5f67-019e-43fd-02ec-08dc0976adfb|ea4d43a904_c
+- Cumhuriyet Dönemi Türk Tiyatrosu-2|6ceb72088d|0|07cf175f-2bf4-4a2f-02ed-08dc0976adfb|9c46a89631_c
+## Masal/Fabl
+- Masal/Fabl|dcbccb4d3a|1|e8cda075-5aaa-4004-02ee-08dc0976adfb|5b5c03cb5e_c
+## Destan/Efsane
+- Destan/Efsane|c209d57333|1|b472b8f7-1e99-4201-02f0-08dc0976adfb|5050f3b85f_c
+## Öğretici Metinler
+- Öğretici Metinler 1|fc4bfd16c8|1|4c1d31c3-5219-4e38-02f1-08dc0976adfb|eb0c3b9577_c
+- Öğretici Metinler 2|489dfece09|1|9db08c6b-db8f-4fc8-02f2-08dc0976adfb|0d6815a4e7_c
+## Divan Edebiyatı Nesir Türleri
+- Divan Edebiyatı Nesir Türleri|d60ccf9923|1|81b37843-1f92-4464-02f3-08dc0976adfb|8faf5f1f3d_c
+## Edebî Akımlar
+- Edebî Akımlar|082738b774|1|aff33127-4b6d-4984-02f4-08dc0976adfb|4897b6c2e0_c
