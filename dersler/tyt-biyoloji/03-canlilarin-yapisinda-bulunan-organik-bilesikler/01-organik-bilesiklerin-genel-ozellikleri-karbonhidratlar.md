@@ -142,7 +142,7 @@ E) Riboz ve glikoz
 ## Özet kartı
 
 - Dehidrasyon su verir, hidroliz su harcar; bağ sayısı = su sayısı = $n-1$.
-- Pentozlar nükleik asitte: riboz (RNA, ATP), deoksiriboz (DNA).
+- Pentozlar: riboz (RNA ve ATP yapısında), deoksiriboz (DNA yapısında).
 - Disakkaritler: **Mal**toz = G+G, **Sak**karoz = G+F, **Lak**toz = G+Gal.
 - Depo: nişasta (bitki), glikojen (hayvan, mantar). Yapı: selüloz (bitki), kitin (mantar, eklembacaklı; N içerir).
 - Enerji sırası: karbonhidrat, yağ, protein.

@@ -47,8 +47,8 @@ function ustCubuk() {
   const l = Profil.liste(), s = Profil.secili();
   const h = el('header', { className: 'ust' }, `<div class="ic">
     <a class="logo" href="index.html">YKS Çalışma Sistemi</a>
-    <a href="sayfa.html?f=reference/yks-sinav-yapisi.md">Sınav rehberi</a>
-    <a href="sayfa.html?f=reference/nasil-calisilir.md">Nasıl çalışılır?</a>
+    <nav aria-label="Rehber"><a href="sayfa.html?f=reference/yks-sinav-yapisi.md">Sınav rehberi</a>
+    <a href="sayfa.html?f=reference/nasil-calisilir.md">Nasıl çalışılır?</a></nav>
     <select aria-label="Profil" id="profilSec">${l.map((a, i) => `<option value="${i}" ${i == s ? 'selected' : ''}>${a}</option>`).join('')}
       <option value="ad">Adı değiştir…</option></select></div>`);
   document.body.prepend(h);
@@ -69,6 +69,7 @@ function md(kaynak, satirIci = false) {
   let s = kaynak.replace(/\$\$([\s\S]+?)\$\$/g, (_, t) => sakla(t, true))
                 .replace(/\$(?!\s)([^$\n]+?)(?<!\s)\$/g, (_, t) => sakla(t, false));
   s = satirIci ? marked.parseInline(s) : marked.parse(s);
+  s = s.replace(/<table>/g, '<div class="tablo" tabindex="0"><table>').replace(/<\/table>/g, '</table></div>');
   return s.replace(/\u0000M(\d+)\u0000/g, (_, i) => {
     const p = parcalar[+i];
     try { return katex.renderToString(p.tex, { displayMode: p.blok, throwOnError: false }); } catch { return p.tex; }
@@ -113,15 +114,18 @@ function sorulariKur(kap, sorular, bitince) {
     const s = sorular[+d.dataset.i];
     d.innerHTML = `<div class="no">Soru ${sira + 1}${s.etiket ? ' · ' + s.etiket : ''}</div><div class="kok">${md(s.kok)}</div>
       <div class="secenekler">${s.secenekler.map(o => `<button class="sec" data-h="${o.harf}"><b>${o.harf})</b><span>${md(o.metin, true)}</span></button>`).join('')}</div>
-      <div class="cozum"><p class="ui"><b>Doğru cevap: ${s.cevap}</b></p>${md(s.cozum)}</div>`;
+      <div class="cozum" aria-live="polite"><p class="ui"><b>Doğru cevap: ${s.cevap}</b></p>${md(s.cozum)}</div>`;
     d.querySelectorAll('button.sec').forEach(b => b.onclick = () => {
       if (d.classList.contains('bitti')) return;
       d.classList.add('bitti'); yanit++;
-      d.querySelectorAll('button.sec').forEach(x => { x.disabled = true; if (x.dataset.h === s.cevap) x.classList.add('dogru'); });
-      if (b.dataset.h === s.cevap) dogru++; else b.classList.add('yanlis');
+      const isaret = (x, yazi) => x.insertAdjacentHTML('beforeend', `<span class="durum">${yazi}</span>`);
+      d.querySelectorAll('button.sec').forEach(x => { x.disabled = true; if (x.dataset.h === s.cevap) { x.classList.add('dogru'); isaret(x, 'Doğru cevap'); } });
+      if (b.dataset.h === s.cevap) dogru++; else { b.classList.add('yanlis'); isaret(b, 'Senin cevabın'); }
       if (yanit === sorular.length && bitince) bitince(dogru, sorular.length);
     });
   });
 }
+/* Veri yüklenemediğinde gösterilen ortak hata kutusu. */
+const yuklemeHatasi = (kap) => kap.innerHTML = '<p class="bilgi">İçerik yüklenemedi. İnternet bağlantını kontrol edip <a href="">sayfayı yenile</a>.</p>';
 async function metinAl(yol) { const r = await fetch(yol); if (!r.ok) throw new Error(yol + ' bulunamadı'); return r.text(); }
 const karistir = (d) => { for (let i = d.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [d[i], d[j]] = [d[j], d[i]]; } return d; };

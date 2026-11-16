@@ -142,7 +142,7 @@ E) Dışarıdan hazır olarak alınmaları
 ## Özet kartı
 
 - İnorganik: üretilemez, sindirilmez, enerji vermez, düzenler.
-- Suyun her özelliği hidrojen bağına dayanır.
+- Kohezyon, yüzey gerilimi, yüksek özgül ısı ve yüksek buharlaşma ısısı hidrojen bağlarına dayanır; iyi çözücü olması suyun polar yapısından gelir.
 - pH 7 nötr; kan 7,4.
 - Asit + baz → tuz + su.
 - Mineral eşleşmeleri: Fe-hemoglobin, Mg-klorofil, I-tiroksin, Zn-insülin, Ca-pıhtılaşma.

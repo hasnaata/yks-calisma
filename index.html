@@ -1,9 +1,9 @@
 <!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="assets/stil.css">
+<link rel="stylesheet" href="assets/stil.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script src="assets/uygulama.js"></script>
+<script src="assets/uygulama.js?v=2"></script>
 <title>YKS Çalışma Sistemi</title></head><body>
 <main>
 <h1>YKS Çalışma Sistemi</h1>
@@ -17,13 +17,15 @@ ustCubuk();
 (async () => {
   const gun = Math.ceil((SINAV_TARIHI - new Date()) / 864e5);
   $('#sayac').innerHTML = `<span><b>${gun}</b> gün kaldı</span><span class="soluk">TYT 19 Haziran 2027 · AYT 20 Haziran 2027</span>`;
-  const m = await mufredat(), il = Ilerleme.hepsi(), t = bugun();
+  let m; try { m = await mufredat(); } catch { return yuklemeHatasi($('#dersler')); }
+  const il = Ilerleme.hepsi(), t = bugun();
   const tum = m.flatMap(altKonular);
   const vadesi = tum.filter(a => il[a.yol]?.sonraki && il[a.yol].sonraki <= t);
   if (vadesi.length) $('#tekrar').innerHTML = `<h2>Bugün tekrar et (${vadesi.length})</h2>
     <p class="soluk kucuk">Unutmaya başladığın anda hatırlamak, bilgiyi kalıcı yapar. Önce bunları bitir.</p><div class="izgara">` +
     vadesi.slice(0, 12).map(a => `<a class="kart" href="konu.html?y=${a.yol}&t=alistirma"><div class="ad">${a.ad}</div>
       <div class="alt">${a.ders.sinav} ${a.ders.ad} · son puan ${il[a.yol].puan}/${il[a.yol].toplam}</div></a>`).join('') + '</div>';
+  else if (!Object.keys(il).length) $('#tekrar').innerHTML = '<p class="bilgi">Başlamak için aşağıdan bir ders seç. Bitirdiğin alıştırmalar tekrar zamanı gelince burada görünür.</p>';
   let h = '';
   for (const sinav of ['TYT', 'AYT']) {
     h += `<h2>${sinav}${sinav == 'AYT' ? ' · Eşit Ağırlık' : ''}</h2><div class="izgara">`;

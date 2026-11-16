@@ -35,7 +35,7 @@ E) Koful
 **Çözüm:** Protein sentezi tüm canlılarda ribozomda gerçekleşir. Ribozom prokaryotlarda da ökaryotlarda da bulunur.
 
 ### Soru 3 · Kolay
-Aşağıdaki elementlerden hangisi proteinlerin yapısında bulunur ancak karbonhidratların ve nötral yağların yapısında bulunmaz?
+Aşağıdaki elementlerden hangisi proteinlerin yapısında bulunur ancak glikozun ve nötral yağların yapısında bulunmaz?
 
 A) Karbon
 B) Hidrojen
@@ -44,7 +44,7 @@ D) Oksijen
 E) Kalsiyum
 
 **Cevap:** C
-**Çözüm:** Karbonhidrat ve nötral yağ C, H, O içerir. Proteinlerde bunlara ek olarak azot bulunur (amino grubu).
+**Çözüm:** Glikoz ve nötral yağ yalnızca C, H, O içerir. Proteinlerde bunlara ek olarak azot bulunur (amino grubu).
 
 ## Orta
 

@@ -48,7 +48,7 @@ $$3\ \text{yağ asidi} + 1\ \text{gliserol} \rightarrow 1\ \text{trigliserit} + 
 
 - Yapı: gliserol + **2 yağ asidi** + **1 fosfat grubu**.
 - **Hücre zarının** temel yapısını oluşturur (çift katlı tabaka).
-- Baş kısmı **hidrofilik** (suyu sever, dışa bakar), kuyruk kısmı **hidrofobik** (suyu sevmez, içe bakar).
+- Baş kısmı **hidrofilik** (suyu sever): zarın iki yüzeyinde, hem dış ortama hem sitoplazmaya bakar. Kuyruk kısmı **hidrofobik** (suyu sevmez): zarın orta kısmında, birbirine dönük durur.
 
 ## Steroitler
 
@@ -110,7 +110,7 @@ D) Trans yağ
 E) Omega-3
 
 **Cevap:** B
-**Çözüm:** Hücre zarı çift katlı fosfolipit tabakasından oluşur; hidrofilik başlar dışa, hidrofobik kuyruklar içe bakar.
+**Çözüm:** Hücre zarı çift katlı fosfolipit tabakasından oluşur; hidrofilik başlar zarın iki yüzeyine, hidrofobik kuyruklar zarın orta kısmına bakar.
 
 ### Soru 3
 Zeytinyağının oda sıcaklığında sıvı olmasının nedeni aşağıdakilerden hangisidir?

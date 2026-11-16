@@ -1,9 +1,9 @@
 # İçerik Kataloğu (index.md)
 
 Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alıştırma hazır, ⬜ = sırada.
-**Toplam: 5/740 ders hazır.** Son güncelleme: 2026-11-16
+**Toplam: 50/740 ders hazır.** Son güncelleme: 2026-11-16
 
-## TYT Biyoloji (5/50)
+## TYT Biyoloji (50/50)
 
 - **1. Canlıların Ortak Özellikleri**
   - ✅ [Canlıların Ortak Özellikleri](dersler/tyt-biyoloji/01-canlilarin-ortak-ozellikleri/01-canlilarin-ortak-ozellikleri.md) · [alıştırma](dersler/tyt-biyoloji/01-canlilarin-ortak-ozellikleri/01-canlilarin-ortak-ozellikleri.alistirma.md)
@@ -13,65 +13,65 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ✅ [Organik Bileşiklerin Genel Özellikleri, Karbonhidratlar](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/01-organik-bilesiklerin-genel-ozellikleri-karbonhidratlar.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/01-organik-bilesiklerin-genel-ozellikleri-karbonhidratlar.alistirma.md)
   - ✅ [Lipitler](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/02-lipitler.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/02-lipitler.alistirma.md)
   - ✅ [Proteinler](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/03-proteinler.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/03-proteinler.alistirma.md)
-  - ⬜ Enzimler — `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/04-enzimler.md`
-  - ⬜ Vitaminler ve Hormonlar — `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/05-vitaminler-ve-hormonlar.md`
-  - ⬜ Nükleik Asitler — `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/06-nukleik-asitler.md`
-  - ⬜ ATP (Adenozin trifosfat) — `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/07-atp-adenozin-trifosfat.md`
-  - ⬜ Sağlıklı Beslenme — `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/08-saglikli-beslenme.md`
+  - ✅ [Enzimler](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/04-enzimler.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/04-enzimler.alistirma.md)
+  - ✅ [Vitaminler ve Hormonlar](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/05-vitaminler-ve-hormonlar.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/05-vitaminler-ve-hormonlar.alistirma.md)
+  - ✅ [Nükleik Asitler](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/06-nukleik-asitler.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/06-nukleik-asitler.alistirma.md)
+  - ✅ [ATP (Adenozin trifosfat)](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/07-atp-adenozin-trifosfat.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/07-atp-adenozin-trifosfat.alistirma.md)
+  - ✅ [Sağlıklı Beslenme](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/08-saglikli-beslenme.md) · [alıştırma](dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/08-saglikli-beslenme.alistirma.md)
 - **4. Hücresel Yapılar ve Görevleri**
-  - ⬜ Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı — `dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/01-hucre-teorisi-prokaryot-ve-okaryot-hucre-yapisi.md`
-  - ⬜ Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek — `dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/02-hucre-zari-hucre-duvari-sitoplazma-cekirdek.md`
-  - ⬜ Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful — `dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/03-ribozom-endoplazmik-retikulum-golgi-aygiti-lizozom-koful.md`
-  - ⬜ Peroksizom, Sentrozom, Hücre İskeleti — `dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/04-peroksizom-sentrozom-hucre-iskeleti.md`
-  - ⬜ Mitokondri ve Plastitler — `dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/05-mitokondri-ve-plastitler.md`
+  - ✅ [Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/01-hucre-teorisi-prokaryot-ve-okaryot-hucre-yapisi.md) · [alıştırma](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/01-hucre-teorisi-prokaryot-ve-okaryot-hucre-yapisi.alistirma.md)
+  - ✅ [Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/02-hucre-zari-hucre-duvari-sitoplazma-cekirdek.md) · [alıştırma](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/02-hucre-zari-hucre-duvari-sitoplazma-cekirdek.alistirma.md)
+  - ✅ [Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/03-ribozom-endoplazmik-retikulum-golgi-aygiti-lizozom-koful.md) · [alıştırma](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/03-ribozom-endoplazmik-retikulum-golgi-aygiti-lizozom-koful.alistirma.md)
+  - ✅ [Peroksizom, Sentrozom, Hücre İskeleti](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/04-peroksizom-sentrozom-hucre-iskeleti.md) · [alıştırma](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/04-peroksizom-sentrozom-hucre-iskeleti.alistirma.md)
+  - ✅ [Mitokondri ve Plastitler](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/05-mitokondri-ve-plastitler.md) · [alıştırma](dersler/tyt-biyoloji/04-hucresel-yapilar-ve-gorevleri/05-mitokondri-ve-plastitler.alistirma.md)
 - **5. Hücre Zarından Madde Geçişleri**
-  - ⬜ Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon — `dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/01-hucre-zarindan-madde-gecisleri-basit-difuzyon-kolaylastirilm.md`
-  - ⬜ Osmoz — `dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/02-osmoz.md`
-  - ⬜ Aktif Taşıma — `dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/03-aktif-tasima.md`
-  - ⬜ Endositoz, Ekzositoz — `dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/04-endositoz-ekzositoz.md`
-  - ⬜ Bilimsel Yöntem ve Basamakları — `dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/05-bilimsel-yontem-ve-basamaklari.md`
+  - ✅ [Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/01-hucre-zarindan-madde-gecisleri-basit-difuzyon-kolaylastirilm.md) · [alıştırma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/01-hucre-zarindan-madde-gecisleri-basit-difuzyon-kolaylastirilm.alistirma.md)
+  - ✅ [Osmoz](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/02-osmoz.md) · [alıştırma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/02-osmoz.alistirma.md)
+  - ✅ [Aktif Taşıma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/03-aktif-tasima.md) · [alıştırma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/03-aktif-tasima.alistirma.md)
+  - ✅ [Endositoz, Ekzositoz](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/04-endositoz-ekzositoz.md) · [alıştırma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/04-endositoz-ekzositoz.alistirma.md)
+  - ✅ [Bilimsel Yöntem ve Basamakları](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/05-bilimsel-yontem-ve-basamaklari.md) · [alıştırma](dersler/tyt-biyoloji/05-hucre-zarindan-madde-gecisleri/05-bilimsel-yontem-ve-basamaklari.alistirma.md)
 - **6. Canlıların Sınıflandırılması**
-  - ⬜ Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler — `dersler/tyt-biyoloji/06-canlilarin-siniflandirilmasi/01-canlilarin-siniflandirilmasinin-amaci-ve-onemi-siniflandiril.md`
+  - ✅ [Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler](dersler/tyt-biyoloji/06-canlilarin-siniflandirilmasi/01-canlilarin-siniflandirilmasinin-amaci-ve-onemi-siniflandiril.md) · [alıştırma](dersler/tyt-biyoloji/06-canlilarin-siniflandirilmasi/01-canlilarin-siniflandirilmasinin-amaci-ve-onemi-siniflandiril.alistirma.md)
 - **7. Canlı Âlemleri**
-  - ⬜ Bakteriler Âlemi, Arkeler Âlemi — `dersler/tyt-biyoloji/07-canli-alemleri/01-bakteriler-alemi-arkeler-alemi.md`
-  - ⬜ Protista Âlemi — `dersler/tyt-biyoloji/07-canli-alemleri/02-protista-alemi.md`
-  - ⬜ Bitkiler Âlemi — `dersler/tyt-biyoloji/07-canli-alemleri/03-bitkiler-alemi.md`
-  - ⬜ Mantarlar Âlemi — `dersler/tyt-biyoloji/07-canli-alemleri/04-mantarlar-alemi.md`
-  - ⬜ Hayvanlar Âlemi-Omurgasız Hayvanlar — `dersler/tyt-biyoloji/07-canli-alemleri/05-hayvanlar-alemi-omurgasiz-hayvanlar.md`
-  - ⬜ Hayvanlar Âlemi-Omurgalı Hayvanlar — `dersler/tyt-biyoloji/07-canli-alemleri/06-hayvanlar-alemi-omurgali-hayvanlar.md`
-  - ⬜ Virüsler — `dersler/tyt-biyoloji/07-canli-alemleri/07-virusler.md`
+  - ✅ [Bakteriler Âlemi, Arkeler Âlemi](dersler/tyt-biyoloji/07-canli-alemleri/01-bakteriler-alemi-arkeler-alemi.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/01-bakteriler-alemi-arkeler-alemi.alistirma.md)
+  - ✅ [Protista Âlemi](dersler/tyt-biyoloji/07-canli-alemleri/02-protista-alemi.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/02-protista-alemi.alistirma.md)
+  - ✅ [Bitkiler Âlemi](dersler/tyt-biyoloji/07-canli-alemleri/03-bitkiler-alemi.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/03-bitkiler-alemi.alistirma.md)
+  - ✅ [Mantarlar Âlemi](dersler/tyt-biyoloji/07-canli-alemleri/04-mantarlar-alemi.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/04-mantarlar-alemi.alistirma.md)
+  - ✅ [Hayvanlar Âlemi-Omurgasız Hayvanlar](dersler/tyt-biyoloji/07-canli-alemleri/05-hayvanlar-alemi-omurgasiz-hayvanlar.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/05-hayvanlar-alemi-omurgasiz-hayvanlar.alistirma.md)
+  - ✅ [Hayvanlar Âlemi-Omurgalı Hayvanlar](dersler/tyt-biyoloji/07-canli-alemleri/06-hayvanlar-alemi-omurgali-hayvanlar.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/06-hayvanlar-alemi-omurgali-hayvanlar.alistirma.md)
+  - ✅ [Virüsler](dersler/tyt-biyoloji/07-canli-alemleri/07-virusler.md) · [alıştırma](dersler/tyt-biyoloji/07-canli-alemleri/07-virusler.alistirma.md)
 - **8. Hücre Döngüsü ve Mitoz**
-  - ⬜ Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz — `dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/01-hucre-bolunmesinin-gerekliligi-hucre-dongusu-ve-interfaz.md`
-  - ⬜ Mitozun Genel Özellikleri ve Evreleri — `dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/02-mitozun-genel-ozellikleri-ve-evreleri.md`
-  - ⬜ Hücre Döngüsünün Kontrolü — `dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/03-hucre-dongusunun-kontrolu.md`
+  - ✅ [Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/01-hucre-bolunmesinin-gerekliligi-hucre-dongusu-ve-interfaz.md) · [alıştırma](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/01-hucre-bolunmesinin-gerekliligi-hucre-dongusu-ve-interfaz.alistirma.md)
+  - ✅ [Mitozun Genel Özellikleri ve Evreleri](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/02-mitozun-genel-ozellikleri-ve-evreleri.md) · [alıştırma](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/02-mitozun-genel-ozellikleri-ve-evreleri.alistirma.md)
+  - ✅ [Hücre Döngüsünün Kontrolü](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/03-hucre-dongusunun-kontrolu.md) · [alıştırma](dersler/tyt-biyoloji/08-hucre-dongusu-ve-mitoz/03-hucre-dongusunun-kontrolu.alistirma.md)
 - **9. Eşeysiz Üreme**
-  - ⬜ Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri — `dersler/tyt-biyoloji/09-eseysiz-ureme/01-eseysiz-uremenin-genel-ozellikleri-ve-cesitleri.md`
+  - ✅ [Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri](dersler/tyt-biyoloji/09-eseysiz-ureme/01-eseysiz-uremenin-genel-ozellikleri-ve-cesitleri.md) · [alıştırma](dersler/tyt-biyoloji/09-eseysiz-ureme/01-eseysiz-uremenin-genel-ozellikleri-ve-cesitleri.alistirma.md)
 - **10. Mayoz**
-  - ⬜ Mayozun Genel Özellikleri ve Evreleri — `dersler/tyt-biyoloji/10-mayoz/01-mayozun-genel-ozellikleri-ve-evreleri.md`
+  - ✅ [Mayozun Genel Özellikleri ve Evreleri](dersler/tyt-biyoloji/10-mayoz/01-mayozun-genel-ozellikleri-ve-evreleri.md) · [alıştırma](dersler/tyt-biyoloji/10-mayoz/01-mayozun-genel-ozellikleri-ve-evreleri.alistirma.md)
 - **11. Eşeyli Üreme**
-  - ⬜ Eşeyli Üremenin Genel Özellikleri ve Örnekleri — `dersler/tyt-biyoloji/11-eseyli-ureme/01-eseyli-uremenin-genel-ozellikleri-ve-ornekleri.md`
+  - ✅ [Eşeyli Üremenin Genel Özellikleri ve Örnekleri](dersler/tyt-biyoloji/11-eseyli-ureme/01-eseyli-uremenin-genel-ozellikleri-ve-ornekleri.md) · [alıştırma](dersler/tyt-biyoloji/11-eseyli-ureme/01-eseyli-uremenin-genel-ozellikleri-ve-ornekleri.alistirma.md)
 - **12. Kalıtım**
-  - ⬜ Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması — `dersler/tyt-biyoloji/12-kalitim/01-kalitimla-ilgili-kavramlar-olasilik-ilkeleri-ve-gamet-cesitl.md`
-  - ⬜ Mendel İlkeleri ve Çaprazlamalar — `dersler/tyt-biyoloji/12-kalitim/02-mendel-ilkeleri-ve-caprazlamalar.md`
-  - ⬜ Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı — `dersler/tyt-biyoloji/12-kalitim/03-es-baskinlik-cok-alellilik-kan-gruplarinin-kalitimi.md`
-  - ⬜ Eşeye Bağlı Kalıtım, Akraba Evliliği — `dersler/tyt-biyoloji/12-kalitim/04-eseye-bagli-kalitim-akraba-evliligi.md`
-  - ⬜ Soyağacı Analizi ve Örnekleri — `dersler/tyt-biyoloji/12-kalitim/05-soyagaci-analizi-ve-ornekleri.md`
+  - ✅ [Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması](dersler/tyt-biyoloji/12-kalitim/01-kalitimla-ilgili-kavramlar-olasilik-ilkeleri-ve-gamet-cesitl.md) · [alıştırma](dersler/tyt-biyoloji/12-kalitim/01-kalitimla-ilgili-kavramlar-olasilik-ilkeleri-ve-gamet-cesitl.alistirma.md)
+  - ✅ [Mendel İlkeleri ve Çaprazlamalar](dersler/tyt-biyoloji/12-kalitim/02-mendel-ilkeleri-ve-caprazlamalar.md) · [alıştırma](dersler/tyt-biyoloji/12-kalitim/02-mendel-ilkeleri-ve-caprazlamalar.alistirma.md)
+  - ✅ [Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı](dersler/tyt-biyoloji/12-kalitim/03-es-baskinlik-cok-alellilik-kan-gruplarinin-kalitimi.md) · [alıştırma](dersler/tyt-biyoloji/12-kalitim/03-es-baskinlik-cok-alellilik-kan-gruplarinin-kalitimi.alistirma.md)
+  - ✅ [Eşeye Bağlı Kalıtım, Akraba Evliliği](dersler/tyt-biyoloji/12-kalitim/04-eseye-bagli-kalitim-akraba-evliligi.md) · [alıştırma](dersler/tyt-biyoloji/12-kalitim/04-eseye-bagli-kalitim-akraba-evliligi.alistirma.md)
+  - ✅ [Soyağacı Analizi ve Örnekleri](dersler/tyt-biyoloji/12-kalitim/05-soyagaci-analizi-ve-ornekleri.md) · [alıştırma](dersler/tyt-biyoloji/12-kalitim/05-soyagaci-analizi-ve-ornekleri.alistirma.md)
 - **13. Genetik Varyasyonlar**
-  - ⬜ Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik — `dersler/tyt-biyoloji/13-genetik-varyasyonlar/01-genetik-varyasyonlarin-kaynaklari-ve-biyolojik-cesitlilik.md`
+  - ✅ [Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik](dersler/tyt-biyoloji/13-genetik-varyasyonlar/01-genetik-varyasyonlarin-kaynaklari-ve-biyolojik-cesitlilik.md) · [alıştırma](dersler/tyt-biyoloji/13-genetik-varyasyonlar/01-genetik-varyasyonlarin-kaynaklari-ve-biyolojik-cesitlilik.alistirma.md)
 - **14. Ekosistem Ekolojisi**
-  - ⬜ Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri — `dersler/tyt-biyoloji/14-ekosistem-ekolojisi/01-ekolojik-kavramlar-ekosistemin-canli-ve-cansiz-bilesenleri.md`
-  - ⬜ Canlılardaki Beslenme Şekilleri — `dersler/tyt-biyoloji/14-ekosistem-ekolojisi/02-canlilardaki-beslenme-sekilleri.md`
-  - ⬜ Ekosistemde Madde ve Enerji Akışı — `dersler/tyt-biyoloji/14-ekosistem-ekolojisi/03-ekosistemde-madde-ve-enerji-akisi.md`
-  - ⬜ Madde Döngüleri — `dersler/tyt-biyoloji/14-ekosistem-ekolojisi/04-madde-donguleri.md`
+  - ✅ [Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/01-ekolojik-kavramlar-ekosistemin-canli-ve-cansiz-bilesenleri.md) · [alıştırma](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/01-ekolojik-kavramlar-ekosistemin-canli-ve-cansiz-bilesenleri.alistirma.md)
+  - ✅ [Canlılardaki Beslenme Şekilleri](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/02-canlilardaki-beslenme-sekilleri.md) · [alıştırma](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/02-canlilardaki-beslenme-sekilleri.alistirma.md)
+  - ✅ [Ekosistemde Madde ve Enerji Akışı](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/03-ekosistemde-madde-ve-enerji-akisi.md) · [alıştırma](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/03-ekosistemde-madde-ve-enerji-akisi.alistirma.md)
+  - ✅ [Madde Döngüleri](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/04-madde-donguleri.md) · [alıştırma](dersler/tyt-biyoloji/14-ekosistem-ekolojisi/04-madde-donguleri.alistirma.md)
 - **15. Güncel Çevre Sorunları**
-  - ⬜ Güncel Çevre Sorunlarının Sebepleri , Hava Kirliliği, Asit Yağmurları, Küresel İklim Değişikliği — `dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/01-guncel-cevre-sorunlarinin-sebepleri-hava-kirliligi-asit-yagm.md`
-  - ⬜ Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği — `dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/02-su-kirliligi-toprak-kirliligi-radyoaktif-kirlilik-ses-kirlil.md`
-  - ⬜ Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyolojik Çeşitliliğin Azalması — `dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/03-erozyon-dogal-hayat-alanlarinin-tahribi-ve-orman-yanginlari.md`
-  - ⬜ Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm Önerileri — `dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/04-cevre-sorunlarinin-ortaya-cikmasinda-bireylerin-rolu-ve-cozu.md`
+  - ✅ [Güncel Çevre Sorunlarının Sebepleri , Hava Kirliliği, Asit Yağmurları, Küresel İklim Değişikliği](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/01-guncel-cevre-sorunlarinin-sebepleri-hava-kirliligi-asit-yagm.md) · [alıştırma](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/01-guncel-cevre-sorunlarinin-sebepleri-hava-kirliligi-asit-yagm.alistirma.md)
+  - ✅ [Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/02-su-kirliligi-toprak-kirliligi-radyoaktif-kirlilik-ses-kirlil.md) · [alıştırma](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/02-su-kirliligi-toprak-kirliligi-radyoaktif-kirlilik-ses-kirlil.alistirma.md)
+  - ✅ [Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyolojik Çeşitliliğin Azalması](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/03-erozyon-dogal-hayat-alanlarinin-tahribi-ve-orman-yanginlari.md) · [alıştırma](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/03-erozyon-dogal-hayat-alanlarinin-tahribi-ve-orman-yanginlari.alistirma.md)
+  - ✅ [Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm Önerileri](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/04-cevre-sorunlarinin-ortaya-cikmasinda-bireylerin-rolu-ve-cozu.md) · [alıştırma](dersler/tyt-biyoloji/15-guncel-cevre-sorunlari/04-cevre-sorunlarinin-ortaya-cikmasinda-bireylerin-rolu-ve-cozu.alistirma.md)
 - **16. Doğal Kaynakların Sürdürülebilirliği**
-  - ⬜ Doğal Kaynakların Sürdürülebilirliğinin Önemi — `dersler/tyt-biyoloji/16-dogal-kaynaklarin-surdurulebilirligi/01-dogal-kaynaklarin-surdurulebilirliginin-onemi.md`
+  - ✅ [Doğal Kaynakların Sürdürülebilirliğinin Önemi](dersler/tyt-biyoloji/16-dogal-kaynaklarin-surdurulebilirligi/01-dogal-kaynaklarin-surdurulebilirliginin-onemi.md) · [alıştırma](dersler/tyt-biyoloji/16-dogal-kaynaklarin-surdurulebilirligi/01-dogal-kaynaklarin-surdurulebilirliginin-onemi.alistirma.md)
 - **17. Biyolojik Çeşitliliğin Korunması**
-  - ⬜ Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması — `dersler/tyt-biyoloji/17-biyolojik-cesitliligin-korunmasi/01-biyolojik-cesitliligin-yasam-icin-onemi-ve-korunmasi.md`
+  - ✅ [Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması](dersler/tyt-biyoloji/17-biyolojik-cesitliligin-korunmasi/01-biyolojik-cesitliligin-yasam-icin-onemi-ve-korunmasi.md) · [alıştırma](dersler/tyt-biyoloji/17-biyolojik-cesitliligin-korunmasi/01-biyolojik-cesitliligin-yasam-icin-onemi-ve-korunmasi.alistirma.md)
 
 ## TYT Coğrafya (0/38)
 

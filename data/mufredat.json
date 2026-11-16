@@ -79,8 +79,8 @@
       "pdf": "bdfd85462b",
       "mebi": "ff2022a0-7fdc-4281-8455-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -89,8 +89,8 @@
       "pdf": "3b535ed85a",
       "mebi": "a0c4ece1-20b9-418b-8454-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -99,8 +99,8 @@
       "pdf": "5715adcb61",
       "mebi": "52ca2d1b-7f2b-447a-8456-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -109,8 +109,8 @@
       "pdf": "663ccdb712",
       "mebi": "1a8c0b58-47bc-4db4-8457-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -119,8 +119,8 @@
       "pdf": "8d42a40d5b",
       "mebi": "fe776773-3b24-43ca-c9a3-08dc0b08ee6c",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "03-canlilarin-yapisinda-bulunan-organik-bilesikler"
@@ -136,8 +136,8 @@
       "pdf": "2178f5e829",
       "mebi": "5203e425-edc4-4e8f-8459-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -146,8 +146,8 @@
       "pdf": "d08b25252e",
       "mebi": "05b51175-6634-4653-845a-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -156,8 +156,8 @@
       "pdf": "a7af107264",
       "mebi": "0309b2f9-7623-4c2e-845b-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -166,8 +166,8 @@
       "pdf": "3bab89a462",
       "mebi": "444cbfbe-14d8-47d4-845c-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -176,8 +176,8 @@
       "pdf": "7f034d8cab",
       "mebi": "bb62aa5d-4684-45a3-845d-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "04-hucresel-yapilar-ve-gorevleri"
@@ -193,8 +193,8 @@
       "pdf": "74434844c5",
       "mebi": "ffd8dd99-74e2-4333-845e-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -203,8 +203,8 @@
       "pdf": "58cafc184e",
       "mebi": "4e51ec75-88a4-48ec-845f-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -213,8 +213,8 @@
       "pdf": "a57e9854ec",
       "mebi": "20be0f83-250f-4181-8460-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -223,8 +223,8 @@
       "pdf": "1911234502",
       "mebi": "7f920527-2bba-458a-8461-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -233,8 +233,8 @@
       "pdf": "4a4b47ef3e",
       "mebi": "d4006f9b-8dfd-4f64-c9a4-08dc0b08ee6c",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "05-hucre-zarindan-madde-gecisleri"
@@ -250,8 +250,8 @@
       "pdf": "07fce13a1e",
       "mebi": "8511e678-b0bb-4c66-8463-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "06-canlilarin-siniflandirilmasi"
@@ -267,8 +267,8 @@
       "pdf": "05be472e60",
       "mebi": "8c56aa46-2f71-46ed-8464-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -277,8 +277,8 @@
       "pdf": "e2f5e6b7c8",
       "mebi": "d1c6ae35-ff7b-4e1c-8465-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -287,8 +287,8 @@
       "pdf": "8a50dcc247",
       "mebi": "224f53c3-f67d-4c4a-8466-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -297,8 +297,8 @@
       "pdf": "1508675dc0",
       "mebi": "b4e9b572-d83b-4837-8467-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -307,8 +307,8 @@
       "pdf": "51885b5f36",
       "mebi": "6aa68c98-c717-4764-8468-08dc0895c7e9",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -317,8 +317,8 @@
       "pdf": "4d5b059bd6",
       "mebi": "86c8f02c-6fd0-4554-8469-08dc0895c7e9",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -327,8 +327,8 @@
       "pdf": "8abaf092e7",
       "mebi": "2fff74d8-ed3f-4217-3eb1-08dc0b072932",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "07-canli-alemleri"
@@ -344,8 +344,8 @@
       "pdf": "f3a2d630f0",
       "mebi": "e69715a2-5215-4db0-3da2-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -354,8 +354,8 @@
       "pdf": "d932e2b90f",
       "mebi": "d9ace9f8-5343-4071-3da3-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -364,8 +364,8 @@
       "pdf": "548dd015dd",
       "mebi": "5acb3589-5198-4b28-3da4-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "08-hucre-dongusu-ve-mitoz"
@@ -381,8 +381,8 @@
       "pdf": "f07d91443e",
       "mebi": "7e05dde3-cf25-44e9-3da5-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "09-eseysiz-ureme"
@@ -398,8 +398,8 @@
       "pdf": "b882896bf2",
       "mebi": "4336dbd2-d12f-43a3-3da6-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "10-mayoz"
@@ -415,8 +415,8 @@
       "pdf": "225a221a17",
       "mebi": "8c3e8e67-ab52-4989-3da7-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "11-eseyli-ureme"
@@ -432,8 +432,8 @@
       "pdf": "a8cdc267b5",
       "mebi": "7931b9ed-b680-4342-3da8-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -442,8 +442,8 @@
       "pdf": "3b0d17daba",
       "mebi": "f8b06816-daa9-49ad-3da9-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -452,8 +452,8 @@
       "pdf": "2c32ff5fe5",
       "mebi": "0f505feb-acc8-404f-3daa-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -462,8 +462,8 @@
       "pdf": "ec1023e80d",
       "mebi": "18a75455-6e82-4667-3dab-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -472,8 +472,8 @@
       "pdf": "3c8b563fa0",
       "mebi": "54388976-98d6-43b0-3dac-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "12-kalitim"
@@ -489,8 +489,8 @@
       "pdf": "ac2592db80",
       "mebi": "217077d1-fe46-42ad-3dad-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "13-genetik-varyasyonlar"
@@ -506,8 +506,8 @@
       "pdf": "40e433c64c",
       "mebi": "4cacf182-b1f3-4193-3dae-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -516,8 +516,8 @@
       "pdf": "f913f3d80b",
       "mebi": "10faf796-d244-4739-3daf-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -526,8 +526,8 @@
       "pdf": "18e48d60ea",
       "mebi": "e462243f-0a37-41ab-3db0-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -536,8 +536,8 @@
       "pdf": "1ccd8d74ee",
       "mebi": "103bb536-b9e7-4587-3db1-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "14-ekosistem-ekolojisi"
@@ -553,8 +553,8 @@
       "pdf": "345733ab10",
       "mebi": "12717265-6e6c-4ee4-3db2-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -563,8 +563,8 @@
       "pdf": "663bba95e6",
       "mebi": "63f950fa-c2ed-4ca8-3db3-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -573,8 +573,8 @@
       "pdf": "d33548b0fb",
       "mebi": "5cfa8dcb-28e1-44d9-3db4-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -583,8 +583,8 @@
       "pdf": "281270c28f",
       "mebi": "f935358e-71f6-4f66-3db5-08dc0aa10b23",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "15-guncel-cevre-sorunlari"
@@ -600,8 +600,8 @@
       "pdf": "264d24520e",
       "mebi": "0f725a85-ee3c-4c86-3db6-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "16-dogal-kaynaklarin-surdurulebilirligi"
@@ -617,8 +617,8 @@
       "pdf": "53296ab219",
       "mebi": "118bb1a5-1be6-48e5-3db7-08dc0aa10b23",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "17-biyolojik-cesitliligin-korunmasi"

@@ -1,14 +1,15 @@
 <!doctype html><html lang="tr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="assets/stil.css">
+<link rel="stylesheet" href="assets/stil.css?v=2">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
-<script src="assets/uygulama.js"></script>
+<script src="assets/uygulama.js?v=2"></script>
 <title>Konu</title></head><body>
 <main class="dar"><div id="ust"></div><article id="ic">Yükleniyor…</article><div id="alt"></div></main>
 <script>
 ustCubuk();
 (async () => {
+  try { await mufredat(); } catch { return yuklemeHatasi($('#ic')); }
   const q = new URLSearchParams(location.search), m = await mufredat();
   const ic = $('#ic');
   /* Karışık tekrar: tamamlanan derslerin alıştırmalarından rastgele 10 soru (konular arası geçiş pratiği). */
@@ -17,7 +18,7 @@ ustCubuk();
     const bitmis = altKonular(d).filter(a => hazir(a) && il[a.yol]?.son);
     document.title = 'Karışık tekrar · ' + d.ad;
     $('#ust').innerHTML = `<p class="kucuk ui"><a href="ders.html?d=${d.id}">← ${d.sinav} ${d.ad}</a></p><h1>Karışık tekrar</h1>`;
-    if (!bitmis.length) { ic.innerHTML = '<p>Önce bu dersten en az bir alıştırmayı bitir; karışık test tamamladığın konulardan oluşur.</p>'; return; }
+    if (!bitmis.length) { ic.innerHTML = '<p class="bilgi">Önce bu dersten en az bir alıştırmayı bitir; karışık test tamamladığın konulardan oluşur.</p>'; return; }
     let havuz = [];
     for (const a of karistir(bitmis).slice(0, 8)) {
       const s = sorulariAyir(onMadde(await metinAl(a.yol + '.alistirma.md')).govde).sorular;
@@ -35,8 +36,10 @@ ustCubuk();
   $('#ust').innerHTML = `<p class="kucuk ui"><a href="ders.html?d=${a.ders.id}">← ${a.ders.sinav} ${a.ders.ad}</a> · ${a.konu}</p>
     <div class="sekmeler"><a class="${tur == 'ders' ? 'secili' : ''}" href="konu.html?y=${yol}">1 · Ders</a>
     <a class="${tur == 'alistirma' ? 'secili' : ''}" href="konu.html?y=${yol}&t=alistirma">2 · Alıştırma</a>
-    <a href="https://ogm-large-cdn.eba.gov.tr/mebi/pdf/${a.pdf}.pdf" target="_blank" rel="noopener">MEBİ konu özeti ↗</a>
-    <a href="https://mebi.eba.gov.tr/student/section/subject-details/${a.mebi}" target="_blank" rel="noopener">MEBİ'de çıkmış sorular ↗</a></div>`;
+</div>
+    <p class="kaynak"><span>Resmî kaynak:</span>
+    <a class="dis" href="https://ogm-large-cdn.eba.gov.tr/mebi/pdf/${a.pdf}.pdf" target="_blank" rel="noopener">MEBİ konu özeti</a>
+    <a class="dis" href="https://mebi.eba.gov.tr/student/section/subject-details/${a.mebi}" target="_blank" rel="noopener">MEBİ'de çıkmış sorular</a></p>`;
   try {
     const { govde } = onMadde(await metinAl(yol + (tur == 'alistirma' ? '.alistirma.md' : '.md')));
     const { govde: g2, sorular } = sorulariAyir(govde);
@@ -48,7 +51,7 @@ ustCubuk();
         ${dg / tp >= .7 ? 'Güzel.' : 'Yanlışlarının çözümünü oku, dersi bir kez daha gözden geçir.'}
         Sonraki tekrar: <b>${k.sonraki}</b>. <a href="">Tekrar çöz</a></div>`);
     });
-  } catch (e) { ic.innerHTML = '<p>Bu içerik henüz hazır değil.</p>'; }
+  } catch (e) { ic.innerHTML = '<p class="bilgi">Bu ders henüz yazılmadı. Şimdilik yukarıdaki MEBİ konu özetinden çalışabilirsin.</p>'; }
   const once = tum[sira - 1], sonra = tum[sira + 1];
   $('#alt').insertAdjacentHTML('beforeend', `<div class="gezin">
     ${tur == 'ders' ? `<span></span><a class="dugme" href="konu.html?y=${yol}&t=alistirma">Alıştırmaya geç →</a>`
