@@ -3,9 +3,23 @@ baslik: Olasılık Kavramı İle İlgili Uygulamalar
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 44b292d4db
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Olasılık Kavramı İle İlgili Uygulamalar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** هنا هتبدأ تحسب الاحتمال (olasılık) بجد: عدد النتايج اللي عايزها على عدد كل النتايج، في الزهر والعملة والكروت والكيس اللي فيه بلي.
+
+- هتعرف إن الاحتمال دايمًا بين 0 و 1، وإن الحدث المستحيل (imkânsız olay) احتماله 0 والحدث المؤكد (kesin olay) احتماله 1.
+- هتستخدم الحدث المكمّل (tümleyen) في أسئلة "على الأقل واحد"، وتعرف إمتى تطرح الجزء المشترك في أسئلة "أو" لما الحدثين مش متنافيين (ayrık değil).
+- هتعرف تلاقي عدد البلي المجهول في الكيس لو الاحتمال معروف، حتى بعد ما نزوّد بلي جديد.
+
+**ليه مهم؟** في TYT بييجي سؤال احتمال كل سنة تقريبًا، والحساب فيه سهل؛ الشطارة إنك تعدّ فضاء العينة (örnek uzay) والحدث صح من غير ما تعدّ حاجة مرتين.
+
+خد ٢٥ دقيقة على رواقة، وهتلاقي الاحتمال بقى أسهل بكتير مما كنت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** eş olası çıktılarda bir olayın olasılığını $\dfrac{s(A)}{s(E)}$ ile hesaplayabilecek, "en az bir" sorularında tümleyeni, "veya" sorularında birleşim kuralını kullanabilecek ve olasılığı verilen bir torbadaki bilinmeyen sayıyı bulabileceksin.
 

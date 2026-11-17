@@ -3,9 +3,23 @@ baslik: Çizgi, Sütun ve Daire Grafikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti cafaa7832b
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Çizgi, Sütun ve Daire Grafikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تلات أنواع رسومات بيانية: الخط البياني (çizgi grafiği)، والأعمدة البيانية (sütun grafiği)، والقطاعات الدائرية (daire grafiği)، وإزاي تقرا منهم الأرقام صح.
+
+- هتعرف تحسب التغيّر بين نقطتين في الخط البياني، وتفرّق بين "أعلى قيمة" و"أكبر زيادة".
+- هتتعلم تحوّل عدد الناس لزاوية مركزية (merkez açı) في الدايرة والعكس، وتعرف إن الدايرة كلها 360 درجة.
+- هتاخد بالك من المحور اللي مش بيبدأ من الصفر، لأنه بيخلّي الفرق يبان أكبر من حقيقته.
+
+**ليه مهم؟** أسئلة الرسومات البيانية بتيجي في TYT كل سنة، وغالبًا مجموعة من سؤالين أو تلاتة. الحساب فيها قليل، والشطارة كلها إنك تقرا الرسمة صح.
+
+الدرس ٢٠ دقيقة بس، وبعده هتبص لأي رسم بياني بعين تانية.
+
+</div>
 
 **Bu dersin sonunda:** çizgi, sütun ve daire grafiğinden doğru değeri okuyabilecek, daire grafiğinde merkez açı ile kişi (adet) sayısı arasında iki yönde geçiş yapabilecek ve grafiklerin yanıltıcı görünüşüne düşmeyeceksin.
 

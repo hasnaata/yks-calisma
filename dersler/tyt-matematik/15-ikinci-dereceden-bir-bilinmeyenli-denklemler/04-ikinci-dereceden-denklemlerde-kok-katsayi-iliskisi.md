@@ -3,9 +3,23 @@ baslik: İkinci Dereceden Denklemlerde Kök-Katsayı İlişkisi
 ders: tyt-matematik
 sure: 22 dk
 kaynak: MEBİ Konu Özeti a0df19a8b4
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İkinci Dereceden Denklemlerde Kök-Katsayı İlişkisi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن العلاقة بين الجذور والمعاملات (kök-katsayı ilişkisi) في معادلة الدرجة التانية: إزاي تعرف حاجات كتير عن الجذرين من غير ما تحل المعادلة أصلًا.
+
+- هتعرف تطلّع مجموع الجذرين (kökler toplamı) وحاصل ضربهم (kökler çarpımı) من المعاملات على طول.
+- هتتعلم تكوّن المعادلة لو عندك جذريها، وتحسب مقادير زي مجموع مربعي الجذرين من المجموع والضرب بس.
+- هتحل أسئلة فيها شرط على الجذور، زي إن جذر يبقى 3 أضعاف التاني، أو إن الجذرين أطوال أضلاع مستطيل.
+
+**ليه مهم؟** في TYT أسئلة الموضوع ده ليها قوالب ثابتة بتتكرر، وأغلب الغلط بيبقى في إشارة السالب في المجموع أو إنك تنسى تقسم على المعامل الأول.
+
+هما 22 دقيقة بس، وهتطلع منهم بطريقة توفر عليك وقت كبير في الامتحان. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** kökleri hiç bulmadan köklerin toplamını ve çarpımını katsayılardan okuyabilecek, kökleri verilen denklemi kurabilecek ve $x_1^2 + x_2^2$, $\frac{1}{x_1} + \frac{1}{x_2}$ gibi ifadeleri yalnızca toplam ve çarpımla hesaplayabileceksin.
 

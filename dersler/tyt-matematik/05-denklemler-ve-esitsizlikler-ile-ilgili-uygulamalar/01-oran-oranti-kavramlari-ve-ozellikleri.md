@@ -3,9 +3,23 @@ baslik: Oran-Orantı Kavramları ve Özellikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti db2747c6b2
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Oran-Orantı Kavramları ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن النسبة (oran) والتناسب (orantı): إزاي تقارن بين كميتين بالقسمة، وإزاي تستخدم ده عشان تطلّع المجهول بسرعة.
+
+- هتعرف تحل أي تناسب بضرب الطرفين في الوسطين (içler-dışlar çarpımı)، وتستخدم ثابت التناسب (orantı sabiti) اللي بنسميه k.
+- هتتعلم خواص التناسب اللي بتخليك تحسب كسور من غير ما تعرف الأرقام نفسها.
+- هتفرّق بين التناسب الطردي (doğru orantı) والتناسب العكسي (ters orantı)، وتحل مسايل زي سعر الكيلو وعدد العمال والأيام.
+
+**ليه مهم؟** في TYT بييجي سؤال أو اتنين على oran-orantı كل سنة، وكمان مسايل الأعمار والعمال والخلطات والسرعة أغلبها بتتبني عليه.
+
+الدرس ٢٠ دقيقة بس، والفكرة بسيطة لما تمسكها. خد نفس وابدأ، وهتلاقي نفسك بتستخدمها في دروس كتير بعد كده.
+
+</div>
 
 **Bu dersin sonunda:** bir orantıda bilinmeyeni içler-dışlar çarpımıyla ve orantı sabitiyle bulabilecek, orantının özelliklerini kullanarak kesirli ifadeleri hesaplamadan değerlendirebilecek ve iki çokluğun doğru mu ters mi orantılı olduğunu ayırt edip problem çözebileceksin.
 

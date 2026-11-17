@@ -3,9 +3,23 @@ baslik: İşçi Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti f28501b49a
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İşçi Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل العمال (işçi problemleri): لو كل واحد بيخلّص الشغل في وقت معيّن، يبقى بيعمل قد إيه في اليوم، ومع بعض يخلّصوه في قد إيه.
+
+- هتعرف تجمع الشغل اللي بيتعمل في اليوم مش الأيام نفسها، وتسهّلها لما تقسّم الشغل لعدد وحدات بيساوي المضاعف المشترك الأصغر (EKOK) للمدد.
+- هتفهم إن عدد العمال والوقت بينهم تناسب عكسي (ters orantı)، وتحل لما حد يسيب الشغل في النص.
+- هتحل مسائل الحوض (havuz): الحنفية اللي بتملا بتتجمع، والصرف اللي بيفضّي بيتطرح.
+
+**ليه مهم؟** في TYT السؤال ده بييجي بأشكال كتير، أحيانًا برسم بياني أو جدول، والمفتاح دايمًا واحد: اجمع شغل اليوم، مش المدد.
+
+٢٠ دقيقة بس، وطريقة واحدة هتمشي معاك في كل المسائل دي، ركّز وهتلاقيها أسهل ما انت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** bir işi kimin ne kadar sürede bitirdiğinden günlük iş miktarını bulup birlikte çalışma, işçi sayısı değişimi, işten ayrılma ve havuz problemlerini tek bir yöntemle çözebileceksin.
 

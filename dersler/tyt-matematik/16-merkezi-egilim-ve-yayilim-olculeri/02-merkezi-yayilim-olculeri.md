@@ -3,9 +3,23 @@ baslik: Merkezi Yayılım Ölçüleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 85718ea3a8
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Merkezi Yayılım Ölçüleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** المتوسط لوحده مش بيقولك كل حاجة؛ الدرس ده بيوريك إزاي تقيس البيانات متفرّقة قد إيه، وده اسمه مقاييس التشتت (merkezi yayılım ölçüleri).
+
+- هتحسب المدى (açıklık): أكبر قيمة ناقص أصغر قيمة، وتعرف ليه الحكم بيه سطحي.
+- هتتعلم الانحراف المعياري (standart sapma) في خمس خطوات ثابتة، وإن القسمة بتبقى على عدد البيانات ناقص 1.
+- هتعرف إيه اللي بيحصل لما تزوّد رقم ثابت على كل البيانات أو تضربها كلها في رقم.
+
+**ليه مهم؟** في TYT بييجي غالبًا جدول أو رسم لمجموعتين ويسألك: مين أكتر استقرارًا (tutarlı)؟ الحساب قصير، والمهم إنك تفهم الانحراف المعياري الصغير معناه إيه.
+
+٢٠ دقيقة بس، وبعدها هتقارن أي مجموعتين وإنت واثق من نفسك.
+
+</div>
 
 **Bu dersin sonunda:** bir veri grubunun açıklığını ve standart sapmasını hesaplayabilecek, iki grubu standart sapmalarına bakarak "hangisi daha tutarlı?" diye karşılaştırabileceksin.
 

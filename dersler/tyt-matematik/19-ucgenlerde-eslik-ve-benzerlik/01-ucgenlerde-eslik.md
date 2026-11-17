@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Üçgenlerde Eşlik
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تطابق المثلثات (üçgenlerde eşlik): إمتى نقدر نقول إن مثلثين متطابقين بالظبط، وإزاي نستفيد من ده.
+
+- هتعرف حالات التطابق التلاتة: ضلعين والزاوية المحصورة (K.A.K.)، وزاويتين والضلع المحصور (A.K.A.)، والتلات أضلاع (K.K.K.).
+- هتتعلم توصّل الرؤوس صح من ترتيب الحروف، مش من مكان المثلث في الرسمة، وتنقل طول أو زاوية من مثلث للتاني.
+- هتفهم ليه "ضلعين وزاوية مش محصورة" و"تلات زوايا بس" مش كفاية عشان نقول إنهم متطابقين.
+
+**ليه مهم؟** في TYT التطابق نادرًا ما بييجي لوحده، بس هو أول خطوة في مسائل هندسة كتير، زي المربع والورقة المطوية والمثلثين القايمين جنب بعض.
+
+هو ٢٠ دقيقة بس، وكل قاعدة معاها رسمة توضّحها. خد وقتك وهتلاقيه سهل.
+
+</div>
+
 **Bu dersin sonunda:** iki üçgenin eş olduğunu K.A.K., A.K.A. ya da K.K.K. kuralıyla gösterebilecek, köşeleri doğru eşleyip bilinmeyen kenarı ya da açıyı eş üçgenden okuyabileceksin.
 
 > **TYT'de yeri:** Eşlik nadiren tek başına sorulur; çoğu geometri sorusunun **ilk adımıdır**. Kare içinde, iki dik üçgenin "merdiven" gibi dizildiği şekillerde, kesişen iki doğru parçasında ya da kâğıt katlama sorularında önce "bu iki üçgen eş" dersin, sonra uzunluğu ya da açıyı öbür üçgene taşırsın. Günlük hayat sorularında göl genişliği ölçme, merdiven ya da özdeş karton olarak gelir.

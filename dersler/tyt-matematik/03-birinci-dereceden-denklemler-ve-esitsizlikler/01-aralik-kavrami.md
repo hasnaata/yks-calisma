@@ -3,9 +3,23 @@ baslik: Aralık Kavramı
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 5d54cb82db
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Aralık Kavramı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الفترات (aralık): إزاي تكتب كل الأعداد الحقيقية اللي بين رقمين بشكل مختصر، وترسمها على خط الأعداد (sayı doğrusu).
+
+- هتفرّق بين الفترة المغلقة (kapalı aralık) والمفتوحة (açık aralık) ونص المفتوحة، وتعرف إمتى الطرف بيبقى داخل وإمتى لأ، وكمان الفترات اللي ملهاش نهاية.
+- هتعرف تعدّ الأعداد الصحيحة (tam sayılar) اللي جوه أي فترة من غير ما تتلخبط في الأطراف.
+- هتتعلم تطلّع التقاطع (kesişim) والاتحاد (birleşim) والفرق (fark) والمكمّل (tümleyen) للفترات.
+
+**ليه مهم؟** الفترة نادرًا ما تيجي سؤال لوحدها في TYT، بس إجابة أي متباينة (eşitsizlik) أو سؤال قيمة مطلقة أو دوال بتطلع في الآخر فترة، فلازم تكتبها صح.
+
+الدرس ٢٠ دقيقة بس، وبعده هتكتب إجابة أي متباينة وإنت واثق. يلا نبدأ.
+
+</div>
 
 **Bu dersin sonunda:** bir eşitsizliği aralıkla yazıp sayı doğrusunda gösterebilecek, bir aralıktaki tam sayıları sayabilecek ve iki aralığın kesişimini, birleşimini, farkını ve tümleyenini bulabileceksin.
 

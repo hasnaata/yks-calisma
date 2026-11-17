@@ -3,9 +3,23 @@ baslik: Köklü İfadeleri İçeren Denklem ve Eşitsizlikler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 2aae7edcd1
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Köklü İfadeleri İçeren Denklem ve Eşitsizlikler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المعادلات اللي فيها جذور، يعني المجهول بيبقى جوه الجذر، وكمان المتباينات اللي فيها جذور.
+
+- هتتعلم تحل المعادلة الجذرية (köklü denklem): تسيب الجذر لوحده الأول وبعدين تربّع، وتشيل الجذر الدخيل (yabancı kök) بالتعويض في المعادلة الأصلية.
+- هتعرف ترتّب الأعداد اللي فيها جذور، سواء الدليل واحد أو مختلف، وتعرف الجذر التربيعي لأي عدد بيقع بين أنهي عددين صحيحين.
+- هتحل المتباينة الجذرية وتعدّ الأعداد الصحيحة (tam sayılar) اللي بتحققها، من غير ما تنسى إن اللي جوه الجذر مينفعش يبقى سالب.
+
+**ليه مهم؟** الجذور بييجي منها سؤال أو اتنين كل سنة في TYT، والغلطة المشهورة إن الطالب ينسى التعويض ويختار الإجابة اللي فيها الجذر الدخيل.
+
+الدرس ٢٠ دقيقة بس، خد ورقة وقلم وحل الأمثلة بنفسك خطوة بخطوة وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** bilinmeyeni kök içinde olan bir denklemi kuvvet alarak çözüp yabancı kökü sağlamayla eleyebilecek, köklü sayıları sıralayabilecek ve köklü bir eşitsizliği sağlayan tam sayıları sayabileceksin.
 

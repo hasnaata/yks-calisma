@@ -3,9 +3,23 @@ baslik: Temel İşlemler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d864386300
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Temel İşlemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن العمليات الأساسية (temel işlemler): الجمع والطرح والضرب والقسمة مع الأعداد الموجبة والسالبة، وإزاي تحل مسألة طويلة من غير ما تتلخبط.
+
+- هتعرف قواعد الإشارات (işaret kuralları) في الجمع والضرب والقسمة، وإمتى النتيجة تطلع موجبة أو سالبة.
+- هتمشي على ترتيب العمليات (işlem önceliği): الأقواس الأول، بعدين الأسس، بعدين الضرب والقسمة من الشمال لليمين، وفي الآخر الجمع والطرح.
+- هتتعلم خواص الجمع والضرب وخاصية التوزيع (dağılma özelliği)، وإزاي تستخدمهم عشان تختصر الحساب.
+
+**ليه مهم؟** الموضوع ده قليل لما بييجي لوحده في TYT، بس داخل في كل سؤال تقريبًا، وغلطة إشارة صغيرة ممكن تضيّع عليك الإجابة كلها.
+
+هما ٢٠ دقيقة بس، وهتحس بفرقهم في كل مسألة جاية. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** işaretli sayılarla dört işlemi doğru işaretle yapabilecek, uzun bir ifadeyi işlem önceliğine göre hatasız sadeleştirebilecek ve dağılma özelliğiyle hesabı kısaltabileceksin.
 

@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Üçgende Kenarortay
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن متوسط المثلث (kenarortay): الخط اللي بيوصّل رأس المثلث بمنتصف الضلع اللي قصاده، والنقطة اللي المتوسطات التلاتة بيتقابلوا فيها.
+
+- هتعرف إن مركز الثقل (ağırlık merkezi) بيقسم المتوسط بنسبة 2 لـ 1 من ناحية الرأس.
+- هتشوف إزاي القطعة الواصلة بين منتصفي ضلعين (orta taban) مع مركز الثقل بيقسموا المتوسط لتلات حتت بنسبة 3 و 1 و 2.
+- هتتعلم إن في المثلث القائم، المتوسط النازل على الوتر (hipotenüs) طوله نص الوتر، وده بيطلّعلك مثلثين متساويين الساقين.
+
+**ليه مهم؟** سؤال "مركز الثقل فين وطول القطعة كام؟" بييجي كتير في هندسة TYT، وغالبًا بيتحل في خطوة واحدة لو فاكر النسبة صح.
+
+٢٠ دقيقة ومعاك رسومات مقاسة بالظبط، يلا بينا نبدأ.
+
+</div>
+
 **Bu dersin sonunda:** ağırlık merkezinin kenarortayı $2:1$ böldüğünü, orta tabanla birlikte $3:1:2$ oranını ve dik üçgende hipotenüse ait kenarortayın hipotenüsün yarısı olduğunu kullanarak bir uzunluğu ya da açıyı tek adımda bulabileceksin.
 
 > **TYT'de yeri:** Geometride "$G$ ağırlık merkezidir, $|AG| = ?$" kalıbı sık gelir. Çoğu soru iki bilgiden birini ister: ağırlık merkezi kenarortayı köşeden itibaren $2:1$ böler, dik üçgende hipotenüse çizilen kenarortay hipotenüsün yarısıdır. İkincisi çoğu zaman bir ikizkenar üçgen ve bir açı sorusuna dönüşür.

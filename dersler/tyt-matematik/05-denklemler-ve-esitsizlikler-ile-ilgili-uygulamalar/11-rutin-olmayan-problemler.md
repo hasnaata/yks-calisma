@@ -3,9 +3,23 @@ baslik: Rutin Olmayan Problemler
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 50f9db09ce
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Rutin Olmayan Problemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المسائل غير الروتينية (rutin olmayan problemler): مسائل مالهاش قانون جاهز، ومحتاجة منك ترتّب المعطيات وتختار طريقة حل (strateji).
+
+- هتتعلم تعمل جدول (tablo) وتجرّب الأعداد الصحيحة واحد ورا التاني، عشان تلاقي أكبر وأصغر قيمة.
+- هتكتب أول كام حالة وتكتشف النمط (örüntü)، زي لمبة بتنوّر كل شوية أو أشكال معمولة من عيدان الكبريت.
+- هتعرف تحل بالرجوع لورا (geriye doğru çalışma): تبدأ من النتيجة وتعكس كل عملية.
+
+**ليه مهم؟** كل سنة في TYT بييجي كذا سؤال من النوع ده، والحسابات فيهم قليلة؛ اللي بيكسب هو اللي بيفكّر بنظام ويراجع إجابته.
+
+الدرس ٢٥ دقيقة، وفيه أمثلة محلولة خطوة بخطوة. خد نَفَس وابدأ، هتلاقيه أسهل ما انت متخيل.
+
+</div>
 
 **Bu dersin sonunda:** hazır formülü olmayan bir problemde tablo kurarak tam sayı çözümlerini sistematik deneyebilecek, tekrar eden durumlarda örüntüyü bulabilecek ve sonucu verilen işlemleri geriye doğru çözebileceksin.
 

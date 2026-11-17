@@ -3,9 +3,23 @@ baslik: Yaş Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d5211d5a59
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Yaş Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل الأعمار (yaş problemleri): إزاي تحوّل كلام المسألة عن "زمان" و"دلوقتي" و"بعدين" لمعادلة (denklem) بسيطة وتحلها.
+
+- هتتعلم تعمل جدول "قبل، دلوقتي، بعد" وتزوّد نفس عدد السنين على كل الناس.
+- هتعرف إن فرق السن (yaş farkı) عمره ما بيتغير، وإن مجموع الأعمار بيزيد كل سنة بعدد الأشخاص.
+- هتفهم أسئلة "لما كنت في سنك" و"لو كان اتولد بدري أو متأخر كام سنة"، وإزاي تاخد بالك من حد لسه ما اتولدش.
+
+**ليه مهم؟** النوع ده بييجي كتير في جزء المسائل في TYT، والحساب فيه سهل؛ الدرجة بتروح للي ياخد باله من الفخ.
+
+الدرس ٢٠ دقيقة بس، ومعاك أمثلة محلولة خطوة بخطوة، يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** yaş sorusunu "önce–şimdi–sonra" tablosuna döküp denkleme çevirebilecek, yaş farkının sabit kaldığını ve toplam yaşın kişi sayısı kadar arttığını kullanarak çoğu soruyu iki adımda çözebileceksin.
 

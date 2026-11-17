@@ -3,9 +3,23 @@ baslik: Birim ve Sabit Fonksiyon
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d612185080
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Birim ve Sabit Fonksiyon
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نوعين بسيطين من الدوال: الدالة المحايدة (birim fonksiyon) اللي بتودّي كل عنصر لنفسه، والدالة الثابتة (sabit fonksiyon) اللي بتودّي كل العناصر لنفس القيمة.
+
+- هتعرف تحسب المعاملات (katsayılar) عشان القاعدة تبقى دالة محايدة أو دالة ثابتة.
+- هتتعلم إمتى الدالة الكسرية تبقى ثابتة، وإزاي تطلع قيمتها من نسبة معامل x فوق لمعامل x تحت.
+- هتميّز الاتنين في المخطط السهمي وفي الرسم البياني: خط مايل بيعدّي من نقطة الأصل، وخط أفقي.
+
+**ليه مهم؟** في TYT السؤال بييجي غالبًا بالشكل ده: "الدالة محايدة أو ثابتة، يبقى المجهول كام؟"، ولو فهمت الفكرة هتحلّه في ثواني.
+
+درس قصير، ٢٠ دقيقة بس. خد ورقة وقلم وابدأ، هتلاقيه أسهل مما تتخيّل.
+
+</div>
 
 **Bu dersin sonunda:** bir kuralın birim ya da sabit fonksiyon olması için katsayıların ne olması gerektiğini bulabilecek, kesirli bir kuralın sabit olup olmadığına $\frac{a}{c} = \frac{b}{d}$ ile karar verebilecek ve bu iki fonksiyonu ok şemasında ve grafikte tanıyabileceksin.
 

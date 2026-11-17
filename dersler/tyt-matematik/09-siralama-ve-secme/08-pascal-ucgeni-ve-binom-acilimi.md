@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Pascal Üçgeni ve Binom Açılımı
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مثلث باسكال (Pascal üçgeni) وفك ذات الحدين (binom açılımı): إزاي تفك قوس مجموع حدّين مرفوع لأُس من غير ما تضرب كل حاجة في بعضها.
+
+- هتعرف تبني مثلث باسكال: كل رقم جوّه هو مجموع الرقمين اللي فوقه، وكل صف بيبدأ وبيخلص بـ 1.
+- هتتعلم تجيب أي حد مطلوب بقانون الحد العام (genel terim) وكمان الحد الأوسط (ortadaki terim)، من غير ما تكتب الفك كله.
+- هتعرف تحسب مجموع المعاملات (katsayılar toplamı) لما تعوّض بـ 1، والحد الثابت (sabit terim) لما تعوّض بـ 0 (لو x مش في المقام).
+
+**ليه مهم؟** في TYT قليل لما يطلبوا الفك كله؛ السؤال بيبقى عن معامل حد معيّن أو مجموع المعاملات أو الحد الثابت، والغلط بييجي من حاجات صغيرة زي ترتيب الحد أو إشارة السالب.
+
+الدرس ٢٠ دقيقة بس وبيقفل باب التباديل والتوافيق، فخلّيك معاه للآخر.
+
+</div>
+
 **Bu dersin sonunda:** $(x + y)^n$ ifadesini Pascal üçgeniyle açabilecek; terim sayısını, katsayılar toplamını, sabit terimi ve istenen bir terimi genel terim formülüyle bulabileceksin.
 
 > **TYT'de yeri:** Soru genelde açılımın tamamını istemez. "$x^3$'lü terimin katsayısı kaçtır?", "katsayılar toplamı kaçtır?", "sabit terim kaçtır?", "ortadaki terim nedir?" kalıpları gelir. Yeni nesil sorularda Pascal üçgeni bir yol sayma ya da sayı örüntüsü olarak gizlenir.

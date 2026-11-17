@@ -3,9 +3,23 @@ baslik: Mutlak Değer Kavramı ve Özellikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 37851bfa74
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Mutlak Değer Kavramı ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القيمة المطلقة (mutlak değer): يعني بُعد العدد عن الصفر على خط الأعداد، وعشان كده عمرها ما تطلع سالبة.
+
+- هتعرف تفك القيمة المطلقة صح، بإنك تبص الأول على إشارة اللي جواها: موجب ولا سالب.
+- هتتعلم خواصها في الضرب والقسمة والأُسس، وليه ما تتوزّعش على الجمع والطرح، وإن جذر مربع العدد هو قيمته المطلقة.
+- هتلاقي أصغر قيمة لمجموع كذا قيمة مطلقة باستخدام النقطة الحرجة (kritik nokta).
+
+**ليه مهم؟** mutlak değer بييجي تقريبًا في كل امتحان TYT، وأغلب الغلط بيبقى من حاجة واحدة: إنك تفك من غير ما تشوف إشارة اللي جوه.
+
+٢٠ دقيقة بس، ومعاك أمثلة محلولة خطوة بخطوة ورسومات على خط الأعداد. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** içinin işaretine bakarak mutlak değeri açabilecek, mutlak değerin özellikleriyle ifadeleri sadeleştirebilecek ve $|x - a| + |x - b|$ gibi ifadelerin en küçük değerini kritik noktalarla bulabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Basit Eşitsizlikler
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti dc6e58d0e7
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Basit Eşitsizlikler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المتباينات البسيطة (basit eşitsizlikler): بتحلّها زي المعادلة بالظبط، بس فيه خطوات معيّنة بتقلب اتجاه العلامة.
+
+- هتعرف إمتى اتجاه المتباينة بيتقلب، زي لما تضرب أو تقسم على عدد سالب (negatif sayı).
+- هتحل المتباينة المزدوجة (çift taraflı eşitsizlik) وتعدّ الأعداد الصحيحة (tam sayılar) اللي بتحققها.
+- هتتعلم لو عارف فترة (aralık) كل عدد، إزاي تطلع فترة المجموع والفرق وحاصل الضرب، وكمان فترة مقلوب العدد ومربعه.
+
+**ليه مهم؟** في كل امتحان تجريبي لـ TYT بييجي سؤال واحد على الأقل من المتباينات، والفخ المشهور إنك تنسى تقلب العلامة.
+
+٢٥ دقيقة، ومعاك رسومات على خط الأعداد وعلى الرسم البياني بتوضّح القواعد. خد وقتك وهتلاقيه أسهل ما إنت متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** birinci dereceden bir eşitsizliği yönünü doğru koruyarak çözebilecek, verilen aralıklardan $a + b$, $a - b$, $a \cdot b$, $\frac{1}{x}$ ve $x^2$ ifadelerinin aralığını bulabileceksin.
 

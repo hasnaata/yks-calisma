@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Açı Kavramı ve Çeşitleri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الزاوية (açı): يعني إيه زاوية، وبنقيسها إزاي بالدرجة، وأنواعها حسب قياسها.
+
+- هتفرّق بين الحادة (dar) والقائمة (dik) والمنفرجة (geniş) والمستقيمة (doğru) والكاملة (tam).
+- هتعرف الزاويتين المتتامتين (tümler) اللي مجموعهم 90، والمتكاملتين (bütünler) اللي مجموعهم 180، وتكوّن معادلة تطلّع منها الزاوية المجهولة.
+- هتتعلم إن الزاويتين المتقابلتين بالرأس (ters açılar) متساويتين، وإن منصّف الزاوية (açıortay) بيقسمها نصين متساويين.
+
+**ليه مهم؟** نادرًا ما بييجي سؤال لوحده عن الموضوع ده في TYT، بس هتحتاجه كخطوة في أغلب مسائل الهندسة تقريبًا.
+
+هو ٢٠ دقيقة بس، وده الأساس اللي هتبني عليه الهندسة كلها، فخده براحتك وافهمه كويس.
+
+</div>
+
 **Bu dersin sonunda:** bir açıyı ölçüsüne göre adlandırabilecek; tümler, bütünler, ters açı ve açıortay bilgisini kullanarak bilinmeyen açıyı bir denklemle bulabileceksin.
 
 > **TYT'de yeri:** Bu konu tek başına nadiren soru olur, ama geometri sorularının neredeyse hepsinde bir adım olarak karşına çıkar: "bir doğru üzerindeki açılar toplamı 180°", "ters açılar eşittir", "açıortay açıyı ikiye böler". Ayrıca "tümleri ile bütünlerinin toplamı…" kalıbında denklem kurma sorusu olarak gelir.

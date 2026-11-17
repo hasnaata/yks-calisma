@@ -3,9 +3,23 @@ baslik: Pozitif ve Negatif Sayılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti ec41536b86
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Pozitif ve Negatif Sayılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن إشارة الأعداد: إمتى العدد يبقى موجب (pozitif) وإمتى يبقى سالب (negatif)، وليه الصفر لا موجب ولا سالب.
+
+- هتعرف إشارة ناتج الجمع (toplam) والضرب (çarpım) والقسمة (bölüm) من إشارات الأعداد نفسها.
+- هتفهم إشارة القوى (kuvvet): الأساس السالب مع أس زوجي (çift üs) بيطلع موجب، ومع أس فردي (tek üs) بيطلع سالب، وإزاي القوس بيغيّر الإشارة.
+- هتتعلم تطلّع إشارة كل عدد من شروط زي "حاصل الضرب سالب والمجموع موجب".
+
+**ليه مهم؟** سؤال "أنهي واحدة موجبة أكيد (kesinlikle pozitif)؟" بييجي كتير في TYT، وفيه أسئلة معمولة مخصوص عشان توقعك في غلطة القوس دي.
+
+هي ٢٠ دقيقة بس، وبعدها أي إشارة سالب هتتعامل معاها وانت واثق. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** toplam, çarpım ve kuvvetlerin işaretini verilen bilgiden bulabilecek, "$a \cdot b < 0$, $a + b > 0$" gibi koşullardan sayıların işaretini çıkarabileceksin.
 

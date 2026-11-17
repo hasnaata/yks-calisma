@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** بعد ما عرفت يعني إيه كثيرة الحدود (polinom)، النهارده هتشتغل بيها: تجمع وتطرح وتضرب.
+
+- هتجمع وتطرح كثيرات الحدود بإنك تجمّع الحدود المتشابهة (benzer terimler) بس، وتاخد بالك إن السالب بيتوزّع على كل الحدود.
+- هتضرب كثيرتين حدود، وتطلع معامل (katsayı) حد معيّن من غير ما تفك الضرب كله.
+- هتعرف تحسب درجة (derece) الناتج: في الجمع بتفضل الدرجة الأكبر، وفي الضرب الدرجات بتتجمع.
+
+**ليه مهم؟** في TYT الحاجات دي بتيجي كأسئلة قصيرة زي "معامل الحد ده كام؟" أو "درجة الناتج كام؟"، وكمان هتحتاجها في كل خطوة من القسمة والتحليل اللي جايين.
+
+الدرس ٢٠ دقيقة، ومعاه جداول ورسومات توضّح كل خطوة. خده بالراحة وهتلاقيه سهل.
+
+</div>
+
 **Bu dersin sonunda:** iki polinomu toplayıp çıkarabilecek, çarpabilecek, çarpımı açmadan istenen bir terimin katsayısını bulabilecek ve işlem sonucunun derecesini hesaplayabileceksin.
 
 > **TYT'de yeri:** Bu işlemler tek başına nadiren soru olur; ama bölme, çarpanlara ayırma ve özdeşlik sorularının her adımında kullanılır. Doğrudan gelen kalıplar: "çarpımda $x^2$'li terimin katsayısı kaçtır?", "$P(x) \cdot Q(x)$ polinomunun derecesi kaçtır?" ve katsayılar toplamı ya da sabit terim isteyen kısa sorular.

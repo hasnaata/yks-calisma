@@ -3,9 +3,23 @@ baslik: Birinci Dereceden İki Bilinmeyenli Eşitsizlik Sistemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti a0a558963f
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Birinci Dereceden İki Bilinmeyenli Eşitsizlik Sistemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أنظمة المتباينات (eşitsizlik sistemi): لما يبقى عندك متباينتين أو أكتر في x و y مع بعض، والحل هو المنطقة المشتركة بينهم على المستوى الإحداثي.
+
+- هتعرف ترسم كل متباينة لوحدها، الخط متصل ولا متقطع، وتلوّن الجهة الصح وبعدين تاخد الجزء المشترك (kesişim).
+- هتفهم إمتى الخطين يبقوا متوازيين، والحل يطلع شريط بينهم أو مجموعة خالية (boş küme).
+- هتتعلم تعدّ النقط اللي إحداثياتها أعداد صحيحة (tam sayı) جوه المنطقة، وتقرا من الرسمة النظام اللي المنطقة بتمثّله.
+
+**ليه مهم؟** في TYT السؤال بييجي كده: المنطقة المتلوّنة دي حل أنهي نظام؟ أو فيه كام نقطة صحيحة جواها؟ وغلط كتير بيحصل في نقطة الركن (köşe) اللي على خط متقطع.
+
+الدرس ٢٠ دقيقة بس، خد ورقة وقلم وارسم معانا، هتلاقيه أسهل ما انت متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** iki ya da daha fazla eşitsizliğin ortak çözüm bölgesini analitik düzlemde çizebilecek, boyalı bir bölgenin hangi sistemi gösterdiğini okuyabilecek ve bölgedeki tam sayı noktalarını sayabileceksin.
 

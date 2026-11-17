@@ -3,9 +3,23 @@ baslik: Sayı Basamakları
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 7850c6c58e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Sayı Basamakları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن منازل الأعداد (sayı basamakları): نفس الرقم قيمته بتتغيّر حسب هو قاعد فين، في الآحاد ولا العشرات ولا المئات.
+
+- هتفرّق بين قيمة الرقم نفسه (sayı değeri) وقيمته المكانية (basamak değeri).
+- هتتعلم تحلّل العدد لمنازله (çözümleme) لما تكون أرقامه مجهولة، وتحوّل الكلام لمعادلة.
+- هتعرف العدد بيتغيّر قد إيه لما أرقامه تبدّل أماكنها أو نضيف له رقم، وإزاي تكوّن أكبر وأصغر عدد أرقامه مختلفة.
+
+**ليه مهم؟** التحليل ده بيدخل في أسئلة كتير في TYT، لوحده أو جوّه مواضيع تانية، ومن أشهر الغلطات إنك تعامل العدد اللي من رقمين كأنه حاصل ضرب الرقمين.
+
+الدرس ٢٠ دقيقة، وكل قاعدة قبلها مثال محلول خطوة بخطوة. هات ورقة وقلم وامشي معاه.
+
+</div>
 
 **Bu dersin sonunda:** $ab$, $abc$ gibi bilinmeyen rakamlı sayıları çözümleyip denkleme çevirebilecek, rakamları yer değiştiren ya da yanına rakam eklenen sayıların nasıl değiştiğini hesaplayabileceksin.
 

@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Kümelerde Temel Kavramlar
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أساسيات المجموعات (kümeler): يعني إمتى نقول على حاجة إنها مجموعة، وإزاي نكتبها ونعدّ عناصرها (eleman) صح.
+
+- هتكتب نفس المجموعة بتلات طرق: طريقة السرد (liste yöntemi)، وشكل فن (Venn şeması)، وطريقة الصفة المميزة (ortak özellik yöntemi).
+- هتعرف تحوّل الصفة المميزة لقائمة عناصر من غير ما تنسى الصفر أو تعدّ العنصر المتكرر مرتين.
+- هتفرّق بين المجموعة المنتهية (sonlu) وغير المنتهية (sonsuz) والمجموعة الشاملة (evrensel küme)، وتفهم ليه المجموعة الخالية (boş küme) غير مجموعة جواها المجموعة الخالية.
+
+**ليه مهم؟** الدرس ده لوحده مش بييجي منه أسئلة كتير في TYT، بس هو اللغة اللي كل أسئلة المجموعات مكتوبة بيها، وفيه فخاخ صغيرة بتوقع ناس كتير.
+
+هو ٢٠ دقيقة بس، فلو مسكت الأساس ده كويس، الدروس الجاية في المجموعات هتبقى أسهل بكتير.
+
+</div>
+
 **Bu dersin sonunda:** bir topluluğun küme olup olmadığına karar verebilecek, bir kümeyi liste, Venn şeması ve ortak özellik yöntemiyle yazabilecek, eleman sayısını tekrarlara ve boş kümeye düşmeden bulabileceksin.
 
 > **TYT'de yeri:** Bu konu tek başına az soru olur; ama bütün küme sorularının dilidir. "Ortak özelliği verilen kümenin eleman sayısı", "hangisi boş kümedir?", "$\{\emptyset\}$ kaç elemanlıdır?" ve yeni tanımlanan bir kümeyi (rakam kümesi, harf kümesi gibi) yorumlama kalıpları gelir.

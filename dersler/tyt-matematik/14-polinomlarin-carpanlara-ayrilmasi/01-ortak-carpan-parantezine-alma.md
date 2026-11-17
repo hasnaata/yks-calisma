@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Ortak Çarpan Parantezine Alma
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أول وأسهل طريقة في تحليل كثيرة الحدود (çarpanlara ayırma): إخراج العامل المشترك (ortak çarpan parantezine alma)، وبعدها التحليل بالتجميع (gruplandırma).
+
+- هتعرف تطلّع العامل المشترك صح: القاسم المشترك الأكبر (EBOB) للمعاملات مع أصغر أُس للمتغير، ومن غير ما تضيّع ولا حد جوه القوس.
+- هتتعلم تلعب بالإشارة لما القوسين يبقوا عكس بعض، وتجمّع الحدود اتنين اتنين لحد ما يطلع نفس القوس.
+- هتشوف إزاي التحليل ده بيختصر حسابات كبيرة وأسئلة زي "مجموع العددين وحاصل ضربهم معلومين".
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي واحد من دول عامل من عوامل كثيرة الحدود؟" وأسئلة الأُسس والكسور الكبيرة، وكل طرق التحليل اللي جاية بتبدأ بالخطوة دي.
+
+هو ٢٠ دقيقة بس، وبعده التحليل هيبقى أسهل عليك بكتير. يلا بينا!
+
+</div>
+
 **Bu dersin sonunda:** bir polinomu ortak çarpan parantezine alarak ve gruplandırarak çarpanlarına ayırabilecek, bunu sayısal işlemleri ve "$a + b$, $ab$ verilmiş" sorularını kısaltmak için kullanabileceksin.
 
 > **TYT'de yeri:** "Aşağıdakilerden hangisi bu polinomun bir çarpanıdır?", "$a - b = 4$ ve $ab = 5$ ise ... kaçtır?", üslü ya da büyük sayılarla verilen kesirli işlemler ve tanımlanan işlem soruları bu dersin kalıplarıdır. Sonraki bütün çarpanlara ayırma yöntemleri de ilk adımda ortak çarpanı arar.

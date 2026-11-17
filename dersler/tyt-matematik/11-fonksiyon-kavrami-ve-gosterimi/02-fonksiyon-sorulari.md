@@ -3,9 +3,23 @@ baslik: Fonksiyon Soruları
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 02dbcbc400
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Fonksiyon Soruları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أشهر أنواع مسائل الدوال (fonksiyon): إزاي تطلّع القيمة المطلوبة من القاعدة اللي في السؤال، حتى لو جوه القوس تعبير مش رقم.
+
+- هتعرف إمتى تساوي اللي جوه القوس بالرقم على طول، وإمتى تسمّيه حرف جديد عشان تجيب قاعدة الدالة كلها.
+- هتتعلم تحسب المعاملات المجهولة من نقط على الرسم، وتجيب المدى (görüntü kümesi) من المجال (tanım kümesi).
+- هتحل المساويات اللي فيها قيمتين للدالة مع بعض، بإنك تعوّض بأرقام مناسبة وتعمل معادلتين.
+
+**ليه مهم؟** سؤال الدالة في TYT غالبًا حساب قيمة، والغلط بيبقى في تفصيلة صغيرة زي قوس الرقم السالب أو طرف الفترة، وكل ده متوضّح هنا.
+
+٢٥ دقيقة وهتلاقي المسائل دي بقت سهلة عليك، يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** $f(2x + 3)$ gibi verilen bir kuraldan istenen değeri ya da $f(x)$'i bulabilecek, bilinmeyen katsayıyı hesaplayabilecek, bir aralığın görüntüsünü yazabilecek ve iki değeri birbirine bağlayan eşitliklerden denklem sistemi kurabileceksin.
 

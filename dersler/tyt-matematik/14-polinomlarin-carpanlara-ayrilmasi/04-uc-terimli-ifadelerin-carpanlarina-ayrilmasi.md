@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Üç Terimli İfadelerin Çarpanlarına Ayrılması
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تحليل المقدار الثلاثي (üç terimli ifade) لعاملين من الدرجة الأولى، يعني نرجّع عملية الضرب لورا.
+
+- هتعرف لما معامل x تربيع (baş katsayı) يبقى 1، تدوّر على رقمين حاصل ضربهم الحد المطلق ومجموعهم معامل x، وتظبط الإشارات صح.
+- هتتعلم الضرب التبادلي (çapraz çarpım) لما المعامل مايبقاش 1، وطريقة التجميع كحل تاني.
+- هتشوف إزاي التعويض بمتغير جديد (değişken değiştirme) يسهّل مقادير زي x أس 4، وليه لازم تطلّع العامل المشترك (ortak çarpan) الأول.
+
+**ليه مهم؟** في TYT نادرًا ما بيجي لوحده، بس هو أول خطوة في تبسيط الكسور الجبرية وأسئلة "أنهي واحد من العوامل؟"، واللي بيحلّل بسرعة ومن غير غلط بيكسب وقت.
+
+٢٠ دقيقة بس، وفي الآخر عوّض بـ 1 في الطرفين واطمّن إن تحليلك مظبوط.
+
+</div>
+
 **Bu dersin sonunda:** $ax^2 + bx + c$ biçimindeki bir ifadeyi, baş katsayı 1 olsun ya da olmasın, iki birinci dereceden çarpana ayırabilecek ve $x^4 - 5x^2 + 4$ gibi ifadelerde değişken değiştirmeyi kullanabileceksin.
 
 > **TYT'de yeri:** Üç terimli ifade TYT'de tek başına nadiren sorulur; ama rasyonel ifade sadeleştirme, "çarpanlarından biri hangisidir?", ikinci dereceden denklem ve "ifade asal sayı ise $n$ kaçtır?" sorularının hepsinde ilk adım budur. Hızlı ve hatasız ayırabilmek süre kazandırır.

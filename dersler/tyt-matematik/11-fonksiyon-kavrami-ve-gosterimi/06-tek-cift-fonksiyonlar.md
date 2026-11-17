@@ -3,9 +3,23 @@ baslik: Tek-Çift Fonksiyonlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 1abc2e1bd8
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tek-Çift Fonksiyonlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الدوال الزوجية (çift fonksiyon) والدوال الفردية (tek fonksiyon): إزاي تعرف نوع الدالة لما تحط سالب x مكان x وتقارن النتيجة بالدالة الأصلية.
+
+- هتعرف إن الدالة الزوجية رسمها متماثل حوالين محور الصادات، والفردية متماثلة حوالين نقطة الأصل (orijin).
+- هتحل أسئلة المعاملات (katsayı): لو الدالة زوجية أو فردية، تلاقي المعاملات المجهولة بسهولة من الأُسس.
+- هتكمّل رسم دالة إديلك نصّه بس، وتجيب قيمة الدالة عند العدد السالب من قيمتها عند الموجب.
+
+**ليه مهم؟** في TYT الأسئلة بتيجي على تلات أشكال ثابتة، وكلها بتتحل بنفس القاعدتين، فلو فهمتهم كويس هتكسب السؤال في دقيقة.
+
+الدرس ٢٠ دقيقة بس، وفيه رسومات توضّح كل حاجة. يلا نبدأ.
+
+</div>
 
 **Bu dersin sonunda:** $f(-x)$'i hesaplayarak bir fonksiyonun tek mi, çift mi, ikisi de mi olmadığına karar verebilecek, "$f$ çift olduğuna göre $a + b$ kaçtır?" tipi katsayı sorularını çözebilecek ve yarısı verilen bir grafiği simetriyle tamamlayabileceksin.
 

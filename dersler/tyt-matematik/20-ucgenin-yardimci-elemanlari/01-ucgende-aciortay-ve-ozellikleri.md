@@ -3,9 +3,23 @@ baslik: Üçgende Açıortay ve Özellikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 06dbfb93a8
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Açıortay ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن منصّف الزاوية (açıortay) في المثلث: الشعاع اللي بيقسم الزاوية نصّين متساويين، وإزاي تستخدمه في الحل.
+
+- هتعرف إن أي نقطة على منصّف الزاوية بتبعد نفس المسافة عن ضلعي الزاوية، بشرط إن المسافة تكون عمودية.
+- هتشوف إن منصّفات الزوايا الداخلة التلاتة بتتقابل في نقطة واحدة، وهي مركز الدائرة الداخلة (iç teğet çemberin merkezi).
+- هتحسب الزاوية عند نقطة تقابل منصّفين في التلات حالات: داخلي مع داخلي (iç–iç)، خارجي مع خارجي (dış–dış)، وداخلي مع خارجي (iç–dış).
+
+**ليه مهم؟** سؤال "منصّفين بيتقابلوا في نقطة، الزاوية دي كام؟" بييجي كتير في هندسة TYT، والشطارة إنك تعرف أنهي حالة قدامك وتختار القاعدة الصح.
+
+هو ٢٠ دقيقة بس، وفيه جدول صغير بيلمّ القواعد كلها. هات ورقة وقلم ويلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** açıortay üzerindeki bir noktanın kollara uzaklığını bulabilecek, iki açıortayın kesiştiği noktadaki açıyı (iç–iç, dış–dış, iç–dış) tek satırda hesaplayabileceksin.
 

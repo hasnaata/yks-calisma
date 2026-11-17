@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Trigonometrik Oranlar
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن النسب المثلثية (trigonometrik oranlar) في المثلث القائم الزاوية (dik üçgen): إزاي تطلّع كل نسبة من أطوال الأضلاع.
+
+- هتعرف الجيب (sinüs) وجيب التمام (kosinüs) والظل (tanjant) وظل التمام (kotanjant) لزاوية حادة، وتفرّق بين الضلع المقابل والضلع المجاور والوتر (hipotenüs).
+- لو اتدّالك نسبة واحدة بس، هتبني المثلث بنفسك وتجيب باقي النسب بنظرية فيثاغورس (Pisagor).
+- هتتعلم قاعدة الزاويتين المتتامتين (tümler açılar)، وإزاي تنزّل عمود (dikme) لما متلاقيش زاوية قائمة.
+
+**ليه مهم؟** في TYT الأسئلة اللي على النسب دي لوحدها قليلة، بس بتدخل في أسئلة هندسة كتير، وفي مسائل من الحياة زي السلّم والمنحدر وخيط الطيارة الورق.
+
+هي ٢٠ دقيقة بس، وبعدها هتبص لأي مثلث قائم وتعرف تقراه كويس. يلا بينا!
+
+</div>
+
 **Bu dersin sonunda:** bir dik üçgendeki dar açının sinüs, kosinüs, tanjant ve kotanjantını kenarlardan yazabilecek, tek bir oran verildiğinde üçgeni kurup diğer oranları bulabileceksin.
 
 > **TYT'de yeri:** Trigonometri TYT'de kendi başına az soru getirir, ama geometri sorularında sık kullanılır: "$\tan \alpha$ kaçtır?", "$\sin \alpha = \frac{3}{5}$ ise $|AC|$ kaçtır?" gibi. Rampa, merdiven, uçurtma ipi gibi günlük hayat soruları da hep aynı dik üçgene dayanır.

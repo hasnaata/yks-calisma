@@ -3,9 +3,23 @@ baslik: Merkezi Eğilim Ölçüleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti e0e804535c
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Merkezi Eğilim Ölçüleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مقاييس النزعة المركزية (merkezi eğilim ölçüleri): إزاي تلخّص مجموعة أرقام كاملة في رقم واحد يعبّر عنها.
+
+- هتحسب الوسط الحسابي (aritmetik ortalama) والوسيط (ortanca) والمنوال (tepe değer) من قايمة أرقام أو جدول أو رسم بالأعمدة.
+- هتعرف الوسط بيتغيّر إزاي لما حد ينضم للمجموعة أو يخرج منها أو رقم غلط يتصلّح.
+- هتشوف ليه قيمة متطرفة (uç değer) واحدة بتشدّ الوسط الحسابي، والوسيط تقريبًا ما بيتأثرش.
+
+**ليه مهم؟** أسئلة زي "واحد انضم للمجموعة، المتوسط بقى كام؟" بتيجي في TYT، والحساب فيها قليل؛ الغلط بييجي لما تنسى ترتّب الأرقام أو تشتغل على المتوسط من غير ما تجيب المجموع الأول.
+
+الدرس ٢٠ دقيقة بس؛ هات ورقة وقلم وحل الأمثلة معاه، وهتلاقيه أسهل مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** bir veri grubunun aritmetik ortalamasını, ortancasını ve tepe değerini liste, tablo ya da sütun grafiğinden bulabilecek; bir veri eklenince, çıkarılınca ya da değişince bu ölçülerin nasıl değiştiğini hesaplayabileceksin.
 

@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Fonksiyon Grafikleri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الرسم البياني للدالة (fonksiyon grafiği): إزاي تقرا منه المعلومة وإزاي ترسمه بإيدك.
+
+- هتعرف تطلّع من الرسم قيمة الدالة، والمجال (tanım kümesi)، والمدى (görüntü kümesi)، وفين الدالة موجبة أو سالبة.
+- هترسم الدالة الخطية (doğrusal fonksiyon) والدالة المتعددة القواعد (parçalı fonksiyon)، وتفرّق بين النقطة المليانة والنقطة الفاضية.
+- هتتعلم اختبار الخط الرأسي (düşey doğru testi) واختبار الخط الأفقي (yatay doğru testi)، وتعدّ بيهم الحلول بسرعة.
+
+**ليه مهم؟** أغلب أسئلة الدوال في TYT بتيجي على شكل رسم، وكمان أسئلة الحياة اليومية زي خزان مية أو سرعة أو أجرة، فلو عرفت تقرا الرسم صح هتكسب نقط كتير.
+
+حوالي ٢٢ دقيقة، والرسومات هتسهّل عليك كل حاجة. يلا نبدأ!
+
+</div>
+
 **Bu dersin sonunda:** bir fonksiyonun grafiğinden değer, tanım kümesi, görüntü kümesi ve işaret okuyabilecek, doğrusal ve parçalı fonksiyonların grafiğini çizebilecek, düşey ve yatay doğru testlerini uygulayabileceksin.
 
 > **TYT'de yeri:** Fonksiyon sorularının büyük kısmı grafikle gelir: "$f(-2) + f(3)$ kaçtır?", "görüntü kümesinde kaç tam sayı var?", "$f(x) = k$ denkleminin kaç kökü var?", "$f(x) < 0$ olan tam sayılar". Günlük hayat sorularında (depo, hız, ücret) grafik okumak doğrudan bu derstir.

@@ -3,9 +3,23 @@ baslik: Diskriminant Kavramı ve Diskriminantın Kullanılması
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 7902b07f4b
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Diskriminant Kavramı ve Diskriminantın Kullanılması
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المميز (diskriminant): رقم واحد بتحسبه من معاملات معادلة الدرجة التانية (ikinci dereceden denklem)، وبيقولك على طول المعادلة ليها كام جذر.
+
+- هتحل أي معادلة من الدرجة التانية بالقانون العام (kök formülü)، حتى لو مش بتتحلل لعوامل.
+- هتعرف من إشارة المميز بس إذا كان فيه جذرين مختلفين، ولا جذرين متساويين (çakışık kök)، ولا مفيش جذور حقيقية (gerçek kök) خالص.
+- هتطلع قيمة المعامل المجهول (parametre) اللي تخلي المعادلة ليها العدد المطلوب من الجذور.
+
+**ليه مهم؟** في TYT بييجي كتير سؤال زي "المعادلة ليها جذرين متساويين، يبقى m بكام؟"، وأغلب الغلط بيكون في إشارة سالب صغيرة اتنسيت.
+
+٢٠ دقيقة بس، وفيه أمثلة محلولة خطوة بخطوة ورسومات بتوضح كل حالة. هات ورقة وقلم ويلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** her ikinci dereceden denklemi kök formülüyle çözebilecek, denklemi çözmeden yalnızca $\Delta = b^2 - 4ac$ işaretine bakarak kaç gerçek kökü olduğunu söyleyebilecek ve "çakışık kök", "gerçek kök yok" gibi koşullardan bilinmeyen katsayıyı bulabileceksin.
 

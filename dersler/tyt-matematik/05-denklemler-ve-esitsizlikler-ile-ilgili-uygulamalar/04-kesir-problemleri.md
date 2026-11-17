@@ -3,9 +3,23 @@ baslik: Kesir Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d33a576a81
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kesir Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل الكسور (kesir problemleri): إزاي تحوّل جملة زي "تلت الفلوس" أو "ربع الباقي" لمعادلة وتحلّها بسهولة.
+
+- هتتعلم تختار المجهول على قد المضاعف المشترك الأصغر (EKOK) للمقامات، عشان الكسور تختفي والحساب يبقى أسرع.
+- هتفهم الفرق بين كسر من الكل وكسر من الباقي (kalanın kesri)، وإزاي تضرب نسب الباقي في بعض.
+- هتحل مسائل الإناء المليان والفاضي، وقطع السلك ونقطة المنتصف، والشغل اللي بيخلص بسرعات مختلفة.
+
+**ليه مهم؟** في TYT تقريبًا كل امتحان فيه سؤال واحد على الأقل مبني على الكسور، والدرجة بتروح للي بيقرا كويس الكسر ده كسر من إيه بالظبط.
+
+الدرس 20 دقيقة بس، خد ورقة وقلم وحل الأمثلة بنفسك خطوة خطوة، وهتلاقيها أسهل مما كنت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** "bir sayının $\frac{a}{b}$'si" ve "kalanın $\frac{c}{d}$'si" gibi ifadeleri denkleme çevirebilecek, bilinmeyeni paydaların EKOK'u ile seçerek kesirsiz işlem yapabilecek; kap, tel ve iş bölüşme problemlerini çözebileceksin.
 

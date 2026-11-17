@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Üçgende Kenar Orta Dikme
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن محور الضلع (kenar orta dikme) في المثلث: الخط اللي بيعدّي من نص الضلع وبيبقى عمودي عليه.
+
+- هتعرف إن أي نقطة على محور الضلع بتبعد نفس المسافة عن طرفين الضلع، وإزاي تستخدم ده في أسئلة المحيط (çevre) والزوايا.
+- هتشوف إن المحاور التلاتة بيتقابلوا في نقطة واحدة K بعيدة بنفس المسافة عن الرؤوس التلاتة، وهي مركز الدايرة المارة برؤوس المثلث (çevrel çember).
+- هتتعلم مكان K حسب نوع المثلث: جوّه في حاد الزوايا، في نص الوتر في القائم، وبره في منفرج الزاوية، وكمان حالة المثلث المتساوي الساقين والمتساوي الأضلاع.
+
+**ليه مهم؟** أسئلة TYT في الحتة دي غالبًا بتعتمد على فكرة واحدة بس، والفخ المشهور إنك تخلط بين النقطة دي ونقطة تقاطع الارتفاعات أو منصّفات الزوايا.
+
+الدرس ٢٠ دقيقة، فكرته بسيطة وهتلاقيها بتسهّل عليك أسئلة كتير. يلا بينا.
+
+</div>
+
 **Bu dersin sonunda:** kenar orta dikme üzerindeki bir noktanın kenarın iki ucuna eşit uzaklıkta olduğunu ve üç kenar orta dikmenin kesim noktası $K$'nin üç köşeye eşit uzaklıkta olduğunu kullanarak bir çevreyi, bir açıyı ya da $|KA|$ uzunluğunu bulabileceksin.
 
 > **TYT'de yeri:** Kenar orta dikme soruları çoğu zaman tek bir bilgiye dayanır: dikme üzerindeki nokta kenarın iki ucuna eşit uzaklıktadır. Bu bilgi ya bir çevre sorusunda bir kenarın yerine öbürünü yazdırır ya da bir ikizkenar üçgen kurdurup açı buldurur. "Üç köşeye eşit uzaklıkta bir nokta" (depo, kule, lamba) diye başlayan günlük hayat soruları da bu konudandır.

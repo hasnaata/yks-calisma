@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Karmaşık Sayılar
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأعداد المركبة (karmaşık sayılar): هنعمل إيه لما نلاقي جذر تربيعي لعدد سالب، وإزاي نحل معادلة الدرجة التانية اللي مالهاش حلول حقيقية.
+
+- هتعرف الوحدة التخيلية (sanal birim) i اللي مربعها سالب واحد، وتكتب بيها جذر أي عدد سالب.
+- هتحسب أي قوة لـ i بسهولة: تقسم الأس على 4 وتبص على الباقي بس، وتعرف الجزء الحقيقي (gerçek kısım) والجزء التخيلي (sanal kısım) والمرافق (eşlenik).
+- هتحل المعادلة لما يكون المميز (diskriminant) سالب، وتعرف إن الجذرين بييجوا دايمًا مرافقين لبعض.
+
+**ليه مهم؟** في TYT بييجي سؤال قصير عن قوة كبيرة لـ i أو عن جذور معادلة مميزها سالب، والغلطة غالبًا بتبقى في إشارة مربع i أو في باقي القسمة.
+
+الدرس حوالي ٢٠ دقيقة، وفيه أمثلة محلولة خطوة بخطوة. خد نفسك وامشي معاه واحدة واحدة.
+
+</div>
+
 **Bu dersin sonunda:** $i^2 = -1$ kuralıyla negatif sayıların karekökünü yazabilecek, $i$'nin her kuvvetini dörde bölerek bulabilecek, bir karmaşık sayının gerçek ve sanal kısmını ve eşleniğini söyleyebilecek, $\Delta < 0$ olan ikinci dereceden denklemlerin köklerini karmaşık sayı olarak bulabileceksin.
 
 > **TYT'de yeri:** "$i^{2027}$ kaçtır?", "$i + i^2 + \dots + i^{30}$ toplamı nedir?", "denklemin köklerinden biri hangisidir?" ve "bir kökü $1 + 3i$ olduğuna göre $k$ kaçtır?" kalıpları gelir. Sorular kısa; hata çoğunlukla $i^2$'nin işaretinde ya da kuvvetin kalanında yapılır.

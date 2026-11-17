@@ -3,9 +3,23 @@ baslik: Tamsayılarda Kalanlı Bölme İşlemi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 8aa2f97a11
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tamsayılarda Kalanlı Bölme İşlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القسمة اللي فيها باقي (kalanlı bölme): المقسوم (bölünen) والمقسوم عليه (bölen) وخارج القسمة (bölüm) والباقي (kalan)، وإزاي تربطهم كلهم في علاقة واحدة.
+
+- هتعرف إن المقسوم بيساوي المقسوم عليه في خارج القسمة زائد الباقي، وإن الباقي دايمًا أصغر من المقسوم عليه.
+- هتتعلم تجيب أكبر وأصغر قيمة للمقسوم، وتحل مسائل القسمة المتتالية بالتعويض.
+- هتلاقي باقي مجموع أو فرق أو حاصل ضرب أو عدد مرفوع لأُس من غير ما تعرف الأعداد نفسها، بالبواقي بس.
+
+**ليه مهم؟** في كل امتحان TYT بييجي سؤال أو اتنين على الموضوع ده، وقابلية القسمة (bölünebilme) و EBOB-EKOK مبنيين عليه.
+
+هو ٢٠ دقيقة بس، وكل قاعدة معاها مثال محلول خطوة بخطوة، فخد وقتك وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** bir bölme işlemini $A = B \cdot C + K$ eşitliğine çevirip bilinmeyeni bulabilecek, kalanın alabileceği değerleri sınırlayabilecek ve büyük bir ifadenin kalanını yalnızca kalanlarla hesaplayabileceksin.
 

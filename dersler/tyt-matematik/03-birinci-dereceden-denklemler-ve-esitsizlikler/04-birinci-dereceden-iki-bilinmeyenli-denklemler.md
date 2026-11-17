@@ -3,9 +3,23 @@ baslik: Birinci Dereceden İki Bilinmeyenli Denklemler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti add5518705
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Birinci Dereceden İki Bilinmeyenli Denklemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المعادلات من الدرجة الأولى في مجهولين (birinci dereceden iki bilinmeyenli denklemler)، وإزاي تحل معادلتين مع بعض وتطلّع قيمة x و y.
+
+- هتحل نظام المعادلات (denklem sistemi) بطريقتين: الحذف (yok etme) والتعويض (yerine koyma)، وتعرف تختار الأقصر.
+- هتعرف من المعاملات (katsayılar) هل النظام ليه حل واحد، ولا مالوش حل، ولا ليه حلول لا نهائية.
+- هتحوّل مسألة كلامية زي التذاكر والعربيات لمعادلتين وتحلها.
+
+**ليه مهم؟** في TYT مسائل كتير عن الفلوس والأعمار والعربيات بتقلب في الآخر لنظام معادلتين، فلو فهمت الدرس ده هتكسب أسئلة كتير مرة واحدة.
+
+الدرس ٢٠ دقيقة بس، خد ورقة وقلم وحل مع الأمثلة خطوة بخطوة.
+
+</div>
 
 **Bu dersin sonunda:** iki bilinmeyenli bir denklem sistemini yok etme ya da yerine koyma yöntemiyle çözebilecek, katsayılara bakarak sistemin tek çözümlü, çözümsüz ya da sonsuz çözümlü olduğunu söyleyebilecek ve bir problemi iki denkleme çevirebileceksin.
 

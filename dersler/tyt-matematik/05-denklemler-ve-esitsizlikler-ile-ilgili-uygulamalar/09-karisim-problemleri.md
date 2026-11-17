@@ -3,9 +3,23 @@ baslik: Karışım Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d329034d67
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Karışım Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل الخلط (karışım problemleri): لما تزوّد مية على محلول ملح أو تخلط محلولين ببعض، النسبة المئوية للملح بتتغير إزاي.
+
+- هتتعلم تحسب نسبة المادة النقية (saf madde yüzdesi)، وإن اللي بنقسم عليه دايمًا هو الخليط كله، مش المية لوحدها.
+- هتعرف إن إضافة مية أو تبخيرها ما بيغيّرش كمية الملح، وإن الصبّ من الخليط ما بيغيّرش النسبة.
+- هتحل مسائل خلط محلولين بمعادلة واحدة، وتاخد طريقة سريعة: النسبة الجديدة بتبقى أقرب لنسبة الخليط اللي كميته أكبر.
+
+**ليه مهم؟** المسائل دي مش بتيجي كتير في TYT، بس لما تيجي بتبقى درجة سهلة، والغلطة المشهورة إنك تاخد متوسط النسب بدل ما تجمع الجرامات.
+
+الدرس ٢٠ دقيقة بس، وكل مثال محلول خطوة بخطوة. هات ورقة وقلم وابدأ.
+
+</div>
 
 **Bu dersin sonunda:** saf madde miktarını sabit tutarak su ekleme, buharlaştırma, dökme ve iki karışımı birleştirme sorularını tek denklemle çözebileceksin.
 

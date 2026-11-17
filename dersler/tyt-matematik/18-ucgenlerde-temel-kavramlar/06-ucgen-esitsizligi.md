@@ -3,9 +3,23 @@ baslik: Üçgen Eşitsizliği
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 075c58448d
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgen Eşitsizliği
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن متباينة المثلث (üçgen eşitsizliği): إمتى تلات أطوال يعملوا مثلث، وإزاي تعرف الضلع التالت ممكن يكون قد إيه.
+
+- هتعرف إن كل ضلع لازم يكون أكبر من الفرق بين الضلعين التانيين وأصغر من مجموعهم، وتعدّ القيم الصحيحة اللي ياخدها الضلع التالت.
+- هتتعامل مع مثلثين بينهم ضلع مشترك (ortak kenar)، وتاخد الجزء المشترك من الفترتين.
+- هتضيّق الفترة لما يقولك الزاوية حادة (dar açı) أو منفرجة (geniş açı)، أو لما يدّيك ترتيب الزوايا.
+
+**ليه مهم؟** في جزء الهندسة في TYT السؤال ده بييجي كتير: "الضلع ياخد كام قيمة صحيحة؟"، والفخ دايمًا إنك تعدّ الأطراف وهي مش داخلة.
+
+الدرس ٢٠ دقيقة بس، وبعده السؤال ده هيبقى من الأسئلة اللي بتجيب درجتها مضمونة.
+
+</div>
 
 **Bu dersin sonunda:** iki kenarı bilinen bir üçgende üçüncü kenarın aralığını yazabilecek, ortak kenarlı iki üçgende aralıkları kesiştirebilecek ve açının dar ya da geniş olmasına göre aralığı daraltarak "kaç farklı tam sayı değeri alır?" sorusunu çözebileceksin.
 

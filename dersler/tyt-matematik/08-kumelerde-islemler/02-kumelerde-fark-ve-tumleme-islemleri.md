@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Kümelerde Fark ve Tümleme İşlemleri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن عمليتين جداد على المجموعات: الفرق (fark) والمكمّلة (tümleyen)، يعني العناصر اللي في مجموعة ومش في التانية، واللي برّه المجموعة بس جوّه المجموعة الشاملة (evrensel küme).
+
+- هتعرف تكتب فرق مجموعتين، وتفهم ليه الترتيب فيه بيفرق.
+- هتتعلم خواص المكمّلة وقانونَي دي مورجان (De Morgan) اللي بيقلبوا الاتحاد تقاطع والعكس.
+- هتقسم المجموعة الشاملة لأربع مناطق في شكل فن (Venn şeması) وتحل أسئلة "مين ما اختارش ولا حاجة".
+
+**ليه مهم؟** في TYT أسئلة "yalnız A" و "hiçbiri" بتيجي كتير، وأشهر غلطة إنك تطرح المنطقة المشتركة مرتين.
+
+الدرس ٢٠ دقيقة بس، وكل قاعدة قبلها مثال محلول خطوة بخطوة، فخدها بهدوء وهتمشي معاك.
+
+</div>
+
 **Bu dersin sonunda:** $A \setminus B$ ve $A'$ kümelerini yazabilecek, $s(A \setminus B) = s(A) - s(A \cap B)$ ve $s(A') = s(E) - s(A)$ bağıntılarıyla "yalnız birinde" ve "hiçbirinde" sorularını çözebileceksin.
 
 > **TYT'de yeri:** Fark ve tümleme, küme problemlerinin "yalnız A'yı seçen", "hiçbirini seçmeyen" kısımlarıdır. Sık gelen kalıplar: Venn şemasında taralı bölgeyi işlemle yazmak, $A' \setminus B'$ gibi ifadeleri sadeleştirmek ve "sınıftaki öğrencilerden kaçı iki kursa da gitmiyor?" türü günlük hayat problemleri.

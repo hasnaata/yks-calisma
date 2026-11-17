@@ -3,9 +3,23 @@ baslik: Faktöriyel Kavramı
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti aa423e9603
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Faktöriyel Kavramı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المضروب (faktöriyel): حاصل ضرب كل الأعداد من ١ لحد العدد نفسه، وإزاي تتعامل معاه من غير ما تحسب أرقام ضخمة.
+
+- هتتعلم تبسّط القسمة والجمع والطرح اللي فيها faktöriyel من غير ما تفكّها للآخر.
+- هتعرف تعدّ عامل أولي (asal çarpan) معيّن بيتكرر كام مرة جوه المضروب، وكام صفر في آخره.
+- هتلاقي طريقة سريعة تجيب بيها رقم الآحاد (birler basamağı) لمجموع كذا مضروب.
+
+**ليه مهم؟** faktöriyel هو لغة التباديل والتوافيق (permütasyon ve kombinasyon)، فهتقابله في كل سؤال عدّ في TYT، ولما بييجي لوحده أسئلته ليها أشكال ثابتة ومعروفة.
+
+الدرس ٢٠ دقيقة بس؛ احفظ الجدول اللي فيه كويس، وهيوفّر عليك وقت كتير في الامتحان.
+
+</div>
 
 **Bu dersin sonunda:** faktöriyelli bölme, toplama ve çıkarma işlemlerini açmadan sadeleştirebilecek, $n!$ içinde bir asal çarpanın kaç kez bulunduğunu ve $n!$ sayısının sonunda kaç sıfır olduğunu bulabileceksin.
 

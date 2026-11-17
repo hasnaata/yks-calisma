@@ -3,9 +3,23 @@ baslik: Bölünebilme Kuralları 1
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti f7b60732c9
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Bölünebilme Kuralları 1
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن قواعد قابلية القسمة (bölünebilme kuralları): إزاي تعرف باقي القسمة من غير ما تقسم العدد أصلًا.
+
+- هتعرف تبص على آخر رقم بس عشان 2 و 5 و 10، وعلى آخر رقمين عشان 4، وآخر تلات أرقام عشان 8.
+- هتتعلم مجموع الأرقام (rakam toplamı) عشان 3 و 9، والجمع بالإشارات من اليمين عشان 11.
+- هتحل مسائل فيها رقم مجهول (bilinmeyen rakam)، حتى لو فيه شرطين مع بعض.
+
+**ليه مهم؟** في TYT تقريبًا في كل امتحان بييجي سؤال واحد على الموضوع ده، وساعات بييجي في شكل كود أو كلمة سر أو تغليف.
+
+20 دقيقة وهتلاقي القسمة بقت أسهل بكتير من الأول.
+
+</div>
 
 **Bu dersin sonunda:** bir sayıyı bölmeden 2, 3, 4, 5, 8, 9, 10 ve 11 ile bölümünden kalanı bulabilecek ve $\overline{4a7b}$ gibi sayılarda bilinmeyen rakamları bölünebilme koşulundan çözebileceksin.
 

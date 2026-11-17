@@ -3,9 +3,23 @@ baslik: Önermeler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 417f2eca34
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Önermeler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أول خطوة في المنطق: القضية المنطقية (önerme)، يعني الجملة اللي تقدر تقول عليها صح أو غلط بشكل أكيد.
+
+- هتعرف تفرّق القضية عن غيرها: السؤال والأمر والتمنّي والرأي الشخصي مش قضايا، لكن الجملة الغلط بتفضل قضية برضه.
+- هتكتب قيمة الصواب (doğruluk değeri) لكل قضية، 1 أو 0، وتعرف إمتى قضيتين يبقوا متكافئين (denk).
+- هتبني جدول الصواب (doğruluk tablosu) وتعرف عدد صفوفه، وتكتب نفي القضية (değil) صح.
+
+**ليه مهم؟** أسئلة المنطق في TYT كلها قايمة على الأساسيات دي، وأشهر غلطة إن نفي "أكبر من" يتكتب "أصغر من" بدل "أصغر من أو يساوي".
+
+هما ٢٠ دقيقة بس، وده أساس بسيط هتبني عليه الدرس الجاي على طول.
+
+</div>
 
 **Bu dersin sonunda:** bir ifadenin önerme olup olmadığına karar verebilecek, önermelerin doğruluk değerini ve denkliğini yazabilecek, $n$ önermenin doğruluk tablosunu kurabilecek ve bir önermenin değilini doğru söyleyebileceksin.
 

@@ -3,9 +3,23 @@ baslik: EBOB-EKOK Kavramı ve Özellikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 09a0e51875
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # EBOB-EKOK Kavramı ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القاسم المشترك الأكبر (EBOB) والمضاعف المشترك الأصغر (EKOK) لعددين أو أكتر، وإزاي تطلّعهم بسرعة من العوامل الأولية (asal çarpanlar).
+
+- هتعرف القاعدة: في EBOB بتاخد الأساسات المشتركة بأصغر أُس، وفي EKOK بتاخد كل الأساسات بأكبر أُس.
+- هتستخدم إن حاصل ضرب العددين بيساوي EBOB مضروب في EKOK عشان تلاقي العدد الناقص، وده لعددين بس.
+- هتفهم الحالات الخاصة: الأعداد الأولية فيما بينها (aralarında asal)، ولما عدد يكون مضاعف للتاني.
+
+**ليه مهم؟** في TYT تقريبًا كل امتحان فيه سؤال واحد على الأقل على EBOB أو EKOK، وغالبًا مش مباشر، فلازم تكون فاهم الخواص كويس.
+
+الدرس ٢٠ دقيقة بس، وفيه رسومات Venn بتوضّح الفكرة. يلا بينا!
+
+</div>
 
 **Bu dersin sonunda:** iki ya da daha fazla sayının EBOB'unu ve EKOK'unu asal çarpanlardan hızlıca bulabilecek, $a \cdot b = \text{EBOB} \cdot \text{EKOK}$ özelliğiyle eksik sayıyı hesaplayabilecek ve ortak bölen ya da ortak kat sayısını EBOB ile EKOK'tan okuyabileceksin.
 

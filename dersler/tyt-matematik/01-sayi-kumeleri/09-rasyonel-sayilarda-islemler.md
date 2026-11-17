@@ -3,9 +3,23 @@ baslik: Rasyonel Sayılarda İşlemler
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 7999b16dd9
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Rasyonel Sayılarda İşlemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن العمليات الأربعة على الأعداد النسبية (rasyonel sayılar): إزاي تجمع وتطرح وتضرب وتقسم الكسور (kesirler) من غير ما تتلخبط.
+
+- هتعرف توحّد المقامات بالمضاعف المشترك الأصغر (EKOK) قبل الجمع والطرح، وتختصر قبل الضرب علشان الأرقام متكبرش.
+- هتتعلم في القسمة تقلب الكسر التاني بس وتضرب، وتمشي على ترتيب العمليات (işlem sırası) صح، وتحل الكسور المتداخلة (merdiven kesirler) من تحت لفوق.
+- هتفرّق في المسائل الكلامية بين "من الباقي" (kalanın) و"من الكل" (tamamının).
+
+**ليه مهم؟** في TYT بييجي سؤال أو اتنين على الكسور مباشرة كل سنة، وتقريبًا كل مسألة كلامية بتخلص بعملية كسور، فغلطة صغيرة زي إنك تنسى تقلب الكسر بتضيّع السؤال كله.
+
+هما ٢٥ دقيقة بس؛ امسك ورقة وقلم وحل الأمثلة معانا، وهتلاقي الكسور بقت سهلة عليك.
+
+</div>
 
 **Bu dersin sonunda:** kesirlerle dört işlemi doğru sırayla yapabilecek, iç içe (merdiven) kesirleri sadeleştirebilecek ve "kalanın $\frac{2}{3}$'ü" gibi ifadeleri doğru çarpıma çevirebileceksin.
 

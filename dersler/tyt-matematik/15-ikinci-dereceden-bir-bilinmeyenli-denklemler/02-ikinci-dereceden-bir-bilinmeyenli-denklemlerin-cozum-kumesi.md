@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن حل معادلة الدرجة التانية في مجهول واحد (ikinci dereceden denklem)، وإزاي تكتب مجموعة الحل (çözüm kümesi) كاملة من غير ما يضيع منك ولا جذر (kök).
+
+- هتتعلم التحليل للعوامل (çarpanlara ayırma) وتساوي كل عامل بالصفر، حتى لو معامل التربيع مش واحد.
+- هتعرف تحل بالجذر التربيعي وبإكمال المربع (tam kareye tamamlama) لما التحليل مايمشيش.
+- هتستخدم التعويض بمتغير جديد (değişken değiştirme) في معادلات الدرجة الرابعة، وترجع للمجهول الأصلي في الآخر.
+
+**ليه مهم؟** في TYT ممكن ييجي سؤال مباشر عن مجموعة الحل أو مجموع الجذور، بس الأكتر إن مسألة كلامية عن مساحة أو أعمار أو أعداد تتحول لمعادلة زي دي، وساعتها لازم تشيل الجذر السالب أو الكسري اللي مالوش معنى.
+
+هو ٢٥ دقيقة، وكل طريقة معاها مثال محلول خطوة بخطوة. هات ورقة وقلم وحل معاه.
+
+</div>
+
 **Bu dersin sonunda:** ikinci dereceden bir denklemi çarpanlara ayırarak, karekök alarak, tam kareye tamamlayarak ya da değişken değiştirerek çözebilecek ve çözüm kümesini kök kaybetmeden yazabileceksin.
 
 > **TYT'de yeri:** "Çözüm kümesi nedir?", "büyük kök kaçtır?", "kökler toplamı kaçtır?" soruları doğrudan gelir. Daha sık olanı, bir problemi (alan, yaş, tokalaşma, sayı) denkleme çevirip bu derste öğreneceğin yollarla çözmendir. Problemlerde negatif ya da kesirli kökü elemeyi unutma.

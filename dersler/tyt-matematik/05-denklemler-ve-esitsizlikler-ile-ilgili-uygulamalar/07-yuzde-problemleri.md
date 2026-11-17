@@ -3,9 +3,23 @@ baslik: Yüzde Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 94e996a2a3
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Yüzde Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل النسبة المئوية (yüzde problemleri): إزاي تحسب نسبة من رقم، وإزاي تعرف الرقم كله لو عارف نسبة منه.
+
+- هتعرف تحسب التغيّر بالنسبة المئوية (yüzde değişim)، وليه دايمًا بنقسم على القيمة القديمة.
+- هتفهم ليه زيادة 20 في المية وبعدها تخفيض 20 في المية ما بيرجّعوش السعر زي ما كان.
+- هتتعلم حيلة إنك تفرض المبلغ الأصلي 100x، وتحسب "نسبة من الباقي" (kalanın yüzdesi) صح.
+
+**ليه مهم؟** تقريبًا في كل TYT فيه سؤال واحد على الأقل على النسبة المئوية، وهي الأساس لمسائل المكسب والخسارة (kâr-zarar) والخلطات.
+
+الدرس 20 دقيقة بس، وهتلاقي الحسبة بقت أسهل بكتير مما كنت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** bir sayının yüzdesini, yüzdesi verilen sayının tamamını ve yüzde değişimi bulabilecek; art arda yapılan artış ve azalışları çarpanla tek adımda hesaplayabileceksin.
 

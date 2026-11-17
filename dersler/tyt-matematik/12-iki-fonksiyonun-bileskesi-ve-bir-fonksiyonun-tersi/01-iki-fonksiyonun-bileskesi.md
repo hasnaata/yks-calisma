@@ -3,9 +3,23 @@ baslik: İki Fonksiyonun Bileşkesi
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 36ad81c827
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İki Fonksiyonun Bileşkesi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تركيب الدوال، أو الدالة المركّبة (bileşke fonksiyon): يعني تدخّل رقم في دالة، وتاخد الناتج تدخّله في دالة تانية، وكأنهم دالة واحدة.
+
+- هتعرف إن الترتيب بيمشي من اليمين للشمال: الدالة الداخلية الأول وبعدين الخارجية، وإن تبديل الترتيب غالبًا بيغيّر النتيجة.
+- هتحسب الدالة المركّبة من القاعدة، ومن المخطط السهمي (ok şeması)، ومن الجدول، ومن الرسم البياني (grafik).
+- هتتعلم تجيب الدالة المجهولة لو اديتك الدالة المركّبة ودالة واحدة بس من الاتنين.
+
+**ليه مهم؟** في TYT بييجي سؤال مباشر تحسب فيه قيمة الدالة المركّبة، أو تقراها من رسم، أو تطلّع دالة ناقصة، وفي أسئلة الجيل الجديد بتظهر على شكل عمليتين ورا بعض، زي خصم وبعده كوبون.
+
+قدامك حوالي ٢٥ دقيقة بأمثلة محلولة خطوة بخطوة، خد وقتك وهتلاقي الفكرة بسيطة أكتر ما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** iki fonksiyonun bileşkesini kuraldan, ok şemasından, tablodan ve grafikten hesaplayabilecek, bileşkesi verilen fonksiyonlardan bilinmeyeni bulabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Fonksiyonlarda Dört İşlem
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 4e05a4ffc0
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Fonksiyonlarda Dört İşlem
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن العمليات الأربعة على الدوال (fonksiyonlarda dört işlem): إزاي تجمع وتطرح وتضرب وتقسم دالتين على بعض.
+
+- هتحسب مجموع وفرق وحاصل ضرب وخارج قسمة دالتين عند نفس قيمة x، سواء الدالة جاية بقاعدة أو قائمة أزواج أو رسم بياني.
+- هتعرف تحدد مجال الدالة الجديدة (tanım kümesi): العناصر المشتركة بين المجالين بس، ومن غيرها القيم اللي بتخلّي المقام صفر في القسمة.
+- هتتعلم لو اديناك مجموع دالتين والفرق بينهم، تطلّع كل دالة لوحدها.
+
+**ليه مهم؟** أسئلة TYT هنا قصيرة بس فيها فخاخ: القوس في الطرح، والخلط بين الضرب وتركيب الدوال (bileşke)، والمجال المشترك.
+
+الدرس ٢٠ دقيقة، وأغلبه أمثلة محلولة خطوة بخطوة. هات ورقة وقلم وامشي معاه.
+
+</div>
 
 **Bu dersin sonunda:** iki fonksiyonun toplamını, farkını, çarpımını, bölümünü ve bir fonksiyonun sabitle çarpımını kuraldan, listeden ya da grafikten hesaplayabilecek, bu yeni fonksiyonların tanım kümesini doğru belirleyebileceksin.
 

@@ -3,9 +3,23 @@ baslik: Üslü İfade İçeren Denklem ve Eşitsizlikler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 1b30d425e4
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üslü İfade İçeren Denklem ve Eşitsizlikler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المعادلات والمتباينات اللي فيها المجهول طالع في الأُس، يعني معادلات أسية (üslü denklemler) ومتباينات (eşitsizlikler).
+
+- هتتعلم توحّد الأساس (taban) في الطرفين وبعدين تساوي الأُسس (üsler)، وليه ده ما ينفعش لو الأساس 1 أو صفر أو سالب 1.
+- هتعرف الفرق بين الأُس الفردي والأُس الزوجي، والحالات التلاتة اللي يطلع فيها الناتج 1 من غير ما تنسى ولا حالة.
+- هتحل المتباينات صح، وتعرف إمتى اتجاه المتباينة بيتقلب لما الأساس يكون بين الصفر والواحد.
+
+**ليه مهم؟** كل سنة بييجي من سؤال لسؤالين على üslü ifadeler في TYT، والغلط فيهم غالبًا بيكون حالة اتنسيت أو اتجاه ما اتقلبش.
+
+الدرس كله 20 دقيقة، فيه أمثلة محلولة خطوة بخطوة ورسومات توضيحية. خدها بهدوء وهتمسكها كويس.
+
+</div>
 
 **Bu dersin sonunda:** bilinmeyeni üste olan bir denklemi tabanları eşitleyerek çözebilecek, $x^n = y^n$ ve $a^b = 1$ denklemlerindeki bütün durumları yakalayabilecek ve üslü bir eşitsizliği tabanın 1'den büyük ya da küçük olmasına göre doğru yönde çözebileceksin.
 

@@ -3,9 +3,23 @@ baslik: Birinci Dereceden Bir Bilinmeyenli Denklemler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 18df908184
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Birinci Dereceden Bir Bilinmeyenli Denklemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المعادلة من الدرجة الأولى في مجهول واحد (birinci dereceden bir bilinmeyenli denklem): إزاي تحلها خطوة بخطوة من غير ما تتلخبط في الإشارات.
+
+- هتحل معادلات فيها أقواس وكسور، وتتأكد من الحل بالتعويض.
+- هتعرف من المعاملات (katsayılar) إمتى المعادلة ليها جذر (kök) واحد، وإمتى مجموعة الحل (çözüm kümesi) تبقى كل الأعداد الحقيقية أو مجموعة خالية (boş küme).
+- هتتعلم تطلّع المعامل المجهول لما يدّوك جذر المعادلة.
+
+**ليه مهم؟** السؤال المباشر عليه قليل في TYT، بس تقريبًا كل مسألة كلامية في الامتحان بتتحول في الآخر لمعادلة زي دي، فلو أتقنتها هتوفّر وقت كتير.
+
+٢٠ دقيقة بس، ومعاك ميزان ورسومات بتوضّح الفكرة. ابدأ دلوقتي وهتلاقيه أسهل ما انت متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** parantezli ve kesirli bir denklemi hatasız çözebilecek, çözüm kümesinin tek kök, $\mathbb{R}$ ya da $\varnothing$ olduğunu katsayılardan anlayabilecek ve kökü verilen bir denklemde bilinmeyen katsayıyı bulabileceksin.
 

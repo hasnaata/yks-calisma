@@ -3,9 +3,23 @@ baslik: 30°, 45° ve 60°'nin Trigonometrik Oranları
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 08d4da8df9
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # 30°, 45° ve 60°'nin Trigonometrik Oranları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن النسب المثلثية للزوايا الخاصة (özel açılar): 30 و 45 و 60 درجة، اللي هتقابلها في مسائل كتير جدًا.
+
+- هتطلّع قيم الجيب وجيب التمام والظل وظل التمام (sinüs, kosinüs, tanjant, kotanjant) من مثلث متساوي الأضلاع (eşkenar üçgen) ومن المربع (kare)، من غير حفظ أعمى.
+- هتعرف طريقة سهلة تفتكر بيها الجدول كله، وتفرّق بين 30 و 60 من غير لخبطة.
+- هتتعلم تنزّل عمود (dikme) في مثلث مش قائم عشان تقسمه لمثلثين خاصين وتحسب الضلع الناقص.
+
+**ليه مهم؟** الزوايا دي هي الأكتر استخدامًا في TYT، سواء في سؤال حسابي مباشر أو في موقف من الحياة زي سلم أو ضل أو منحدر، وأكتر غلطة إن الطالب يحط قيمة 30 مكان 60.
+
+الدرس ٢٠ دقيقة بس، وبعده الزوايا دي هتبقى في جيبك. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** $30^\circ$, $45^\circ$ ve $60^\circ$'nin sinüs, kosinüs, tanjant ve kotanjant değerlerini eşkenar üçgenden ve kareden birkaç saniyede çıkarıp bir dik üçgende eksik kenarı ya da bir ifadenin değerini bulabileceksin.
 

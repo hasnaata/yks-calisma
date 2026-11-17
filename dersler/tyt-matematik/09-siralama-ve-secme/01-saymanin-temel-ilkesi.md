@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Saymanın Temel İlkesi
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مبدأ العدّ الأساسي (saymanın temel ilkesi): إزاي تعرف اختيار معيّن ممكن يتعمل بكام طريقة من غير ما تعدّهم واحد واحد.
+
+- هتفهم إمتى تجمع الحالات اللي بينها "أو" (ya da)، وإمتى تضرب الخطوات اللي بينها "و" (ve).
+- هتتعلم طريقة الخانات (kutu yöntemi): تفتح خانة لكل حد بيختار، وتعرف الفرق لما التكرار مسموح أو ممنوع.
+- هتحل مسائل الأرقام (rakam problemleri) وتبدأ بالخانة اللي عليها شرط، وتعدّ "واحد على الأقل" (en az bir) عن طريق العكس.
+
+**ليه مهم؟** كل سنة في TYT بييجي سؤال تباديل (permütasyon) أو توافيق (kombinasyon) أو احتمالات (olasılık)، وكلهم مبنيين على الدرس ده، زي "كام عدد أرقامه مختلفة؟" و"كام شفرة ممكنة؟".
+
+الدرس ٢٥ دقيقة بس، ولو مسكت أساسه كويس الباب ده كله هيبقى أسهل عليك.
+
+</div>
+
 **Bu dersin sonunda:** bir seçimin kaç farklı biçimde yapılabileceğini, "ya da" durumlarını toplayarak ve "ve" adımlarını çarparak, rakam ve dağıtım sorularında kısıtlı yerden başlayarak hesaplayabileceksin.
 
 > **TYT'de yeri:** Her yıl permütasyon, kombinasyon ya da olasılık sorusu gelir ve hepsi bu derse dayanır. Tek başına en sık çıkan kalıplar: "rakamları farklı kaç sayı yazılabilir?", "kaç farklı şifre / kombin oluşturulabilir?", "kaç farklı yoldan gidilebilir?" ve "en az biri ... olan kaç tane var?".

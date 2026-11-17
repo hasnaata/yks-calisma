@@ -3,9 +3,23 @@ baslik: Sayı Kümeleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti fb85b97e86
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Sayı Kümeleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مجموعات الأعداد (sayı kümeleri): إزاي تعرف أي عدد تبع أنهي مجموعة، من الأعداد الطبيعية لحد الأعداد الحقيقية (gerçek sayılar).
+
+- هتفرّق بين الأعداد الطبيعية (doğal sayılar) والأعداد الصحيحة (tam sayılar) والأعداد النسبية (rasyonel sayılar) والأعداد غير النسبية (irrasyonel sayılar).
+- هتتعلم تبسّط الجذر التربيعي (karekök) الأول قبل ما تحكم على العدد، وتحدد مكانه تقريبًا على خط الأعداد (sayı doğrusu).
+- هتعرف إمتى جمع أو ضرب عددين غير نسبيين ممكن يطلع عدد نسبي، وإزاي تدوّر على مثال مضاد (karşı örnek).
+
+**ليه مهم؟** أسئلة المجموعات دي لوحدها قليلة في TYT، بس كلمة زي "tam sayı" أو "doğal sayı" في نص السؤال ممكن تقلب الإجابة خالص.
+
+الدرس ٢٠ دقيقة بس، وهو أساس كل اللي جاي في الرياضيات، فابدأ بيه وإنت مركّز.
+
+</div>
 
 **Bu dersin sonunda:** verilen bir sayının doğal, tam, rasyonel ya da irrasyonel olduğunu kökü sadeleştirerek karar verebilecek, irrasyonel bir sayının sayı doğrusundaki yerini tahmin edebilecek ve rasyonel–irrasyonel sayılarla yapılan işlemlerin sonucunu yorumlayabileceksin.
 

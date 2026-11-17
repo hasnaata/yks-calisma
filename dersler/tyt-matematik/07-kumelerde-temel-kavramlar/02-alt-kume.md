@@ -3,9 +3,23 @@ baslik: Alt Küme
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 0e9a9d8a87
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alt Küme
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المجموعة الجزئية (alt küme): إمتى نقول إن مجموعة جوّه مجموعة تانية، وإزاي نعدّ كل المجموعات الجزئية من غير ما نكتبها واحدة واحدة.
+
+- هتفرّق بين "عنصر في المجموعة" (eleman) و"مجموعة جزئية منها"، وده بالذات اللي ناس كتير بتغلط فيه.
+- هتعرف تحسب عدد المجموعات الجزئية والمجموعات الجزئية الفعلية (öz alt küme)، وكمان اللي فيها عناصر معيّنة أو مافيهاش.
+- هتفهم إمتى مجموعتين يبقوا متساويين (eşit kümeler).
+
+**ليه مهم؟** عدد المجموعات الجزئية هو أكتر حتة بتيجي من أسئلة المجموعات (kümeler) في TYT، وغالبًا في شكل موقف من الحياة زي اختيار مكونات من منيو أو تكوين فريق.
+
+الدرس ٢٠ دقيقة بس، والفكرة كلها سؤال واحد بتسأله لكل عنصر: موجود ولا مش موجود؟ يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** "eleman" ile "alt küme" ilişkisini karıştırmadan yazabilecek, $n$ elemanlı bir kümenin alt küme ve öz alt küme sayısını, belli elemanları içeren ya da içermeyen alt kümelerin sayısını bulabilecek ve iki kümenin eşitliğini kullanabileceksin.
 

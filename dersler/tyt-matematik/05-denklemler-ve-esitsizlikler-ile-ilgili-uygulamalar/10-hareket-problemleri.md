@@ -3,9 +3,23 @@ baslik: Hareket Problemleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti a5770ab95d
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Hareket Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل الحركة (hareket problemleri): المسافة والسرعة والزمن، وإزاي تربط بينهم في أي مسألة.
+
+- هتعرف إن المسافة (yol) هي السرعة (hız) مضروبة في الزمن (zaman)، وتحوّل من كيلومتر في الساعة لمتر في الثانية.
+- هتحسب امتى عربيتين يتقابلوا (karşılaşma) لو ماشيين عكس بعض، وامتى واحدة تلحق التانية (yetişme) لو ماشيين في نفس الاتجاه، وكمان في المضمار الدايري (dairesel pist).
+- هتتعلم تحسب متوسط السرعة (ortalama hız) صح: المسافة الكلية على الزمن الكلي، مش متوسط السرعتين.
+
+**ليه مهم؟** في كل امتحان TYT تقريبًا بييجي سؤال حركة، وساعات بيبقى في رسم بياني للمسافة والزمن.
+
+الدرس ٢٥ دقيقة، والفكرة واحدة في كل الأنواع؛ لو مسكتها هتحل أي سؤال بسهولة.
+
+</div>
 
 **Bu dersin sonunda:** yol = hız $\cdot$ zaman bağıntısıyla birim çevirebilecek, karşılaşma ve yetişme sürelerini bulabilecek ve ortalama hızı doğru hesaplayabileceksin.
 

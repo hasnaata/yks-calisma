@@ -3,9 +3,23 @@ baslik: Tam Küp, İki Küp Toplamı ve Farkı ile Çarpanlara Ayırma
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti c49f4ae1ab
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tam Küp, İki Küp Toplamı ve Farkı ile Çarpanlara Ayırma
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التحليل باستخدام التكعيب: مكعب مجموع حدّين أو الفرق بينهم (tam küp)، ومجموع مكعبين والفرق بين مكعبين (iki küp toplamı ve farkı).
+
+- هتحفظ فك مكعب المجموع والفرق، والمعاملات اللي بتمشي 1 و 3 و 3 و 1، وتعرف تشوف المقدار ده من غير ما تفكّه.
+- هتحلّل مجموع مكعبين والفرق بينهم بقاعدة الإشارات السهلة: نفس الإشارة، عكسها، وبعدين موجب على طول.
+- هتعرف تطلع قيمة مجموع المكعبات لو معاك المجموع وحاصل الضرب، وتختصر كسور وحسابات بأرقام كبيرة.
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي واحد من دول عامل (çarpan) للمقدار؟" أو اختصار كسر أو حساب سريع، وهنا الحفظ الصح للقاعدة بيوفّر عليك وقت كتير.
+
+الدرس ٢٠ دقيقة، وأغلبه أمثلة محلولة خطوة بخطوة. خد نفسك وابدأ.
+
+</div>
 
 **Bu dersin sonunda:** $(a \pm b)^3$ açılımını ve $a^3 \pm b^3$ kalıbını bir ifadede tanıyıp çarpanlarına ayırabilecek, "$a + b$ ile $ab$ verilmiş, $a^3 + b^3$ kaçtır?" sorularını tek satırda çözebileceksin.
 

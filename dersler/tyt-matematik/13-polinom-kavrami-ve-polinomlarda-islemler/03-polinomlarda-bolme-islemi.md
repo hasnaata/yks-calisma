@@ -3,9 +3,23 @@ baslik: Polinomlarda Bölme İşlemi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 188ef0d5f1
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Polinomlarda Bölme İşlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن قسمة كثيرات الحدود (polinomlarda bölme): إزاي تقسم كثيرة حدود على تانية وتطلّع خارج القسمة (bölüm) والباقي (kalan).
+
+- هتتعلم القسمة المطوّلة (uzun bölme) خطوة بخطوة: تقسم، تضرب، تطرح، ولو فيه حد ناقص تحط مكانه صفر.
+- هتعرف تجيب درجة خارج القسمة ودرجة الباقي من غير ما تقسم أصلًا.
+- هتستخدم علاقة القسمة (bölme eşitliği) عشان تلاقي كثيرة الحدود نفسها، أو مجموع معاملاتها، أو معامل مجهول لما القسمة تبقى من غير باقي.
+
+**ليه مهم؟** في TYT نادرًا ما بييجي سؤال قسمة مطوّلة لوحده، لكن علاقة القسمة دي بتتسأل كتير، والدرس الجاي كله مبني عليها.
+
+هو ٢٠ دقيقة بس؛ امسك ورقة وقلم وامشي مع الأمثلة، وهتلاقيها أسهل مما متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** bir polinomu uzun bölmeyle bölüp bölümü ve kalanı bulabilecek, bölme eşitliğini $P(x) = Q(x) \cdot B(x) + K(x)$ kullanarak bilinmeyen polinomu ya da katsayıyı bulabilecek ve bölüm ile kalanın derecesini bölme yapmadan söyleyebileceksin.
 

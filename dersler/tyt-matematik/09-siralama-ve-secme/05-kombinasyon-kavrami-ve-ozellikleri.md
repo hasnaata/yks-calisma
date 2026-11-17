@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Kombinasyon Kavramı ve Özellikleri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التوافيق (kombinasyon): لما تختار مجموعة من الحاجات والترتيب مش فارق، زي إنك تختار فريق من 3 أشخاص من فصل فيه 8.
+
+- هتعرف تفرّق بين التباديل (permütasyon) اللي الترتيب فيه مهم، والتوافيق اللي الترتيب فيها مش مهم.
+- هتتعلم الخواص المهمة: إن اختيار اللي هيروحوا هو نفسه اختيار اللي هيفضلوا، وإزاي تجمع توفيقتين متتاليتين في توفيقة واحدة.
+- هتعرف تعدّ الاختيارات لما عنصر معيّن لازم يكون موجود أو ممنوع يكون موجود، وتحسب عدد المجموعات الجزئية (alt kümeler).
+
+**ليه مهم؟** في TYT بييجي سؤال زي "كام فريق أو لجنة ممكن نختار؟" أو معادلة توافيق قصيرة، والغلطة الأشهر إنك تحسبها تباديل وهي توافيق.
+
+الدرس ٢٥ دقيقة، وفيه أمثلة محلولة خطوة بخطوة. خُد وقتك وهتلاقيه أسهل ما تتخيّل.
+
+</div>
+
 **Bu dersin sonunda:** sıranın önemsiz olduğu seçimleri $C(n, r)$ ile sayabilecek, $C(n, r) = C(n, n - r)$ ve $C(n, r) + C(n, r + 1) = C(n + 1, r + 1)$ özelliklerini denklemde kullanabilecek ve "belirli eleman bulunsun / bulunmasın" seçimlerini sayabileceksin.
 
 > **TYT'de yeri:** Kombinasyon çoğu zaman "kaç farklı ekip / grup / komisyon seçilebilir?" diye sorulur. Ayrıca $C(n, 2) = 28$ gibi kısa bir denklem, $C(n, a) = C(n, b)$ eşitliği ya da "şu kişi mutlaka bulunsun, bu kişi bulunmasın" koşullu bir seçim sorusu gelir.

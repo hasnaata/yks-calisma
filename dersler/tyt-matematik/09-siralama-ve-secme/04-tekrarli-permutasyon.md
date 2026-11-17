@@ -3,9 +3,23 @@ baslik: Tekrarlı Permütasyon
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 2d7a05988e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tekrarlı Permütasyon
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التباديل مع التكرار (tekrarlı permütasyon): إزاي تعدّ الترتيبات لما يكون فيه حاجات متشابهة زي حروف متكررة في كلمة أو كور بنفس اللون.
+
+- هتفهم ليه بنقسم على مضروب (faktöriyel) عدد التكرار، وتطبّق ده على الكلمات والأرقام.
+- هتحل الأسئلة اللي فيها شرط: حرف في الأول، حروف جنب بعض، الصفر ميجيش في أول الرقم، أو ناس لازم يقفوا بترتيب معيّن.
+- هتعدّ أقصر الطرق (en kısa yol) على شبكة مربعات، وتعرف تتصرف لما تختار جزء بس من الحروف.
+
+**ليه مهم؟** في TYT تقريبًا كل امتحان فيه سؤال عدّ مبني على القاعدة دي، والأشكال بتاعته معروفة وبتتكرر.
+
+الدرس ٢٥ دقيقة، وأغلبه أمثلة محلولة خطوة بخطوة. ابدأ بهدوء، وهتلاقيه أسهل ما انت متخيل.
+
+</div>
 
 **Bu dersin sonunda:** içinde özdeş nesneler bulunan bir dizilişi (tekrarlı harfli kelime, aynı renkli bilyeler, tekrarlı rakamlı sayı, ızgarada en kısa yol) $\frac{n!}{n_1! \cdot n_2! \cdot \ldots}$ ile sayabilecek ve koşullu soruları bu kurala bağlayabileceksin.
 

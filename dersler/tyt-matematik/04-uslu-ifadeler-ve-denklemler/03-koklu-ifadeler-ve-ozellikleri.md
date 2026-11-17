@@ -3,9 +3,23 @@ baslik: Köklü İfadeler ve Özellikleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti c53a0b0cfd
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Köklü İfadeler ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الجذور (köklü ifadeler): إمتى الجذر يبقى ليه معنى، وإزاي تبسّطه وتعمل عليه العمليات الأربعة.
+
+- هتعرف إمتى الجذر الزوجي يبقى معرّف، وليه الجذر التربيعي لمربع عدد بيطلع بالقيمة المطلقة (mutlak değer).
+- هتتعلم تطلّع أكبر مربع كامل برا الجذر، وتجمع الجذور المتشابهة بس، وتضرب جذور مختلفة الدرجة (derece) بعد ما توحّد درجتها.
+- هتنطّق المقام بالضرب في المرافق (eşlenik)، وتفك الجذر الخاص (özel kök) اللي جواه جذر تاني.
+
+**ليه مهم؟** في TYT بييجي سؤال أو اتنين كل سنة على الجذور، وأشهر غلطة إنك تنسى القيمة المطلقة أو توزّع الجذر على مجموع عددين.
+
+الدرس ٢٥ دقيقة، وكل قاعدة قبلها مثال محلول خطوة بخطوة. ابدأ وانت مطمّن، هتلاقيه أسهل ما انت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** bir köklü ifadenin tanımlı olup olmadığına karar verebilecek, kökleri sadeleştirip dört işlem yapabilecek, farklı dereceli kökleri karşılaştırabilecek ve paydayı eşlenikle kökten kurtarabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Ardışık Sayılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 6b6a0b7f99
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Ardışık Sayılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأعداد المتتالية (ardışık sayılar): أعداد جاية ورا بعض والفرق بين كل عدد واللي بعده ثابت، وده اسمه الفرق الثابت (ortak fark)، زي الأعداد الزوجية أو الفردية المتتالية.
+
+- هتعرف تحسب عدد الحدود (terim sayısı) من أول حد لآخر حد، من غير ما تنسى تزوّد واحد في الآخر.
+- هتتعلم تجمع الحدود بسرعة لما تكتبها مرة من الأول ومرة من الآخر، وهتحفظ تلات مجاميع جاهزة.
+- هتعرف تطلّع الأعداد نفسها لو معاك مجموعها بس، عن طريق الحد الأوسط (ortanca terim).
+
+**ليه مهم؟** في TYT بييجي سؤال زي "مجموع خمس أعداد فردية متتالية كذا، أصغرهم كام؟"، أو مسألة من الحياة فيها كراسي أو صفحات بتزيد بانتظام، ولو جبت عدد الحدود صح تبقى خلّصت نص الحل.
+
+الدرس ٢٠ دقيقة بس وكل قاعدة فيه قبلها مثال محلول خطوة بخطوة، هات ورقة وقلم ويلّا بينا.
+
+</div>
 
 **Bu dersin sonunda:** düzenli artan bir sayı dizisinin kaç terimden oluştuğunu ve terimlerinin toplamını hızlıca bulabilecek, "ardışık üç çift sayının toplamı 78" gibi bir bilgiden sayıların kendisini çıkarabileceksin.
 

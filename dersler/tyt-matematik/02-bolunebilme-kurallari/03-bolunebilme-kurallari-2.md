@@ -3,9 +3,23 @@ baslik: Bölünebilme Kuralları 2
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti afccf19128
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Bölünebilme Kuralları 2
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** بنكمّل قواعد قابلية القسمة (bölünebilme kuralları)، والمرة دي على أعداد زي 6 و12 و15 و24 و45.
+
+- هتعرف تفكّ المقسوم عليه لعاملين أوليين فيما بينهما (aralarında asal) وتختبر كل قاعدة لوحدها.
+- هتتعلم قاعدة القسمة على 25 من آخر رقمين، وإزاي تلاقي الأرقام المجهولة وتبدأ دايمًا من آخر رقم.
+- هتعرف تجيب باقي القسمة (kalan) على 12 مثلًا من الباقي على 3 والباقي على 4.
+
+**ليه مهم؟** تقريبًا في كل امتحان TYT بييجي سؤال من النوع ده، وفيه فخ مشهور: العدد اللي بيقبل القسمة على 4 و6 مش شرط يقبل القسمة على 24.
+
+هي عشرين دقيقة بس، وبعدها هتحل الأسئلة دي وانت واثق من نفسك.
+
+</div>
 
 **Bu dersin sonunda:** 6, 12, 15, 18, 24, 30, 44, 45 gibi bir sayıya bölünebilmeyi aralarında asal iki çarpanın kurallarıyla sınayabilecek, 25 ile bölünebilmeyi son iki basamaktan okuyabilecek ve böyle bir sayıya bölümden kalanı küçük kalanlardan bulabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Üçgenlerde Benzerlik
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 1928b82e41
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgenlerde Benzerlik
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تشابه المثلثات (benzerlik): إمتى نقول إن مثلث هو نسخة مكبّرة أو مصغّرة من مثلث تاني، وإزاي نستفيد من ده.
+
+- هتعرف تثبت التشابه بأي حالة من التلاتة: زاويتين (A.A.)، ضلعين والزاوية اللي بينهم (K.A.K.)، أو التلات أضلاع (K.K.K.).
+- هتتعلم تطابق الرؤوس صح وتستخدم نسبة التشابه (benzerlik oranı) عشان تجيب ضلع أو ارتفاع ناقص.
+- هتفهم إن الارتفاع والمحيط (çevre) بيتضربوا في نفس النسبة، لكن المساحة (alan) بتتضرب في مربعها.
+
+**ليه مهم؟** في جزء الهندسة في TYT تقريبًا كل سنة فيه سؤال قايم على التشابه، وأغلب الغلط بييجي من مطابقة الرؤوس غلط أو قلب النسبة.
+
+الدرس ٢٠ دقيقة بس، وكل قاعدة معاها رسمة ومثال محلول. خدها خطوة خطوة وهتلاقيها سهلة.
+
+</div>
 
 **Bu dersin sonunda:** iki üçgenin benzer olduğunu A.A., K.A.K. ya da K.K.K. ile gösterip benzerlik oranından bilinmeyen kenarı, yüksekliği ya da çevreyi bulabileceksin.
 

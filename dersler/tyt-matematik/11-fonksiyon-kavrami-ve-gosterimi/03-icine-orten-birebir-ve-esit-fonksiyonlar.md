@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # İçine, Örten, Birebir ve Eşit Fonksiyonlar
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أنواع الدوال: إمتى الدالة تبقى غير شاملة (içine) وإمتى تبقى شاملة (örten)، وإمتى تبقى أحادية (bire bir)، وإمتى نقول إن دالتين متساويتين (eşit fonksiyonlar).
+
+- هتعرف تحدد نوع الدالة من المخطط السهمي ومن القاعدة ومن الرسم البياني، باختبار الخط الأفقي.
+- هتتعلم تعدّ الدوال الأحادية بين مجموعتين، وتقارن عدد العناصر عشان تحل السؤال في خطوة واحدة.
+- هتفهم إن الدالتين متساويتين لو ليهم نفس المجال والمجال المقابل ونفس القيمة عند كل عنصر.
+
+**ليه مهم؟** في TYT الأفكار دي بتيجي جوه أسئلة الدوال: "أنهي دالة bire bir؟" أو "كام دالة bire bir ممكن نكتب؟"، وكمان bire bir هي الأساس اللي هتبني عليه الدالة العكسية بعدين.
+
+الدرس ده ٢٠ دقيقة بس، خد ورقة وقلم وارسم الأسهم بإيدك، وهتلاقيه أسهل مما تتخيل.
+
+</div>
+
 **Bu dersin sonunda:** bir fonksiyonun içine mi örten mi, bire bir olup olmadığını ok şemasından, kuralından ve grafiğinden söyleyebilecek; bire bir fonksiyonları sayabilecek ve iki fonksiyonun eşit olup olmadığına karar verebileceksin.
 
 > **TYT'de yeri:** Bu kavramlar çoğu zaman tek başına değil, bir fonksiyon sorusunun içinde gelir: "aşağıdakilerden hangisi bire birdir?", "$f$ örten olduğuna göre değer kümesi nedir?", "kaç tane bire bir fonksiyon yazılabilir?" ve "$f = g$ olduğuna göre $a$ kaçtır?" en sık kalıplardır. Bire bir fonksiyon, ileride ters fonksiyonun da ön koşuludur.

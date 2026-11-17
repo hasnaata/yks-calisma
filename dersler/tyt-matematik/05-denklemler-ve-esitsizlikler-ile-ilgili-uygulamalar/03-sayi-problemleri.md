@@ -3,9 +3,23 @@ baslik: Sayı Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 364ee2b827
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Sayı Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المسائل الكلامية للأعداد (sayı problemleri): إزاي تحوّل كلام المسألة جملة جملة لمعادلة (denklem) أو متباينة (eşitsizlik) وتحلّها.
+
+- هتتعلم تترجم عبارات زي "3 أضعاف العدد ناقص 5" صح، وتاخد بالك إن الترتيب بيفرق.
+- هتحل مسائل مجموع وفرق عددين، ونوعين من الحاجات زي ترابيزات بـ4 كراسي وترابيزات بـ6، ومسائل التوزيع اللي فيها حاجة بتزيد أو بتنقص.
+- هتشتغل على الأعداد المتتالية (ardışık sayılar) والمسائل اللي محتاجة متباينة زي "أكبر عدد صحيح".
+
+**ليه مهم؟** دي من أول أسئلة جزء المسائل في TYT وبييجي منها كذا سؤال كل سنة، والدرجة بتضيع غالبًا لما تفتكر إن المجهول اللي طلعته هو المطلوب.
+
+الدرس 20 دقيقة بس، وبعده هتقرا أي مسألة كلامية بثقة أكتر.
+
+</div>
 
 **Bu dersin sonunda:** bir problem metnini cümle cümle cebirsel ifadeye çevirip tek bilinmeyenli bir denklem ya da eşitsizlik kurabilecek ve sonunda sorunun gerçekten istediği sayıyı verebileceksin.
 

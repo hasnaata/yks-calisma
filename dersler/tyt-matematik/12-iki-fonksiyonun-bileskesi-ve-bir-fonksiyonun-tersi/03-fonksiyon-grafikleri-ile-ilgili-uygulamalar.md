@@ -3,9 +3,23 @@ baslik: Fonksiyon Grafikleri ile İlgili Uygulamalar
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 4ea6fcd12f
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Fonksiyon Grafikleri ile İlgili Uygulamalar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** إزاي تقرا رسمة الدالة (fonksiyon grafiği) صح، وتستخدمها تحل مسائل من الحياة اليومية.
+
+- هتعرف تجيب قيمة الدالة وقيمة الدالة العكسية (ters fonksiyon) من الرسمة، وتعرف إمتى تبص على محور x وإمتى على محور y، حتى في تركيب الدوال (bileşke).
+- هتعرف تحدد فين الرسمة فوق محور x وفين تحته، وتطلّع قاعدة الخط المستقيم من نقطتين باستخدام الميل (eğim).
+- هتحوّل مسألة زي شمعتين بيولّعوا أو خزانين مية لدالة خطية (doğrusal fonksiyon)، وتلاقي إمتى يتساووا من نقطة تقاطع الخطين.
+
+**ليه مهم؟** في TYT بييجي كتير سؤال عليه رسمة جاهزة أو حكاية من الحياة، والغلطة المشهورة هي إنك تقرا من المحور الغلط.
+
+الدرس ٢٥ دقيقة بس وفيه رسومات كتير توضّحلك كل خطوة، خد وقتك وهتلاقيه أسهل مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** bir grafikten $f(a)$, $f^{-1}(b)$ ve bileşke değerlerini doğru eksenden okuyabilecek, iki noktası bilinen doğrunun kuralını yazabilecek ve günlük hayattaki doğrusal bir durumu fonksiyona çevirip çözebileceksin.
 

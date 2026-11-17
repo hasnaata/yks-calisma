@@ -3,9 +3,23 @@ baslik: Polinom Kavramı
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b24c173fec
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Polinom Kavramı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن كثيرات الحدود (polinom): إمتى نقول على تعبير جبري إنه polinom، وإزاي نقرا أجزاءه.
+
+- هتعرف إن المهم هو الأُس بتاع x: لازم يكون عدد طبيعي، أما المعامل فممكن يكون كسر أو جذر عادي.
+- هتطلّع الدرجة (derece) والمعامل الرئيسي (baş katsayı) والحد الثابت (sabit terim) من غير لخبطة في الإشارة.
+- هتعوّض بـ 1 و 0 و سالب 1 عشان تجيب مجموع المعاملات (katsayılar toplamı)، وتلاقي المجاهيل لما polinom يساوي polinom تاني.
+
+**ليه مهم؟** أغلب أسئلة polinom في TYT مبنية على الأفكار دي بالظبط، والحساب فيها قليل، المهم تعوّض بالرقم الصح في المكان الصح.
+
+٢٠ دقيقة بس، وده أساس كل اللي جاي في الوحدة، فخلّيه يثبت كويس من أول مرة.
+
+</div>
 
 **Bu dersin sonunda:** bir ifadenin polinom olup olmadığını söyleyebilecek, derece, baş katsayı ve sabit terimi bulabilecek, $P(1)$, $P(0)$ ve $P(-1)$ ile katsayı toplamlarını hesaplayabilecek ve eşit polinomlarda bilinmeyen katsayıları bulabileceksin.
 

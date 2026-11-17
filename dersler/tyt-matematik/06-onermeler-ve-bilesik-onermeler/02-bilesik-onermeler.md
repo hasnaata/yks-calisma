@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Bileşik Önermeler
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القضايا المركّبة (bileşik önermeler): لما نربط قضيتين أو أكتر بأداة ربط زي "و" (ve) أو "أو" (veya) أو "يا ده يا ده" (ya da)، وإزاي نعرف الجملة كلها صح ولا غلط.
+
+- هتعرف تحسب قيمة الصدق (doğruluk değeri) لأي قضية مركّبة خطوة بخطوة، وتمشي بالعكس من النتيجة للأجزاء.
+- هتفرّق كويس بين "veya" اللي بتبقى صح لو واحدة على الأقل صح، و"ya da" اللي بتبقى صح لو واحدة بس صح.
+- هتتعلم قوانين دي مورجان (De Morgan) عشان تكتب نفي (değil) أي قضية مركّبة صح.
+
+**ليه مهم؟** أغلب أسئلة المنطق في TYT جاية من الدرس ده، وساعات بتيجي في شكل دايرة كهربا أو قاعدة إنذار.
+
+الدرس ٢٥ دقيقة، والجداول والرسومات هتسهّل عليك الفكرة جدًا. يلا بينا.
+
+</div>
+
 **Bu dersin sonunda:** "ve", "veya", "ya da" bağlaçlarıyla kurulan bir bileşik önermenin doğruluk değerini bulabilecek, sonucu bilinen bir önermeden bileşenlerin değerini geri çıkarabilecek ve De Morgan kurallarıyla bir bileşik önermenin değilini yazabileceksin.
 
 > **TYT'de yeri:** Mantık sorularının çoğu bu derstendir. Üç kalıp sık gelir: "$p \equiv 1$, $q \equiv 0$ ise hangisi doğrudur?", "$(p \vee q') \wedge r \equiv 1$ ise $p$, $q$, $r$ nedir?" ve "hangi önermenin değili / hangisine denktir?". Yeni nesil sorularda bağlaç bir devre, bir alarm kuralı ya da yeni tanımlanan bir işlemle verilir.

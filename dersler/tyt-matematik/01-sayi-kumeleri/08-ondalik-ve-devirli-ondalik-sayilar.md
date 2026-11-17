@@ -3,9 +3,23 @@ baslik: Ondalık ve Devirli Ondalık Sayılar
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti a3f464f3e4
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Ondalık ve Devirli Ondalık Sayılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأعداد العشرية (ondalık sayılar) والأعداد العشرية الدورية (devirli ondalık sayılar)، وإزاي تحسب بيها من غير ما الفاصلة العشرية (virgül) تلخبطك.
+
+- هتعرف تجمع وتطرح وتضرب وتقسم أعداد عشرية، وتحط الفاصلة في مكانها الصح في الناتج.
+- هتعرف من مقام الكسر بعد ما تبسّطه لو الناتج هيطلع عشري منتهي (sonlu) ولا دوري، من غير ما تقسم.
+- هتتعلم طريقة سريعة تحوّل بيها العدد الدوري لكسر، وترتّب (sıralama) الكسور والأعداد العشرية صح.
+
+**ليه مهم؟** في TYT تقريبًا كل امتحان فيه سؤال حساب مباشر بالأعداد العشرية أو الدورية، وأسئلة ترتيب كتير، وكمان أسئلة جديدة عن أسعار وقياسات لازم تعرف فيها الفاصلة تروح فين.
+
+الدرس ٢٥ دقيقة بس، وهتخلّصه وإنت واثق في كل فاصلة. يلا نبدأ.
+
+</div>
 
 **Bu dersin sonunda:** ondalık sayılarla dört işlemi virgül hatası yapmadan yapabilecek, bir kesrin sonlu mu devirli mi olduğunu söyleyebilecek, devirli bir sayıyı kesre çevirebilecek ve kesirleri ya da ondalık sayıları sıralayabileceksin.
 

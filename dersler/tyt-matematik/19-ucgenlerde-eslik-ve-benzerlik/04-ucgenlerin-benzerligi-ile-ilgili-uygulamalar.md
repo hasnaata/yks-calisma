@@ -3,9 +3,23 @@ baslik: Üçgenlerin Benzerliği İle İlgili Uygulamalar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 21788ad791
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgenlerin Benzerliği İle İlgili Uygulamalar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن إزاي تستخدم تشابه المثلثات (üçgenlerde benzerlik) في مواقف من الحياة اليومية، وتطلّع الطول المجهول بنسبة واحدة بس.
+
+- هتحسب طول ضل (gölge) شخص واقف جنب عمود نور في الشارع.
+- هتعرف ارتفاع طرف المرجيحة الخشب (tahterevalli) ولوح منحدر (rampa) ساند على صناديق.
+- هتلاقي ارتفاع نقطة تقاطع حبلين مشدودين بالعرض بين عمودين.
+
+**ليه مهم؟** في TYT التشابه بييجي غالبًا في شكل موقف من الحياة، والسر إنك تلاقي المثلثين اللي شايلين نفس الزاوية وتقيس الأضلاع من الرأس المشترك.
+
+٢٠ دقيقة بس، وكل حالة معاها رسمة توضّحها. خد نفسك وابدأ.
+
+</div>
 
 **Bu dersin sonunda:** sokak lambası–gölge, tahterevalli, kutulara yaslanan rampa ve çapraz gerilen ip durumlarında iç içe geçmiş benzer üçgenleri görüp tek bir orantıyla bilinmeyen uzunluğu bulabileceksin.
 

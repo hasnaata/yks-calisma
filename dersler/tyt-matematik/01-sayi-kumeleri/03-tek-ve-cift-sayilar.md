@@ -3,9 +3,23 @@ baslik: Tek ve Çift Sayılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 11e883cea3
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tek ve Çift Sayılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأعداد الزوجية (çift sayılar) والأعداد الفردية (tek sayılar)، وإزاي تعرف ناتج أي عملية زوجي ولا فردي من غير ما تحسبه أصلًا.
+
+- هتعرف ليه الصفر عدد زوجي، وإن الأعداد السالبة هي كمان يا زوجية يا فردية.
+- هتتعلم قواعد الجمع والطرح (toplama ve çıkarma) والضرب (çarpma) والأُسس (kuvvetler): إمتى الناتج يطلع زوجي وإمتى يطلع فردي.
+- هتعرف تحل أسئلة "hangisi kesinlikle doğrudur" (أنهي إجابة صح أكيد؟)، وتطلّع المجهول زوجي ولا فردي، ولو شاكك تجرّب بأرقام صغيرة زي 0 و1 و2.
+
+**ليه مهم؟** النوع ده من الأسئلة بييجي كتير في TYT، وغالبًا مش محتاج حسابات خالص، محتاج تفتكر القاعدة صح وتاخد بالك من فخ زي الأس صفر.
+
+الدرس كله ٢٠ دقيقة بس، وبعدها هتبص لأي عملية وتعرف نتيجتها زوجي ولا فردي في ثانية.
+
+</div>
 
 **Bu dersin sonunda:** bir toplamın, farkın, çarpımın ya da kuvvetin tek mi çift mi olduğunu sayıları hesaplamadan bulabilecek ve "hangisi kesinlikle doğrudur?" sorularında bilinmeyenin tek ya da çift olduğunu çıkarabileceksin.
 

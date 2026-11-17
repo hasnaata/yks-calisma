@@ -3,9 +3,23 @@ baslik: Fonksiyon Kavramı ve Gösterimi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 7cc0376018
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Fonksiyon Kavramı ve Gösterimi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الدالة (fonksiyon): إمتى الربط بين مجموعتين يتسمّى دالة، وإزاي تكتبها وتقراها بأكتر من طريقة.
+
+- هتعرف تحكم على أي ربط (eşleme) هل هو دالة ولا لأ: كل عنصر في المجموعة الأولى لازم يطلع منه سهم واحد بس.
+- هتفرّق بين المجال (tanım kümesi) والمجال المقابل (değer kümesi) والمدى (görüntü kümesi).
+- هتتعلم تحسب كام دالة ممكن تتعرّف من مجموعة لمجموعة، وتلاقي المجهول لما الدالة تكون مكتوبة كأزواج مرتبة (sıralı ikililer).
+
+**ليه مهم؟** أغلب أسئلة الدوال في TYT مبنية على الكتابة والمصطلحات دي، وأسئلة زي «أنهي واحدة دالة؟» و«كام دالة ممكن تتعرّف؟» بتيجي من الدرس ده على طول.
+
+هما ٢٠ دقيقة بس، ورسومات الأسهم هتخلّي الفكرة واضحة قدامك. يلا نبدأ.
+
+</div>
 
 **Bu dersin sonunda:** bir eşlemenin fonksiyon olup olmadığına karar verebilecek, tanım, değer ve görüntü kümesini ayırabilecek ve iki küme arasında kaç fonksiyon yazılabileceğini hesaplayabileceksin.
 

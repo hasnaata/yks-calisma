@@ -3,9 +3,23 @@ baslik: Asal ve Aralarında Asal Sayılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 55a84c2edf
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Asal ve Aralarında Asal Sayılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأعداد الأولية (asal sayılar)، وكمان عن الأعداد الأولية فيما بينها (aralarında asal sayılar)، يعني عددين ملهمش قاسم مشترك غير 1.
+
+- هتعرف تختبر أي عدد بسرعة وتقول هو أولي ولا لأ، من غير ما تقسم على كل الأعداد.
+- هتتعلم الحركة المشهورة في المعادلات اللي فيها أعداد أولية: لو الفردي والزوجي مش راكبين، يبقى واحد منهم لازم يكون 2.
+- هتعرف تطلّع المجاهيل من مساواة فيها عددين أوليين فيما بينهم، بعد ما تختصر الأرقام الأول.
+
+**ليه مهم؟** في TYT الـ asal sayılar غالبًا مش بتيجي لوحدها، بتيجي جوه سؤال تاني، ولو نسيت إن 1 مش عدد أولي أو مجربتش الـ 2 هيروح منك السؤال.
+
+20 دقيقة بس وتبقى فاهم الموضوع من جوه، يلا نبدأ.
+
+</div>
 
 **Bu dersin sonunda:** bir sayının asal olup olmadığını hızlıca test edebilecek, asal sayı içeren denklemlerde "biri 2 olmalı" çıkarımını yapabilecek ve aralarında asal sayılarla kurulan eşitliklerden bilinmeyenleri bulabileceksin.
 

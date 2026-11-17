@@ -3,9 +3,23 @@ baslik: Asal Çarpanlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti aa74283ccd
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Asal Çarpanlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن تحليل العدد لعوامله الأولية (asal çarpanlarına ayırma): إزاي تكتب أي عدد كحاصل ضرب أعداد أولية (asal sayılar) بالأُسس.
+
+- هتتعلم طريقة القسمة المتتالية (bölme merdiveni) وتبدأ دايمًا بأصغر عدد أولي، يعني 2.
+- هتعرف تحسب عدد القواسم الموجبة (pozitif bölen sayısı) من الأُسس بس: تزوّد كل أُس واحد وتضربهم في بعض.
+- هتفرّق بين القواسم الموجبة والسالبة والصحيحة (tam sayı bölenleri)، وتعرف مجموع اللي مش أولية منها.
+
+**ليه مهم؟** سؤال "العدد ده له كام قاسم؟" بييجي كتير في TYT، والتحليل ده هو أول خطوة في القاسم المشترك الأكبر والمضاعف المشترك الأصغر (EBOB - EKOK) والجذور والاختصار.
+
+الدرس ٢٠ دقيقة بس، ولو مسكت الفكرة دي هتلاقي حاجات كتير بعدها بقت أسهل.
+
+</div>
 
 **Bu dersin sonunda:** bir sayıyı asal çarpanlarına ayırıp üslü biçimde yazabilecek, bu yazımdan sayının pozitif, negatif ve tam sayı bölenlerinin sayısını ve asal olmayan bölenlerinin toplamını bulabileceksin.
 

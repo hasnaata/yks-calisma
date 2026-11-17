@@ -27,3 +27,5 @@ Her derse 3–5 görsel eklendi: toplam 237 (Pele şemaları, Wikimedia Commons'
 ## [2026-11-17] ders yaz | TYT Matematik: 107 ders + alıştırma yazıldı (toplam 109); kör çözüm ve editör denetimi henüz yapılmadı, yayınlanmadı
 
 ## [2026-11-18] denetle | TYT Matematik: 107 ders kör çözüm + editör denetiminden geçti (3 cevap anahtarı düzeltmesi, tümü temiz); yönetmen denetimi: satır içi formül işleme hatası (assets/uygulama.js) ve bir seçenek sırası düzeltildi; yayınlandı
+
+## [2026-11-18] güncelle | TYT Matematik: 109 derse Mısır Arapçası giriş kutusu (Opus yazımı; 109u tek tek okundu, iddialar dersle karşılaştırıldı, 3 küçük düzeltme)

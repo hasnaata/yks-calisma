@@ -3,9 +3,23 @@ baslik: Tanım, Aksiyom, Teorem ve İspat Kavramları
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti f65ea46531
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tanım, Aksiyom, Teorem ve İspat Kavramları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأساس اللي الرياضيات كلها مبنية عليه: التعريف (tanım)، والمسلّمة (aksiyom)، والنظرية (teorem)، والبرهان (ispat).
+
+- هتفرّق بين الحاجات اللي بنقبلها من غير تعريف، زي النقطة والمستقيم والمستوى، والحاجات اللي بنعرّفها بيها.
+- هتكتب أي نظرية على شكل "لو كذا يبقى كذا"، وتطلّع منها الفرض (hipotez) والمطلوب (hüküm).
+- هتفهم إن كام مثال مش برهان، وإن مثال مضاد (karşı örnek) واحد كفاية يوقّع أي ادعاء.
+
+**ليه مهم؟** الموضوع ده نادر ييجي لوحده في TYT، بس فكرته مستخبية في أسئلة كتير من النوع الجديد، زي إنك تدوّر على الرقم اللي بيكسر ادعاء معيّن.
+
+٢٠ دقيقة بس، وبيهم تقفل موضوع القضايا (önermeler) كله. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** bir cümlenin tanım mı, aksiyom mu, teorem mi olduğunu ayırt edebilecek, bir teoremi $p \Rightarrow q$ biçiminde yazıp hipotezini ve hükmünü bulabilecek, bir iddiayı ispatla doğrulamanın ya da tek bir karşı örnekle çürütmenin yolunu gösterebileceksin.
 

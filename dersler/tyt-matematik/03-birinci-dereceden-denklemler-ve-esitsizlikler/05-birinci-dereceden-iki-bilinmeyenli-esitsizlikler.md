@@ -3,9 +3,23 @@ baslik: Birinci Dereceden İki Bilinmeyenli Eşitsizlikler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 01d11ac5c1
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Birinci Dereceden İki Bilinmeyenli Eşitsizlikler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المتباينات من الدرجة الأولى في مجهولين (birinci dereceden iki bilinmeyenli eşitsizlikler): الحل هنا مش نقطة ولا خط، ده منطقة كاملة في المستوى الإحداثي (analitik düzlem).
+
+- هتتعلم ترسم الخط الحدودي (sınır doğrusu)، وتعرف إمتى يبقى خط متصل (düz) وإمتى يبقى متقطّع (kesikli).
+- هتعرف تختار الناحية اللي تتظلّل بنقطة تجربة، وتعرف المنطقة المظلّلة (taralı bölge) في الرسمة بتمثّل أنهي متباينة.
+- هتعدّ أزواج الأعداد الصحيحة الموجبة (pozitif tam sayı ikilileri) اللي بتحقق المتباينة، واحد واحد ومن غير ما يفوتك حاجة.
+
+**ليه مهم؟** في TYT السؤال ده غالبًا بييجي برسمة، والغلطة المشهورة إنك تنسى تقلب الإشارة لما تقسم على عدد سالب أو تلخبط بين الخط المتصل والمتقطّع.
+
+الدرس ٢٠ دقيقة بس، وفيه رسومات كتير بتوضّح كل خطوة. خده بالراحة وهتلاقيه أسهل ما انت متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** $ax + by \le c$ gibi bir eşitsizliğin çözüm bölgesini analitik düzlemde çizebilecek, verilen taralı bölgenin hangi eşitsizliği gösterdiğini bulabilecek ve bölgedeki tam sayı noktalarını sayabileceksin.
 

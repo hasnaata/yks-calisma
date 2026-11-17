@@ -3,9 +3,23 @@ baslik: Olasılıkta Temel Kavramlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 2b4cdac8ac
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Olasılıkta Temel Kavramlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** ده أول درس في الاحتمالات: هنتعلم نعدّ كل النتايج الممكنة لتجربة زي رمي عملة أو زهر، ونعدّ النتايج اللي إحنا عايزينها.
+
+- هتكتب فضاء العينة (örnek uzay) وتعرف عدد عناصره، زي إن عملتين ليهم 4 نتايج وزهرين ليهم 36.
+- هتفرّق بين الحدث المستحيل (imkânsız olay) والحدث الأكيد (kesin olay)، وتعرف إمتى حدثين يبقوا متنافيين (ayrık olaylar).
+- هتستخدم الحدث المكمّل (tümleyen) عشان تحل أسئلة "على الأقل واحد" بسرعة.
+
+**ليه مهم؟** أي سؤال احتمالات في TYT بيقوم على رقمين: عدد عناصر فضاء العينة وعدد عناصر الحدث المطلوب، والدرس ده بيعلّمك تطلعهم صح من غير ما تقع في فخ العدّ.
+
+عشرين دقيقة بس، وبعدها هتبدأ أسئلة الاحتمالات وإنت فاهم أساسها.
+
+</div>
 
 **Bu dersin sonunda:** bir deneyin örnek uzayını yazıp eleman sayısını bulabilecek, istenen olayın kaç elemanlı olduğunu sayabilecek ve ayrık olay, tümleyen, imkânsız olay ve kesin olay kavramlarını ayırt edebileceksin.
 

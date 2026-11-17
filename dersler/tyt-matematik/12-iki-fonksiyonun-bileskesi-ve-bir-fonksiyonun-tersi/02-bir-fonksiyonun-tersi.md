@@ -3,9 +3,23 @@ baslik: Bir Fonksiyonun Tersi
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 9f29a60f53
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Bir Fonksiyonun Tersi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الدالة العكسية (ters fonksiyon): إزاي ترجّع الدالة من النتيجة للرقم اللي دخل فيها، كأنك بتلغي العملية.
+
+- هتعرف إمتى الدالة يبقى ليها عكسية: لازم تكون أحادية وشاملة (bire bir ve örten).
+- هتتعلم تجيب قاعدة العكسية، وتحسب قيمة واحدة منها من غير ما تجيب القاعدة، وتستخدم طريقة مختصرة للدالة الكسرية (kesirli fonksiyon).
+- هتشوف العكسية مع تركيب الدوال (bileşke)، وإن رسمتها بتبقى متماثلة مع رسمة الدالة حوالين منصّف الربع الأول والتالت.
+
+**ليه مهم؟** في TYT بييجي سؤال مباشر على قيمة العكسية، أو سؤال من الجيل الجديد فيه عملية لازم ترجعها لورا، وأشهر غلطة إنك تحسب الدالة نفسها بدل عكسيتها.
+
+الدرس ٢٥ دقيقة، وكل قاعدة فيه معاها مثال محلول خطوة بخطوة. خدها بالراحة وهتلاقيها سهلة.
+
+</div>
 
 **Bu dersin sonunda:** bire bir ve örten bir fonksiyonun tersini kuraldan, ok şemasından ve grafikten bulabilecek, $f^{-1}(a)$ değerini kuralı bulmadan hesaplayabilecek ve tersi bileşke sorularında kullanabileceksin.
 

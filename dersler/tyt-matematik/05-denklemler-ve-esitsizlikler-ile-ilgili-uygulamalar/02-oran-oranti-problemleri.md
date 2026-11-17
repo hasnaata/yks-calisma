@@ -3,9 +3,23 @@ baslik: Oran-Orantı Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 5b79ab590f
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Oran-Orantı Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل النسبة والتناسب (oran-orantı problemleri): إزاي تعرف العلاقة بين كميتين وتحل المسألة من غير لف ودوران.
+
+- هتفرّق بين التناسب الطردي (doğru orantı) اللي فيه خارج القسمة ثابت، والتناسب العكسي (ters orantı) اللي فيه حاصل الضرب ثابت.
+- هتتعلم تقسّم مبلغ بالتناسب الطردي أو العكسي مع أرقام معيّنة، وتستخدم المضاعف المشترك الأصغر (EKOK) عشان توصل بسرعة.
+- هتحل مسائل العمال والأيام والأكل اللي بيخلص، حتى لو الموقف اتغيّر في النص، ومسائل التناسب المركّب (bileşik orantı) اللي فيها أكتر من كميتين.
+
+**ليه مهم؟** في TYT كل سنة فيه سؤال على الأقل قايم على التناسب، والسر كله إنك تختار نوعه صح قبل ما تحسب.
+
+الدرس ٢٠ دقيقة بس، وأول ما تمسك فكرة "واحد زاد، التاني عمل إيه؟" هتلاقي المسائل دي سهلة.
+
+</div>
 
 **Bu dersin sonunda:** bir problemdeki iki çokluğun doğru mu ters mi orantılı olduğuna karar verip doğru çarpımı kurabilecek, bir miktarı verilen sayılarla doğru ya da ters orantılı paylaştırabileceksin.
 

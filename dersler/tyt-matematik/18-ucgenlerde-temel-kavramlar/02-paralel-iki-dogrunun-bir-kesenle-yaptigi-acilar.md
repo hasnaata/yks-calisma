@@ -3,9 +3,23 @@ baslik: Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 583bb8ac94
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مستقيمين متوازيين (paralel doğrular) بيقطعهم مستقيم تالت اسمه القاطع (kesen)، والتمن زوايا اللي بتطلع من التقاطع ده.
+
+- هتعرف إن التمن زوايا ليهم قيمتين بس: الحادة كلها قد بعض، والمنفرجة كلها قد بعض، والحادة مع المنفرجة مجموعهم 180 درجة.
+- هتفرّق بين الزوايا المتناظرة (yöndeş) والمتبادلة من جوه (iç ters) والمتبادلة من بره (dış ters) اللي بتبقى متساوية، والزاويتين الداخلتين في جهة واحدة من القاطع (karşı durumlu açılar) اللي مجموعهم 180.
+- هتحل شكل حرف Z والخط المكسور (kırık çizgi) في خطوة واحدة: الزاوية اللي عند الكسرة بتساوي مجموع الزاويتين اللي على الطرفين.
+
+**ليه مهم؟** في TYT الفكرة دي بتيجي سؤال لوحدها أو أول خطوة في سؤال مثلث، وأشهر شكل خط مكسور بين متوازيين والمطلوب زاوية مجهولة.
+
+الدرس ٢٠ دقيقة بس، وبعده أي زاوية بين متوازيين هتبان لك من أول نظرة.
+
+</div>
 
 **Bu dersin sonunda:** paralel iki doğru ve bir kesenin oluşturduğu sekiz açıdan birini bilince ötekilerin hepsini bulabilecek, "Z" ve kırık çizgi şekillerinde bilinmeyen açıyı tek adımda hesaplayabileceksin.
 

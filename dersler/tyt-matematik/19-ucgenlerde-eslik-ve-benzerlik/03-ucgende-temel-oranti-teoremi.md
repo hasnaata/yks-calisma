@@ -3,9 +3,23 @@ baslik: Üçgende Temel Orantı Teoremi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti bba21e0006
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Temel Orantı Teoremi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نظرية التناسب في المثلث (temel orantı teoremi): لما تشد خط موازي لضلع في المثلث، إزاي يقسم الضلعين التانيين بنفس النسبة.
+
+- هتعرف تكتب التناسب صح وتطلع الطول المجهول على طول، وإمتى تقسم على الضلع كله مش على الجزء بس.
+- هتتعلم القطعة المتوسطة (orta taban): القطعة اللي بتوصّل منتصفي ضلعين بتبقى موازية للضلع التالت وطولها نصه بالظبط.
+- هتفهم نظرية طاليس (Thales teoremi): المستقيمات المتوازية بتقسم أي قاطعين بنفس النسبة.
+
+**ليه مهم؟** في TYT الصعوبة مش في الحسبة، الصعوبة إنك تختار الأجزاء الصح للتناسب، والاختيارات دايمًا فيها نتيجة التناسب الغلط عشان توقعك.
+
+الدرس ٢٠ دقيقة بس وكله رسومات واضحة، خليك مركز وهتلاقيه أسهل مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** bir kenara paralel çizilen doğrunun ya da paralel doğruların oluşturduğu parçalardan doğru orantıyı kurup bilinmeyen uzunluğu tek adımda bulabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Periyodik Problemler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 3e385c2ca5
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Periyodik Problemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المسائل الدورية (periyodik problemler): حاجات بتتكرر كل فترة ثابتة زي أيام الأسبوع وساعات اليوم، وإزاي تحلها بالقسمة على الدورة (periyot) وتبص على الباقي (kalan) بس.
+
+- هتعرف تجيب "بعد كام يوم هيبقى يوم إيه؟" وكمان "من كام يوم كان يوم إيه؟".
+- هتفهم ليه المرة رقم 10 بتيجي بعد 9 فترات مش 10، وإزاي تستخدم المضاعف المشترك الأصغر (EKOK) لما حاجتين يتكرروا ويحصلوا مع بعض.
+- هتتعلم تجيب العنصر رقم كذا في سلسلة بتتكرر، زي ألوان اللمبات، وإيه معنى إن الباقي يطلع صفر.
+
+**ليه مهم؟** في TYT تقريبًا كل امتحان فيه سؤال قايم على فكرة الدورة دي، والفخ المشهور إنك تعد المرات غلط بفرق واحد.
+
+هي 20 دقيقة بس، والفكرة واحدة بتتكرر في كل الأسئلة، أول ما تمسكها هتحلهم بسهولة.
+
+</div>
 
 **Bu dersin sonunda:** "kaç gün sonra hangi gün?", "kaçıncı kez hangi gün?", "iki olay kaçıncı kez birlikte?" ve "tekrar eden dizinin kaçıncı elemanı?" sorularını periyoda bölüp kalana bakarak çözebileceksin.
 

@@ -3,9 +3,23 @@ baslik: İkinci Dereceden Bir Bilinmeyenli Denklemler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 33f3fe2a0a
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İkinci Dereceden Bir Bilinmeyenli Denklemler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن معادلة الدرجة التانية في مجهول واحد (ikinci dereceden bir bilinmeyenli denklem): إزاي تعرفها، وتقرا معاملاتها، وتتأكد من جذورها.
+
+- هتعرف تحكم إذا كانت المعادلة من الدرجة التانية ولا لأ، بعد ما تجمع كل الحدود في ناحية وتبسّطها، مش من شكلها.
+- هتقرا المعاملات (katsayılar) بإشارتها صح، وتلاقي قيمة البارامتر اللي يخلّي المعادلة من الدرجة التانية.
+- هتجرّب رقم وتشوف هو جذر (kök) ولا لأ، ولو جذر معروف تطلع منه المعامل المجهول.
+
+**ليه مهم؟** ده أساس الموضوع كله في TYT: أسئلة "أنهي معادلة من الدرجة التانية؟" و"لو جذرها 2 يبقى k كام؟" بتيجي على طول، ومسائل كتير بتوصلك لمعادلة زي دي.
+
+٢٠ دقيقة بس، ومعاك رسومات بتوضّح ليه المعادلة دي ليها جذرين بالكتير. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** bir denklemin ikinci dereceden olup olmadığını düzenleyerek anlayabilecek, katsayılarını okuyabilecek, verilen bir sayının kök olup olmadığını deneyebilecek ve bir kökü verilen denklemde bilinmeyen katsayıyı bulabileceksin.
 

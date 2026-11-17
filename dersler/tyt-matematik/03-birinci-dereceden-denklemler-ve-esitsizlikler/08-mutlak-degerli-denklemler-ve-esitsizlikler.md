@@ -3,9 +3,23 @@ baslik: Mutlak Değerli Denklemler ve Eşitsizlikler
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti d86a66b754
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Mutlak Değerli Denklemler ve Eşitsizlikler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المعادلات والمتباينات اللي فيها القيمة المطلقة (mutlak değer)، وإزاي تحلها بفكرة واحدة بسيطة: القيمة المطلقة دي مسافة (uzaklık) على خط الأعداد.
+
+- هتحل المعادلات (denklemler) وتعرف إمتى يبقى ليها حلّين، أو حل واحد، أو مفيش حل خالص لما الطرف التاني يطلع سالب.
+- هتتعلم تراجع الجذور (kökler) لما المجهول يبقى برّه القيمة المطلقة كمان، وترمي الحل اللي مش بيحقق المعادلة.
+- هتفرّق في المتباينات (eşitsizlikler) بين "أصغر من" اللي بتدّيك فترة واحدة في النص، و"أكبر من" اللي بتدّيك حتتين برّه.
+
+**ليه مهم؟** كل سنة تقريبًا فيه سؤال واحد على الأقل من القيمة المطلقة في TYT، زي "مجموع الجذور كام؟" أو "كام عدد صحيح بيحقق المتباينة؟".
+
+الدرس ٢٥ دقيقة، وفيه رسومات على خط الأعداد هتخلّي الفكرة تثبت في دماغك. هات ورقة وقلم ويلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** $|ax + b| = c$, $|ax + b| < c$ ve $|ax + b| > c$ biçimindeki denklem ve eşitsizlikleri "uzaklık" fikriyle çözebilecek, değişken mutlak değerin dışında da varsa bulduğun kökleri kontrol edebileceksin.
 

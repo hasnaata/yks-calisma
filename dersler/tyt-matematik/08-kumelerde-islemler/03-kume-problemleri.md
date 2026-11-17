@@ -3,9 +3,23 @@ baslik: Küme Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 828737039b
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Küme Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل المجموعات (küme problemleri): إزاي تحوّل مسألة من الحياة اليومية لشكل فِن (Venn şeması) أو جدول وتطلّع منه الرقم المطلوب.
+
+- هتعرف إن الشكل فيه ٤ مناطق، وتملاهم بالترتيب: الجزء المشترك الأول، بعدين اللي بيعمل حاجة واحدة بس (yalnız)، وفي الآخر اللي برّه.
+- هتفرّق بين "على الأقل واحد" (en az biri) و"على الأكثر واحد" (en çok biri) و"ولا واحد" (hiçbiri)، وكل واحدة بتاخد أنهي مناطق.
+- هتتعلم طريقة الجدول (tablo yöntemi) لما الناس تتقسم لمجموعتين زي بنات وولاد، وإزاي تحسب "أقل عدد" ممكن يعمل الحاجتين مع بعض.
+
+**ليه مهم؟** كل سنة بييجي سؤال واحد على الأقل من مسائل المجموعات في TYT، والغلطة المشهورة إنك تعدّ الجزء المشترك مرتين.
+
+الدرس ٢٠ دقيقة بس، ولو فهمت المناطق الأربعة كويس هتحل أي مسألة منهم بسهولة.
+
+</div>
 
 **Bu dersin sonunda:** bir günlük hayat problemini Venn şemasına ya da tabloya döküp "en az biri", "en çok biri", "yalnız biri", "hiçbiri" gibi ifadelerin hangi bölgeleri anlattığını bilerek istenen sayıyı bulabileceksin.
 

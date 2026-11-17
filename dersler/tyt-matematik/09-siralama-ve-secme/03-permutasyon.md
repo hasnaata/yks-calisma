@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Permütasyon
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التباديل (permütasyon): بنعدّ بكام طريقة نقدر نرتّب حاجات مختلفة، لما الترتيب يفرق.
+
+- هتعرف تحسب بكام طريقة ترتّب جزء من حاجات مختلفة بطريقة الخانات والمضروب (faktöriyel)، وتحل معادلات بسيطة فيها.
+- هتتعلم تحل مسائل فيها شروط: واحد في مكان معيّن، اتنين جنب بعض (yan yana)، أو مش جنب بعض.
+- هتعرف تعدّ الترتيبات اللي لازم يكون فيها عنصر معيّن أو ممنوع يكون فيها.
+
+**ليه مهم؟** في TYT التباديل بييجي كتير من غير ما يتقال اسمه، في صورة "بكام طريقة يقفوا في صف؟"، وأشهر غلطة إنك تنسى ترتيب اللي جوه البلوك (blok).
+
+الدرس ٢٥ دقيقة، وبعدها هتبص لأي سؤال ترتيب وتعرف تبدأ منين على طول.
+
+</div>
+
 **Bu dersin sonunda:** $n$ farklı nesneden $r$ tanesinin kaç farklı biçimde sıralanabileceğini $P(n, r)$ ile hesaplayabilecek, $P(n, r)$ içeren denklemleri çözebilecek ve "belirli yerde", "yan yana", "yan yana olmasın", "mutlaka bulunsun" kısıtlı sıralamaları sayabileceksin.
 
 > **TYT'de yeri:** Permütasyon çoğu zaman adı geçmeden sorulur: "kaç farklı biçimde sıralanabilir?", "ilk üç derece kaç farklı biçimde oluşabilir?", "X ile Y yan yana olmak koşuluyla kaç farklı sıralama vardır?" gibi. Ayrıca $P(n, r)$ içeren kısa bir denklem sorusu da gelebilir.

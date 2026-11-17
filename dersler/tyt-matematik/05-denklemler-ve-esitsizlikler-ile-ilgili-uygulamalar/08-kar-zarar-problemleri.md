@@ -3,9 +3,23 @@ baslik: Kâr-Zarar Problemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti a5221a5e18
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kâr-Zarar Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل المكسب والخسارة (kâr-zarar problemleri): إزاي تعرف البيّاع كسب ولا خسر، وبنسبة كام في المية.
+
+- هتعرف إن نسبة المكسب أو الخسارة بتتحسب دايمًا من سعر التكلفة (maliyet)، مش من سعر البيع.
+- هتتعلم تحسب الزيادة (zam) والخصم (indirim) على سعر الإتيكيت (etiket fiyatı)، وليه زيادة 20 في المية وبعدها خصم 20 في المية بيخلّوا السعر يقلّ.
+- هتحل سلسلة التكلفة وبعدين الإتيكيت وبعدين البيع بمعادلة واحدة لما تعتبر التكلفة 100 جزء، وكمان مسائل الشرا والبيع بالحتة أو بالكيلو.
+
+**ليه مهم؟** كل سنة بييجي سؤال واحد على الأقل عن kâr-zarar في TYT، والفخ الأساسي دايمًا واحد: النسبة دي محسوبة من أنهي سعر؟
+
+20 دقيقة بس، ومع شوية تركيز هتحسبها بسهولة. يلا بينا!
+
+</div>
 
 **Bu dersin sonunda:** kâr ve zarar yüzdesini maliyet üzerinden, zam ve indirimi etiket fiyatı üzerinden hesaplayıp maliyete $100x$ diyerek "zam, indirim, kâr" zincirlerini tek denklemle çözebileceksin.
 

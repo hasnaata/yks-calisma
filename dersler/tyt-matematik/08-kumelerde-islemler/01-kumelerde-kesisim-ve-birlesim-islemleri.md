@@ -3,9 +3,23 @@ baslik: Kümelerde Kesişim ve Birleşim İşlemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b96c4ae392
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kümelerde Kesişim ve Birleşim İşlemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن أهم عمليتين في المجموعات (kümeler): التقاطع (kesişim) يعني العناصر اللي في المجموعتين مع بعض، والاتحاد (birleşim) يعني العناصر اللي في واحدة منهم على الأقل.
+
+- هتعرف تكتب تقاطع واتحاد مجموعتين، وتعرف إن العنصر المشترك بيتكتب مرة واحدة بس.
+- هتتعلم تقسّم شكل فن (Venn şeması) لمناطق وتلاقي عدد العناصر (eleman sayısı) الناقص.
+- هتشوف الحالات الخاصة زي المجموعة الجزئية (alt küme) والمجموعات المنفصلة (ayrık kümeler)، وتعرف النتيجة من غير حسابات.
+
+**ليه مهم؟** في TYT كل أسئلة المجموعات مبنية على الدرس ده، وخصوصًا مسائل زي "كام واحد مشترك في الناديين؟" اللي بتيجي كتير.
+
+هما ٢٠ دقيقة بس، وبعدها أسئلة المجموعات هتبقى أسهل بكتير.
+
+</div>
 
 **Bu dersin sonunda:** iki kümenin kesişimini ve birleşimini yazabilecek, $s(A \cup B) = s(A) + s(B) - s(A \cap B)$ bağıntısıyla eksik eleman sayısını bulabilecek ve alt küme, ayrık küme gibi özel durumlarda sonucu işlem yapmadan görebileceksin.
 

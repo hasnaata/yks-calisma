@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Dik Üçgende Pisagor Teoremi
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نظرية فيثاغورس (Pisagor teoremi): إزاي تجيب الضلع التالت في المثلث القائم (dik üçgen) لو عارف ضلعين.
+
+- هتعرف مين هو الوتر (hipotenüs) ومين ضلعي القائمة (dik kenarlar)، وإمتى تجمع المربعات وإمتى تطرحها.
+- هتحفظ المثلثات القائمة الخاصة (özel dik üçgenler) زي 3 و4 و5، و5 و12 و13، والمثلث اللي زواياه 30 و60 و90 أو 45 و45 و90.
+- هتشوف قاعدتين جايين من فيثاغورس بيخلّصوا مسائل الشكل الرباعي اللي أقطاره متعامدة في سطر واحد.
+
+**ليه مهم؟** في TYT فيثاغورس بييجي خطوة في نص أغلب مسائل الهندسة، ولو عرفت المثلث الخاص من أول نظرة هتوفّر دقايق مهمة.
+
+خد ٢٥ دقيقة بس وامسك ورقة وقلم، والقاعدة دي هتفضل معاك في كل الهندسة اللي جاية.
+
+</div>
+
 **Bu dersin sonunda:** bir dik üçgende iki kenar verildiğinde üçüncüsünü Pisagor teoremiyle ya da özel dik üçgenleri tanıyarak hesaplayabileceksin.
 
 > **TYT'de yeri:** Pisagor teoremi geometri sorularının çoğunda bir ara adımdır: dikdörtgenin köşegeni, merdiven, iki direk arası ip, karenin köşegeni. $3$–$4$–$5$, $5$–$12$–$13$ ya da $30^\circ$–$60^\circ$–$90^\circ$ üçgenini hemen tanımak sana sınavda dakikalar kazandırır.

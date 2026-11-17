@@ -3,9 +3,23 @@ baslik: Koşullu Önerme
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 946d4f187e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Koşullu Önerme
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القضية الشرطية (koşullu önerme)، يعني الجملة اللي فيها "لو... يبقى..." (ise)، وإمتى تبقى صح وإمتى تبقى غلط.
+
+- هتعرف إن القضية الشرطية بتبقى غلط في حالة واحدة بس: لما الشرط يتحقق والنتيجة ما تتحققش.
+- هتتعلم تحوّل "ise" لـ "أو" و"نفي" عشان تبسّط أي تعبير بسهولة.
+- هتفرّق بين العكس (karşıt) والمعكوس (ters) وعكس النقيض (karşıt ters)، وتعرف مين فيهم مكافئ للقضية الأصلية.
+
+**ليه مهم؟** أغلب أسئلة المنطق في TYT فيها "ise"، ومفتاحها كلها قاعدة واحدة هتفهمها هنا كويس.
+
+الدرس ٢٠ دقيقة بس، وفيه مثال من الحياة اليومية يخلّي الفكرة تثبت في دماغك.
+
+</div>
 
 **Bu dersin sonunda:** $p \Rightarrow q$ önermesinin değerini bulabilecek, onu $p' \vee q$ biçimine çevirerek sadeleştirebilecek ve bir koşullu önermenin karşıtını, tersini, karşıt tersini birbirinden ayırabileceksin.
 

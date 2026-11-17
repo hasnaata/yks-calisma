@@ -3,9 +3,23 @@ baslik: Dik Üçgende Öklid Teoremi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 3f6ca2625c
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Dik Üçgende Öklid Teoremi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نظرية إقليدس (Öklid teoremi) في المثلث القائم (dik üçgen): لما ننزّل عمود من الزاوية القائمة على الوتر (hipotenüs)، بيطلع علاقات حلوة بين الأطوال.
+
+- هتعرف إن مربع الارتفاع (yükseklik) بيساوي حاصل ضرب الجزأين اللي اتقسم لهم الوتر.
+- هتتعلم إن مربع كل ضلع قائم (dik kenar) بيساوي الجزء اللي في ناحيته مضروب في الوتر كله.
+- هتحسب الارتفاع من المساحة بطريقتين، وتعرف تختار العلاقة الصح حسب المعطيات وتتأكد بفيثاغورس (Pisagor).
+
+**ليه مهم؟** شكل العمود النازل على الوتر بييجي كتير في أسئلة الهندسة في TYT، والعلاقات دي بتختصر الحل جامد.
+
+الدرس ٢٠ دقيقة بس، خد ورقة وقلم وارسم الشكل معانا وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** dik açıdan hipotenüse dikme inen bir üçgende $h^2 = p \cdot k$, $c^2 = p \cdot a$ ve $h = \dfrac{b \cdot c}{a}$ bağıntılarından doğru olanı seçip eksik uzunluğu bulabileceksin.
 

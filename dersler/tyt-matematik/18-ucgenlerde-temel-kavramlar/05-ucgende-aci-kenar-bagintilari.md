@@ -3,9 +3,23 @@ baslik: Üçgende Açı-Kenar Bağıntıları
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 36aa445876
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Açı-Kenar Bağıntıları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن العلاقة بين زوايا المثلث وأضلاعه: الزاوية الكبيرة دايمًا قصادها الضلع الأكبر.
+
+- هتعرف ترتّب أضلاع المثلث من زواياه (kenar sıralaması)، وترتّب الزوايا من الأضلاع.
+- هتتعلم لما يكون فيه أكتر من مثلث في الشكل إزاي توصل لأطول ضلع عن طريق الضلع المشترك.
+- هتقدر تقول المثلث حاد الزوايا (dar açılı) ولا قائم (dik) ولا منفرج (geniş açılı) بمقارنة مربع أطول ضلع بمجموع مربعي الضلعين التانيين.
+
+**ليه مهم؟** في TYT السؤال غالبًا بيكون "أطول ضلع أنهي واحد؟" أو "أصغر قيمة صحيحة للضلع لو الزاوية منفرجة"، ومحتاج ترتيب ومقارنة مش حسابات طويلة.
+
+الدرس ٢٠ دقيقة بس، وفكرته واحدة لو فهمتها هتحل بيها أسئلة كتير.
+
+</div>
 
 **Bu dersin sonunda:** bir üçgenin açılarından kenarlarını, kenarlarından açılarını sıralayabilecek ve kenar uzunluklarına bakarak üçgenin dar, dik ya da geniş açılı olduğunu söyleyebileceksin.
 

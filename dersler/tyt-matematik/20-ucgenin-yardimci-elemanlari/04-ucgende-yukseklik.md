@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Üçgende Yükseklik
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الارتفاع في المثلث (yükseklik): العمود اللي نازل من رأس على الضلع اللي قصاده، وإزاي يساعدك تحل مسائل كتير.
+
+- هتعرف إن الارتفاع بيقسم المثلث لمثلثين قائمين، فتستخدم فيثاغورس (Pisagor) في الناحيتين.
+- هتتعلم إن الضلع مضروب في الارتفاع بتاعه ثابت (ده ضعف المساحة، alan)، فتجيب أي ارتفاع ناقص، وكمان إن الضلع الأطول ارتفاعه أقصر.
+- هتعرف فين نقطة تلاقي الارتفاعات (diklik merkezi) حسب نوع المثلث، وإيه اللي بيميّز الارتفاع في المثلث المتساوي الساقين (ikizkenar) والمتساوي الأضلاع (eşkenar).
+
+**ليه مهم؟** في TYT الارتفاع نادرًا ما بييجي لوحده، بس بيظهر كخطوة في أغلب مسائل الهندسة، وساعات بيستخبّى في سؤال عن "أقصر مسافة".
+
+الدرس ٢٥ دقيقة، وكل قاعدة معاها رسمة ومثال محلول. خد وقتك وإنت هتمسكه كويس.
+
+</div>
+
 **Bu dersin sonunda:** yüksekliğin ayırdığı iki dik üçgende Pisagor'u kullanabilecek, "kenar × yükseklik" eşitliğiyle bilinmeyen yüksekliği bulabilecek, yüksekliklerin kesim noktasının nerede olduğunu üçgenin türünden söyleyebileceksin.
 
 > **TYT'de yeri:** Yükseklik tek başına az sorulur ama geometri sorularının çoğunda bir adım olarak karşına çıkar: Pisagor için dik üçgen kurmak, alan hesaplamak, "bir noktanın bir doğruya en kısa uzaklığı" gibi günlük hayat soruları. Yeni nesil sorularda yükseklik çoğu zaman "en kısa yol" ya da "dik inen boru" diye gizlenir.

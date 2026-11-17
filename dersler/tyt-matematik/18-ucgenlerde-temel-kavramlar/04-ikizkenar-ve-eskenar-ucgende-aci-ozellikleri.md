@@ -3,9 +3,23 @@ baslik: İkizkenar ve Eşkenar Üçgende Açı Özellikleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti a49e51e874
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İkizkenar ve Eşkenar Üçgende Açı Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المثلث المتساوي الساقين (ikizkenar üçgen) والمثلث المتساوي الأضلاع (eşkenar üçgen)، وإزاي الأضلاع المتساوية بتديك زوايا متساوية.
+
+- هتعرف إن زاويتي القاعدة (taban açıları) متساويتين، وإزاي تجيب كل الزوايا لو عارف زاوية واحدة بس.
+- هتشوف إن الارتفاع النازل من الرأس هو نفسه منصّف الزاوية (açıortay) والمتوسط (kenarortay).
+- هتتعلم إن كل زاوية في المثلث المتساوي الأضلاع 60 درجة، وتحل مسائل فيها كذا مثلث متساوي الساقين ورا بعض.
+
+**ليه مهم؟** أغلب أسئلة زوايا الهندسة في TYT فيها أضلاع متعلّم عليها إنها متساوية، والسؤال مستني منك تاخد بالك منها وتستخدمها مرة أو مرتين.
+
+هي 20 دقيقة بس، ومع الرسومات هتلاقي الفكرة سهلة. يلّا بينا!
+
+</div>
 
 **Bu dersin sonunda:** şekilde eş kenarları görünce karşılarındaki eş açıları yazabilecek, ikizkenar ve eşkenar üçgenleri art arda kullanarak bilinmeyen açıyı bulabileceksin.
 

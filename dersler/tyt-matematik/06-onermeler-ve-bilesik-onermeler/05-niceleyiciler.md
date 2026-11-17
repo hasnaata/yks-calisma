@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Niceleyiciler
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الكلمتين "كل" و"بعض" في المنطق، يعني المُكمِّمات (niceleyiciler)، وإزاي بيحوّلوا جملة فيها متغير لعبارة نقدر نقول عليها صح أو غلط.
+
+- هتعرف يعني إيه العبارة المفتوحة (açık önerme)، وإزاي تطلّع مجموعة الصدق بتاعتها (doğruluk kümesi)، وليه بتفرق لو المتغير عدد طبيعي ولا عدد صحيح.
+- هتفهم إن جملة "لكل" (her) بيوقّعها مثال مضاد (karşı örnek) واحد بس، وجملة "بعض" (bazı) بيكفّيها مثال واحد عشان تبقى صح.
+- هتتعلم تكتب النفي (değili) صح: "كل" بتبقى "بعض"، والشرط نفسه بيتعكس، والمجموعة الشاملة بتفضل زي ما هي.
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي عبارة صح؟" أو "نفي العبارة دي إيه؟"، وغلطة مشهورة إن نفي "كل" يبقى "ولا واحد"، وده غلط هتتعلم تتجنبه.
+
+الدرس ٢٠ دقيقة بس، ولو مسكت الفكرة دي هتلاقي الأسئلة دي سهلة جدًا.
+
+</div>
+
 **Bu dersin sonunda:** bir açık önermenin doğruluk kümesini bulabilecek, "her" ($\forall$) ve "bazı" ($\exists$) ile kurulan önermelerin doğru mu yanlış mı olduğuna karar verebilecek ve bu önermelerin değilini doğru yazabileceksin.
 
 > **TYT'de yeri:** Üç kalıp gelir: "Aşağıdaki önermelerden hangisi doğrudur?" (her seçenekte bir $\forall$ ya da $\exists$), "Önermenin değili hangisidir?" ve "Açık önermenin doğruluk kümesi kaç elemanlıdır?" Günlük dilde de sorulur: "Her öğrenci…" cümlesinin değilini seçmen istenir.

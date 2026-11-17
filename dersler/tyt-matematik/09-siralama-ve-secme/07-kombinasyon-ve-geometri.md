@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Kombinasyon ve Geometri
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن استخدام التوافيق (kombinasyon) في الهندسة: من شوية نقط، نقدر نرسم كام خط وكام مثلث وكام شكل رباعي؟
+
+- هتعرف تعدّ المستقيمات (doğru) والمثلثات (üçgen) والأشكال الرباعية (dörtgen) اللي بتطلع من نقط، حتى لو فيه نقط على استقامة واحدة (doğrusal) أو على مستقيمين متوازيين.
+- هتحسب عدد الأقطار (köşegen) في أي مضلع.
+- هتعرف أكبر عدد نقط تقاطع ممكن بين مستقيمات ودوائر (çember) ومضلعات، حتى لو مخلوطين مع بعض.
+
+**ليه مهم؟** في TYT أسئلة العدّ والاختيار ساعات بتيجي في شكل هندسي، والغلطة المشهورة إنك تنسى تزوّد الخط اللي عليه النقط أو تعدّ نقطة واحدة بدل اتنين بين خط ودايرة.
+
+الدرس ٢٠ دقيقة، والرسومات هتوضّحلك كل حاجة. يلا ابدأ، هتلاقيه أسهل من ما انت متخيّل.
+
+</div>
+
 **Bu dersin sonunda:** verilen noktalardan kaç doğru, üçgen ya da dörtgen çizilebileceğini ve doğru, çember, çokgen gibi şekillerin en çok kaç noktada kesişebileceğini $C(n, r)$ ile hesaplayabileceksin.
 
 > **TYT'de yeri:** Sıralama–seçme sorularının bir kısmı geometri kılığında gelir: "Bu noktalardan kaç üçgen çizilir?", "Bu doğrular ve çemberler en çok kaç noktada kesişir?". Genelde bir kısmı doğrusal noktalar ya da iki paralel doğru üzerindeki noktalarla zorlaştırılır.

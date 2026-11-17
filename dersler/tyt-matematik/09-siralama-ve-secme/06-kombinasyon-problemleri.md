@@ -3,9 +3,23 @@ baslik: Kombinasyon Problemleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 4019557f82
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kombinasyon Problemleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مسائل التوافيق (kombinasyon problemleri): إزاي تختار ناس أو حاجات من مجموعة وتعدّ الطرق صح، من غير ما تحسب حاجة مرتين.
+
+- هتعرف تفرّق إمتى الترتيب مهم، يعني التباديل (permütasyon)، وإمتى مش مهم، يعني التوافيق (kombinasyon)، زي فريق أو لجنة.
+- هتتعلم تختار من مجموعات منفصلة وتضرب، وتحل أسئلة "على الأقل" (en az) و"على الأكثر" (en çok) بالطرح من الكل أو بجمع الحالات.
+- هتعرف تتعامل مع شخص لازم يكون موجود أو مش موجود، أو اتنين مينفعش يبقوا مع بعض، ومع أسئلة "اختار وبعدين رتّب".
+
+**ليه مهم؟** في كل امتحان TYT بييجي سؤال عدّ، وأغلبه سؤال اختيار؛ والصعوبة مش في القانون، الصعوبة إنك تفهم الموقف صح.
+
+الدرس ٢٥ دقيقة، وكل فكرة فيه معاها مثال محلول خطوة بخطوة. خدها براحتك وهتلاقيها أسهل ما إنت متخيل.
+
+</div>
 
 **Bu dersin sonunda:** bir seçme problemini "sıra önemli mi, koşul ne?" sorularıyla çözümleyip gruplardan seçme, "en az / en çok", belirli kişi var ya da yok ve seçip dizme sorularını $C(n, r)$ ile çözebileceksin.
 

@@ -3,9 +3,23 @@ baslik: İki Yönlü Koşullu Önerme
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 01686bd48b
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İki Yönlü Koşullu Önerme
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن القضية الشرطية الثنائية (iki yönlü koşullu önerme)، اللي بنقراها "إذا وفقط إذا" (ancak ve ancak): إمتى بتبقى صح وإمتى بتبقى غلط.
+
+- هتعرف إن قيمة الصدق (doğruluk değeri) بتاعتها بتطلع 1 لما الطرفين يبقوا زي بعض، و0 لما يختلفوا.
+- هتتعلم خواصها، وإزاي تحرّك علامات النفي (değil) صح وتبسّط العبارات اللي فيها الرابط ده.
+- هتعرف تطلّع قيم p و q و r من قيمة قضية مركبة معروفة، وتفهم يعني إيه الاستلزام المزدوج (çift gerektirme).
+
+**ليه مهم؟** في TYT الرابط ده نادرًا ما بييجي لوحده؛ بييجي جوه قضية مركبة (bileşik önerme)، وأشهر غلطة إنك تحل السؤال في اتجاه واحد وتنسى الحالة التانية.
+
+الدرس ٢٠ دقيقة بس، وسؤال واحد "الطرفين زي بعض ولا لأ؟" هيحلّ لك أغلب المسائل. يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** $p \Leftrightarrow q$ önermesinin değerini "iki taraf aynı mı?" sorusuyla hemen bulabilecek, değil işaretlerini doğru taşıyarak $p \Leftrightarrow q$ içeren ifadeleri sadeleştirebileceksin.
 

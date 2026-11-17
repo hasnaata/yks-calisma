@@ -3,9 +3,23 @@ baslik: Üçgende Açıortay Teoremleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti c28592a518
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Açıortay Teoremleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن منصّف الزاوية (açıortay) في المثلث، وإزاي بيقسم الضلع اللي قصاده بنفس نسبة الضلعين اللي جنبه.
+
+- هتعرف نظرية منصّف الزاوية الداخلية (iç açıortay) والخارجية (dış açıortay)، وتطلّع منها طول أي قطعة مجهولة.
+- هتشوف إن خط الطيّ في مسائل طيّ الورق (katlama) بيبقى منصّف زاوية، فتحلّها في خطوتين.
+- هتفهم إن نقطة تلاقي المنصّفات الداخلية بتقسم مساحة المثلث على حسب أطوال الأضلاع، مش بالتساوي.
+
+**ليه مهم؟** سؤال "açıortay، اطلع طول القطعة" من أكتر أسئلة الأطوال اللي بتيجي في هندسة TYT، وفي الأسئلة الجديدة بيستخبّى جوه حكاية ورقة بتتطوي أو أرض بتتقسم.
+
+هو ٢٥ دقيقة، والقاعدة سطر واحد؛ بس خلّي بالك من ترتيب النسبة وهتلاقيه أسهل مما تتخيّل.
+
+</div>
 
 **Bu dersin sonunda:** iç ve dış açıortayın karşı kenarı hangi oranda böldüğünü kullanarak bilinmeyen uzunluğu bulabilecek, katlama sorularında katlama çizgisinin açıortay olduğunu görebilecek ve iç açıortayların kesim noktasıyla oluşan üçgenlerin alanlarını karşılaştırabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Histogram
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 0e38692b7d
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Histogram
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المدرّج التكراري (histogram): لما البيانات تبقى كتير ومتنوعة، بنقسّمها لمجموعات ونرسم كل مجموعة بعمود، والأعمدة لازقة في بعض.
+
+- هتعرف تحسب طول الفئة (grup genişliği) من المدى (açıklık) وعدد الفئات، وليه لو القسمة طلعت مضبوطة بنزوّد 1.
+- هتعمل جدول التوزيع التكراري (gruplama tablosu) وترسم منه الـ histogram خطوة بخطوة.
+- هتقرا histogram جاهز وتجاوب على "كام واحد؟" و"كام في المية؟" و"إيه اللي أكيد؟".
+
+**ليه مهم؟** في TYT الـ histogram غالبًا بييجي مرسوم جاهز، والحساب بسيط، بس الفخ دايمًا عند حدود الفئات وكلمة "أكيد".
+
+هو ٢٠ دقيقة بس، فيهم أمثلة محلولة ورسومات واضحة. خليك معانا للآخر وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** ham verilerden grup genişliğini bulup gruplama tablosunu yapabilecek, histogram çizebilecek ve verilen bir histogramdan "kaç kişi, yüzde kaç, kesin mi?" sorularını cevaplayabileceksin.
 

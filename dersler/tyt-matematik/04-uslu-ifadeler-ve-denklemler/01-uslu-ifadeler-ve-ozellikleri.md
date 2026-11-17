@@ -3,9 +3,23 @@ baslik: Üslü İfadeler ve Özellikleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti c503fcd74e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üslü İfadeler ve Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأسس (üslü ifadeler): لما تضرب نفس العدد في نفسه كذا مرة، وإزاي تحسب وتختصر القوى دي من غير ما تتلخبط.
+
+- هتعرف إشارة الناتج لما الأساس (taban) يكون سالب، والفرق بين وجود القوس وعدمه.
+- هتفهم الأس صفر والأس السالب (negatif kuvvet) من غير حفظ، وقواعد الجمع والطرح والضرب والقسمة في الأسس.
+- هتتعلم ترتّب الأعداد الأسية من الأصغر للأكبر، وتعرف عدد أرقام (basamak sayısı) ناتج زي حاصل ضرب قوى ٢ في قوى ٥.
+
+**ليه مهم؟** في كل امتحان TYT بييجي سؤال أو اتنين على الأسس مباشرة، وكمان هتحتاجها بعدين في الجذور والمعادلات الأسية والمسائل.
+
+٢٥ دقيقة، وكل قاعدة معاها مثال محلول خطوة بخطوة. ابدأ وهتلاقيه أسهل ما انت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** üslü bir ifadenin işaretini ve değerini bulabilecek, sıfır ve negatif kuvvetleri yazabilecek, üslü sayılarla dört işlemi kurallara göre sadeleştirebilecek ve üslü sayıları büyükten küçüğe sıralayabileceksin.
 

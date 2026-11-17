@@ -3,9 +3,23 @@ baslik: Doğrusal ve Parçalı Fonksiyonlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 260cbab73e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Doğrusal ve Parçalı Fonksiyonlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نوعين من الدوال بيتكرروا كتير: الدالة الخطية (doğrusal fonksiyon) اللي رسمها خط مستقيم، والدالة المعرّفة على فترات (parçalı fonksiyon) اللي ليها قاعدة مختلفة في كل فترة.
+
+- هتعرف تطلّع قاعدة الدالة الخطية من قيمتين بس أو من الرسم، وتفهم معنى الميل (eğim) ونقطة التقاطع مع محور الصادات.
+- هتتعلم تختار السطر الصح في الدالة المعرّفة على فترات، خصوصًا عند النقطة الحرجة (kritik nokta)، وتحل معادلة وتتأكد إن الحل جوه فترته.
+- هتكتب مسائل التعريفة المتدرّجة (kademeli ücret) زي فاتورة المية أو الجراج على شكل دالة.
+
+**ليه مهم؟** في TYT الدالة الخطية غالبًا بتيجي جوه مسألة من الحياة اليومية زي "اشتراك ثابت وفوقه سعر لكل وحدة"، والدالة المعرّفة على فترات بتيجي في حساب قيم وتعريفات متدرّجة.
+
+الدرس ٢٠ دقيقة بس وفيه أمثلة محلولة خطوة بخطوة، يلا بينا.
+
+</div>
 
 **Bu dersin sonunda:** iki değerden ya da grafikten doğrusal fonksiyonun kuralını bulabilecek, parçalı fonksiyonda doğru parçayı seçerek değer ve denklem çözebilecek, kademeli ücret problemlerini fonksiyonla kurabileceksin.
 

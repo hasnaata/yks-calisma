@@ -3,9 +3,23 @@ baslik: Tam Kare ve İki Kare Farkı ile Çarpanlara Ayırma
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 1d884531b7
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Tam Kare ve İki Kare Farkı ile Çarpanlara Ayırma
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن قالبين جاهزين للتحليل (çarpanlara ayırma): المربع الكامل (tam kare) والفرق بين مربعين (iki kare farkı)، وإزاي تشوفهم جوه أي مقدار جبري.
+
+- هتعرف تتأكد إن المقدار مربع كامل: الطرفين مربعات، والحد الأوسط ضعف حاصل ضرب جذورهم.
+- هتحلل الفرق بين مربعين، وتعرف إن مجموع مربعين ما بيتحللش.
+- هتستخدم القالبين في اختصار الكسور، وحساب أرقام كبيرة من دماغك زي 53 تربيع ناقص 47 تربيع.
+
+**ليه مهم؟** القالبين دول مستخبيين في أغلب أسئلة الجبر في TYT، من اختصار الكسور لحد إيجاد قيمة مقدار من غير ما تعرف كل مجهول لوحده.
+
+هما 20 دقيقة بس، وبعدها هتبص لأي مقدار وتلمح القالب بتاعه على طول.
+
+</div>
 
 **Bu dersin sonunda:** $a^2 \pm 2ab + b^2$ ve $a^2 - b^2$ kalıplarını bir ifadede tanıyıp çarpanlarına ayırabilecek, bu kalıplarla kesir sadeleştirip büyük sayılı işlemleri kafadan yapabileceksin.
 

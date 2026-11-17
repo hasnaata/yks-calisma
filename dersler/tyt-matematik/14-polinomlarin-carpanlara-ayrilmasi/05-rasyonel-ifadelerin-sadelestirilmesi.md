@@ -7,6 +7,20 @@ guncelleme: 2026-11-18
 ---
 # Rasyonel İfadelerin Sadeleştirilmesi
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الكسور الجبرية (rasyonel ifade): كسر البسط والمقام بتوعه كثيرات حدود، وإزاي تختصره (sadeleştirme) بعد ما تحلّله.
+
+- هتتعلم تحلّل البسط والمقام لعوامل (çarpanlara ayırma) وتشيل العامل المشترك بس، مش الحدود.
+- هتعرف تجيب القيم اللي بتخلّي الكسر غير معرّف (tanımsız) من المقام قبل الاختصار، وتاخد بالك من الإشارة لما العامل يبقى مقلوب.
+- هتجمع وتطرح وتضرب وتقسم الكسور دي خطوة بخطوة.
+
+**ليه مهم؟** سؤال "اختصر المقدار ده" بييجي في TYT كل سنة تقريبًا، والاختيارات فيها دايمًا الغلطة المشهورة والإجابة بالإشارة العكسية.
+
+٢٠ دقيقة بس، ولو مسكت ترتيب الخطوات هتلاقي الأسئلة دي بقت سهلة عليك.
+
+</div>
+
 **Bu dersin sonunda:** pay ve paydası polinom olan bir ifadeyi çarpanlarına ayırıp sadeleştirebilecek, bu ifadelerle dört işlemi yapabilecek ve ifadeyi tanımsız yapan değerleri bulabileceksin.
 
 > **TYT'de yeri:** "İfadesinin sadeleştirilmiş biçimi aşağıdakilerden hangisidir?" kalıbı TYT'de neredeyse her yıl gelir. Soruda iki üç rasyonel ifade çarpılır, bölünür ya da toplanır; seçeneklerdeki kısa sonuç, bütün pay ve paydaları doğru ayırıp ortak çarpanları silince çıkar. Bazen de büyük bir sayı verilir ve önce sadeleştirip sonra yerine koyman beklenir.

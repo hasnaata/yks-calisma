@@ -3,9 +3,23 @@ baslik: Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 4e318d2bb9
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** إزاي تجيب باقي قسمة كثيرة الحدود (polinom) على مقسوم عليه من الدرجة الأولى من غير ما تعمل القسمة المطوّلة خالص: بتساوي المقسوم عليه بالصفر وتعوّض بالقيمة دي في كثيرة الحدود.
+
+- هتعرف إن لو الباقي (kalan) طلع صفر، يبقى القسمة من غير باقي، والمقسوم عليه عامل (çarpan)، والقيمة دي جذر (kök) لكثيرة الحدود.
+- هتتعلم تطلّع المعاملات المجهولة (katsayı) من معلومة الباقي، وكل معلومة بتديك معادلة.
+- هتحل الأسئلة اللي بتديك كثيرة الحدود وجوّه القوس حاجة غير x لوحدها، وتعرف تعوّض صح من غير ما تقع في الفخ.
+
+**ليه مهم؟** ده أكتر قالب أسئلة كثيرات الحدود بييجي في TYT، والسؤال بيتحل في سطر واحد، واللي بيعمل قسمة طويلة بيضيّع وقته.
+
+الدرس كله ٢٠ دقيقة، وبعده هتبص لأي سؤال باقي وتعرف تبدأ منين على طول.
+
+</div>
 
 **Bu dersin sonunda:** bir polinomun $(x - a)$ ya da $(ax + b)$ ile bölümünden kalanı bölme yapmadan bulabilecek, kalan bilgisinden bilinmeyen katsayıları hesaplayabilecek ve bir sayının polinomun kökü olup olmadığını söyleyebileceksin.
 
