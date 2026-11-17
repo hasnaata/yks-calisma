@@ -3439,8 +3439,8 @@
       "pdf": "5d54cb82db",
       "mebi": "3fc5e036-f251-4420-e9de-08dc0b6ad494",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4304,8 +4304,8 @@
       "pdf": "340c464f4a",
       "mebi": "c21a1316-4b7c-4737-8b91-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,

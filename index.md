@@ -1,7 +1,7 @@
 # İçerik Kataloğu (index.md)
 
 Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alıştırma hazır, ⬜ = sırada.
-**Toplam: 50/740 ders hazır.** Son güncelleme: 2026-11-17
+**Toplam: 52/740 ders hazır.** Son güncelleme: 2026-11-17
 
 ## TYT Biyoloji (50/50)
 
@@ -364,7 +364,7 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ⬜ Yaygın Günlük Hayat Kimyasalları — `dersler/tyt-kimya/09-kimya-her-yerde/01-yaygin-gunluk-hayat-kimyasallari.md`
   - ⬜ Kozmetikler-İlaçlar-Gıdalar — `dersler/tyt-kimya/09-kimya-her-yerde/02-kozmetikler-ilaclar-gidalar.md`
 
-## TYT Matematik (0/128)
+## TYT Matematik (2/128)
 
 - **1. Sayı Kümeleri**
   - ⬜ Sayı Kümeleri — `dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.md`
@@ -385,7 +385,7 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ⬜ EBOB-EKOK Problemleri — `dersler/tyt-matematik/02-bolunebilme-kurallari/06-ebob-ekok-problemleri.md`
   - ⬜ Periyodik Problemler — `dersler/tyt-matematik/02-bolunebilme-kurallari/07-periyodik-problemler.md`
 - **3. Birinci Dereceden Denklemler ve Eşitsizlikler**
-  - ⬜ Aralık Kavramı — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/01-aralik-kavrami.md`
+  - ✅ [Aralık Kavramı](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/01-aralik-kavrami.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/01-aralik-kavrami.alistirma.md)
   - ⬜ Birinci Dereceden Bir Bilinmeyenli Denklemler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/02-birinci-dereceden-bir-bilinmeyenli-denklemler.md`
   - ⬜ Basit Eşitsizlikler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/03-basit-esitsizlikler.md`
   - ⬜ Birinci Dereceden İki Bilinmeyenli Denklemler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/04-birinci-dereceden-iki-bilinmeyenli-denklemler.md`
@@ -476,7 +476,7 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
 - **18. Üçgenlerde Temel Kavramlar**
   - ⬜ Açı Kavramı ve Çeşitleri — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/01-aci-kavrami-ve-cesitleri.md`
   - ⬜ Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/02-paralel-iki-dogrunun-bir-kesenle-yaptigi-acilar.md`
-  - ⬜ Üçgende Açılar — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/03-ucgende-acilar.md`
+  - ✅ [Üçgende Açılar](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/03-ucgende-acilar.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/03-ucgende-acilar.alistirma.md)
   - ⬜ İkizkenar ve Eşkenar Üçgende Açı Özellikleri — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/04-ikizkenar-ve-eskenar-ucgende-aci-ozellikleri.md`
   - ⬜ Üçgende Açı-Kenar Bağıntıları — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/05-ucgende-aci-kenar-bagintilari.md`
   - ⬜ Üçgen Eşitsizliği — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/06-ucgen-esitsizligi.md`

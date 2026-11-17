@@ -17,6 +17,8 @@ python3 tools/denetle.py              # biçim denetimi
 python3 -m http.server 8799           # yerelde aç
 ```
 
+Matematik şekilleri için bir kez: `python3 -m venv --without-pip .venv`, pip kur, sonra `.venv/bin/python -m pip install matplotlib sympy` (ayrıntı: `tools/cizim.py`).
+
 ## Telif
 
 Dersler ve sorular bu repo için özgün olarak yazılmıştır. MEB ve ÖSYM içerikleri kopyalanmaz; yalnızca resmî kaynaklara bağlantı verilir. `.claude/skills/teach` Matt Pocock'un MIT lisanslı becerisidir.

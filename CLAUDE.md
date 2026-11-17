@@ -72,6 +72,26 @@ Yalnızca metin yetmez: her derste **3–5 görsel** bulunur. Site açık temal�
 - Her görseli eklemeden önce **gör**: fotoğraf dosyasını aç; şema için `python3 tools/gorsel.py bak <dosya>` çıktısındaki PNG'ye bak (telefon boyutu). Yazı okunmuyor, taşıyor ya da görsel dersteki bilgiyle çelişiyorsa kullanma.
 - Örnek ders: `dersler/tyt-biyoloji/03-canlilarin-yapisinda-bulunan-organik-bilesikler/01-organik-bilesiklerin-genel-ozellikleri-karbonhidratlar.md`.
 
+### Matematik ve geometri şekilleri
+
+Grafik, sayı doğrusu, Venn şeması, geometrik şekil gibi **ölçülü** çizimler Pele ile değil **matplotlib** ile üretilir.
+
+- Kaynak: `gorsel/<ders-id>/<ad>.py`; ortak stil `tools/cizim.py` (başındaki açıklamayı oku: `sekil`, `eksenler`, `sayi_dogrusu`, `nokta`, `aci`, `kaydet`, renk sabitleri). Çalıştırma: `.venv/bin/python gorsel/<ders-id>/<ad>.py` (aynı adla `.svg` üretir). `.py` kaynağı depoda kalır.
+- Şekil **doğru ölçekli** olur: verilen uzunluk ve açılar gerçekten o değerlerde çizilir; "şekil ölçekli değildir" gerektiren çizim yapma. Köşe adları (A, B, C), verilen uzunluklar ve açılar etiketlenir; etiketler çizgilerin üstüne binmez.
+- Yazı Türkçe; ondalık ayırıcı virgül; eksi işareti "−". Renkler `cizim.py` sabitlerinden.
+- Geometri derslerinde **her kural için bir şekil** bulunur; şekle dayanan sorularda (derste ve alıştırmada) şekil soruya eklenir. Bir soru şekilsiz anlaşılmıyorsa şekli olmadan yazma.
+- Pele şemaları matematikte yalnızca kavram haritası, karar adımları ve yöntem akışı için kullanılır.
+- Gerçek fotoğraf yalnızca konuyu günlük hayata bağlıyorsa eklenir (zorunlu değil). Matematik derslerinde görsel sayısı 2–5.
+
+### Matematik yazımı
+
+- Bütün matematik KaTeX ile: `$...$` satır içi, `$$...$$` blok. Ondalık sayı `$2{,}5$`, çarpma `\cdot`, kesir `\frac{a}{b}`.
+- Her kural için önce **çözümlü örnek**, sonra kural. Çözümler adım adım yazılır.
+- Sayısal her sonucu yazmadan önce hesapla **doğrula** (`.venv/bin/python` ile `sympy` ya da doğrudan hesap). Alıştırmalar 12 soru: 3 Kolay, 4 Orta, 5 ÖSYM tarzı.
+- ÖSYM tarzı sorular TYT'nin "yeni nesil" biçimindedir: kısa bir günlük hayat durumu ya da tanımlanan bir işlem verilir, işlem yükü azdır, akıl yürütme ister.
+- Seçenekler küçükten büyüğe sıralanır (ÖSYM böyle yapar); doğru cevap harfleri dosya içinde dağılır.
+- Kör denetim: `python3 tools/kor.py <yol>` alıştırmayı cevapsız yazdırır.
+
 ## Alıştırma biçimi (`<yol>.alistirma.md`)
 
 10 soru, üç bölüm: `## Isınma` (3, Kolay), `## Orta` (3), `## ÖSYM tarzı` (4). Sayısal derslerde 12 soruya çıkılabilir.
