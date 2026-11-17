@@ -1,0 +1,15 @@
+flowchart TD
+  B["Baskın fenotipli birey<br/>DD mi, Dd mi?"]
+  C["dd ile çaprazla"]
+  S{"Çekinik yavru<br/>var mı?"}
+  E["Kesinlikle Dd<br/>heterozigot"]
+  H["Büyük olasılıkla DD<br/>homozigot"]
+  B --> C --> S
+  S -- Evet --> E
+  S -- Hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class B kok
+  class E yesil
+  class H sari

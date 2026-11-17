@@ -33,7 +33,11 @@ Bakteriler **prokaryot** hücre yapısına sahip, tek hücreli mikroorganizmalar
 | Pilus | Konjugasyonda iki bakteri arasında köprü kurar | Bazılarında |
 | Kamçı | Hareket | Bazılarında |
 
+![Bakteri yapıları iki gruba ayrılır. Her bakteride bulunanlar: hücre duvarı, hücre zarı, sitoplazma, DNA, ribozom. Bazılarında bulunanlar: plazmit, kapsül, pilus, kamçı.](gorsel/tyt-biyoloji/07-01-bakteri-yapilari.svg "Tablonun iskeleti: yeşil kutulardaki beş yapı her bakteride vardır, sarı kutulardaki dört yapı yalnızca bazılarında.")
+
 Şekillerine göre küre, çomak, virgül ve spiral bakteriler vardır.
+
+![Elektron mikroskobunda üst üste yığılmış, uçları yuvarlak silindir biçimli bakteri kümesi](gorsel/tyt-biyoloji/07-01-comak-bakteriler.jpg "Çomak şekilli bakteriler (elektron mikroskobu, yaklaşık 10 000×, yapay renklendirilmiş). Sağ alttaki çizgi 1 mikrometredir. Görsel: Eric Erbe ve Christopher Pooley (USDA), kamu malı.")
 
 ## Beslenme ve solunum
 
@@ -49,11 +53,15 @@ Bakteriler **prokaryot** hücre yapısına sahip, tek hücreli mikroorganizmalar
 
 Örnek: 20 dakikada bir bölünen tek bakteri 1 saatte 3 kez bölünür ve $2^3 = 8$ bakteri olur.
 
+![Elektron mikroskobunda ortasından boğumlanmış, birbirinden ayrılmak üzere olan iki çomak şekilli bakteri hücresi](gorsel/tyt-biyoloji/07-01-bolunen-bakteri.jpg "İkiye bölünmenin son anı: tek hücre ortadan boğumlanıp iki eş hücreye ayrılıyor (elektron mikroskobu). Görsel: CDC, Evangeline Sowers ve Janice Haney Carr, kamu malı.")
+
 | Olay | Ne olur? | Birey sayısı | Üreme mi? |
 |---|---|---|---|
 | İkiye bölünme | Hücre iki eş hücreye ayrılır | Artar | **Evet** |
 | Konjugasyon | Plazmit, pilusla kurulan köprüden **tek yönlü** aktarılır | Değişmez | **Hayır** |
 | Endospor oluşumu | Olumsuz koşulda dayanıklı yapıya dönüşür | Değişmez | **Hayır** |
+
+![Karar şeması: Birey sayısı artıyor mu? Evet ise ikiye bölünmedir ve üremedir. Hayır ise üreme değildir: konjugasyon çeşitliliği artırır, endospor dayanıklılık sağlar.](gorsel/tyt-biyoloji/07-01-ureme-mi.svg "Tek soru yeter: birey sayısı artıyor mu? Artmıyorsa olay üreme değildir.")
 
 - Konjugasyon **aynı türden** iki bakteri arasında olur. Alıcı bakteri yeni bir özellik kazanır; **genetik çeşitlilik artar**.
 - Bakteriler eşeyli üremez; çeşitliliği **mutasyon** ve **konjugasyon** gibi olaylar sağlar.
@@ -76,6 +84,8 @@ Arkeler de **prokaryot** ve tek hücrelidir; ancak bazı özellikleriyle ökaryo
 | Halofiller | Aşırı tuzlu ortamlar |
 | Metanojenler | Oksijensiz ortamlar; **metan** gazı üretirler |
 | Termofiller | Termal su kaynakları gibi çok sıcak ortamlar |
+
+![Havadan görünen, ortası koyu mavi, kıyıları sarı ve turuncu halkalı, üzerinden buhar yükselen büyük bir sıcak su kaynağı](gorsel/tyt-biyoloji/07-01-termal-kaynak.jpg "Buharı tüten bir termal su kaynağı. Termofiller, çoğu canlının dayanamayacağı böyle çok sıcak ortamlarda yaşar. Görsel: NPS, kamu malı.")
 
 Özel enzimleri sayesinde zor koşullara dayanırlar. Bu enzimler endüstride kullanılır; arkelerden biyogaz (metan) üretiminde, atık su ve petrol kirliliğinin temizlenmesinde yararlanılır.
 

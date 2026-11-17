@@ -16,3 +16,6 @@ Kalan 45 ders ve alıştırma yazıldı (konu 3.4–17.1). MEBİ özetlerindeki 
 
 ## [2026-11-16] site | Görsel ve erişilebilirlik düzeltmeleri
 Okuma genişliği, kaydırılabilir tablolar, telefon başlığı, sorularda yazılı durum etiketi, odak ve basma durumları, boş/hata durumları.
+
+## [2026-11-17] görsel | TYT Biyoloji derslerine görseller (50/50)
+Her derse 3–5 görsel eklendi: toplam 237 (Pele şemaları, Wikimedia Commons'tan fotoğraf, mikroskop görüntüsü ve 3B modeller). Her görsel ikinci bir gözden geçirmede telefon boyutunda kontrol edildi; 73 düzeltme, 1 çıkarma. Atıflar `gorsel/ATIF.md` içinde. Site açık temaya alındı; ders renkleri, simgeler ve günlük seri eklendi.

@@ -29,6 +29,8 @@ Ribozom; sentez DNA şifresine (gene) göre yapılır. Her enzim de belirli bir 
 
 Enzim tepkimeye **enerji vermez**, tepkimeyi **başlatmaz**; yalnızca gereken enerji eşiğini düşürür. Böylece tepkimeler hücreye zarar vermeyecek sıcaklıklarda ve hızlı gerçekleşir. Örnek: glikozun hücre dışında yakılması için yaklaşık 160 °C gerekirken hücrede bu iş 36,5–37 °C'de yapılır.
 
+![Enerji grafiği: enzim olmadan tepkimenin aşması gereken enerji tepesi yüksek, enzim varken alçaktır; tepkenlerin ve ürünlerin enerji düzeyi iki eğride de aynıdır.](gorsel/tyt-biyoloji/03-04-aktivasyon-enerjisi.png "Kırmızı tepe enzimsiz, lacivert tepe enzimli tepkime. Enzim yalnızca tepeyi alçaltır; başlangıç ve bitiş düzeyi değişmez. Grafikteki etkinleştirme enerjisi, aktivasyon enerjisi demektir. Görsel: Fvasconcellos, Srhat, CC BY-SA 4.0.")
+
 ## Enzimin yapısı
 
 | Enzim tipi | Yapı | Örnek |
@@ -47,7 +49,13 @@ Bileşik enzimin kısımları:
 - Bir apoenzim **yalnızca bir çeşit** koenzim ya da kofaktörle çalışır.
 - Bir koenzim ya da kofaktör ise **farklı apoenzimlerle** çalışabilir. Bu yüzden hücrede apoenzim çeşidi, yardımcı kısım çeşidinden fazladır.
 
+![Bileşik enzim iki kısımdan oluşur: substratı tanıyan protein yapılı apoenzim ve asıl etkiyi yapan yardımcı kısım. Yardımcı kısım organik ise koenzim, inorganik ise kofaktördür.](gorsel/tyt-biyoloji/03-04-bilesik-enzim.svg "Tablonun iskeleti: yeşil kol tanır, sarı kol asıl etkiyi yapar.")
+
+![Karbonik anhidraz enziminin üç boyutlu şerit modeli; kıvrımlı renkli protein zincirinin ortasında gri bir küre var.](gorsel/tyt-biyoloji/03-04-karbonik-anhidraz-3b.jpg "Bileşik bir enzim olan karbonik anhidrazın 3B modeli. Renkli şerit protein kısmıdır (apoenzim), ortadaki gri küre ise metal iyonudur (kofaktör). Görsel: kamu malı.")
+
 **Substrat:** enzimin etki ettiği madde. **Ürün:** tepkime sonunda oluşan madde. Enzimin substrata bağlandığı bölgeye **aktif bölge** denir; bağlanınca kısa süreli bir **enzim–substrat kompleksi** oluşur.
+
+![Substrat enzimin aktif bölgesine bağlanır, enzim–substrat kompleksi oluşur, kompleksten ürün ve değişmemiş enzim çıkar; enzim yeniden kullanılır.](gorsel/tyt-biyoloji/03-04-enzim-dongusu.svg "Okları izle: substrat ürüne dönüşür, enzim ise aynı kalıp başa döner.")
 
 ## Enzimlerin ortak özellikleri
 
@@ -81,6 +89,8 @@ Adlandırma: çoğu enzim substratının sonuna **"-az"** eki alır (lipaz, malt
 
 - **Soğuk uçta** enzim sağlamdır; ortam ısıtılınca yeniden çalışır. Dondurucudaki besinin bozulmaması bundandır.
 - **Sıcak uçta** enzimin yapısı bozulmuştur; ortam 37 °C'ye getirilse de çalışmaz. Kaynatılan sütün geç ekşimesi bundandır (mikroorganizmaların enzimleri bozulur).
+
+![Soğuk uçta enzim durur ama yapısı sağlamdır, 37 °C'ye gelince yeniden çalışır. Sıcak uçta yapı bozulur, 37 °C'ye gelse de çalışmaz.](gorsel/tyt-biyoloji/03-04-sicaklik-iki-uc.svg "İki uçta da hız düşer ama sonuç farklıdır: yeşil kol geri döner, kırmızı kol dönmez.")
 
 ## ÖSYM tuzakları
 

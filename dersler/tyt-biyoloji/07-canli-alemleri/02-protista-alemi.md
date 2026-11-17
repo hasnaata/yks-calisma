@@ -33,6 +33,8 @@ Tatlı su, hücre içine göre daha az yoğundur; su osmozla sürekli hücreye g
 - Amaç hücrenin osmotik dengesini (homeostazi) korumaktır.
 - Ortam ne kadar az yoğunsa hücreye o kadar çok su girer, koful o kadar **hızlı** çalışır.
 
+![Tatlı suda suyun osmozla hücreye girmesinden kontraktil kofulun ATP harcayarak fazla suyu atmasına ve osmotik dengenin korunmasına uzanan beş adımlı akış şeması](gorsel/tyt-biyoloji/07-02-kontraktil-koful.svg "Sarı kutuya dikkat: koful ATP harcar, yani olay pasif değildir. Ortam ne kadar az yoğunsa bu döngü o kadar hızlı döner.")
+
 ## Altı grup
 
 | Grup | Hareket | Beslenme | Örnek | Ayırt edici bilgi |
@@ -44,6 +46,8 @@ Tatlı su, hücre içine göre daha az yoğundur; su osmozla sürekli hücreye g
 | Algler | Gruba göre değişir | Ototrof (fotosentez) | Yeşil, kahverengi, kırmızı algler | Hücre çeperi **var** |
 | Cıvık mantarlar | Amipsi hareket | Ayrıştırıcı | Cıvık mantar | Hücre çeperi **yok** |
 
+![Protista âleminden çıkan altı dal: kamçılılar, kök ayaklılar, silliler, sporlular, algler ve cıvık mantarlar; her kutuda grubun hareket ya da beslenme ipucu yazıyor](gorsel/tyt-biyoloji/07-02-alti-grup.svg "Altı grubun iskeleti. Kırmızı kutu hareket organeli olmayan grup, yeşil kutu fotosentez yapan çeperli grup.")
+
 ### Kamçılılar: öglena
 
 - **Kloroplast** taşır; ışıkta fotosentez yapar.
@@ -51,17 +55,23 @@ Tatlı su, hücre içine göre daha az yoğundur; su osmozla sürekli hücreye g
 - Kamçının dibindeki **göz lekesi** ışığa duyarlıdır.
 - Hücre çeperi yoktur; dışında **pelikula** denen koruyucu kılıf bulunur.
 
+![Mikroskop altında uzun, yeşil öglena hücreleri; içleri yeşil taneciklerle dolu, bir uçlarına yakın kırmızı bir nokta görülüyor](gorsel/tyt-biyoloji/07-02-oglena.jpg "Yeşil rengi kloroplastlar verir. Hücrenin ucuna yakın kırmızı nokta ışığa duyarlı göz lekesidir. Görsel: Deuterostome, CC BY-SA 3.0.")
+
 ### Kök ayaklılar: amip
 
 - Sitoplazmasından çıkardığı geçici uzantılara **yalancı ayak** denir. Bununla hem hareket eder hem besinini yakalar.
 - Sürekli şekil değiştirir.
 - Bazı türleri parazittir: *Entamoeba histolytica* insanın kalın bağırsağında yaşar ve **amipli dizanteri**ye yol açar.
 
+![Mikroskop altında bir amip; gövdesinden farklı yönlere uzanan parmak gibi kollar çıkıyor, belirli bir şekli yok](gorsel/tyt-biyoloji/07-02-amip.jpg "Her yöne uzanan kollar yalancı ayaklardır. Hücrenin belirli bir şekli olmadığına dikkat et. Görsel: SmallRex, CC BY-SA 4.0.")
+
 ### Silliler: paramesyum
 
 - Siller hareketi, beslenmeyi ve uyarılara tepki vermeyi sağlar.
 - **Büyük çekirdek:** hücre metabolizmasını ve eşeysiz üremeyi yönetir.
 - **Küçük çekirdek:** konjugasyonda gen aktarımından sorumludur.
+
+![Mikroskop altında terlik biçimli bir paramesyum; hücrenin bütün kenarı boyunca ince, kısa tüyler görülüyor](gorsel/tyt-biyoloji/07-02-paramesyum.jpg "Hücrenin kenarını saran ince tüyler sillerdir. Terliğe benzeyen şekli yüzünden terliksi hayvan da denir. Görsel: Deuterostome, CC BY-SA 3.0.")
 
 ### Sporlular: plazmodyum
 

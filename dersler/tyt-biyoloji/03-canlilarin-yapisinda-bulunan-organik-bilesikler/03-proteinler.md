@@ -25,6 +25,8 @@ Glikozit bağı ve ester bağı. Bugün üçüncüsünü öğreniyorsun: amino a
 
 Bir amino asitte merkezdeki karbona dört şey bağlıdır: bir hidrojen, bir **amino grubu** ($-\text{NH}_2$), bir **karboksil grubu** ($-\text{COOH}$) ve bir **R (radikal) grubu**.
 
+![Alanin amino asidinin üç boyutlu top-çubuk modeli: ortadaki karbona bir hidrojen, mavi azotlu amino grubu, kırmızı oksijenli karboksil grubu ve üstte R grubu bağlı.](gorsel/tyt-biyoloji/03-03-amino-asit-3b.png "Bir amino asidin 3B modeli. Mavi: azot (amino grubu), kırmızı: oksijen (karboksil grubu), siyah: karbon, beyaz: hidrojen. Ortadaki karbona bağlı dört şeyi bul; üstteki grup R grubudur. Görsel: Benjah-bmm27, kamu malı.")
+
 - Amino asitleri birbirinden ayıran tek şey **R grubu**dur.
 - **Temel (esansiyel) amino asitler:** insan 20 çeşidin 12'sini üretir, **8'ini üretemez** ve besinle hazır almak zorundadır. Bitkiler 20'sini de üretir.
 - **Amfoter özellik:** amino asit, kuvvetli asit karşısında baz, kuvvetli baz karşısında asit gibi davranır. Böylece ortamın pH'ını belirli sınırlarda tutar (tamponlar).
@@ -35,6 +37,8 @@ Bir amino asidin karboksil grubundaki OH ile diğerinin amino grubundaki H birle
 
 - 2 amino asit → dipeptit, 3 → tripeptit, çok sayıda → **polipeptit**.
 - Bir ya da birkaç polipeptit katlanarak **protein**i oluşturur.
+
+![İki amino asit peptitleşmeyle birleşir; bir dipeptit oluşur ve bir su çıkar. Amino asit eklendikçe polipeptit, polipeptit katlanınca protein oluşur.](gorsel/tyt-biyoloji/03-03-peptitlesme.svg "Her peptit bağı kurulurken bir su çıkar. Bağ sayısı ile su sayısı bu yüzden hep eşittir.")
 
 $n$ amino asitten **tek bir** polipeptit zinciri oluşuyorsa:
 
@@ -52,9 +56,13 @@ Protein sentezi tüm canlılarda **ribozomda**, **DNA şifresine göre** yapıl�
 
 Bunların üçünü de belirleyen DNA'dır (gen). Peptit bağının yapısı ya da kurulma biçimi bütün proteinlerde aynıdır; çeşitlilik nedeni **olamaz**.
 
+![DNA şifresine göre ribozomda yapılan sentez amino asit sayısını, çeşidini ve dizilişini belirler; bu üçü canlıya özgü proteini oluşturur. Ayrı duran kırmızı kutular: peptit bağı hepsinde aynıdır, çeşitlilik nedeni olamaz.](gorsel/tyt-biyoloji/03-03-protein-cesitliligi.svg "Çeşitliliğin üç nedeni yeşil kutularda. Kırmızı kutular sınavdaki çeldiricidir.")
+
 ## Denatürasyon
 
 Yüksek sıcaklık, pH değişimi, yoğun tuz, yüksek basınç ve radyasyon proteinin **üç boyutlu yapısını** bozar.
+
+![Hemoglobin proteininin üç boyutlu şerit modeli: sarmal biçimde kıvrılmış zincirler sıkı bir yumak oluşturacak şekilde katlanmış.](gorsel/tyt-biyoloji/03-03-hemoglobin-3b.jpg "Hemoglobinin 3B modeli. Kıvrılan şeritler katlanmış polipeptit zincirleridir; yeşil küçük yapılar proteine bağlı hem gruplarıdır. Denatürasyonda bozulan şey işte bu şekildir. Görsel: J. Swaminathan ve MSD ekibi (EBI), kamu malı.")
 
 | Denatürasyonda | Durum |
 |---|---|
@@ -65,6 +73,8 @@ Yüksek sıcaklık, pH değişimi, yoğun tuz, yüksek basınç ve radyasyon pro
 | Besin değeri | **Korunur** |
 
 Pişen yumurta klasik örnektir: protein denatüre olmuştur, geri dönmez, ama besin değeri aynıdır. Bazı proteinler koşullar düzelince eski hâline dönebilir; buna **renatürasyon** denir.
+
+![Tavada pişen yumurta: kenarlardaki yumurta akı beyazlaşıp katılaşmış, sarının yanındaki kısım henüz saydam.](gorsel/tyt-biyoloji/03-03-pisen-yumurta.jpg "Isınan yumurta akı saydamken beyaza dönüyor: proteinler denatüre oluyor. Besin değeri ise aynı kalır. Görsel: Horacio Cambeiro, CC BY-SA 3.0.")
 
 ## Görevler
 

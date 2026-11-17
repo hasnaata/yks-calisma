@@ -31,11 +31,15 @@ Temelinde iki olay vardır: **mayoz** ve **döllenme**.
 
 Zigot **mitoz** bölünmelerle gelişerek yeni bireyi oluşturur.
 
+![Elektron mikroskobu görüntüsü: uzun kuyruklu küçük bir sperm, kendisinden çok daha büyük ve pürüzlü yüzeyli yumurta hücresine başıyla değiyor](gorsel/tyt-biyoloji/11-01-dollenme.jpg "Döllenme anı: küçük sperm (n) büyük yumurtaya (n) ulaşıyor. İkisinin çekirdeği birleşince zigot (2n) oluşur.")
+
 ## Kromozom sayısı nasıl sabit kalır?
 
 $$2n \xrightarrow{\text{mayoz}} n \qquad n + n \xrightarrow{\text{döllenme}} 2n$$
 
 Mayoz kromozom sayısını yarıya indirir, döllenme yeniden iki katına çıkarır. Böylece türün kromozom sayısı nesiller boyunca değişmez.
+
+![Şema: iki ergin birey (2n) mayozla sperm (n) ve yumurta (n) üretir; ikisi döllenmeyle zigotu (2n) oluşturur; zigot mitozla yeni bireye (2n) dönüşür](gorsel/tyt-biyoloji/11-01-kromozom-dongusu.svg "Mayoz 2n'yi n'ye indirir, döllenme yeniden 2n yapar. Zigottan yeni bireye giden yol ise mitozdur.")
 
 Örnek: İnsanda $2n = 46$'dır. Sperm 23, yumurta 23, zigot $23 + 23 = 46$ kromozomludur.
 
@@ -44,6 +48,8 @@ Mayoz kromozom sayısını yarıya indirir, döllenme yeniden iki katına çıka
 1. **Krossing over** (mayoz, profaz I)
 2. **Homolog kromozomların rastgele ayrılması** (mayoz, anafaz I)
 3. **Gametlerin döllenmede şansa bağlı birleşmesi**
+
+![Şema: krossing over ve homologların rastgele ayrılması mayozda farklı gametler oluşturur; gametlerin rastgele birleşmesiyle kalıtsal olarak farklı yavrular ortaya çıkar](gorsel/tyt-biyoloji/11-01-cesitlilik-kaynaklari.svg "Çeşitliliğin üç kaynağı: ikisi mayozda (mavi), biri döllenmede (sarı). Mitoz bu şemada yok.")
 
 Sonuç: her yavru anne ve babasının kalıtsal karışımıdır; kardeşler birbirinden farklıdır. Çeşitlilik, çevre koşulları değiştiğinde türün bazı bireylerinin hayatta kalma ve **neslini sürdürme olasılığını artırır**.
 
@@ -56,6 +62,8 @@ Zigotun mitozla bölünmesi çeşitlilik **sağlamaz**; yalnızca hücre sayıs�
 - Bitkilerde **tohum oluşumu**, eşeyli üremenin gerçekleştiğinin göstergesidir.
 - Kapalı tohumlu bitkilerin üreme organı **çiçek**tir. Birçok bitkide erkek ve dişi organ aynı çiçekte bulunur (şeftali, bezelye, orkide, süsen). Döllenmeden sonra oluşan tohum çimlenerek yeni bitkiyi verir.
 
+![Açık pembe beş taç yapraklı şeftali çiçeğinin yakın çekimi; ortasında ucu sarı-kahverengi başçıklı çok sayıda ince iplikçik görülüyor](gorsel/tyt-biyoloji/11-01-seftali-cicegi.jpg "Şeftali çiçeği: erkek ve dişi organ aynı çiçekte, çiçeğin ortasında bulunur.")
+
 ## Hermafrodit (erselik) canlılar
 
 Erkek ve dişi gameti **aynı bireyin** üretmesine hermafroditlik denir.
@@ -64,6 +72,8 @@ Erkek ve dişi gameti **aynı bireyin** üretmesine hermafroditlik denir.
 - Hermafrodit canlıların çoğu **kendi kendini döllemez**. Bunu engelleyen uyumlar vardır; örneğin yumurta ve sperm **farklı zamanlarda** olgunlaşır.
 - Toprak solucanı başka bir toprak solucanıyla çiftleşir. Böylece iki farklı bireyin genleri birleşir ve **tür içi çeşitlilik olasılığı artar**.
 - Erkek ve dişi organı birlikte taşıyan çiçeklerin de çok azı kendi kendini döller.
+
+![Toprak üzerinde gövdelerinin ön kısımlarıyla birbirine yapışmış, zıt yönlere bakan iki toprak solucanı](gorsel/tyt-biyoloji/11-01-toprak-solucani.jpg "Çiftleşen iki toprak solucanı. Her biri hem sperm hem yumurta üretir ama kendi kendini döllemez, başka bir bireyle çiftleşir.")
 
 ## Eşeysiz ve eşeyli üreme
 

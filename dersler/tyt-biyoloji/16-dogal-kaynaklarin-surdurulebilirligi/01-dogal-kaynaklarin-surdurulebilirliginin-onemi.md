@@ -26,6 +26,8 @@ Canlıların ve doğal kaynakların dünyadaki **devamlılığının sağlanmas�
 
 Yani hedef kaynağı kullanmamak değil; ihtiyaçları karşılayacak biçimde, **kalitesini bozmadan ve tüketmeden** kullanıp gelecek kuşaklara bırakmaktır.
 
+![Sürdürülebilir kullanım iki koşula ayrılır: bugünkü nesillerin ihtiyacını karşılamak ve gelecek nesillerin hakkını korumak. İkisi birlikte kaynağı tüketmeden, bozmadan kullanmaya varır.](gorsel/tyt-biyoloji/16-01-iki-kosul.svg "İki koşul birlikte aranır: biri eksikse kullanım sürdürülebilir değildir.")
+
 ## Doğal kaynaklar ve insan müdahalesi
 
 | | Cansız doğal kaynaklar | Canlı doğal kaynaklar |
@@ -45,17 +47,23 @@ Maden çıkarma sırasında ve sonrasında:
 - Bitki örtüsü zarar görür.
 - Toprak **erozyonu**, hava ve su kirliliği ortaya çıkar.
 
+![Havadan görülen dev bir açık ocak bakır madeni; dağ yamaçları basamak basamak kazılmış, bitki örtüsü tümüyle kaybolmuş.](gorsel/tyt-biyoloji/16-01-acik-ocak-maden.jpg "Açık ocak madeni. Arazinin özgün yapısı değişmiş, bitki örtüsü kalmamış; çıplak yamaçlar erozyona açık. Görsel: Bruce McAllister, kamu malı.")
+
 ### Örnek 2: Ormanların yok edilmesi ve tek tür ağaçlandırma
 
 Ormanlar kereste ve kâğıt ham maddesi elde etmek, yerleşim alanı ve otlak açmak için yok edilmektedir. Tahrip edilen orman onarılmak istendiğinde çoğu zaman **tek tür ağaç** dikilir.
 
 Sonuç: ortaya çıkan alan ağaçlıktır ama **doğal orman değildir**. Doğal ormandaki farklı bitki türlerine bağlı yaşayan komüniteler geri gelmez; tür çeşitliliği düşük kalır.
 
+![Aynı türden, aynı boyda çam ağaçlarının sıra sıra dikildiği bir ağaçlandırma alanı; ağaçların arasından toprak bir yol geçiyor.](gorsel/tyt-biyoloji/16-01-tek-tur-agaclandirma.jpg "Tek tür çamla ağaçlandırılmış alan. Bütün ağaçlar aynı tür ve aynı boyda: ağaçlık ama doğal orman değil. Görsel: AgreeableTigerMoth, CC BY 4.0.")
+
 ### Örnek 3: Tarım arazisi açma
 
 Tarım arazileri insan için vazgeçilmezdir; ancak yeni arazi açmak için canlıların **habitatları tahrip edilir**. Habitatını yitiren türler yok olabilir.
 
 ## Sürdürülebilirliği destekleyen uygulamalar
+
+![Sürdürülebilirliği destekleyen dört uygulama: yenilenebilir enerji (güneş, rüzgâr), geri dönüşüm, israfın önlenmesi, ıslah ve kültüre alma.](gorsel/tyt-biyoloji/16-01-uygulamalar.svg "Bu bölümün iskeleti: dört başlık. Soruda verilen uygulamayı bu dört kutudan birine yerleştirmeyi dene.")
 
 ### Yenilenebilir enerji
 
@@ -65,6 +73,8 @@ Tarım arazileri insan için vazgeçilmezdir; ancak yeni arazi açmak için canl
 | **Güneş enerjisi** | Doğal enerji kaynaklarının çoğunun kökenidir. Isıtma ve elektrik üretiminde kullanılır; fosil yakıtlara alternatif, **temiz ve çevreci** bir kaynaktır. Türkiye'nin konumu ve iklimi nedeniyle potansiyeli yüksektir. |
 
 Yenilenebilir enerji, fosil yakıtlara bağımlılığı ve buna bağlı kirliliği azaltır.
+
+![Ormanlık tepelerin üzerinde dönen rüzgâr türbinleri; ufukta deniz görünüyor.](gorsel/tyt-biyoloji/16-01-ruzgar-turbinleri.jpg "Kocaeli, Kandıra'daki rüzgâr türbinleri. Rüzgâr yenilenebilir bir kaynaktır; fosil yakıta bağımlılığı azaltır. Görsel: Şadi Akdoğan, CC BY 2.0.")
 
 ### Geri dönüşüm
 

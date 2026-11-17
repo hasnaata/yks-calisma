@@ -1,0 +1,13 @@
+flowchart TD
+  O([Anne babadan farklı çocuk]) --> S[Sağlıklı anne baba<br/>hasta çocuk]
+  O --> H[Hasta anne baba<br/>sağlıklı çocuk]
+  S --> C[Özellik çekinik]
+  H --> B[Özellik baskın]
+  C -->|çocuk kız ise| OC[Kesin otozomal çekinik]
+  B -->|çocuk kız ise| OB[Kesin otozomal baskın]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class O kok
+  class C,B sari
+  class OC,OB yesil

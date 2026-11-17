@@ -41,6 +41,8 @@ Hücre ve organellerin tanınması **mikroskobun** gelişmesiyle mümkün olmuş
 
 Hooke'un gördüğü mantar dokusu ölü bitki dokusudur; gördüğü şey aslında boş odacıkları çevreleyen hücre duvarlarıdır.
 
+![Robert Hooke'un 1665 tarihli çizimi: yuvarlak mikroskop görüş alanında, ince duvarlarla ayrılmış yüzlerce küçük boş odacıktan oluşan iki mantar dokusu kesiti.](gorsel/tyt-biyoloji/04-01-hooke-mantar.jpg "Hooke'un kendi çizimi: mantar dokusundaki boş odacıklar. Beyaz çizgiler hücre duvarlarıdır; içleri boştur çünkü doku ölüdür. Görsel: Robert Hooke, kamu malı.")
+
 ## Hücre teorisi
 
 Bu çalışmaların ortak sonucu **hücre teorisi**dir:
@@ -54,6 +56,8 @@ Bu çalışmaların ortak sonucu **hücre teorisi**dir:
 ## Prokaryot ve ökaryot hücre
 
 Hücreler yapılarına göre iki çeşittir.
+
+![Karar şeması: Zarla çevrili çekirdek yoksa hücre prokaryottur (bakteriler, arkeler); varsa ökaryottur (protistler, mantarlar, bitkiler, hayvanlar). İkisinde de hücre zarı, sitoplazma, ribozom, DNA ve RNA ortaktır.](gorsel/tyt-biyoloji/04-01-hucre-cesitleri.svg "Tek soru yeter: zarla çevrili çekirdek var mı? Ortadaki ortak beşliyi ezberle.")
 
 | | Prokaryot hücre | Ökaryot hücre |
 |---|---|---|
@@ -72,6 +76,10 @@ Hücreler yapılarına göre iki çeşittir.
 
 Bir bakteride hücre zarının dışında **hücre duvarı**, bazılarında onun da dışında **kapsül** bulunur. Sitoplazmada halkasal DNA, ribozomlar ve bazılarında ek küçük halkasal DNA olan **plazmit** yer alır. Bazı bakterilerde hareketi sağlayan **kamçı** ve tutunmaya yarayan **pilus** vardır.
 
+![Bakterinin dıştan içe yapısı: bazılarında kapsül, sonra hücre duvarı, hücre zarı ve sitoplazma. Sitoplazmada halkasal DNA, ribozomlar ve bazılarında plazmit bulunur.](gorsel/tyt-biyoloji/04-01-bakteri-katmanlari.svg "Bakteriyi dıştan içe oku. Sarı kutular her bakteride bulunmaz.")
+
+![Elektron mikroskobunda koyu renkli, çubuk biçimli tek bir bakteri ve ondan uzanan ince, uzun, kıvrımlı bir kamçı.](gorsel/tyt-biyoloji/04-01-kamcili-bakteri.jpg "Elektron mikroskobunda bir bakteri. Hücreden çıkan ince uzun iplik kamçıdır; bakteri onunla hareket eder. Görsel: Graham Bradley, kamu malı.")
+
 Prokaryotlarda zarlı organel olmadığı için bütün yaşamsal olaylar **sitoplazmada ya da hücre zarında** gerçekleşir. Ökaryotlarda ise iş bölümü vardır: olaylar hücre zarında, sitoplazmada ve organellerde gerçekleşir.
 
 ### Ökaryot hücreler: bitki ve hayvan hücresi
@@ -83,6 +91,8 @@ Prokaryotlarda zarlı organel olmadığı için bütün yaşamsal olaylar **sito
 | Koful | Büyük, **merkezî** | Küçük |
 | Sentrozom | Yok (gelişmiş bitkilerde) | Var |
 | Mitokondri, ribozom, endoplazmik retikulum, Golgi aygıtı, çekirdek | Var | Var |
+
+![Işık mikroskobunda su bitkisi Elodea yaprağı: tuğla gibi dizilmiş dikdörtgen hücreler, belirgin hücre duvarları ve içlerinde çok sayıda yeşil yuvarlak kloroplast.](gorsel/tyt-biyoloji/04-01-elodea-hucreleri.jpg "Mikroskopta bitki hücreleri (Elodea yaprağı). Hücreleri ayıran çizgiler hücre duvarı, yeşil tanecikler kloroplasttır; ikisi de hayvan hücresinde yoktur. Görsel: Juan Carlos Fonseca Mata, CC BY-SA 4.0.")
 
 Bu organelleri konunun sonraki dört dersinde tek tek öğreneceksin.
 

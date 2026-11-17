@@ -1,0 +1,14 @@
+flowchart TD
+  V([Vitaminler])
+  V --> Y[Yağda çözünenler<br/>A · D · E · K]
+  V --> S[Suda çözünenler<br/>B grubu · C]
+  Y --> Y1[Vücutta depolanır]
+  Y1 --> Y2[Eksikliği geç<br/>belli olur]
+  S --> S1[Depolanmaz<br/>fazlası atılır]
+  S1 --> S2[Eksikliği çabuk<br/>belli olur]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  class V kok
+  class Y,Y1,Y2 sari
+  class S,S1,S2 mavi

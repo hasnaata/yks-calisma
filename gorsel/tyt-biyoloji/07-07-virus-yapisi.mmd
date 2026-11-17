@@ -1,0 +1,17 @@
+flowchart TD
+  V([Virüs])
+  V --> P[Protein kılıf<br/>her virüste var]
+  V --> N[Nükleik asit<br/>kılıfın içinde]
+  V --> L[Lipit zar<br/>yalnızca bazılarında]
+  N --> D[DNA]
+  N --> R[RNA]
+  D -.- Y{{İkisi birlikte bulunmaz}}
+  R -.- Y
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class V kok
+  class P,N,D,R mavi
+  class L sari
+  class Y kirmizi

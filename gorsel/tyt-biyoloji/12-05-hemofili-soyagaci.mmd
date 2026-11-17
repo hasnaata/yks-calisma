@@ -1,0 +1,15 @@
+flowchart TD
+  A[I-1 erkek<br/>hemofili] --- E1((×))
+  B([I-2 dişi<br/>sağlıklı]) --- E1
+  E1 --> C([II-1 dişi<br/>kesin taşıyıcı])
+  E1 --> D[II-2 erkek<br/>sağlıklı]
+  C --- E2((×))
+  F[II-3 erkek<br/>sağlıklı] --- E2
+  E2 --> G[III-1 erkek<br/>hemofili]
+  E2 --> H([III-2 dişi<br/>sağlıklı])
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A,G kirmizi
+  class C sari
+  class B,D,F,H yesil

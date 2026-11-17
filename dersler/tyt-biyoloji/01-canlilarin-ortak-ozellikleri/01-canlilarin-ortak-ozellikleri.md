@@ -38,6 +38,8 @@ Tek bir özellik canlılığı kanıtlamaz (kristal de büyür, araba da hareket
 | Üreme | Soyun devamı için yeni birey oluşturma. | Eşeyli üremede kalıtsal çeşitlilik; eşeysizde ana bireyle aynı kalıtsal yapı. |
 | Büyüme ve gelişme | Büyüme: hacim/kütle artışı. Gelişme: yapıların olgunlaşması. | Tek hücrelide büyüme = sitoplazma artışı. Çok hücrelide = hücre sayısı ve hacmi artışı. |
 
+![Karlı zeminde duran beyaz postlu bir kutup ayısı](gorsel/tyt-biyoloji/01-01-kutup-ayisi.jpg "Uyum (adaptasyon) örneği: kutup ayısının beyaz postu kalıtsaldır ve yaşadığı ortamda hayatta kalma şansını artırır. Görsel: Terry Debruyne, USFWS, kamu malı.")
+
 ## Üç ayrım, soruların çoğu
 
 ### 1. Prokaryot mu, tek hücreli mi?
@@ -47,9 +49,15 @@ Tek bir özellik canlılığı kanıtlamaz (kristal de büyür, araba da hareket
 - Her prokaryot tek hücrelidir.
 - Her tek hücreli prokaryot **değildir**: amip, öglena, paramesyum tek hücrelidir ama ökaryottur.
 
+![Elektron mikroskobunda bir yüzeyin üzerinde kümelenmiş çubuk biçimli bakteriler](gorsel/tyt-biyoloji/01-01-bakteri.jpg "Prokaryot ve tek hücreli: bakteriler (elektron mikroskobu, yapay renkli). Her çubuk tek bir hücredir; çekirdeği ve zarlı organeli yoktur. Görsel: Eric Erbe ve Christopher Pooley, USDA, kamu malı.")
+
+![Mikroskop altında terlik biçimli bir paramesyum; kenarında siller, içinde iki çizgiyle gösterilen iki yuvarlak kontraktil koful görülüyor](gorsel/tyt-biyoloji/01-01-paramesyum.jpg "Tek hücreli ama ökaryot: paramesyum. Siyah çizgiler fazla suyu atan iki kontraktil kofulu gösterir; kenardaki ince tüyler sillerdir. Görsel: Josh Grosse ve Hämbörger, CC BY-SA 3.0.")
+
 ### 2. Anabolizma mı, katabolizma mı?
 
 "Küçükten büyük yapılıyorsa" anabolizma, "büyük parçalanıyorsa" katabolizma. Her iki olay da canlı yaşadıkça sürer; metabolizmanın durması hücrenin ölümüdür.
+
+![Metabolizma ikiye ayrılır: anabolizma yapımdır, örnekleri fotosentez ve protein sentezi; katabolizma yıkımdır, örnekleri sindirim ve solunum.](gorsel/tyt-biyoloji/01-01-metabolizma.svg "Metabolizmanın iki kolu. Yeşil taraf yapar, kırmızı taraf yıkar; soruda olayın hangi kola düştüğünü bul.")
 
 ### 3. Büyüme mi, gelişme mi?
 
@@ -59,6 +67,8 @@ Bebeğin kilo alması **büyüme**, emeklemesi ve yürümesi **gelişme**dir. Ni
 
 > **"Tüm canlılarda ortak" sorularında şu ifadeler YANLIŞTIR, çünkü yalnızca bazı canlılarda bulunur:**
 > çekirdek, zarlı organel, oksijenli solunum, fotosentez, eşeyli üreme, yer değiştirme hareketi, doku ve organ oluşturma, hücre sayısını artırarak büyüme.
+
+![Organizasyon basamakları: atom, molekül, organel ve hücre her canlıda bulunur; doku, organ ve sistem yalnızca çok hücrelilerde bulunur; hepsi organizmayı oluşturur.](gorsel/tyt-biyoloji/01-01-organizasyon.svg "Organizasyon basamakları. Sarı kutulara dikkat: doku, organ ve sistem tek hücrelilerde yoktur; tek hücrelide hücrenin kendisi organizmadır.")
 
 > **Şunlar her canlıda vardır:** hücre zarı, sitoplazma, ribozom, DNA ve RNA, ATP üretimi ve tüketimi, enzim kullanımı, protein sentezi, metabolizma, boşaltım, uyarılara tepki.
 

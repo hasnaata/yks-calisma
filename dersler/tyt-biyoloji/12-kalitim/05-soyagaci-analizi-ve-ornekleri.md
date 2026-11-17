@@ -34,6 +34,8 @@ Soyağacı, bir özelliğin bir ailede kuşaktan kuşağa nasıl aktarıldığı
 | Evlilik çizgisinden aşağı inen çizgiler | Çocuklar (soldan sağa doğum sırasıyla) |
 | Üzeri çizili şekil | Hayatını kaybetmiş birey |
 
+![Üç kuşaklık örnek bir soyağacı çizimi: kareler erkekleri, daireler dişileri gösterir; içi siyah şekiller özelliği gösteren, üzeri çizili şekiller ölmüş bireylerdir. Altta sembollerin Türkçe açıklaması yer alır.](gorsel/tyt-biyoloji/12-05-soyagaci-ornegi.png "Gerçek bir soyağacı çizimi böyle görünür. Etkilenmiş, özelliği gösteren birey demektir; kesikli çerçeve tek bir kuşağı (nesli) işaretler. Görsel: YassineMrabet ve Noumenon, kamu malı.")
+
 Tek yumurta ikizlerinin cinsiyeti her zaman aynıdır; çift yumurta ikizlerinin cinsiyeti aynı ya da farklı olabilir.
 
 İnsanla yapılan genetik araştırmalarda etik ilkeler: katılımcı yeterince bilgilendirilir, onayı alınır, kimlik ve genetik bilgileri gizli tutulur.
@@ -58,6 +60,8 @@ Bu derste soyağaçlarını çizim yerine tabloyla vereceğiz. Kuşaklar Romen r
 |---|---|---|
 | Özelliği **göstermeyen** anne ve babanın özelliği **gösteren** çocuğu | Özellik **çekinik** | Anne babadan en az biri aleli taşıyor ama göstermiyor (otozomal ise ikisi de taşıyıcı). |
 | Özelliği **gösteren** anne ve babanın özelliği **göstermeyen** çocuğu | Özellik **baskın** | Çocuk çekinik fenotipli; otozomal ise anne baba heterozigottur. |
+
+![Karar şeması: sağlıklı anne babanın hasta çocuğu varsa özellik çekiniktir, çocuk kız ise kesin otozomal çekiniktir. Hasta anne babanın sağlıklı çocuğu varsa özellik baskındır, çocuk kız ise kesin otozomal baskındır.](gorsel/tyt-biyoloji/12-05-baskin-cekinik-karar.svg "İki altın kural tek şemada. Önce anne babasından farklı çocuğu bul, sonra o çocuk kız mı diye bak.")
 
 Bu çocuk **kız** ise bir adım daha ileri gidebilirsin:
 
@@ -88,6 +92,8 @@ Soyağacında hiçbir kalıtım tipiyle açıklanamayan bir birey varsa mutasyon
 - Baskın fenotipli bir bireyin **çekinik fenotipli bir çocuğu ya da anne babası** varsa o birey kesinlikle heterozigottur (Aa).
 - Baskın fenotipli bireyin ailesinde çekinik fenotipli kimse yoksa genotipi kesin bilinemez (AA ya da Aa).
 
+![Karar şeması: çekinik fenotipli birey kesin aa genotiplidir. Baskın fenotipli bireyin çekinik fenotipli çocuğu ya da anne babası varsa kesin Aa, yoksa AA ya da Aa olabilir ve kesin değildir.](gorsel/tyt-biyoloji/12-05-kesin-genotip.svg "Her bireye bu iki soruyu sor. Yeşil kutuya varıyorsan genotip kesin, sarıya varıyorsan kesin değil. Ebeveyn, anne ya da baba demektir.")
+
 ## Çözümlü örnekler
 
 **Çözümlü örnek 1 (kalıtım tipini eleme).**
@@ -116,6 +122,8 @@ Soyağacında hiçbir kalıtım tipiyle açıklanamayan bir birey varsa mutasyon
 | II-3 | Erkek | Sağlıklı | Aileye evlilikle katılmış |
 | III-1 | Erkek | Hemofili | II-1 ve II-3 |
 | III-2 | Dişi | Sağlıklı | II-1 ve II-3 |
+
+![Çözümlü örnek 2'nin soyağacı: hemofili hastası I-1 ile sağlıklı I-2'nin çocukları taşıyıcı kız II-1 ve sağlıklı erkek II-2'dir. II-1 ile sağlıklı II-3'ün çocukları hemofili hastası erkek III-1 ve sağlıklı kız III-2'dir.](gorsel/tyt-biyoloji/12-05-hemofili-soyagaci.svg "Tablonun şema hali. Köşeli kutu erkek, yuvarlak kutu dişi, × evlilik; kırmızı hasta, sarı taşıyıcı, yeşil sağlıklı. Hastalığın dededen toruna taşıyıcı kız üzerinden geçtiğine dikkat et.")
 
 - I-1 ($X^hY$) X kromozomunu bütün kızlarına verir: **II-1 kesin taşıyıcı** ($X^HX^h$). III-1'in hasta olması da bunu doğrular.
 - II-2 sağlıklı erkektir: kesin $X^HY$. Babasının hasta olması onu etkilemez; çünkü babasından Y almıştır.

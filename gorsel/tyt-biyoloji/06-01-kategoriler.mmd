@@ -1,0 +1,14 @@
+flowchart TD
+  subgraph dar["Dar uç: benzerlik çok, sayı az"]
+    direction LR
+    R[Tür] --> C[Cins] --> F[Aile] --> T[Takım]
+  end
+  subgraph genis["Geniş uç: sayı çok, benzerlik az"]
+    direction LR
+    I[Sınıf] --> S[Şube] --> A[Âlem]
+  end
+  dar --> genis
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class R yesil

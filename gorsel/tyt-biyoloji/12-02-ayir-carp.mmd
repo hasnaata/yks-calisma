@@ -1,0 +1,15 @@
+flowchart TD
+  S["AaBbDd × AabbDd<br/>üçü de baskın?"]
+  A["Aa × Aa<br/>baskın: 3/4"]
+  B["Bb × bb<br/>baskın: 1/2"]
+  D["Dd × Dd<br/>baskın: 3/4"]
+  R["Çarp:<br/>3/4 · 1/2 · 3/4 = 9/32"]
+  S --> A --> R
+  S --> B --> R
+  S --> D --> R
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class S kok
+  class A,B,D mavi
+  class R yesil

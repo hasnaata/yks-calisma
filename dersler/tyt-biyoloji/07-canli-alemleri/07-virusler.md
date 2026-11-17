@@ -25,6 +25,12 @@ Yalnızca <b>kuşlar ve memeliler</b> sabit vücut ısılıdır. Yumurtlayan mem
 - Yalnızca **elektron mikroskobu** ile görülebilirler.
 - **Zorunlu hücre içi parazit**tirler: yalnızca canlı bir hücrenin içinde çoğalırlar. Hücre dışında **kristalleşirler**.
 
+![Virüsün yapısı şeması: her virüste protein kılıf ve içinde nükleik asit bulunur; nükleik asit DNA ya da RNA olur, ikisi birlikte bulunmaz; lipit zar yalnızca bazı virüslerde vardır.](gorsel/tyt-biyoloji/07-07-virus-yapisi.svg "Virüsün bütün yapısı bu kadar. Kırmızı kutuya dikkat: DNA ve RNA aynı virüste birlikte bulunmaz.")
+
+![Elektron mikroskobunda tek bir bakteriyofaj: üstte iri bir baş, altında ince uzun bir kuyruk; sağ altta 100 nanometrelik ölçek çizgisi.](gorsel/tyt-biyoloji/07-07-bakteriyofaj-em.jpg "Elektron mikroskobunda bir bakteriyofaj (bakteri virüsü). Ölçek çizgisine bak: virüs o kadar küçük ki ışık mikroskobuyla görülemez. Görsel: SnaxMikn, CC BY-SA 4.0.")
+
+![Grip virüsünün üç boyutlu baskı modeli: sarı bir küre, yüzeyi mavi ve kırmızı çıkıntılarla kaplı.](gorsel/tyt-biyoloji/07-07-grip-virusu-3b.jpg "Grip virüsünün 3B modeli. Sarı yüzey, kılıfın dışındaki lipit zar tabakasını gösterir. Görsel: NIAID, CC BY 2.0.")
+
 | Cansızlara benzeyen yönleri | Canlılara benzeyen yönleri |
 |---|---|
 | Hücresel yapıları yoktur | Nükleik asit (DNA ya da RNA) taşırlar |
@@ -53,6 +59,10 @@ Virüs, konak hücrenin **enzimlerini, enerjisini (ATP), ribozomlarını ve ham 
 3. Bakterinin kaynaklarıyla virüs nükleik asidi çoğaltılır ve virüs proteinleri üretilir.
 4. Parçalar birleşir; yeni virüsler oluşur.
 5. Bakteri parçalanır, virüsler serbest kalır.
+
+![Bakteriyofajın çoğalma basamakları: tutunma, nükleik asidin hücreye girmesi, nükleik asidin çoğalıp virüs proteinlerinin üretilmesi, parçaların birleşmesi, bakterinin parçalanması.](gorsel/tyt-biyoloji/07-07-faj-cogalma.svg "Beş basamak sırayla. Mavi: giriş, sarı: bakterinin kaynaklarıyla üretim, kırmızı: çıkış.")
+
+![Mikroskop görüntüsü: çubuk biçimli bakterilerin yüzeyine tutunmuş çok sayıda küçük, yuvarlak başlı bakteriyofaj.](gorsel/tyt-biyoloji/07-07-faj-bakteri.jpg "1. basamak gerçekte böyle görünür: bakteri yüzeyine tutunmuş bakteriyofajlar. Büyük gövdeler bakteri, küçük toplar virüs. Görsel: Miika Leppänen; McGenity ve ark., CC BY-SA 4.0.")
 
 Yönetim virüsün nükleik asidinde, işçilik konak hücrededir.
 

@@ -1,0 +1,12 @@
+flowchart TD
+  A([Üreme ana hücresi<br/>2n]) --> B[İnterfaz<br/>DNA bir kez eşlenir]
+  B --> C[Mayoz I<br/>homologlar ayrılır]
+  C --> D[2 hücre<br/>n · çift kromatitli]
+  D --> E[Mayoz II<br/>kardeş kromatitler ayrılır]
+  E --> F([4 hücre<br/>n · kalıtsal olarak farklı])
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class C,D sari
+  class E,F yesil

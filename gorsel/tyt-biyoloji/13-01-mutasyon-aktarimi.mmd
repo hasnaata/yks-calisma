@@ -1,0 +1,14 @@
+flowchart TD
+  M([Mutasyon hangi hücrede?])
+  M --> V[Vücut hücresi]
+  M --> U["Üreme (ana) hücresi"]
+  V --> V1[Yalnızca o bireyi etkiler]
+  V1 --> V2[Yavrulara aktarılmaz]
+  U --> U1[Gelecek kuşakları etkiler]
+  U1 --> U2[Yavrulara aktarılabilir]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class M kok
+  class V2 kirmizi
+  class U2 yesil

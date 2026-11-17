@@ -1,0 +1,15 @@
+flowchart TD
+  Y[3 yağ asidi] --> E{{Esterleşme<br/>3 ester bağı}}
+  G[1 gliserol] --> E
+  E --> T[1 trigliserit]
+  E --> S[3 su çıkar]
+  T -.-> H{{Hidroliz<br/>3 su harcanır}}
+  H -.-> B[3 yağ asidi<br/>1 gliserol]
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class E mavi
+  class T yesil
+  class S sari
+  class H kirmizi

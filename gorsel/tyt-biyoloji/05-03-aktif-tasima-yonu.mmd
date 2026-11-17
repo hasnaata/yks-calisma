@@ -1,0 +1,16 @@
+flowchart TD
+  A[Az yoğun ortam]
+  P([Taşıyıcı protein<br/>pompa])
+  C[Çok yoğun ortam]
+  E[ATP harcanır]
+  A -->|madde| P
+  P -->|madde| C
+  E -.->|enerji| P
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef acik fill:#e8f0fc,stroke:#1f5fbf
+  class P kok
+  class A acik
+  class C yesil
+  class E sari

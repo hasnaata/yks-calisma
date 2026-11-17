@@ -27,6 +27,8 @@ Yeryüzünde içme ve kullanma suyu sınırlıdır; küresel ısınma ve kirlili
 
 Gübrelerin, evsel ve endüstriyel atıkların sulara karışmasıyla başlayan zincirleme bir olaydır.
 
+![Göl yüzeyinin büyük bölümünü kaplayan sarı-yeşil alg tabakası; arkada ağaçlar, önde açık kalan koyu su.](gorsel/tyt-biyoloji/15-02-alg-tabakasi.jpg "Ötrofikasyona uğramış bir göl: yüzeyi kaplayan alg tabakası ışığın derine inmesini engeller. Görsel: Smaack, CC BY-SA 4.0.")
+
 | Sıra | Olay |
 |---|---|
 | 1 | Sudaki **azot ve fosfor** miktarı artar. |
@@ -38,6 +40,8 @@ Gübrelerin, evsel ve endüstriyel atıkların sulara karışmasıyla başlayan 
 | 7 | Balıklar ve diğer canlılar ölür; besin zincirleri bozulur, **biyolojik çeşitlilik azalır**. |
 
 Kilit nokta: balıkları öldüren şey doğrudan gübre değil, ayrıştırıcıların oksijeni tüketmesidir.
+
+![Yukarıdan aşağıya yedi kutuluk akış: azot ve fosfor artar, algler kontrolsüz çoğalır, ışık derine ulaşamaz, algler ve bitkiler ölür, ayrıştırıcı bakteriler çoğalır, çözünmüş oksijen tükenir, balıklar ölür ve çeşitlilik azalır.](gorsel/tyt-biyoloji/15-02-otrofikasyon.svg "Ötrofikasyon zinciri: sırayı ezberle. Balık ölümü en sonda, oksijenin tükenmesinden sonra gelir.")
 
 ### Kirli suyla bulaşan hastalıklar
 
@@ -73,6 +77,8 @@ Bazı radyoaktif maddelerin atom çekirdekleri parçalanırken çevreye **alfa, 
 | Yer kabuğundaki uranyum, toryum gibi radyoizotoplar | Nükleer santraller |
 | | Televizyon, bilgisayar, mikrodalga fırın, cep telefonu |
 
+![Radyasyon kaynakları iki kola ayrılır: doğal kaynaklar kozmik ışınlar ile uranyum ve toryum; yapay kaynaklar X ışını cihazları, nükleer santraller ve elektronik cihazlar.](gorsel/tyt-biyoloji/15-02-radyasyon-kaynaklari.svg "Radyasyon kaynakları iki grupta: doğal olanlar yeşil, insan yapımı olanlar sarı kutularda.")
+
 **Canlılara etkisi:**
 
 - **DNA'da kalıcı hasar**, gen mutasyonları, kanser, sakat doğumlar, doku hasarı.
@@ -82,6 +88,8 @@ Bazı radyoaktif maddelerin atom çekirdekleri parçalanırken çevreye **alfa, 
 - Etkinin büyüklüğü radyasyonun şiddetine, maruz kalma süresine, ışının türüne; kişinin yaşına, cinsiyetine ve etkilenen organa göre değişir.
 - Zararlar genellikle **zamanla** ortaya çıkar; ani etki çok yüksek dozlarda görülür.
 - Hamileler ve bebekler özellikle korunmalıdır.
+
+![Yakından çekilmiş insan gözü; göz bebeğinin içi saydam olması gerekirken bulanık, gri-beyaz görünüyor.](gorsel/tyt-biyoloji/15-02-katarakt.jpg "Katarakt: göz bebeğinin arkasındaki göz merceği saydamlığını yitirmiş, bulanık ve gri görünüyor. Görsel: Rakesh Ahuja, MD, CC BY-SA 3.0.")
 
 **Günlük önlemler:** telefonla uzun süre konuşmamak, telefonu baş ucunda tutmamak, yatak odasında televizyon ve bilgisayar bulundurmamak, kullanılmayan elektrikli aletlerin fişini çekmek.
 
@@ -98,6 +106,8 @@ Bazı radyoaktif maddelerin atom çekirdekleri parçalanırken çevreye **alfa, 
 | Solunum rahatsızlıkları | Yorgunluk, zihinsel performansta yavaşlama |
 
 **Önlemler:** sanayi bölgelerini ve havaalanlarını şehirden uzağa kurmak, binalarda ses yalıtımı yapmak, şehir planlamasında akustiği dikkate almak, iş yerlerinde ses düzeyini düşürmek, toplu taşımayı teşvik etmek.
+
+![Bir otoyolun kenarı boyunca uzanan renkli panellerden yapılmış yüksek duvar; önünde bisiklet süren iki kişi, arkada ağaçlar ve binalar.](gorsel/tyt-biyoloji/15-02-ses-bariyeri.jpg "Şehir planlamasında akustiği dikkate almaya örnek: otoyol kenarına kurulan ses bariyeri trafik gürültüsünü azaltır. Görsel: Wpcpey, CC BY-SA 4.0.")
 
 ## ÖSYM tuzakları
 

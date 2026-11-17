@@ -1,0 +1,16 @@
+flowchart TD
+  A["Küçük molekül, pasif geçiş"] --> B{"Yağda çözünür / gaz mı?"}
+  B -- "Evet" --> C["Fosfolipit tabakadan geçer"]
+  C --> D["Basit difüzyon"]
+  B -- "Hayır, suda çözünür" --> E["Taşıyıcı / kanal proteini"]
+  E --> F["Kolaylaştırılmış difüzyon"]
+  D --> G["ATP harcanmaz"]
+  F --> G
+  classDef soru fill:#ffffff,stroke:#5f6b7a,color:#1b2430
+  classDef basit fill:#fdf3d8,stroke:#8a5a00,color:#8a5a00
+  classDef kolay fill:#e8f0fc,stroke:#1f5fbf,color:#1f5fbf
+  classDef pasif fill:#e3f4e9,stroke:#1c7c45,color:#1c7c45
+  class A,B soru
+  class C,D basit
+  class E,F kolay
+  class G pasif

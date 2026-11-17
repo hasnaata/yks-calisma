@@ -1,0 +1,19 @@
+flowchart TD
+  P["P: AA × aa<br/>mor × beyaz"]
+  F1["F₁: tümü Aa<br/>hepsi mor"]
+  K["F₁ × F₁<br/>Aa × Aa"]
+  F2a["AA<br/>mor"]
+  F2b["Aa<br/>mor"]
+  F2c["Aa<br/>mor"]
+  F2d["aa<br/>beyaz"]
+  P --> F1 --> K
+  K --> F2a
+  K --> F2b
+  K --> F2c
+  K --> F2d
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class P kok
+  class F1,K,F2a,F2b,F2c mavi
+  class F2d sari

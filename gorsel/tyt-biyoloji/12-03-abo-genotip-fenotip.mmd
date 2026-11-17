@@ -1,0 +1,16 @@
+flowchart TD
+  K([ABO: 3 alel<br/>A, B, O])
+  K --> G1[AA, AO]
+  K --> G2[BB, BO]
+  K --> G3[AB]
+  K --> G4[OO]
+  G1 --> F1[A kan grubu]
+  G2 --> F2[B kan grubu]
+  G3 --> F3[AB kan grubu<br/>eş baskınlık]
+  G4 --> F4[O kan grubu<br/>çekinik]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class K kok
+  class F3 yesil
+  class F4 sari

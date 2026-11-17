@@ -1,0 +1,17 @@
+flowchart TD
+  A["Madde zardan nasıl geçer?"] --> B{"Molekül küçük mü?"}
+  B -- "Hayır" --> C["Endositoz / ekzositoz"]
+  B -- "Evet" --> D{"Çok yoğundan aza mı?"}
+  D -- "Hayır" --> E["Aktif taşıma"]
+  D -- "Evet" --> F["Pasif taşıma"]
+  F --> G["Basit difüzyon"]
+  F --> H["Kolaylaştırılmış difüzyon"]
+  F --> I["Osmoz"]
+  classDef soru fill:#ffffff,stroke:#5f6b7a,color:#1b2430
+  classDef atp fill:#fbe9e7,stroke:#b3261e,color:#b3261e
+  classDef pasif fill:#e3f4e9,stroke:#1c7c45,color:#1c7c45
+  classDef bugun fill:#e8f0fc,stroke:#1f5fbf,color:#1f5fbf
+  class A,B,D soru
+  class C,E atp
+  class F,I pasif
+  class G,H bugun

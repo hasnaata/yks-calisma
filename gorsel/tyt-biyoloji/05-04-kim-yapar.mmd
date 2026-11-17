@@ -1,0 +1,15 @@
+flowchart TD
+  S1{Koful<br/>oluşturabilir mi?}
+  S1 -- Hayır --> C1[Bakteri, arke]
+  C1 --> R1[İkisini de yapamaz]
+  S1 -- Evet --> S2{Hücre duvarı<br/>var mı?}
+  S2 -- Var --> C2[Bitki, mantar]
+  C2 --> R2[Yalnızca ekzositoz]
+  S2 -- Yok --> C3[Hayvan hücresi, amip]
+  C3 --> R3[İkisini de yapar]
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class R3 yesil
+  class R2 sari
+  class R1 kirmizi

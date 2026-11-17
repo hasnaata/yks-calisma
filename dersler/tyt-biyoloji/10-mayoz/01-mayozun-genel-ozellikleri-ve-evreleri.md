@@ -28,6 +28,8 @@ Eşeyli üreyen canlılarda **gametleri** (üreme hücrelerini) oluşturan böl�
 - Döllenmeyle birlikte **türün kromozom sayısının nesiller boyu sabit kalmasını** sağlar.
 - Art arda iki bölünmeden oluşur: **mayoz I** ve **mayoz II**. DNA yalnızca **bir kez** eşlenir.
 
+![Mayozun akışı: 2n üreme ana hücresi, interfazda DNA bir kez eşlenir, mayoz I'de homologlar ayrılır ve n kromozomlu çift kromatitli 2 hücre oluşur, mayoz II'de kardeş kromatitler ayrılır ve n kromozomlu, kalıtsal olarak farklı 4 hücre oluşur.](gorsel/tyt-biyoloji/10-01-mayoz-iskelet.svg "Bütün mayoz tek şemada: bir eşlenme, iki bölünme. Sarı kutular mayoz I, yeşil kutular mayoz II.")
+
 ## Temel kavramlar
 
 | Kavram | Anlamı |
@@ -39,6 +41,8 @@ Eşeyli üreyen canlılarda **gametleri** (üreme hücrelerini) oluşturan böl�
 | Tetrat | Sinapsis yapan bir homolog çiftin oluşturduğu **dört kromatitli** yapı |
 | Kiyazma | Homologların **kardeş olmayan** kromatitlerinin temas ettiği nokta |
 | Krossing over | Kardeş olmayan kromatitler arasında **parça (gen) değişimi** |
+
+![Üç boyutlu çizim: biri mavi biri pembe iki homolog kromozom yan yana gelir, kardeş olmayan kromatitleri üst üste biner, parça değiştirir ve sonunda her birinde karşı renkten parçalar bulunur.](gorsel/tyt-biyoloji/10-01-krossing-over.png "Soldan sağa: homologlar yan yana gelir (sinapsis), kardeş olmayan kromatitler temas eder (kiyazma) ve parça değiştirir (krossing over). Sondaki iki renkli kromatitlere bak. Görsel: Christinelmiller, CC BY-SA 4.0.")
 
 ## İnterfaz
 
@@ -58,6 +62,8 @@ Mayozdan önceki hazırlık evresidir; mitozdaki interfazla aynıdır.
 | **Telofaz I ve sitokinez I** | Her kutupta haploit takım bulunur. Sitoplazma bölünür: **$n$ kromozomlu 2 hücre** |
 
 Mayoz I sonunda kromozom sayısı yarıya inmiştir; ancak her kromozom hâlâ **iki kromatitlidir**.
+
+![Mikroskop altında zambak bitkisinin mayoz I geçiren dört hücresi: ikisinde mor boyanmış kromozomlar hücrenin ortasında toplanmış, birinde iki kutba doğru çekiliyor, birinde iki kutupta kümelenmiş.](gorsel/tyt-biyoloji/10-01-zambak-mayoz-1.jpg "Zambakta mayoz I (mikroskop). Kromozomlar mor: sol üst ve sağ altta ekvatorda (metafaz I), sağ üstte kutuplara çekiliyor (anafaz I), sol altta kutuplarda (telofaz I). Görsel: Josef Reischig, CC BY-SA 3.0.")
 
 **Mayoz I ile mayoz II arasında interfaz yoktur; DNA eşlenmez.** (Hayvan hücresinde yalnızca sentrozom eşlenir.)
 
@@ -95,6 +101,8 @@ Hesap kuralları ($2n$ kromozomlu hücre için):
 
 1. **Krossing over** (profaz I): kromatitlerde yeni gen bileşimleri oluşur.
 2. **Homolog kromozomların rastgele dizilip ayrılması** (metafaz I, anafaz I): anne ve baba kaynaklı kromozomlar gametlere bağımsız dağılır. Krossing over hiç olmasa bile bu olay çeşitlilik sağlar.
+
+![Kalıtsal çeşitliliğin iki kaynağı: profaz I'deki krossing over yeni gen bileşimleri oluşturur ama her zaman olmayabilir; metafaz I ve anafaz I'deki rastgele dizilip ayrılma kromozomların bağımsız dağılımını sağlar.](gorsel/tyt-biyoloji/10-01-cesitlilik.svg "Çeşitliliğin iki kaynağı ve evreleri. Sarı kutuya dikkat: krossing over her mayozda olmayabilir.")
 
 Tetrat ve sinapsis **her mayozda** görülür; krossing over **her zaman gerçekleşmeyebilir**. Aynı kromozomdaki iki gen birbirinden ne kadar uzaksa aralarında krossing over olma olasılığı o kadar yüksektir.
 

@@ -1,0 +1,16 @@
+flowchart TD
+  subgraph T[Her canlıda]
+    direction LR
+    A[Atom] --> M[Molekül] --> O[Organel] --> H[Hücre]
+  end
+  subgraph C[Yalnızca çok hücrelilerde]
+    direction LR
+    D[Doku] --> R[Organ] --> S[Sistem]
+  end
+  T --> C --> Z([Organizma])
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  class A,M,O,H mavi
+  class D,R,S sari
+  class Z kok

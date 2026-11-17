@@ -43,6 +43,8 @@ Bir besin ögesinin ihtiyaçtan **az** alınması da **çok** alınması da sağ
 
 Su ve minerallerle birlikte şu dört gruptan her gün tüketilmelidir:
 
+![Sağlıklı beslenmeden dört besin grubuna, her gruptan da öne çıkan besin ögesine inen şema: süt grubu kalsiyum, et-yumurta-kuru baklagil grubu protein ve demir, sebze ve meyve grubu vitamin, ekmek ve tahıl grubu karbonhidrat](gorsel/tyt-biyoloji/03-08-besin-gruplari.svg "Dört grup ve her birinin öne çıkan besin ögesi. Ayrıntılar aşağıdaki tabloda.")
+
 | Besin grubu | Örnek besinler | Öne çıkan besin ögeleri | Başlıca katkısı |
 |---|---|---|---|
 | **Süt grubu** | Süt, yoğurt, peynir, kefir | Protein, **kalsiyum**, fosfor, B vitamini | Kemik ve diş gelişimi |
@@ -50,10 +52,14 @@ Su ve minerallerle birlikte şu dört gruptan her gün tüketilmelidir:
 | **Sebze ve meyve grubu** | Bütün sebze ve meyveler | **C**, E, B vitaminleri, folik asit, beta-karoten (A vitamininin öncülü), potasyum, kalsiyum, demir | Hücre yenilenmesi, bağırsakların düzenli çalışması, doygunluk hissi |
 | **Ekmek ve tahıl grubu** | Buğday, pirinç, mısır, çavdar, yulaf; un, bulgur | **Karbonhidrat** (nişasta, lif), vitamin, mineral | Temel enerji kaynağı |
 
+![Masada yan yana duran süt ürünleri: bir fincan süt, delikli bir kalıp peynir, kâsede lor benzeri peynir, kapağı açılmış kefir ve yoğurt kapları, ortada bir kalıp tereyağı](gorsel/tyt-biyoloji/03-08-sut-urunleri.jpg "Süt grubu: süt, yoğurt, peynir ve kefir gibi besinler protein ve kalsiyum açısından öne çıkar.")
+
 Dikkat edilecek iki nokta:
 
 - **Fındık, ceviz gibi yağlı tohumlar** et, yumurta ve kuru baklagil grubunda sayılır.
 - **Tahıllar protein de içerir** ama bu proteinin kalitesi düşüktür. Tahıllar kuru baklagil ya da et, süt, yumurta ile **birlikte** tüketilirse protein kalitesi artar.
+
+![Yan yana yığılmış farklı renklerde kuru baklagil taneleri: nohut, yeşil mercimek, yeşil ve sarı kırık bezelye, barbunya ve başka bir kuru fasulye çeşidi](gorsel/tyt-biyoloji/03-08-kuru-baklagiller.jpg "Nohut, mercimek ve kuru fasulye tahıl gibi görünse de protein kaynağıdır; et ve yumurtayla aynı grupta yer alır. Görsel: CSIRO, CC BY 3.0.")
 
 ## Yetersiz ve dengesiz beslenmenin sonuçları
 
@@ -71,6 +77,8 @@ Olayların sırası:
 2. İnsülin kanda yeterince bulunsa bile glikoz hücrelere giremez.
 3. Glikoz kanda birikir, **kan şekeri yükselir**.
 4. **Tip 2 diyabet** (şeker hastalığı) ortaya çıkar.
+
+![Yukarıdan aşağı oklarla ilerleyen zincir: obezite, insülin direnci, glikoz hücreye giremez, kan şekeri yükselir, tip 2 diyabet](gorsel/tyt-biyoloji/03-08-insulin-direnci.svg "Zincirin hiçbir halkasında insülin yok denmiyor: sorun insülinin hücrede etkili olamamasıdır.")
 
 İnsülin direncinin gelişmesinde en önemli etkenlerden biri **obezite**dir. Uzun süre yüksek kalan kan şekeri böbrek, göz, kalp-damar sorunlarına ve yaraların geç iyileşmesine yol açar.
 

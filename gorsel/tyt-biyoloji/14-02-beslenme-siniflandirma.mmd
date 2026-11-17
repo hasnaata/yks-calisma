@@ -1,0 +1,16 @@
+flowchart LR
+  C([Canlılar])
+  C --> O[Ototrof<br/>üretici]
+  C --> H[Heterotrof<br/>tüketici]
+  C --> OH[Hem ototrof<br/>hem heterotrof]
+  O --> O1[Fotosentetik<br/>enerji: ışık]
+  O --> O2[Kemosentetik<br/>kimyasal enerji]
+  H --> H1[Holozoik<br/>otçul · etçil · omnivor]
+  H --> H2[Ayrıştırıcı<br/>saprotrof]
+  OH --> OH1[Öglena]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class C kok
+  class O,O1,O2 yesil
+  class H,H1,H2 sari

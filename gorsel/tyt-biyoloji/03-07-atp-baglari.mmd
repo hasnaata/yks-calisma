@@ -1,0 +1,19 @@
+flowchart TD
+  A[Adenin] --> AD
+  R[Riboz] --> AD
+  AD[Adenozin<br/>glikozit bağı]
+  AD --> AMP
+  P1([Fosfat]) --> AMP
+  AMP[AMP<br/>+ ester bağı]
+  AMP --> ADP
+  P2([Fosfat]) --> ADP
+  ADP[ADP<br/>+ yüksek enerjili bağ]
+  ADP --> ATP
+  P3([Fosfat]) --> ATP
+  ATP[ATP<br/>+ yüksek enerjili bağ]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class ATP kok
+  class AD yesil
+  class AMP,ADP sari

@@ -26,6 +26,8 @@ Mendel, bezelyelerle yaptığı çaprazlamalarla genetiğin temelini atmıştır
 - yapay (çapraz) döllenmeye uygundur,
 - gözle kolayca ayırt edilen, birbirine zıt özellikler taşır (Mendel yedi karakter seçmiştir: tohum şekli, tohum rengi, çiçek rengi gibi).
 
+![Yeşil yapraklar arasında açmış, üst taç yaprakları açık mor, alt taç yaprakları koyu pembe-mor iki bezelye çiçeği](gorsel/tyt-biyoloji/12-02-mor-bezelye-cicegi.jpg "Mor çiçekli bezelye. Çiçek rengi, Mendel'in izlediği yedi karakterden biridir; aşağıdaki çaprazlamada mor ve beyaz çiçeği kullanacağız. Görsel: Rasbak, CC BY-SA 3.0.")
+
 Çaprazlamalarda kullanılan kısaltmalar: **P** = ata (ebeveyn) bireyler, **G** = gametler, **F₁** = birinci kuşak, **F₂** = ikinci kuşak. Aynı genotipteki iki bireyin çaprazlanmasına **kendileştirme** denir.
 
 ## Monohibrit çaprazlama
@@ -50,6 +52,8 @@ F₁'in tamamı mor çiçeklidir: beyaz alel vardır ama gizlenmiştir.
 | Genotip | 1 AA : 2 Aa : 1 aa | $\frac{1}{4}$, $\frac{2}{4}$, $\frac{1}{4}$ |
 | Fenotip | 3 mor : 1 beyaz | $\frac{3}{4}$, $\frac{1}{4}$ |
 
+![Kuşak şeması: P kuşağında AA mor ile aa beyaz çaprazlanır, F₁ bireylerinin tümü Aa ve mordur. F₁ bireyleri kendi aralarında çaprazlanınca F₂ kuşağında AA mor, Aa mor, Aa mor ve aa beyaz oluşur.](gorsel/tyt-biyoloji/12-02-monohibrit-kusaklar.svg "P'den F₂'ye tek bakışta: beyaz çiçek F₁'de kaybolur, F₂'de dört kutudan birinde geri gelir.")
+
 Ezberlemen gereken dört temel çaprazlama:
 
 | Çaprazlama | Genotip oranı | Fenotip oranı (baskın : çekinik) |
@@ -62,6 +66,8 @@ Ezberlemen gereken dört temel çaprazlama:
 ## Dihibrit çaprazlama
 
 İki karakter bakımından heterozigot iki bireyin çaprazlanmasıdır (SsDd × SsDd). Bezelyede sarı tohum S, yeşil tohum s; düzgün tohum D, buruşuk tohum d olsun.
+
+![Yakın çekim kuru bezelye tohumları: bir kısmı yeşil, bir kısmı sarımsı; yüzeyleri buruşuk ve çukurlu](gorsel/tyt-biyoloji/12-02-bezelye-tohumlari.jpg "Kuru bezelye tohumları. İki ayrı karaktere bak: renk (sarı ya da yeşil) ve şekil (buradakilerin yüzeyi buruşuk). Görsel: Tim Sackton, CC BY-SA 2.0.")
 
 $$\text{P: } SSDD \times ssdd \quad\Rightarrow\quad F_1\text{: tümü } SsDd \text{ (sarı, düzgün)}$$
 
@@ -102,6 +108,8 @@ Sınavda 16 kutu çizmeye vaktin olmaz. Genler bağımsızsa her karakteri **tek
 - Dd × Dd → baskın fenotip $\frac{3}{4}$
 - Birlikte: $\frac{3}{4} \cdot \frac{1}{2} \cdot \frac{3}{4} = \frac{9}{32}$
 
+![Şema: AaBbDd × AabbDd çaprazlaması üç ayrı çaprazlamaya bölünür. Aa × Aa baskın olasılığı 3/4, Bb × bb baskın olasılığı 1/2, Dd × Dd baskın olasılığı 3/4. Üçü çarpılınca 9/32 bulunur.](gorsel/tyt-biyoloji/12-02-ayir-carp.svg "Kısa yolun iskeleti: soruyu karakterlere böl, her birini ayrı çöz, sonuçları çarp.")
+
 **Çeşit sayıları da aynı yolla bulunur:** her karakterin verdiği çeşit sayılarını çarp.
 
 **Çözümlü örnek 3.** AaBb × aaBb çaprazlamasında kaç çeşit genotip ve fenotip oluşur?
@@ -129,6 +137,8 @@ Baskın fenotipli bir bireyin homozigot mu (DD) yoksa heterozigot mu (Dd) olduğ
 
 - Yavrular arasında **tek bir çekinik fenotipli** birey bile varsa bilinmeyen birey **kesinlikle heterozigottur**.
 - Yavruların hepsi baskın fenotipliyse birey **büyük olasılıkla** homozigottur (yavru sayısı arttıkça güven artar, ama kesinlik yoktur).
+
+![Karar şeması: baskın fenotipli bireyin genotipi DD mi Dd mi bilinmiyor; dd ile çaprazlanır. Çekinik yavru varsa birey kesinlikle Dd heterozigottur, yoksa büyük olasılıkla DD homozigottur.](gorsel/tyt-biyoloji/12-02-kontrol-caprazlamasi.svg "Kontrol çaprazlamasının karar kuralı. Evet dalı kesin sonuç verir, hayır dalı yalnızca büyük olasılık.")
 
 ## Mendel ilkeleri
 

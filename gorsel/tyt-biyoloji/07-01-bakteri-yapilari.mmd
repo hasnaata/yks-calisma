@@ -1,0 +1,13 @@
+flowchart TD
+  subgraph H[Her bakteride var]
+    direction TB
+    H1[Hücre duvarı] ~~~ H2[Hücre zarı] ~~~ H3[Sitoplazma] ~~~ H4[DNA] ~~~ H5[Ribozom]
+  end
+  subgraph Z[Bazılarında var]
+    direction TB
+    Z1[Plazmit] ~~~ Z2[Kapsül] ~~~ Z3[Pilus] ~~~ Z4[Kamçı]
+  end
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class H1,H2,H3,H4,H5 yesil
+  class Z1,Z2,Z3,Z4 sari

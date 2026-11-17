@@ -1,0 +1,14 @@
+flowchart TD
+  K([Karbon ayak izi])
+  K --> B[Birincil<br/>doğrudan salınım]
+  K --> I[İkincil<br/>dolaylı salınım]
+  B --> B1[Fosil yakıtı<br/>doğrudan yakmak]
+  I --> I1[Ürünün imalatından<br/>bozulmasına kadar]
+  B1 --> B2[Doğal gaz<br/>Otomobil]
+  I1 --> I2[Giysi · Telefon<br/>Ambalajlı gıda]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class K kok
+  class B,B1,B2 kirmizi
+  class I,I1,I2 sari

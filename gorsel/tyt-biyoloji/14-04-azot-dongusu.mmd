@@ -1,0 +1,17 @@
+flowchart TD
+  A([Atmosferdeki azot N₂]) -- fiksasyon --> B[Amonyak / amonyum]
+  B -- nitrifikasyon --> C[Nitrit]
+  C -- nitrifikasyon --> D[Nitrat]
+  B --> E[Bitkiler]
+  D --> E
+  E -- beslenme --> F[Hayvanlar]
+  E --> G[Atık ve kalıntılar]
+  F --> G
+  G -- ayrıştırma --> B
+  D -. denitrifikasyon .-> A
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class E,F yesil
+  class B,C,D sari

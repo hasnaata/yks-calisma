@@ -43,6 +43,8 @@ Hücre duvarı <b>selüloz</b>, depo <b>nişasta</b>. Damarlı tohumsuz bitkiler
 
 Miselyum mantarın ortama tutunmasını, yayılmasını ve beslenmesini sağlar.
 
+![Orman zeminindeki çürüyen yaprakların arasına yayılmış beyaz, ipliksi mantar ağı](gorsel/tyt-biyoloji/07-04-miselyum.jpg "Çürüyen yaprakların arasındaki beyaz iplikler mantarın asıl gövdesidir. Her iplik bir hif, hepsinin oluşturduğu ağ miselyum. Görsel: PerytonMango, CC BY-SA 4.0.")
+
 ## Beslenme
 
 - **Ayrıştırıcı mantarlar** enzimlerini **hücre dışına** salgılar; organik atıkları parçalar ve inorganik maddelere dönüştürür. Madde döngüsü için vazgeçilmezdir.
@@ -63,6 +65,8 @@ Miselyum mantarın ortama tutunmasını, yayılmasını ve beslenmesini sağlar.
 - Oluşan **sporlar** rüzgâr, su ve böceklerle yayılır. Sporlar olumsuz koşullara dayanıklıdır, yıllarca canlı kalabilir.
 - Bazı türlerde ikiye bölünme ya da **tomurcuklanma** ile eşeysiz üreme görülür (bira mayası tomurcuklanır).
 
+![Elektron mikroskobunda oval bira mayası hücreleri; bazılarının üzerinde küçük yuvarlak tomurcuklar var](gorsel/tyt-biyoloji/07-04-maya-tomurcuk.jpg "Bira mayası (elektron mikroskobu). Her oval tek bir hücredir; büyük hücrelerin üzerindeki küçük çıkıntılar tomurcuktur. Görsel: Mogana Das Murtey ve Patchamuthu Ramasamy, CC BY 3.0.")
+
 ## Ortak yaşam
 
 | Birliktelik | Ortaklar | Kim ne kazanır? |
@@ -71,6 +75,10 @@ Miselyum mantarın ortama tutunmasını, yayılmasını ve beslenmesini sağlar.
 | Kök–mantar ortaklığı | Mantar + bitki kökü | Mantar bitkinin su, fosfor, azot alımını kolaylaştırır; bitki mantara organik besin verir |
 
 İkisi de **karşılıklı yarara** dayanır.
+
+![Alg fotosentezle besin üretir, mantar su, mineral ve tutunma sağlar; ikisi birlikte likeni oluşturur.](gorsel/tyt-biyoloji/07-04-liken-ortaklik.svg "Likende kim ne verir? Besin algden, su, mineral ve tutunma mantardan gelir.")
+
+![Kahverengi bir kayanın yüzeyine yapışmış gri-yeşil, yaprak gibi kıvrımlı liken](gorsel/tyt-biyoloji/07-04-liken.jpg "Kaya üzerinde liken. Tek bir canlı gibi görünür ama mantar ile algin ortaklığıdır. Görsel: Daniel Schwen, CC BY-SA 4.0.")
 
 ## Mantar kime benzer?
 
@@ -84,6 +92,8 @@ Miselyum mantarın ortama tutunmasını, yayılmasını ve beslenmesini sağlar.
 
 - **Hayvana benzer:** heterotrof beslenir, glikojen depolar.
 - **Bitkiye benzer:** aktif hareket edemez, hücre duvarı vardır.
+
+![Mantar hayvana heterotrof beslenmesi ve glikojen depolamasıyla, bitkiye aktif hareket etmemesi ve hücre duvarı taşımasıyla benzer; hücre duvarının kitin olması kendine özgüdür.](gorsel/tyt-biyoloji/07-04-mantar-kime-benzer.svg "Tablonun iskeleti: iki özellik hayvandan, iki özellik bitkiden. Duvarın maddesi kitin ise mantarı bitkiden ayırır.")
 
 ## Mantarların önemi
 

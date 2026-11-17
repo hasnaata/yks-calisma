@@ -1,0 +1,12 @@
+flowchart TD
+  K([AaBb<br/>A ile B bağlı])
+  K --> Y[Krossing over yok]
+  K --> V[Krossing over var]
+  Y --> Y1[AB, ab<br/>2 çeşit]
+  V --> V1[AB, ab, Ab, aB<br/>4 çeşit]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class K kok
+  class Y1 sari
+  class V1 yesil

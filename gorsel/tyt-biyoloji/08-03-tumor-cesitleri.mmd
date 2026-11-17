@@ -1,0 +1,13 @@
+flowchart TD
+  H([Kontrolü bozulmuş hücre])
+  H --> B[Bağışıklık çoğunu<br/>yok eder]
+  H --> T[Kalanlar çoğalır<br/>tümör oluşur]
+  T --> I[İyi huylu<br/>yayılmaz]
+  T --> K[Kötü huylu: kanser<br/>yayılır]
+  K --> Me[Metastaz<br/>kan, lenf yolu]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class H kok
+  class B,I yesil
+  class K,Me kirmizi

@@ -1,0 +1,12 @@
+flowchart TD
+  Z[ATP üretimi durur]
+  Z --> A[Aktif taşıma<br/>durur]
+  Z --> P[Pasif taşıma<br/>sürer]
+  A --> S[Yoğunluk farkı<br/>zamanla kapanır]
+  P --> S
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class Z sari
+  class A kirmizi
+  class P yesil

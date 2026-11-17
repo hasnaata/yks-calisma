@@ -1,0 +1,17 @@
+flowchart TD
+  O([Ortak ata: Aa]) -.-> A[Anne: Aa<br/>sağlıklı taşıyıcı]
+  O -.-> B[Baba: Aa<br/>sağlıklı taşıyıcı]
+  A --> C1[AA sağlıklı<br/>1/4]
+  A --> C2[Aa taşıyıcı<br/>2/4]
+  A --> C3[aa hasta<br/>1/4]
+  B --> C1
+  B --> C2
+  B --> C3
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class O kok
+  class A,B,C2 sari
+  class C1 yesil
+  class C3 kirmizi

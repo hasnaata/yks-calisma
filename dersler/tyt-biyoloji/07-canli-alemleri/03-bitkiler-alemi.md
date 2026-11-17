@@ -43,6 +43,8 @@ guncelleme: 2026-11-16
 
 Bu yüzden "bütün bitkiler fotosentez yapar" genellemesi yanlıştır.
 
+![Yeşil yapraklı bir bitkinin dallarını saran açık sarı, ince, iplik gibi küsküt otu gövdeleri](gorsel/tyt-biyoloji/07-03-kuskut-otu.jpg "Açık sarı ince iplikler küsküt otu, yeşil yapraklar konak bitki. Küsküt fotosentez yapmaz; organik besinini sardığı bitkiden alır.")
+
 ## Bitkinin kısımları
 
 - **Kök** (toprak altı): suyu ve suda çözünmüş mineralleri alır, bitkiyi toprağa bağlar, besin depolar.
@@ -57,6 +59,8 @@ Bu yüzden "bütün bitkiler fotosentez yapar" genellemesi yanlıştır.
 - Gövde silindir ya da küre biçimindedir; yüzey azalır, su kaybı düşer.
 - Gövdede **su depolayan** özel dokular gelişmiştir. Kaktüs bu uyumların hepsini gösterir.
 
+![Çölde yetişen, fıçı biçiminde kalın gövdeli ve her yanı kırmızı dikenlerle kaplı bir kaktüs](gorsel/tyt-biyoloji/07-03-kaktus.jpg "Çöl kaktüsü. İki uyumu gözünle bul: yapraklar dikene dönüşmüş, gövde su depolayan bir silindir olmuş.")
+
 ## Üreme
 
 - **Eşeysiz:** kök, gövde ve yaprak gibi kısımlarla.
@@ -67,6 +71,8 @@ Bu yüzden "bütün bitkiler fotosentez yapar" genellemesi yanlıştır.
 
 Bitkiler iki soruyla ayrılır: **İletim demeti var mı? Tohum oluşturuyor mu?**
 
+![Karar şeması: İletim demeti yoksa bitki damarsız tohumsuzdur (kara yosunu). İletim demeti varsa ikinci soru sorulur: tohum oluşturmuyorsa damarlı tohumsuz (eğrelti otu), oluşturuyorsa damarlı tohumlu (buğday).](gorsel/tyt-biyoloji/07-03-siniflandirma.svg "Bir bitkiyi iki soruyla yerine koy. Önce damar sorusu, sonra tohum sorusu.")
+
 | Grup | İletim demeti | Tohum | Örnek |
 |---|---|---|---|
 | Damarsız tohumsuz | Yok | Yok (sporla ürer) | Kara yosunu, ciğer otu |
@@ -74,6 +80,8 @@ Bitkiler iki soruyla ayrılır: **İletim demeti var mı? Tohum oluşturuyor mu?
 | Damarlı tohumlu | Var | Var | Karahindiba, buğday, lale |
 
 Dikkat et: tohumlu olup da damarsız olan bir bitki grubu yoktur.
+
+![Eğrelti otu yaprağının alt yüzü; yaprakçıkların üzerinde sıra sıra dizilmiş kahverengi yuvarlak kümeler](gorsel/tyt-biyoloji/07-03-egrelti-spor.jpg "Eğrelti otu yaprağının alt yüzü. Kahverengi kümeler spor taşır: bu bitki damarlıdır ama tohum oluşturmaz, sporla ürer. Görsel: L. Shyamal, CC BY-SA 3.0.")
 
 ## Bitkilerin önemi
 

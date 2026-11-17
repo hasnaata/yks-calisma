@@ -30,6 +30,8 @@ Otozomlarda (vücut kromozomlarında) taşınır; bu yüzden kız ve erkek çocu
 - **Cinsiyeti babadan gelen eşey kromozomu belirler:** X gelirse kız, Y gelirse erkek.
 - Her doğumda kız ya da erkek olma olasılığı $\frac{1}{2}$'dir.
 
+![Anne XX yalnızca X taşıyan yumurta üretir; baba XY, X taşıyan ve Y taşıyan iki çeşit sperm üretir. Yumurta ile X taşıyan sperm birleşirse XX kız çocuk, Y taşıyan sperm birleşirse XY erkek çocuk olur.](gorsel/tyt-biyoloji/12-04-cinsiyet-belirlenmesi.svg "Okları izle: erkek çocuğa giden X yalnızca anneden gelir, babanın X kromozomu ise yalnızca kız çocuğa gider.")
+
 Bundan çıkan ve bütün dersin dayandığı aktarım kuralı:
 
 | Çocuk | X kromozomunu kimden alır? | Y kromozomunu kimden alır? |
@@ -43,6 +45,8 @@ Baba X kromozomunu **bütün kızlarına** verir, **hiçbir oğluna** vermez.
 
 X ve Y kromozomları şekil ve büyüklük bakımından farklıdır.
 
+![Bir erkeğin kromozomlarının büyükten küçüğe çiftler hâlinde dizildiği mikroskop görüntüsü. 1-22 arası numaralı çiftlerin ardından sağ altta kırmızı çerçeve içinde büyük X kromozomu ve yanında çok daha küçük Y kromozomu görülüyor.](gorsel/tyt-biyoloji/12-04-karyotip-x.jpg "Bir erkeğin kromozom takımı: 22 çift otozom ve sağ altta X ile Y. Çerçevedeki X kromozomunun yanındaki Y ne kadar küçük, ona bak. Görsel: NHGRI, kamu malı.")
+
 | Bölge | Özellik kaç alelle belirlenir? | Örnek |
 |---|---|---|
 | X ve Y'nin **homolog** bölgesi | Dişide de erkekte de iki alel | Tam renk körlüğü |
@@ -52,6 +56,8 @@ X ve Y kromozomları şekil ve büyüklük bakımından farklıdır.
 ## X kromozomuna bağlı çekinik kalıtım
 
 Kısmi renk körlüğü (kırmızı–yeşil renkleri ayırt edememe) ve hemofili (kanın pıhtılaşmaması ya da geç pıhtılaşması) X kromozomunda **çekinik** alelle taşınır. Sağlıklı alel $X^R$, renk körlüğü aleli $X^r$ ile gösterilir (hemofilide $X^H$ ve $X^h$).
+
+![Turuncu ve kahverengi tonlarındaki yüzlerce küçük dairenin oluşturduğu yuvarlak test levhası; ortada yeşil tonlu dairelerle 74 sayısı yazılmış.](gorsel/tyt-biyoloji/12-04-ishihara-testi.png "Renk körlüğü test levhası. Yeşil noktaların oluşturduğu sayıyı okuyabiliyor musun? Kırmızı ile yeşili ayırt edemeyen biri bu sayıyı seçmekte zorlanır. Görsel: Shinobu Ishihara, kamu malı.")
 
 | Kadın genotipi | Fenotip | Erkek genotipi | Fenotip |
 |---|---|---|---|
@@ -68,6 +74,8 @@ Aktarım kuralından doğrudan çıkan dört sonuç:
 2. **Anne hasta** ($X^rX^r$) ise **bütün erkek çocukları hasta** olur.
 3. **Kız çocuk hasta** ise **babası kesinlikle hastadır**; annesi en az taşıyıcıdır.
 4. **Baba hasta** ise bütün kızları en az taşıyıcıdır.
+
+![Üç kesin sonuç: anne hasta ise bütün oğullar hasta olur; kız çocuk hasta ise baba kesin hastadır ve anne en az taşıyıcıdır; baba hasta ise kızlar en az taşıyıcıdır.](gorsel/tyt-biyoloji/12-04-kesin-sonuclar.svg "Soruda soldaki durumu gördüğünde sağdaki sonuç kesindir. Çaprazlama yapmadan cevaplayabilirsin.")
 
 ### Çözümlü çaprazlamalar
 
@@ -129,6 +137,8 @@ Aralarında kan bağı olan kişilerin evliliğidir.
 - Hastalığın ortaya çıkması için çekinik alelin **hem anneden hem babadan** gelmesi gerekir.
 - Akrabalar ortak atalardan aynı çekinik aleli almış olabilir. Bu yüzden akraba evliliği, çekinik alellerin **bir araya gelme (homozigot olma) olasılığını artırır**. Yeni hastalık aleli oluşturmaz.
 - Asıl sorun, fenotipi sağlıklı olan **taşıyıcı** bireylerin hastalık alelini fark etmeden çocuklarına aktarmasıdır.
+
+![Aa genotipli ortak atadan gelen çekinik aleli taşıyan, ikisi de sağlıklı taşıyıcı olan Aa anne ve Aa babanın çocukları: dörtte bir AA sağlıklı, dörtte iki Aa taşıyıcı, dörtte bir aa hasta.](gorsel/tyt-biyoloji/12-04-akraba-evliligi.svg "Aynı çekinik alel ortak atadan kuşaklar boyunca (kesik oklar) iki akrabaya da ulaşmış olabilir. İkisi de sağlıklı görünür ama alel çocukta buluşabilir.")
 
 Taşıyıcı anne × taşıyıcı baba (Aa × Aa) için: $\frac{1}{4}$ sağlıklı (AA), $\frac{2}{4}$ taşıyıcı (Aa), $\frac{1}{4}$ hasta (aa). Otozomal olduğundan kız ve erkek çocuklarda olasılık aynıdır.
 

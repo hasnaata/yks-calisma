@@ -1,0 +1,10 @@
+flowchart TD
+  S{Cins adı<br/>aynı mı?}
+  S -- Evet --> E[Aynı cins<br/>yakın akraba]
+  S -- Hayır --> H[Akrabalık<br/>çıkarılamaz]
+  E --> E1[Panthera leo<br/>Panthera tigris]
+  H --> H1[Passer domesticus<br/>Acheta domesticus]
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class E,E1 yesil
+  class H,H1 kirmizi

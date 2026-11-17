@@ -39,6 +39,8 @@ Hücre zarı canlı ve seçici geçirgendir; hücre duvarı cansız ve tam geçi
 - Sayısı hücreden hücreye değişir; protein sentezi hızlı olan hücrede fazladır.
 - Aynı proteinden kısa sürede çok sayıda üretilecekse birden çok ribozom aynı mRNA üzerinde art arda dizilir. Bu yapıya **polizom (poliribozom)** denir.
 
+![Bir bakteri ribozomunun iki farklı açıdan üç boyutlu modeli; kırmızı büyük alt birim ile mavi küçük alt birim birbirine kenetlenmiş.](gorsel/tyt-biyoloji/04-03-ribozom-3b.jpg "Ribozomun üç boyutlu modeli, iki açıdan. Kırmızı: büyük alt birim, mavi: küçük alt birim. Çevresinde zar olmadığına dikkat et. Görsel: Vossman, CC BY-SA 3.0.")
+
 Ribozomun bulunduğu yer, ürettiği proteinin nerede kullanılacağına işaret eder:
 
 | Ribozomun yeri | Ürettiği protein |
@@ -71,6 +73,8 @@ Ortak görevleri: hücre içinde madde iletimi, hücreye desteklik, $\text{Ca}^{
 - Bitki hücresi bölünürken **ara lameli** oluşturur; hücre duvarına katılan pektin gibi polisakkaritleri üretir.
 - **Salgı yapan hücrelerde iyi gelişmiştir:** tükürük bezi hücreleri, hormon salgılayan bez hücreleri, bitkilerin bal özü (nektar) üreten hücreleri.
 
+![Elektron mikroskobunda bir akyuvarın Golgi aygıtı: yay biçiminde üst üste dizilmiş ince yassı keseler ve çevrelerinde yuvarlak küçük kesecikler.](gorsel/tyt-biyoloji/04-03-golgi-tem.jpg "Gerçek bir Golgi aygıtı (elektron mikroskobu, insan akyuvarı). Alttaki koyu yay üst üste dizilmiş yassı keseler, çevresindeki yuvarlaklar keseciklerdir. Görsel: Louisa Howard, kamu malı.")
+
 ### Salgı yolu
 
 Hücre dışına verilecek bir proteinin (örneğin bir sindirim enziminin) izlediği yol:
@@ -78,6 +82,8 @@ Hücre dışına verilecek bir proteinin (örneğin bir sindirim enziminin) izle
 $$\text{Ribozom} \rightarrow \text{Granüllü ER} \rightarrow \text{Golgi aygıtı} \rightarrow \text{Salgı kofulu} \rightarrow \text{Hücre zarı}$$
 
 Bu sırayı ezberlemek yerine mantığını tut: önce **üret** (ribozom), sonra **taşı** (ER), sonra **paketle** (Golgi), sonra **dışarı ver** (salgı kofulu hücre zarıyla birleşir).
+
+![Salgı proteininin yolu yukarıdan aşağı beş adım: ribozom üretir, granüllü ER taşır, Golgi aygıtı paketler, salgı kofulu dışarı taşır, hücre zarında salgı dışarı çıkar.](gorsel/tyt-biyoloji/04-03-salgi-yolu.svg "Salgı yolu tek bakışta. Her kutuda organelin yaptığı işi oku: üret, taşı, paketle, dışarı ver.")
 
 ## Lizozom
 
@@ -95,6 +101,8 @@ Bu sırayı ezberlemek yerine mantığını tut: önce **üret** (ribozom), sonr
 
 Otoliz her zaman bir kaza değildir: insan embriyosunda el ve ayak parmaklarının arasındaki dokunun ortadan kalkması programlı bir otoliz örneğidir.
 
+![Karar şeması: lizozom enzimleri yıpranmış organeli sindiriyorsa otofaji olur ve hücre yaşar; hücrenin tamamını sindiriyorsa otoliz olur ve hücre ölür.](gorsel/tyt-biyoloji/04-03-otofaji-otoliz.svg "Tek soru yeter: sindirilen organel mi, hücrenin tamamı mı? Organelse otofaji, hücreyse otoliz.")
+
 ## Koful
 
 Golgi aygıtı, endoplazmik retikulum, hücre zarı ya da çekirdek zarından oluşan, **tek katlı zarla** çevrili keselerdir. Bitki hücrelerinde genç hücrede küçüktür; **hücre yaşlandıkça büyür**.
@@ -107,6 +115,8 @@ Golgi aygıtı, endoplazmik retikulum, hücre zarı ya da çekirdek zarından ol
 | **Kontraktil (kasılgan) koful** | **Tatlı suda** yaşayan tek hücreliler (amip, paramesyum, öglena) | Hücreye giren **fazla suyu ATP harcayarak** dışarı atar; su dengesini korur |
 
 Bitkilerde yaprak hücrelerinin kofullarında biriken atıklar, sonbaharda **yaprak dökümüyle** bitkiden uzaklaştırılır.
+
+![Işık mikroskobunda terliksi biçimli bir paramesyum; iki siyah çizgi hücrenin iki ucuna yakın duran yuvarlak kontraktil kofulları gösteriyor.](gorsel/tyt-biyoloji/04-03-kontraktil-koful.jpg "Paramesyumda kontraktil kofullar (ışık mikroskobu). Siyah çizgilerin ucundaki iki yuvarlak yapıya bak: fazla suyu dışarı atan kofullar bunlardır. Görsel: Josh Grosse ve Hämbörger, CC BY-SA 3.0.")
 
 ## ÖSYM tuzakları
 

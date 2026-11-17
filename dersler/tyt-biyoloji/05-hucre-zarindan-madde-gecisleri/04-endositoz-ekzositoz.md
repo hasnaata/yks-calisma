@@ -32,9 +32,13 @@ Nişasta, protein gibi büyük moleküller ya da bir bakteri, zardaki por ve ta�
 
 İki olayda da taşıma **tek yönlüdür** ve yoğunluk farkına bakılmaz.
 
+![Büyük moleküller koful içinde taşınır. Endositoz içeri almadır, fagositoz ve pinositoz olarak ikiye ayrılır ve zar yüzeyini küçültür. Ekzositoz dışarı vermedir ve zar yüzeyini büyütür.](gorsel/tyt-biyoloji/05-04-buyuk-molekul-tasima.svg "Dersin iskeleti. Renkli kutulara dikkat: içeri alırken zar küçülür, dışarı verirken büyür.")
+
 ## Endositoz
 
 Büyük moleküllerin, hücre zarının içeri doğru çökmesiyle oluşan cepler yardımıyla hücreye alınmasıdır. Cep koparken zarın bir parçasını da götürdüğü için zar yüzeyi küçülür. İki çeşidi vardır.
+
+![Etiketsiz çizim: solda hücre zarı içeri çökerek turuncu parçacıkları saran bir cep oluşturuyor, sağda cep koparak hücre içinde kapalı bir koful olmuş.](gorsel/tyt-biyoloji/05-04-fagositoz-cizim.png "Solda zar içeri çöküp cep oluşturuyor, sağda cep kopmuş ve koful olmuş. Kofulun zarı hücre zarından geldi; zar bu yüzden küçülür. Görsel: Laboratoires Servier, CC BY-SA 3.0.")
 
 ### Fagositoz
 
@@ -46,6 +50,8 @@ Büyük moleküllerin, hücre zarının içeri doğru çökmesiyle oluşan ceple
 4. Yararlı küçük moleküller sitoplazmaya geçer, atıklar dışarı verilir.
 
 Örnekler: **amip, öglena, paramesyum** gibi tek hücreli ökaryotların beslenmesi; insanda **akyuvarların** mikropları yutarak yok etmesi.
+
+![Taramalı elektron mikroskobu görüntüsü: sarı renkli bir akyuvar, uzantılarıyla turuncu renkli çubuk biçimli bakterileri sarıp içine çekiyor.](gorsel/tyt-biyoloji/05-04-akyuvar-fagositoz.jpg "Gerçek fagositoz: sarı akyuvar, turuncu çubuk bakterileri uzantılarıyla sarıp yutuyor (elektron mikroskobu, yapay renkli). Görsel: Volker Brinkmann, CC BY 2.5.")
 
 ### Pinositoz
 
@@ -70,6 +76,8 @@ Hücre içindeki büyük moleküllerin, kofullar aracılığıyla hücre dışı
 - Dışarı verilenler: **enzim, hormon, tükürük, süt** gibi salgılar ve boşaltım kofullarındaki atıklar.
 - Salgı kofulları büyük ölçüde golgi aygıtından gelir; bu yüzden salgı yapan hücrelerde golgi iyi gelişmiştir.
 
+![Etiketsiz çizim: hücre içindeki turuncu parçacıklarla dolu kofullar oklarla hücre zarına ilerliyor, zarla birleşen koful içeriğini hücre dışına boşaltıyor.](gorsel/tyt-biyoloji/05-04-ekzositoz-cizim.png "Okları izle: koful zara ilerliyor, zarla kaynaşıyor ve içeriği dışarı boşalıyor. Koful zarı hücre zarına eklendiği için zar büyür. Görsel: Laboratoires Servier, CC BY-SA 3.0.")
+
 ## Kim yapar, kim yapamaz?
 
 | Canlı / hücre | Endositoz | Ekzositoz |
@@ -80,6 +88,8 @@ Hücre içindeki büyük moleküllerin, kofullar aracılığıyla hücre dışı
 
 - Bakteri ve arkeler zarlı organel (koful) oluşturamadığı için iki olayı da gerçekleştiremez.
 - Bitki ve mantarlarda ekzositoz örneği: **böcekçil bitkilerin** ve **çürükçül (ayrıştırıcı) mantarların** sindirim enzimlerini hücre dışına vermesi.
+
+![Karar şeması: koful oluşturamayan bakteri ve arke iki olayı da yapamaz. Koful oluşturan hücrede hücre duvarı varsa (bitki, mantar) yalnızca ekzositoz, yoksa (hayvan hücresi, amip) ikisi de yapılır.](gorsel/tyt-biyoloji/05-04-kim-yapar.svg "İki soru yeter: Koful oluşturabiliyor mu? Hücre duvarı var mı?")
 
 ## Büyük resim: bütün taşıma çeşitleri
 

@@ -46,6 +46,8 @@ Milyonlarca tür düzensiz bir liste hâlinde bırakılsa bilgi karmaşası olur
 
 Aristo bitkileri otlar, çalılar, ağaçlar; hayvanları havada, suda ve karada yaşayanlar diye ayırmıştı. Bu ölçütle yarasa ile kuş, balina ile balık aynı gruba düşer; oysa akraba değildirler. Yapay sınıflandırmanın terk edilme nedeni budur.
 
+![Açık mavi gökyüzünde kanatlarını iki yana germiş uçan bir yarasa](gorsel/tyt-biyoloji/06-01-yarasa.jpg "Uçan bir yarasa. Yaşadığı yere bakan yapay sınıflandırma onu kuşlarla aynı gruba koyar; oysa akraba değildirler. Görsel: Andrew Mercer, CC BY-SA 4.0.")
+
 Doğal sınıflandırmada akrabalığı belirlemek için bakılanlar: **DNA ve protein benzerliği**, embriyonik gelişim evrelerinin benzerliği, **organların kökeni** (homoloji), hücresel yapı, anatomik, fizyolojik ve biyokimyasal benzerlikler, vücut simetrisi.
 
 ## Analog ve homolog organ
@@ -60,6 +62,8 @@ Doğal sınıflandırmada akrabalığı belirlemek için bakılanlar: **DNA ve p
 
 Kuşun kanadı kemik, kas ve sinir içerir; sineğin kanadı ise bir deri çıkıntısıdır. İkisi de uçmaya yarar ama kökenleri farklıdır: analogdur. İnsan kolu ile balina yüzgeci farklı işler yapar ama aynı kemik planına ve aynı embriyonik kökene sahiptir: homologdur.
 
+![Dört omurgalının ön üye iskeleti yan yana: A insan kolu, B köpek ön bacağı, C kuş kanadı, D balina ön yüzgeci. Karşılık gelen kemikler dördünde de aynı renge boyanmış.](gorsel/tyt-biyoloji/06-01-homolog-kemikler.png "A: insan kolu, B: köpeğin ön bacağı, C: kuş kanadı, D: balina yüzgeci. Aynı renkli kemikleri eşleştir: biçim ve görev değişse de kemik planı aynı, yani homolog. Görsel: Petter Bøckman, CC BY-SA 3.0.")
+
 Akılda tutma: **an**alog = görev **a**ynı, köken farklı. **Ho**molog = köken aynı ("homo" = aynı).
 
 ## Kategoriler ve hiyerarşi
@@ -67,6 +71,8 @@ Akılda tutma: **an**alog = görev **a**ynı, köken farklı. **Ho**molog = kök
 Canlılar yedi basamakta sınıflandırılır. Bu basamakların her birine **kategori**, bir kategoride toplanan ortak özellikli canlı grubuna **takson** denir.
 
 **Tür → Cins → Aile → Takım → Sınıf → Şube → Âlem**
+
+![Yedi kategori sırayla oklarla bağlı: tür, cins, aile, takım, sınıf, şube, âlem. Tür tarafında dar uç: benzerlik çok, sayı az; âlem tarafında geniş uç: sayı çok, benzerlik az yazıyor.](gorsel/tyt-biyoloji/06-01-kategoriler.svg "Oklar dardan genişe gider: tür en dar, âlem en geniş kategori. Sırayı ezberle, gerisi tek kuralla çıkar.")
 
 Tür en dar, âlem en geniş kategoridir. Her kategori bir üsttekinin içindedir: aynı cinsteki iki tür zorunlu olarak aynı aile, takım, sınıf, şube ve âlemdedir. Tersi doğru olmak zorunda değildir.
 
@@ -104,10 +110,14 @@ Kromozom sayısı konusunda iki nokta:
 
 İki sözcük birlikte **tür adını** oluşturur ve italik yazılır: *Panthera leo* (aslan), *Panthera tigris* (kaplan), *Canis lupus* (kurt), *Canis familiaris* (köpek).
 
+![Otların arasında yürüyen turuncu-siyah çizgili bir kaplan](gorsel/tyt-biyoloji/06-01-kaplan.jpg "Kaplan: Panthera tigris. İlk sözcük cins adı, ikincisi tamamlayıcı ad. Aslan (Panthera leo) ile cins adı ortaktır. Görsel: Charles J. Sharp, CC BY-SA 4.0.")
+
 Akrabalık çıkarımı:
 
 - **Cins adı aynıysa** canlılar aynı cinstendir, yakın akrabadır: *Panthera leo* ile *Panthera tigris*.
 - **Yalnızca tamamlayıcı ad aynıysa** akrabalık çıkarılamaz: *Passer domesticus* (serçe) bir kuş, *Acheta domesticus* (cırcır böceği) bir böcektir. Tamamlayıcı ad türün bir özelliğini belirten sıfattır; farklı cinslerde tekrar edebilir.
+
+![Karar şeması: Cins adı aynı mı? Evet ise aynı cins, yakın akraba (Panthera leo ve Panthera tigris). Hayır ise akrabalık çıkarılamaz (Passer domesticus ve Acheta domesticus).](gorsel/tyt-biyoloji/06-01-akrabalik-karari.svg "Bilimsel ad sorusunda tek bakacağın yer ilk sözcük. Tamamlayıcı adın aynı olması bir şey söylemez.")
 
 ## ÖSYM tuzakları
 

@@ -1,0 +1,11 @@
+flowchart LR
+  A([Anne hasta]) --> A1[Bütün oğullar hasta]
+  K([Kız çocuk hasta]) --> K1[Baba kesin hasta]
+  K --> K2[Anne en az taşıyıcı]
+  B([Baba hasta]) --> B1[Kızlar en az taşıyıcı]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A,K,B kok
+  class A1,K1 kirmizi
+  class K2,B1 sari

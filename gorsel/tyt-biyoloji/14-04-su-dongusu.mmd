@@ -1,0 +1,13 @@
+flowchart TD
+  A[Okyanus, göl, nehir, kara] -- buharlaşma --> B([Atmosferde su buharı])
+  C[Bitkiler ve diğer canlılar] -- terleme, solunum --> B
+  B -- yoğuşma --> D[Bulut]
+  D -- yağış: yağmur, kar --> E[Yeryüzü]
+  E -- birikme --> A
+  E -- sızma --> F[Toprak ve yer altı suyu]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  class B kok
+  class C yesil
+  class A,D,E,F mavi

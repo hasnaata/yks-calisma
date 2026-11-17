@@ -31,6 +31,8 @@ ATP **nükleotit yapılı** bir moleküldür:
 
 $$\text{ATP} = \text{adenin} + \text{riboz} + 3 \ \text{fosfat}$$
 
+![ATP molekülünün üç boyutlu top-çubuk modeli: sağda halkalı adenin, ortada riboz halkası, solda art arda dizilmiş üç fosfat grubu](gorsel/tyt-biyoloji/03-07-atp-3b.png "ATP molekülü. Sağda adenin (mavi toplar azot), ortada riboz, solda üç fosfat (turuncu toplar fosfor). Fosfatları say: üç tane. Görsel: Jynto, CC0.")
+
 | Basamak | Oluşan molekül |
 |---|---|
 | Adenin + riboz | **Adenozin** |
@@ -48,6 +50,8 @@ Bir ATP molekülündeki bağlar:
 
 Her bağ kurulurken bir su çıktığı için, adenin, riboz ve üç fosfattan bir ATP oluşurken toplam **4 su** açığa çıkar.
 
+![Adenin ile riboz glikozit bağıyla adenozini oluşturur. Adenozine ester bağıyla bir fosfat eklenince AMP, AMP'ye yüksek enerjili bağla bir fosfat eklenince ADP, ADP'ye yüksek enerjili bağla bir fosfat daha eklenince ATP oluşur.](gorsel/tyt-biyoloji/03-07-atp-baglari.svg "ATP basamak basamak kurulur. Bağları say: 1 glikozit, 1 ester, 2 yüksek enerjili bağ. Toplam 4 bağ, 4 su.")
+
 AMP, yapıca RNA'daki **adenin nükleotidi**yle aynıdır (adenin + riboz + bir fosfat).
 
 ## Fosforilasyon ve defosforilasyon
@@ -61,10 +65,14 @@ AMP, yapıca RNA'daki **adenin nükleotidi**yle aynıdır (adenin + riboz + bir 
 
 ATP'nin sürekli yapılıp yıkılmasına **ATP döngüsü** denir.
 
+![ATP döngüsü: ATP üreten olaylardan gelen enerjiyle fosforilasyonda ADP ve fosfattan ATP ve su oluşur. Defosforilasyonda ATP su harcayarak ADP ve fosfata ayrılır, açığa çıkan enerji ATP harcayan olaylarda kullanılır. ADP ve fosfat yeniden fosforilasyona döner.](gorsel/tyt-biyoloji/03-07-atp-dongusu.svg "Yeşil taraf ATP yapar, sarı taraf ATP harcar. Kesikli oku izle: ADP ve fosfat tekrar kullanılır.")
+
 - **ATP üreten olaylar:** hücresel solunum, fermantasyon, fotosentezin ışıkla ilgili tepkimeleri.
 - **ATP harcayan olaylar:** biyosentez (protein, yağ, polisakkarit sentezi), aktif taşıma, kas kasılması, sinirsel iletim, hücre bölünmesi.
 
 ATP **sitoplazmada, mitokondride ve kloroplastta** sentezlenir.
+
+![Elektron mikroskobunda iki mitokondri kesiti; çevrelerinde zar, içlerinde kıvrımlı iç zar katlantıları görülüyor](gorsel/tyt-biyoloji/03-07-mitokondri-tem.jpg "Bir akciğer hücresinde iki mitokondri (elektron mikroskobu). ATP'nin sentezlendiği üç yerden biri. Görsel: Louisa Howard, kamu malı.")
 
 ## ATP'nin özellikleri
 

@@ -1,0 +1,12 @@
+flowchart TD
+  A["Ergin birey (2n)"] -->|mayoz| B["Sperm (n)"]
+  A2["Ergin birey (2n)"] -->|mayoz| C["Yumurta (n)"]
+  B -->|döllenme| Z["Zigot (2n)"]
+  C -->|döllenme| Z
+  Z -->|mitoz| Y["Yeni birey (2n)"]
+  classDef dip fill:#e8f0fc,stroke:#1f5fbf,color:#12233f
+  classDef hap fill:#fdf3d8,stroke:#8a5a00,color:#3d2a00
+  classDef zig fill:#e3f4e9,stroke:#1c7c45,color:#0f3d22
+  class A,A2,Y dip
+  class B,C hap
+  class Z zig

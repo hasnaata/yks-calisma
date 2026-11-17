@@ -29,6 +29,8 @@ Sinir şeridi <b>karın</b> tarafındadır. Toprak solucanı, ahtapot ve kalamar
 
 ## Beş grup, tek tablo
 
+![Omurgalılar vücut ısısına göre ikiye ayrılır. Vücut ısısı değişken olanlar: balıklar (2 odacıklı kalp), iki yaşamlılar (3 odacık), sürüngenler (3 odacık). Vücut ısısı sabit olanlar: kuşlar (4 odacık) ve memeliler (4 odacık).](gorsel/tyt-biyoloji/07-06-omurgali-gruplari.svg "Beş grubun iskeleti. Sabit vücut ısısı ile 4 odacıklı kalbin aynı iki grupta toplandığına dikkat et.")
+
 | | Balıklar | İki yaşamlılar | Sürüngenler | Kuşlar | Memeliler |
 |---|---|---|---|---|---|
 | Vücut örtüsü | Pul | Nemli, kaygan deri | Keratin pul, kemiksi plaka | Tüy, telek | Kıl |
@@ -48,6 +50,8 @@ Sinir şeridi <b>karın</b> tarafındadır. Toprak solucanı, ahtapot ve kalamar
 - Çoğunda batmadan durmayı sağlayan **hava kesesi** vardır. Köpek balıklarında yoktur; batmamak için sürekli yüzerler.
 - Kış uykusuna yatmazlar.
 
+![Açık denizde küçük balık sürüsünün üzerinde yüzen büyük bir köpek balığı; sırt yüzgeci, yan yüzgeçleri ve başının arkasındaki solungaç yarıkları görülüyor.](gorsel/tyt-biyoloji/07-06-kopek-baligi.jpg "Köpek balığı kıkırdaklı bir balıktır. Hava kesesi olmadığı için batmamak adına sürekli yüzer. Görsel: Terry Goss, CC BY 2.5.")
+
 ## İki yaşamlılar
 
 - Kurbağa ve semender bu gruptadır. Tatlı suda ve nemli karada yaşarlar.
@@ -55,6 +59,8 @@ Sinir şeridi <b>karın</b> tarafındadır. Toprak solucanı, ahtapot ve kalamar
 - Yumurtadan çıkan **larva** solungaçlıdır; **başkalaşım** geçirerek ergine dönüşür.
 - Ergin birey akciğer solunumunu **deri solunumu**yla destekler; bu yüzden deri hep nemlidir.
 - Kış uykusuna yatarlar.
+
+![Soldan sağa dört aşama: suda yumurta, solungaçlı larva, başkalaşım, akciğer ve deri solunumu yapan ergin.](gorsel/tyt-biyoloji/07-06-baskalasim.svg "İki yaşamlının hayatı suda başlar. Solunum organı başkalaşımla değişir: önce solungaç, sonra akciğer ve deri.")
 
 ## Sürüngenler
 
@@ -84,11 +90,15 @@ Sinir şeridi <b>karın</b> tarafındadır. Toprak solucanı, ahtapot ve kalamar
 | Keseli | Kanguru | Yavru erken doğar, gelişimini kesede tamamlar |
 | Plasentalı | İnsan, fil, yarasa, yunus, balina | Gelişim ana rahminde tamamlanır |
 
+![Suda yüzen bir ornitorenk; ördek gagasına benzeyen yassı gagası ve kıllarla kaplı gövdesi görülüyor.](gorsel/tyt-biyoloji/07-06-ornitorenk.jpg "Ornitorenk: gagası var ve yumurtlar, ama vücudu kıllıdır ve yavrusunu sütle besler. Yani memelidir. Görsel: Charles J. Sharp, CC BY-SA 4.0.")
+
 ## ÖSYM tuzakları
 
 > **Yunus ve balina balık değil, yarasa kuş değildir.** Üçü de memelidir: akciğerle solur, doğurur, sütle besler. Penguen uçamaz ama kuştur.
 
 > **Semender kertenkeleye benzer ama iki yaşamlıdır.** Derisi nemli ve pulsuzdur, başkalaşım geçirir. Kaplumbağa ve timsah suda yaşasa da sürüngendir.
+
+![Siyah gövdesi üzerinde sarı lekeler bulunan bir semenderin yakından görünümü; derisi parlak, ıslak ve pulsuz.](gorsel/tyt-biyoloji/07-06-semender.jpg "Semenderin derisine bak: parlak, nemli ve pulsuz. Kertenkelede olsaydı keratin pullar görürdün. Görsel: Petar Milošević, CC BY-SA 4.0.")
 
 > **"Suda yaşayan bütün omurgalılar dış döllenme yapar"** yanlıştır. Köpek balığında, su kaplumbağasında ve yunusta iç döllenme görülür.
 

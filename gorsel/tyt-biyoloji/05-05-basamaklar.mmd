@@ -1,0 +1,15 @@
+flowchart TD
+  A[1. Gözlem ve veri] --> B[2. Problem]
+  B --> C[3. Hipotez]
+  C --> D[4. Tahmin]
+  D --> E[5. Kontrollü deney]
+  E --> F{6. Sonuçlar hipotezi<br/>destekliyor mu?}
+  F -- Evet --> G[Tekrarlanır, doğrulanır<br/>Gerçek olur]
+  F -- Hayır --> H[Yeni hipotez kurulur]
+  H --> C
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class G yesil
+  class H kirmizi
+  class F sari

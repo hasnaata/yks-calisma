@@ -1,0 +1,12 @@
+flowchart TD
+  S{Madde hangi<br/>yöne gidiyor?}
+  S -->|çok → az| Q{Zar proteini<br/>görev alıyor mu?}
+  S -->|az → çok| AK[Aktif taşıma<br/>ATP var]
+  Q -->|hayır| B[Basit difüzyon<br/>ATP yok]
+  Q -->|evet| K[Kolaylaştırılmış difüzyon<br/>ATP yok]
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef acik fill:#e8f0fc,stroke:#1f5fbf
+  class S,Q acik
+  class AK kirmizi
+  class B,K yesil

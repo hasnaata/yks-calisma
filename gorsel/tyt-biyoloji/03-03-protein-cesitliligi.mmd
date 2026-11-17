@@ -1,0 +1,15 @@
+flowchart TD
+  DNA([DNA şifresi · gen]) --> R[Ribozomda<br/>protein sentezi]
+  R --> S[Amino asit<br/>sayısı]
+  R --> C[Amino asit<br/>çeşidi]
+  R --> D[Amino asit<br/>dizilişi]
+  S --> P[Canlıya özgü protein]
+  C --> P
+  D --> P
+  X[Peptit bağı<br/>hepsinde aynı] --> N([Çeşitlilik nedeni olamaz])
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class DNA kok
+  class S,C,D yesil
+  class X,N kirmizi

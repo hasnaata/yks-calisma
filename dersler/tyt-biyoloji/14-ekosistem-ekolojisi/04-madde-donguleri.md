@@ -35,6 +35,8 @@ Yeryüzündeki suyun büyük kısmı okyanuslardadır. Su atmosferde buhar, deni
 
 Bitkiler suyu kökleriyle, hayvanlar içerek ve besinle alır. Bitki kökleri suyun **toprakta tutulmasında** en büyük etkendir.
 
+![Su döngüsü şeması: okyanus, göl, nehir ve karadan buharlaşan su ile canlıların terleme ve solunumla verdiği su atmosferde su buharı olur; yoğuşup bulut oluşturur, yağışla yeryüzüne döner; bir kısmı birikir, bir kısmı toprağa ve yer altı suyuna sızar.](gorsel/tyt-biyoloji/14-04-su-dongusu.svg "Su döngüsü tek bakışta. Suyu atmosfere buharlaşma, terleme ve solunum taşır; yeryüzüne yoğuşma ve yağış geri getirir.")
+
 ## Karbon döngüsü
 
 Karbon, bütün organik moleküllerin temel elementidir. Atmosferde $\text{CO}_2$ gazı olarak, suda **çözünmüş** $\text{CO}_2$ olarak bulunur.
@@ -56,6 +58,8 @@ Karbonun yolu:
 
 Karbonun cansız ortamdan canlı yapısına girmesinin yolu **ototrofların yaptığı fotosentez ve kemosentezdir**.
 
+![Karbon döngüsü şeması: atmosferdeki karbondioksit fotosentezle üreticilere, beslenmeyle tüketicilere geçer; üreticilerin ve tüketicilerin solunumu, ölü kalıntıların ayrıştırılması ve fosil yakıtların yanması karbondioksiti atmosfere geri verir.](gorsel/tyt-biyoloji/14-04-karbon-dongusu.svg "Şemada atmosferden çıkan tek ok fotosentezdir (kemosentez de aynı yönde çalışır). Atmosfere dönen kesikli okların hepsi karbondioksit verir: solunum, ayrıştırma, yanma.")
+
 ## Azot döngüsü
 
 Azot; amino asitlerin, proteinlerin ve nükleik asitlerin yapısına katılır. Başlıca kaynağı atmosferdir: havanın yaklaşık **%78'i** serbest azot gazıdır ($\text{N}_2$). Ancak bitkiler ve hayvanlar $\text{N}_2$'yi **doğrudan kullanamaz**.
@@ -68,6 +72,10 @@ Atmosferdeki serbest azotun canlıların kullanabileceği azotlu bileşiklere (a
 |---|---|
 | **Biyotik fiksasyon** | Baklagillerin kök yumrularında yaşayan **Rhizobium** bakterileri, toprakta serbest yaşayan azot bağlayıcı bakteriler ve bazı siyanobakteriler |
 | **Abiyotik fiksasyon** | **Yıldırım ve şimşek**; oluşan azotlu bileşikler yağmurla toprağa iner |
+
+![Topraktan çıkarılmış bir baklagil kökü; kökün üzerinde küçük, yuvarlak, kahverengi yumrular görülüyor.](gorsel/tyt-biyoloji/14-04-kok-yumrulari.jpg "Baklagil kökündeki yuvarlak şişkinlikler kök yumrularıdır. Azotu bağlayan bitki değil, bu yumruların içinde yaşayan Rhizobium bakterileridir. Görsel: Terraprima, CC BY-SA 3.0.")
+
+![Gece vakti kara bulutlardan yere inen dallanmış bir yıldırım; altta bir yerleşimin ışıkları görülüyor.](gorsel/tyt-biyoloji/14-04-yildirim.jpg "Abiyotik fiksasyon: yıldırım sırasında oluşan azotlu bileşikler yağmurla toprağa iner. Görsel: Filip.vidinovski, CC BY-SA 4.0.")
 
 ### 2. Bitkilerin azotu alması
 
@@ -92,6 +100,8 @@ Topraktaki bazı bakteriler nitratı **serbest azota** ($\text{N}_2$) çevirip a
 - Denitrifikasyon bakterileri **oksijensiz solunum** yapar.
 - Toprağın azotlu bileşiklerini azalttığı için **verimi düşürür**, atmosferdeki azotu artırır.
 - Atmosferdeki azot oranının dengede kalmasını sağlar.
+
+![Azot döngüsü şeması: atmosferdeki azot fiksasyonla amonyak ve amonyuma dönüşür; nitrifikasyonla önce nitrit, sonra nitrat oluşur; bitkiler amonyum ve nitratı alır, hayvanlar beslenmeyle alır; atık ve kalıntılar ayrıştırmayla yeniden amonyağa döner; denitrifikasyon nitratı serbest azot olarak atmosfere geri verir.](gorsel/tyt-biyoloji/14-04-azot-dongusu.svg "Beş olayın hepsi tek şemada. Atmosfere geri dönen tek ok (kesikli) denitrifikasyondur.")
 
 ### Tek tablo
 

@@ -1,0 +1,14 @@
+flowchart TD
+  S{Zarla çevrili<br/>çekirdek var mı?}
+  S -->|Yok| P[Prokaryot hücre]
+  S -->|Var| O[Ökaryot hücre]
+  P --> P1[Bakteriler<br/>Arkeler]
+  O --> O1[Protistler · Mantarlar<br/>Bitkiler · Hayvanlar]
+  P --> ORT([Ortak: hücre zarı, sitoplazma,<br/>ribozom, DNA, RNA])
+  O --> ORT
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class S kok
+  class P,P1 sari
+  class O,O1 yesil

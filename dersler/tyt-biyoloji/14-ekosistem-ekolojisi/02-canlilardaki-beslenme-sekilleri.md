@@ -27,6 +27,8 @@ Canlılar beslenme şekline göre üç gruba ayrılır:
 | **Heterotroflar (tüketiciler)** | Holozoik beslenenler (otçul, etçil, hem etçil hem otçul), ayrıştırıcılar (saprotroflar) |
 | **Hem ototrof hem heterotroflar** | Öglena |
 
+![Canlılar beslenme şekline göre üçe ayrılır: ototroflar (fotosentetik ve kemosentetik), heterotroflar (holozoik beslenenler ve ayrıştırıcılar) ve hem ototrof hem heterotrof olanlar (öglena).](gorsel/tyt-biyoloji/14-02-beslenme-siniflandirma.svg "Dersin iskeleti. Yeşil kutular üretir, sarı kutular hazır alır; öglena ikisini de yapar.")
+
 ## Ototroflar (üreticiler)
 
 **İnorganik maddelerden organik madde** sentezleyen canlılardır. Bütün canlıların besin ihtiyacının kaynağıdırlar ve atmosferdeki oksijen–karbondioksit dengesini sağlarlar. Kullandıkları enerji kaynağına göre ikiye ayrılırlar:
@@ -68,6 +70,10 @@ Besin **katı parçalar hâlinde** alınır ve sindirim sisteminde sindirilir. A
 - Hem karasal hem sucul besin zincirlerinin **bütün basamaklarında** bulunurlar; her basamağın atığını ve kalıntısını ayrıştırırlar.
 - Madde döngülerinin **kilit canlılarıdır**.
 
+![Yakın çekimde küf mantarı: beyaz, ince iplikler ve üzerlerinde küçük siyah noktalar.](gorsel/tyt-biyoloji/14-02-kuf-mantari.jpg "Küf mantarı, yakın çekim. Besini yutmaz: enzimini üzerine salgılar, parçalanan maddeyi hücrelerine alır. Görsel: WDKeeper, CC BY-SA 4.0.")
+
+![Ölü kalıntı ve organik atık ayrıştırıcılar tarafından inorganik maddeye çevrilir; inorganik maddeyi üreticiler kullanır, üreticilerden tüketicilere geçilir; üretici ve tüketicilerin atık ve kalıntıları yeniden ayrıştırıcılara döner.](gorsel/tyt-biyoloji/14-02-ayristirici-dongusu.svg "Ayrıştırıcı halkayı kapatır. Kırmızı kutuyu çıkar: atık birikir, inorganik madde üreticiye ulaşmaz.")
+
 **Ayrıştırıcılar azalırsa:**
 
 | Değişen | Yönü |
@@ -86,7 +92,11 @@ Bazı canlılar fotosentez yapabildiği hâlde dışarıdan hazır besin de alab
 - Kloroplastı vardır; **ışıkta** fotosentez yapar (ototrof).
 - **Karanlıkta** besinini dış ortamdan hazır alır (heterotrof).
 
+![Işık mikroskobunda iğ biçimli, içi yeşil tanecikli öglena hücreleri.](gorsel/tyt-biyoloji/14-02-oglena.jpg "Mikroskopta öglena hücreleri. Yeşil renk kloroplastlardan gelir; ışıkta fotosentez yapabilmesinin nedeni budur. Görsel: Ellis O'Neill, CC BY-SA 3.0.")
+
 Böcekçil bitkiler de bu gruba girer: fotosentez yaparlar, azot ihtiyaçlarının bir bölümünü yakaladıkları böcekleri sindirerek karşılarlar.
+
+![Açılmış bir böcekçil bitki yaprağının içinde sindirilmiş bir böceğin kalıntısı.](gorsel/tyt-biyoloji/14-02-bocekcil-bitki.jpg "Böcekçil bitkinin kapan yaprağı ve içinde sindirilmiş bir böceğin kalıntısı. Bu bitki fotosentez de yapar; böcek ona azot sağlar. Görsel: USFWS, kamu malı.")
 
 ## ÖSYM tuzakları
 

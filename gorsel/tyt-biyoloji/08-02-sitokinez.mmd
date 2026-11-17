@@ -1,0 +1,12 @@
+flowchart TD
+  S([Sitokinez])
+  S --> H[Hayvan hücresi<br/>hücre duvarı yok]
+  S --> B[Bitki hücresi<br/>hücre duvarı var]
+  H --> H1[Boğumlanma<br/>dıştan içe]
+  B --> B1[Orta lamel<br/>içten dışa]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class S kok
+  class H,H1 sari
+  class B,B1 yesil

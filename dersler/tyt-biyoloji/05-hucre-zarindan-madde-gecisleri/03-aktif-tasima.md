@@ -27,6 +27,8 @@ Küçük moleküllerin ve iyonların, **az yoğun** oldukları ortamdan **çok y
 
 Pasif taşıma yokuş aşağı yuvarlanmaya benzer; kendiliğinden olur. Aktif taşıma yokuş yukarı itmektir; enerji ister.
 
+![Şema: madde az yoğun ortamdan taşıyıcı proteine (pompaya) gelir ve çok yoğun ortama bırakılır; pompaya enerji ATP harcanarak sağlanır.](gorsel/tyt-biyoloji/05-03-aktif-tasima-yonu.svg "Aktif taşımanın iskeleti: madde az yoğundan çok yoğuna gider, bunu ATP harcayan pompa yapar.")
+
 Özellikleri:
 
 - Yön: **az yoğun → çok yoğun** (yoğunluk farkına karşı).
@@ -35,6 +37,8 @@ Pasif taşıma yokuş aşağı yuvarlanmaya benzer; kendiliğinden olur. Aktif t
 - Yalnızca **canlı hücrede** gerçekleşir; çünkü ATP üretimi ve enzim etkinliği canlılığa bağlıdır.
 - **Küçük** moleküller ve iyonlar taşınır. Büyük moleküller bu yolla geçemez.
 - Yoğunluk farkını **azaltmaz, artırır ya da korur**. Hücrenin iç ortamını dış ortamdan farklı tutabilmesinin yolu budur.
+
+![Sodyum-potasyum pompası proteininin üç boyutlu şerit modeli: kırmızı sarmallardan oluşan uzun bir protein, biri kırmızı biri mavi, noktalardan oluşan iki yatay çizginin arasından geçiyor.](gorsel/tyt-biyoloji/05-03-sodyum-potasyum-pompasi-3b.jpg "Gerçek bir pompa: sodyum–potasyum pompasının 3B modeli. Noktalardan oluşan iki çizgi hücre zarının iki yüzünü gösterir; protein zarı boydan boya geçer. Görsel: Andrei Lomize, CC BY-SA 3.0.")
 
 ## Örnekler
 
@@ -45,6 +49,8 @@ Pasif taşıma yokuş aşağı yuvarlanmaya benzer; kendiliğinden olur. Aktif t
 | Bazı deniz yosunları | İyotu, deniz suyundakinden çok daha yüksek yoğunlukta hücrelerinde biriktirir |
 
 Üç örnekte de ortak ipucu şudur: madde, zaten çok olduğu tarafa doğru taşınmaya devam ediyor. Bir soruda bunu görürsen cevap aktif taşımadır.
+
+![Yeşil-mavi deniz suyunun yüzeyine yakın yüzen, uzun kahverengi yapraklı deniz yosunları.](gorsel/tyt-biyoloji/05-03-deniz-yosunu.jpg "Deniz yosunları. Bazıları iyotu deniz suyundakinden çok daha yoğun biriktirir; bu ancak aktif taşımayla olur. Görsel: PatríciaR, CC BY-SA 2.5.")
 
 ## Pasif taşıma ile karşılaştırma
 
@@ -58,9 +64,13 @@ Pasif taşıma yokuş aşağı yuvarlanmaya benzer; kendiliğinden olur. Aktif t
 
 Aynı madde iki yolla da taşınabilir. Glikoz, hücre dışında çoksa kolaylaştırılmış difüzyonla; hücre içinde zaten çoksa ve alınmaya devam edecekse aktif taşımayla girer. Yolu belirleyen maddenin adı değil, **yoğunluk farkının yönüdür**.
 
+![Karar şeması: madde az yoğundan çok yoğuna gidiyorsa aktif taşımadır ve ATP vardır. Çok yoğundan aza gidiyorsa zar proteini görev almıyorsa basit difüzyon, alıyorsa kolaylaştırılmış difüzyondur; ikisinde de ATP yoktur.](gorsel/tyt-biyoloji/05-03-yon-atp-karar.svg "Önce yöne bak. Protein iki yolda da var; aktif taşımayı ayıran yön ve ATP.")
+
 ## ATP üretimi durursa
 
 Hücrenin ATP üretimi durdurulursa (örneğin solunumu engelleyen bir zehirle) aktif taşıma **durur**. Pasif taşıma ise sürer. Sonuç: aktif taşımayla korunan yoğunluk farkı, difüzyon nedeniyle zamanla kapanır; iç ve dış yoğunluklar birbirine **yaklaşır**.
+
+![Şema: ATP üretimi durunca aktif taşıma durur, pasif taşıma sürer; ikisinin sonucu olarak yoğunluk farkı zamanla kapanır.](gorsel/tyt-biyoloji/05-03-atp-durursa.svg "ATP biterse yalnızca aktif taşıma durur. Difüzyon sürdüğü için fark kapanır.")
 
 Aynı mantıkla: sıcaklığın aşırı düşmesi ya da enzimleri bozan etkenler de aktif taşımayı yavaşlatır.
 

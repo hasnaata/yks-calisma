@@ -24,6 +24,8 @@ guncelleme: 2026-11-16
 - Üç önemli çeşit: **nötral yağlar (trigliseritler), fosfolipitler, steroitler**.
 - Lipitler **polimer değildir**: aynı birimin tekrarından oluşmazlar.
 
+![Lipitler üçe ayrılır: nötral yağlar (trigliseritler) depo görevi yapar, fosfolipitler hücre zarını oluşturur, steroitler hormon, vitamin ve kolesterolün yapısına katılır.](gorsel/tyt-biyoloji/03-02-lipit-cesitleri.svg "Dersin iskeleti: üç çeşit, üç ana görev. Önce bunu aklına yerleştir.")
+
 ## Nötral yağlar (trigliseritler)
 
 Bitki ve hayvanlarda lipitlerin **depo** şeklidir.
@@ -33,6 +35,10 @@ $$3\ \text{yağ asidi} + 1\ \text{gliserol} \rightarrow 1\ \text{trigliserit} + 
 - Tepkimenin adı **esterleşme**dir, bir dehidrasyondur.
 - **3 ester bağı** kurulur, **3 su** çıkar.
 - Hidrolizinde tersine 3 su harcanır, 3 yağ asidi ve 1 gliserol oluşur.
+
+![Üç yağ asidi ile bir gliserol esterleşmeyle birleşir; üç ester bağı kurulur, bir trigliserit oluşur ve üç su çıkar. Kesikli oklar hidrolizi gösterir: trigliserit üç su harcanarak yeniden üç yağ asidi ve bir gliserole ayrılır.](gorsel/tyt-biyoloji/03-02-esterlesme.svg "Sayı hep 3: üç ester bağı, üç su. Kesikli oklar aynı yolun tersidir: hidroliz.")
+
+![Bir trigliserit molekülünün üç boyutlu top-çubuk modeli: ortadaki kısa gliserol omurgasından üç uzun yağ asidi zinciri çıkıyor.](gorsel/tyt-biyoloji/03-02-trigliserit-3b.png "Bir trigliserit molekülü. Ortada gliserol, ondan çıkan üç uzun kol yağ asitleri. Kırmızı toplar oksijen; kolların gliserole bağlandığı üç yeri bul. Görsel: Jynto, CC0.")
 
 | | Doymuş yağ asidi | Doymamış yağ asidi |
 |---|---|---|
@@ -50,11 +56,15 @@ $$3\ \text{yağ asidi} + 1\ \text{gliserol} \rightarrow 1\ \text{trigliserit} + 
 - **Hücre zarının** temel yapısını oluşturur (çift katlı tabaka).
 - Baş kısmı **hidrofilik** (suyu sever): zarın iki yüzeyinde, hem dış ortama hem sitoplazmaya bakar. Kuyruk kısmı **hidrofobik** (suyu sevmez): zarın orta kısmında, birbirine dönük durur.
 
+![Çift katlı fosfolipit tabakasının çizimi: beyaz yuvarlak başlar üst ve alt yüzeyde dizili, sarı-turuncu kuyruklar iki sıranın arasında, ortada.](gorsel/tyt-biyoloji/03-02-cift-katli-tabaka.png "Çift katlı fosfolipit tabakası. Beyaz toplar hidrofilik başlar: iki yüzeyde. Sarı kuyruklar hidrofobik: ortada, birbirine dönük. Görsel: Masur, kamu malı.")
+
 ## Steroitler
 
 - Yapı: **dört karbon halkası** ve yan gruplar.
 - **Eşey hormonlarının** (östrojen, testosteron), safra tuzlarının, **A ve D vitaminlerinin** yapısına katılır: düzenleyicidir.
 - **Kolesterol:** hayvansal bir steroittir. Hücre zarında bulunur; zarın akışkanlığını, esnekliğini ve dayanıklılığını sağlar. Karaciğerde üretilir, besinle de alınır. Fazlası damar sertliği ve tıkanıklığına yol açar.
+
+![Kolesterol molekülünün üç boyutlu top-çubuk modeli: birbirine bitişik dört karbon halkası ve ucunda bir yan zincir.](gorsel/tyt-biyoloji/03-02-kolesterol-3b.png "Kolesterol molekülü. Bitişik dört halkayı say: steroitlerin ortak iskeleti budur. Gri: karbon, beyaz: hidrojen, kırmızı: oksijen. Görsel: Ben Mills, kamu malı.")
 
 ## Lipitlerin görevleri
 

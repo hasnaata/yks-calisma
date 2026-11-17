@@ -28,6 +28,8 @@ Küçükten büyüğe:
 
 $$\text{Tür (organizma)} \rightarrow \text{Popülasyon} \rightarrow \text{Komünite} \rightarrow \text{Ekosistem} \rightarrow \text{Biyosfer}$$
 
+![Yukarıdan aşağıya beş basamak: tür (kızıl tilki), popülasyon (aynı tür, aynı alan), komünite (farklı popülasyonlar), ekosistem (komünite ve cansız çevre), biyosfer (tüm ekosistemler).](gorsel/tyt-biyoloji/14-01-duzeyler.svg "Her basamak bir öncekini içine alır. Cansız çevre ilk kez ekosistem basamağında işin içine girer.")
+
 | Düzey | Tanım | Örnek |
 |---|---|---|
 | **Tür** | Ortak atadan gelen, yapı ve görevce benzer, çiftleştiğinde **verimli döl** veren canlı grubu | Kızıl tilki |
@@ -35,6 +37,8 @@ $$\text{Tür (organizma)} \rightarrow \text{Popülasyon} \rightarrow \text{Komü
 | **Komünite** | Belirli bir alanda etkileşim hâlindeki **farklı popülasyonların** tümü | Bir göldeki balıklar, kurbağalar, bitkiler, böcekler, bakteriler |
 | **Ekosistem** | Komünite + onunla etkileşen **cansız çevre** | Bir göl, bir orman, bir akvaryum |
 | **Biyosfer** | Dünyadaki tüm ekosistemlerin toplamı; canlıların yaşadığı alanların tümü | Dünya |
+
+![Köpüren bir akarsuda akıntıya karşı sıçrayan onlarca inci kefali](gorsel/tyt-biyoloji/14-01-inci-kefali.jpg "İnci kefalleri: hepsi aynı tür, aynı yerde, aynı zamanda. Popülasyon tam olarak budur. Görsel: KediÇobanı, CC BY-SA 4.0.")
 
 Dikkat edilecek noktalar:
 
@@ -67,7 +71,11 @@ Büyük iklim kuşaklarında, kendine özgü bitki ve hayvan topluluklarını ba
 
 Kısa yol: habitat **adres**, niş **meslek**. Aynı habitatta farklı nişlere sahip türler birlikte yaşayabilir.
 
+![Petek üzerinde işçi arılarla çevrili, sırtı sarı noktayla işaretlenmiş kraliçe arı](gorsel/tyt-biyoloji/14-01-kralice-ari.jpg "Ortadaki sarı işaretli arı kraliçedir. Kovan onun habitatı, yumurta üreterek koloniyi çoğaltmak ise nişidir. Görsel: U.S. Geological Survey, kamu malı.")
+
 ## Ekosistemin cansız (abiyotik) bileşenleri
+
+![Ekosistem ikiye ayrılır: cansız (abiyotik) bileşenler ışık, sıcaklık, iklim, su, pH, toprak ve minerallerdir; canlı (biyotik) bileşenler üreticiler, tüketiciler ve ayrıştırıcılardır.](gorsel/tyt-biyoloji/14-01-bilesenler.svg "Bölümün iskeleti: sarı kutular cansız, yeşil kutular canlı bileşenler. Önce bu ayrımı yerleştir.")
 
 | Faktör | Etkisi |
 |---|---|
@@ -87,6 +95,8 @@ Kısa yol: habitat **adres**, niş **meslek**. Aynı habitatta farklı nişlere 
 | **Ayrıştırıcılar (saprotroflar)** | Ölü kalıntıları ve organik atıkları hücre dışına salgıladığı enzimlerle **inorganik maddeye** parçalar; madde döngüsünü sağlar | Bazı bakteriler ve bazı mantarlar |
 
 Ayrıştırıcılar da besinini hazır alır, yani heterotrofturlar; ancak ekosistemdeki görevleri farklı olduğu için ayrı grup olarak incelenirler.
+
+![Kesilmiş bir ağaç kütüğünün üzerinde kümeler hâlinde büyüyen küçük beyaz mantarlar](gorsel/tyt-biyoloji/14-01-ayristirici-mantar.jpg "Ölü kütüğün üzerindeki mantarlar ayrıştırıcıdır: odunu inorganik maddeye parçalayıp madde döngüsüne geri kazandırır. Görsel: Sindugab, CC0.")
 
 ## ÖSYM tuzakları
 

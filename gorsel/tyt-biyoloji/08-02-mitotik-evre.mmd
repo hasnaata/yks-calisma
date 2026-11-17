@@ -1,0 +1,13 @@
+flowchart TD
+  M([Mitotik evre])
+  M --> K[Karyokinez<br/>çekirdek bölünmesi]
+  M --> S[Sitokinez<br/>sitoplazma bölünmesi]
+  K --> P[Profaz]
+  P --> ME[Metafaz]
+  ME --> A[Anafaz]
+  A --> T[Telofaz]
+  T -.-> S
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class M kok
+  class S yesil

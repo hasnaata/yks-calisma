@@ -1,0 +1,17 @@
+flowchart TD
+  V([Genetik varyasyon])
+  V --> E[Eşeyli üreme]
+  V --> M[Mutasyon]
+  E --> K[Krossing<br/>over]
+  E --> B[Bağımsız<br/>dağılım]
+  E --> R[Rastgele<br/>döllenme]
+  K --> Y[Yeni kombinasyon]
+  B --> Y
+  R --> Y
+  M --> N[Yeni alel]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class V kok
+  class Y yesil
+  class M,N sari

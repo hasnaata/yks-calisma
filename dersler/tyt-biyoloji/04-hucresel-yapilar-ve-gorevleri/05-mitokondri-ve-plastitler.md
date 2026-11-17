@@ -33,6 +33,8 @@ Hücrenin ihtiyaç duyduğu **ATP'nin büyük kısmını oksijen kullanarak** ü
 | **İç zar** | İçeri doğru kıvrımlar yapar; bu kıvrımlara **krista** denir. Kristalar **yüzeyi artırır**; üzerlerinde ATP sentezleyen enzimler bulunur |
 | **Matriks** | Mitokondrinin içini dolduran sıvı. İçinde **halkasal DNA**, **RNA'lar**, **ribozomlar** ve solunum enzimleri bulunur |
 
+![Elektron mikroskobunda yan yana iki mitokondri kesiti; her birinin çevresinde zar, içinde içeri doğru uzanan koyu çizgiler hâlinde kristalar görülüyor.](gorsel/tyt-biyoloji/04-05-mitokondri-tem.jpg "Gerçek mitokondriler (elektron mikroskobu). İçeri uzanan koyu çizgiler krista, aralarını dolduran kısım matrikstir. Görsel: Louisa Howard, kamu malı.")
+
 ### Özellikleri
 
 - **Çift katlı zarla** çevrilidir.
@@ -45,6 +47,8 @@ Hücrenin ihtiyaç duyduğu **ATP'nin büyük kısmını oksijen kullanarak** ü
 ## Plastitler
 
 **Bitki ve alg** hücrelerinde bulunur; hayvan ve mantar hücrelerinde bulunmaz. Üç çeşittir.
+
+![Plastitler üçe ayrılır: yeşil kloroplast fotosentez yapar, sarı-turuncu-kırmızı kromoplast renk verir, renksiz lökoplast depolar.](gorsel/tyt-biyoloji/04-05-plastit-cesitleri.svg "Üç plastit, üç görev. Önce bu iskeleti aklına yerleştir, pigmentler tabloda.")
 
 | | Kloroplast | Kromoplast | Lökoplast |
 |---|---|---|---|
@@ -64,7 +68,11 @@ Lökoplast örnekleri: patateste **nişasta**, zeytin ve fındıkta **yağ**, fa
 | Kloroplast → kromoplast | Yeşil domatesin olgunlaşınca kızarması |
 | Lökoplast → kloroplast | Işıkta bekleyen patates yumrusunun yeşillenmesi |
 
+![Dalında iki domates: sağdaki tümüyle yeşil, soldaki turuncu-kırmızıya dönmeye başlamış.](gorsel/tyt-biyoloji/04-05-domates-olgunlasma.jpg "Sağdaki domates hâlâ yeşil, soldaki kızarmaya başlamış: kloroplastlar kromoplasta dönüşüyor. Görsel: Naposia, CC BY-SA 3.0.")
+
 ### Kloroplastın yapısı
+
+![Mikroskop altında yosun yaprağı hücreleri; her hücrenin içinde çok sayıda yeşil, yuvarlak kloroplast var.](gorsel/tyt-biyoloji/04-05-kloroplastlar.jpg "Yosun yaprağı hücreleri (ışık mikroskobu). Her yeşil tanecik bir kloroplasttır; yeşil rengi klorofil verir. Görsel: Des Callaghan, CC BY-SA 4.0.")
 
 | Kısım | Özelliği |
 |---|---|
@@ -72,6 +80,8 @@ Lökoplast örnekleri: patateste **nişasta**, zeytin ve fındıkta **yağ**, fa
 | **Tilakoit** | İç kısımdaki yassı kese biçimli zar sistemi; **klorofil** burada bulunur |
 | **Granum** | Üst üste dizilmiş tilakoit yığını (çoğulu: grana) |
 | **Stroma** | Kloroplastın içini dolduran sıvı. İçinde **halkasal DNA**, **RNA'lar**, **ribozomlar** ve enzimler bulunur |
+
+![Elektron mikroskobunda kloroplastın bir bölümü; ortada birbirine paralel, sık dizilmiş koyu çizgilerden oluşan dikine bir yığın görülüyor.](gorsel/tyt-biyoloji/04-05-kloroplast-tem.jpg "Kloroplastın içi (elektron mikroskobu). Ortadaki paralel çizgi yığını yandan görülen bir granumdur; her çizgi bir tilakoittir. Görsel: and3k ve caper437, CC BY-SA 3.0.")
 
 Kloroplast fotosentezle **organik besin ve oksijen** üretir. Burada üretilen **ATP yalnızca fotosentezde kullanılır**; hücrenin diğer işleri için gereken ATP mitokondriden gelir.
 

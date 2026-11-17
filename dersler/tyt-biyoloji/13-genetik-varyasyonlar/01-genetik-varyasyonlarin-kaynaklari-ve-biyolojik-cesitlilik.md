@@ -23,6 +23,8 @@ Aynı türün bireyleri türe özgü genleri taşır, ama bu genlerin dizilimler
 
 Aynı türe ait midyelerin kabuk renklerinin, patates çeşitlerinin ya da insanların göz renklerinin farklı olması genetik varyasyon örnekleridir.
 
+![Siyah zemin üzerinde aynı türe ait on beş midye kabuğu; renkleri mordan turuncuya, desenleri halkalıdan ışınsal çizgiliye değişiyor.](gorsel/tyt-biyoloji/13-01-midye-kabuklari.jpg "Bu on beş kabuğun hepsi aynı türe ait. Renk ve desen farkına bak: genetik varyasyon böyle görünür. Görsel: Debivort, CC BY-SA 3.0.")
+
 ## Varyasyonun kaynakları
 
 | Kaynak | Ne zaman? | Ne yapar? |
@@ -33,6 +35,8 @@ Aynı türe ait midyelerin kabuk renklerinin, patates çeşitlerinin ya da insan
 | **Mutasyon** | Her zaman olabilir | Genin nükleotit dizilimini değiştirir; **yeni alel** ortaya çıkarabilir. |
 
 İlk üçü **eşeyli üremeye** özgüdür ve var olan alelleri yeni biçimlerde bir araya getirir. Yeni bir alel oluşturabilen tek kaynak **mutasyon**dur.
+
+![Genetik varyasyonun kaynakları iki kola ayrılır: eşeyli üremeye özgü krossing over, bağımsız dağılım ve rastgele döllenme yeni kombinasyon oluşturur; mutasyon ise yeni alel oluşturur.](gorsel/tyt-biyoloji/13-01-varyasyon-kaynaklari.svg "Dört kaynak, iki sonuç: üçü var olan alelleri yeniden karıştırır, yalnızca mutasyon yeni alel oluşturabilir.")
 
 Bağımsız dağılımın gücünü kalıtım dersindeki formülle görebilirsin: $n$ çift kromozomu olan bir canlı, krossing over olmasa bile yalnızca bağımsız dağılımla $2^n$ çeşit gamet oluşturabilir. İnsanda $n = 23$ olduğundan bu sayı $2^{23}$'tür (8 milyondan fazla). Krossing over ve rastgele döllenme eklenince olasılıklar çok daha artar.
 
@@ -54,6 +58,8 @@ Mutasyonun hangi hücrede olduğu, kalıtsal olup olmadığını belirler:
 | **Üreme hücresi ya da üreme ana hücresi** | Gelecek kuşakları | **Aktarılabilir** |
 
 Örneğin deri hücresinde ultraviyole ışınlarıyla oluşan bir mutasyon o bireyde kalır; yumurta ya da sperm ana hücresindeki bir mutasyon ise gametle birlikte yavruya geçebilir.
+
+![Mutasyon vücut hücresindeyse yalnızca o bireyi etkiler ve yavrulara aktarılmaz; üreme hücresinde ya da üreme ana hücresindeyse gelecek kuşakları etkiler ve yavrulara aktarılabilir.](gorsel/tyt-biyoloji/13-01-mutasyon-aktarimi.svg "Soruda önce mutasyonun hangi hücrede olduğuna bak; kalıtsal olup olmadığını o belirler. Üreme (ana) hücresi: üreme hücresi ya da üreme ana hücresi.")
 
 ## Mutasyon, modifikasyon değildir
 
@@ -77,6 +83,11 @@ Modifikasyon bireyler arasında fenotip farkı yaratır ama **genetik** varyasyo
 Bir ekosistemde yaşayan canlıların **çeşitliliği ve sayısı** biyolojik çeşitliliktir. Tür içinde ya da türler arasında ortaya çıkan kalıtsal farklılıklar **genetik çeşitliliği** oluşturur; genetik çeşitlilik biyolojik çeşitliliğin temelidir.
 
 - Kutup tilkisi ile çöl tilkisinin farklı ortamlara uyum sağlamış farklı özellikler taşıması bu çeşitliliğin bir sonucudur.
+
+![Karın üzerinde oturan, kalın beyaz kürklü ve küçük kulaklı kutup tilkisi](gorsel/tyt-biyoloji/13-01-kutup-tilkisi.jpg "Kutup tilkisi: kalın beyaz kürk, küçük kulaklar. Aşağıdaki çöl tilkisiyle karşılaştır. Görsel: Jonatan Pie, CC0.")
+
+![Taşlı zeminde duran, kum rengi kürklü ve çok büyük kulaklı çöl tilkisi](gorsel/tyt-biyoloji/13-01-col-tilkisi.jpg "Çöl tilkisi: kum rengi kürk, büyük kulaklar. İkisi de tilki, ama farklı ortamlara uyum sağlamış farklı özellikler taşıyorlar. Görsel: Drew Avery, CC BY 2.0.")
+
 - Hayvan, bitki ve mikroorganizmaların oluşturduğu biyolojik çeşitlilik, yaşamın sürdürülebilmesi için gereklidir.
 - Artan insan nüfusunun besin, ilaç ve ham madde gibi ihtiyaçlarının karşılanabilmesi için biyolojik çeşitliliğin **korunması zorunludur**.
 

@@ -1,0 +1,14 @@
+flowchart TD
+  A1[Amino asit<br/>−COOH ucu] --> P{{Peptitleşme<br/>dehidrasyon}}
+  A2[Amino asit<br/>−NH₂ ucu] --> P
+  P --> D[Dipeptit<br/>1 peptit bağı]
+  P --> S[1 su çıkar]
+  D --> E([Amino asit eklenir])
+  E --> Z[Polipeptit<br/>n − 1 peptit bağı]
+  Z --> PR[Katlanır: protein]
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class P mavi
+  class D,Z,PR yesil
+  class S sari

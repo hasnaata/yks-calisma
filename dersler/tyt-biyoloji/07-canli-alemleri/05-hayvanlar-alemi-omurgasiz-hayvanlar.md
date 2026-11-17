@@ -36,6 +36,8 @@ Hayvanlar âlemi omurgasızlar ve omurgalılar olarak ikiye ayrılır.
 - **Genellikle açık dolaşım** görülür: kan damarlardan çıkıp doku boşluklarına dağılır. Kapalı dolaşımda kan hep damar içindedir.
 - Çoğu eşeyli ürer; bir kısmı tomurcuklanma ya da rejenerasyonla eşeysiz de çoğalır.
 
+![Omurgasızlarda dolaşımı ikiye ayıran şema: açık dolaşım eklem bacaklılarda ve yumuşakçaların çoğunda, kapalı dolaşım toprak solucanı, ahtapot ve kalamarda görülür.](gorsel/tyt-biyoloji/07-05-dolasim.svg "Kural açık dolaşımdır; kırmızı kutulardaki üç istisnayı ezberle.")
+
 ## Altı grup
 
 | Grup | Örnekler | Ayırt edici bilgi |
@@ -46,6 +48,8 @@ Hayvanlar âlemi omurgasızlar ve omurgalılar olarak ikiye ayrılır.
 | Yumuşakçalar | Salyangoz, midye, istiridye, ahtapot, mürekkep balığı | İkinci büyük grup; çoğunda açık dolaşım |
 | Eklem bacaklılar | Böcekler, örümcek, akrep, kene, yengeç, karides, kırkayak | En büyük grup; dış iskelet, ilk kanat |
 | Derisi dikenliler | Denizyıldızı, denizkestanesi, denizhıyarı, denizlâlesi | **Tamamı denizde**; tüp ayaklar |
+
+![Hayvanlarda ilk kez görülen üç yapıyı gruplarıyla eşleştiren şema: sinir hücresi sölenterlerde, organ solucanlarda, kanat eklem bacaklılardan böceklerde ortaya çıkar.](gorsel/tyt-biyoloji/07-05-ilk-kez.svg "İlk kez sorularının üç cevabı yeşil kutulardadır: sinir hücresi sölenterlerde, organ solucanlarda, kanat böceklerde.")
 
 ### Süngerler
 
@@ -63,6 +67,8 @@ Hayvanlar âlemi omurgasızlar ve omurgalılar olarak ikiye ayrılır.
 - Bazıları tomurcuklanmayla ürer; bir kısmında eşeyli ve eşeysiz üreme birbirini izler.
 - Bazıları ışık üretir (**biyolüminesans**).
 - Denizşakayığı (deniz anemonu) ile palyaço balığı karşılıklı yarara dayalı birlikte yaşar.
+
+![Denizşakayığının yeşil-mor dokunaçları arasından bakan turuncu beyaz çizgili palyaço balığı.](gorsel/tyt-biyoloji/07-05-palyaco-baligi.jpg "Dokunaçların sahibi denizşakayığı bir sölenterdir; aralarındaki palyaço balığıyla karşılıklı yarar ilişkisi kurar. Görsel: Nick Hobgood, CC BY-SA 3.0.")
 
 ### Solucanlar
 
@@ -91,6 +97,8 @@ Hayvanlar âlemi omurgasızlar ve omurgalılar olarak ikiye ayrılır.
 - Boşaltım atığı **ürik asit**tir.
 - Çoğu ayrı eşeylidir; döllenme dişinin vücudunda olur.
 
+![Bir yüzeye tutunmuş kahverengi boş kabuktan baş aşağı çıkan, kanatları henüz açılmamış yeşil ağustos böceği.](gorsel/tyt-biyoloji/07-05-deri-degistirme.jpg "Deri değiştiren ağustos böceği: üstteki kahverengi kabuk eski dış iskelettir. Dış iskelet esnemediği için büyümek isteyen böcek onu geride bırakır. Görsel: Slimpickin, CC BY-SA 4.0.")
+
 | Canlı | Solunum yapısı |
 |---|---|
 | Böcekler (çekirge, sinek, kelebek) | **Trake** |
@@ -103,6 +111,8 @@ Hayvanlar âlemi omurgasızlar ve omurgalılar olarak ikiye ayrılır.
 - İskelete ait dikenler destek ve koruma sağlar.
 - Su-damar sistemine bağlı **tüp ayaklar** hareket, solunum, beslenme ve boşaltımda görev alır.
 - Eşeyli ürerler; rejenerasyonla eşeysiz de çoğalabilirler (denizyıldızı).
+
+![Bir denizyıldızı kolunun alt yüzünün yakın çekimi: dikenli iki sıranın arasındaki olukta uçları yuvarlak, yarı saydam tüp ayaklar görülür.](gorsel/tyt-biyoloji/07-05-tup-ayaklar.jpg "Denizyıldızının kolunun alt yüzü: ortadaki oluktan çıkan yarı saydam uzantılar tüp ayaklardır, kenarlardaki sert çıkıntılar ise dikenlerdir. Görsel: Mokele, CC BY 3.0.")
 
 ## Omurgasızların önemi
 

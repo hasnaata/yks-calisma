@@ -1,0 +1,16 @@
+flowchart TD
+  H([Hücre bir ortama konur])
+  H --> A[Hipertonik ortam<br/>daha yoğun]
+  H --> B[İzotonik ortam<br/>yoğunluk eşit]
+  H --> C[Hipotonik ortam<br/>az yoğun]
+  A -->|su çıkar| A2[Plazmoliz<br/>hücre büzülür]
+  B -->|net geçiş yok| B2[Hacim değişmez]
+  C -->|su girer| C2[Turgor · Deplazmoliz<br/>Hemoliz]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class H kok
+  class A,A2 kirmizi
+  class B,B2 sari
+  class C,C2 yesil

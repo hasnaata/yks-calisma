@@ -41,6 +41,8 @@ Bireyin ulaşım, barınma, beslenme, elektrik tüketimi gibi etkinlikleri ve sa
 | Niteliği | Doğrudan salınım | Dolaylı salınım |
 | Örnek | Evde doğal gaz yakmak, otomobil kullanmak, evsel enerji tüketimi | Satın alınan giysinin, telefonun, ambalajlı gıdanın üretimi ve taşınması |
 
+![Karbon ayak izi ikiye ayrılır. Birincil: fosil yakıtın doğrudan yakılması, örneğin doğal gaz ve otomobil. İkincil: ürünün imalatından bozulmasına kadar geçen süreç, örneğin giysi, telefon ve ambalajlı gıda.](gorsel/tyt-biyoloji/15-04-birincil-ikincil.svg "Yakıtı sen yakıyorsan birincil, senin için üretilen ürün yaktırıyorsa ikincil.")
+
 **Küçültmek için:**
 
 - Toplu taşıma kullanmak
@@ -70,7 +72,11 @@ Yani dolaylı su tüketimi, doğrudan tüketimin yaklaşık **25 katıdır**.
 
 Örnek: bir fincan sade kahve için bitkinin yetiştirilmesinden fincana konmasına kadar yaklaşık **140 litre** su harcanır. Aynı kahve kâğıt bardakta, süt ve şekerle içildiğinde bu miktar yaklaşık 208 litreye çıkar; çünkü bardağın, sütün ve şekerin de su ayak izi vardır.
 
+![Beyaz fincanda, tabağında kaşığıyla duran bir fincan sade kahve](gorsel/tyt-biyoloji/15-04-kahve.jpg "Fincanda gördüğün su çok az; bu sade kahvenin su ayak izi ise yaklaşık 140 litre. Fark, ürüne gömülü sudur. Görsel: Julius Schorzman, CC BY-SA 2.0.")
+
 ## Üç ayak izi, tek tablo
+
+![Bireyin doğaya yükü üç ayak iziyle ölçülür: ekolojik ayak izi gereken toprak ve su alanını, karbon ayak izi salınan karbondioksiti (ton, kg), su ayak izi temiz suyu (litre) gösterir.](gorsel/tyt-biyoloji/15-04-uc-ayak-izi.svg "Üç ayak izi, üç ayrı birim: alan, kütle, hacim. Soruda önce birime bak.")
 
 | | Ekolojik ayak izi | Karbon ayak izi | Su ayak izi |
 |---|---|---|---|
@@ -85,6 +91,8 @@ Yani dolaylı su tüketimi, doğrudan tüketimin yaklaşık **25 katıdır**.
 | **Paris İklim Anlaşması** | Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi kapsamında **sera gazı salınımını azaltmak**; Türkiye de taraftır. |
 | **Şehir Ağacı Projesi** | Yosun kültürü ve bitkilerle kaplı dikey ünitelerle şehirlerde **toz, azot oksit ve karbondioksiti** tutmak; betonlaşmış alanlarda hava kirliliğini azaltmak. |
 | **Çevre dostu okul projeleri** | Okul çatılarına güneş paneli kurmak, yağmur suyunu depolayıp kullanmak; enerji tasarrufu sağlamak ve çevre bilinci kazandırmak. |
+
+![Kaldırımda duran, ön yüzü yosunla kaplı, altında ahşap oturma yeri bulunan dikey metal ünite](gorsel/tyt-biyoloji/15-04-sehir-agaci.jpg "Bir Şehir Ağacı ünitesi. Yeşil yüzey yosun kültürüdür; betonlaşmış caddede havadaki tozu ve gazları tutar. Görsel: TeWeBs, CC BY-SA 4.0.")
 
 Çevre kirliliğinin sebepleri dünyada ve Türkiye'de aynıdır. Kirlilik sınır tanımadığı için ülkeler hem kendi önlemlerini alır hem de uluslararası iş birliği yapar.
 

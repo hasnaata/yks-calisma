@@ -47,6 +47,8 @@ $$\text{EK} = \text{OB} - \text{TB}$$
 
 Hücre su aldıkça içindeki çözelti seyrelir: **OB azalır, TB artar, EK azalır**. Hücre su kaybettikçe tersi olur. Bu yüzden osmotik basınç ile turgor basıncı **ters yönde** değişir.
 
+![Su alan hücrede osmotik basınç azalır, turgor basıncı artar, emme kuvveti azalır. Su kaybeden hücrede osmotik basınç artar, turgor basıncı azalır, emme kuvveti artar.](gorsel/tyt-biyoloji/05-02-uc-basinc.svg "Tek soru sor: hücre su aldı mı, kaybetti mi? OB ile EK hep aynı yöne, TB ters yöne gider.")
+
 Turgor basıncının bitkideki işleri: otsu bitkilere **diklik ve desteklik** sağlar, **stomaların** açılıp kapanmasında ve küstüm otu ile böcekçil bitkilerdeki **nasti hareketlerinde** rol oynar. Uzun süre susuz kalan bitkide turgor basıncı düşer, bitki solar.
 
 ## Çözelti çeşitleri
@@ -58,6 +60,8 @@ Turgor basıncının bitkideki işleri: otsu bitkilere **diklik ve desteklik** s
 | **İzotonik** | Eşit | Net geçiş yok | Hücre hacmi değişmez |
 | **Hipertonik** | Daha yoğun | Hücreden dışarı | Hücre büzülür: **plazmoliz** |
 | **Hipotonik** | Daha az yoğun | Hücreye doğru | Hücre şişer: **turgor** (hayvan hücresinde **hemoliz**) |
+
+![Karar şeması: hipertonik ortamda su hücreden çıkar ve plazmoliz olur; izotonik ortamda net geçiş olmaz ve hacim değişmez; hipotonik ortamda su hücreye girer ve turgor, deplazmoliz ya da hemoliz görülür.](gorsel/tyt-biyoloji/05-02-ortam-karar.svg "Soruda önce ortamın adını bul, sonra okları izle: suyun yönü sonucu belirler.")
 
 İzotonik ortamda su geçişi durmaz; birim zamanda giren ve çıkan su molekülü sayısı eşittir. Göz ve burun damlalarının, serumların izotonik hazırlanmasının nedeni budur: hücreler ne büzülür ne şişer.
 
@@ -79,7 +83,11 @@ Plazmoliz sırasında basınçlar: **TB azalır, OB artar, EK artar**. Deplazmol
 | Hipertonik ortam | Plazmoliz: zar çeperden uzaklaşır, **çeperin şekli değişmez** | Plazmoliz: hücrenin tamamı büzülür |
 | Hipotonik ortam | Turgor: çeper sayesinde **patlamaz** | Şişer, sınır aşılırsa **patlar (hemoliz)** |
 
+![Mikroskop altında üç ayrı ortamdaki insan alyuvarları: solda büzülmüş ve kenarları girintili, ortada normal disk biçiminde, sağda şişmiş ve yuvarlaklaşmış hücreler.](gorsel/tyt-biyoloji/05-02-alyuvar-uc-ortam.png "Gerçek alyuvarlar (mikroskop). Sol: hipertonik ortam, hücreler büzülmüş. Orta: izotonik ortam, hacim değişmemiş. Sağ: hipotonik ortam, hücreler şişmiş. Özgün görseldeki İngilizce başlıklar kırpılmıştır. Görsel: Zephyris, CC BY-SA 3.0.")
+
 Bitki hücresinde plazmoliz ilerledikçe **çeper ile hücre zarı arasındaki mesafe artar**; deplazmolizde bu mesafe yeniden azalır.
+
+![Mikroskop altında plazmoliz olmuş bitki epidermis hücreleri: köşeli çeperler yerinde dururken pembe renkli hücre içeriği büzülüp çeperden uzaklaşmış.](gorsel/tyt-biyoloji/05-02-plazmoliz-mikroskop.jpg "Plazmoliz olmuş bitki hücreleri (mikroskop). Çeperin şekli aynı kalmış; pembe iç kısım büzülmüş ve çeperle arasında boşluk açılmış. Görsel: Mnolf, CC BY-SA 3.0.")
 
 Not: Hemoliz sözcüğü aslında alyuvarın patlaması anlamına gelir. MEB kaynakları terimi hayvan hücrelerinin hipotonik ortamda patlaması için genel olarak kullanır; soru çözerken bu kullanımı esas al.
 

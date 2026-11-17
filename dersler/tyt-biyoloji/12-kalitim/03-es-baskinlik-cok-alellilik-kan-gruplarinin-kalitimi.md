@@ -21,6 +21,8 @@ Genotip oranı 1 AA : 2 Aa : 1 aa, fenotip oranı 3 : 1. İki oran farklıdır �
 
 Bir karakterin iki alelinin heterozigot bireyde fenotipte **birlikte ve eşit** etki göstermesidir. Aleller arasında baskınlık–çekiniklik yoktur. İnsanda **MN kan grubu** ve ABO sistemindeki **AB kan grubu** bu duruma örnektir.
 
+![Taramalı elektron mikroskobunda insan kanı: ortası çukur, disk biçimli çok sayıda alyuvar ve aralarında pürüzlü yüzeyli birkaç akyuvar.](gorsel/tyt-biyoloji/12-03-alyuvarlar-sem.jpg "Elektron mikroskobunda insan kanı. Ortası çukur diskler alyuvardır; kan grubunu belirleyen antijenler bu hücrelerin zarında bulunur. Görsel: Bruce Wetzel ve Harry Schaefer, kamu malı.")
+
 | Genotip | Fenotip (kan grubu) | Alyuvar zarındaki antijen |
 |---|---|---|
 | MM | M | M antijeni |
@@ -45,6 +47,8 @@ M ve N antijenlerine karşı insan kanında hazır antikor bulunmaz; bu yüzden 
 
 Bir karakteri kontrol eden alel çeşidinin popülasyonda **ikiden fazla** olmasıdır. Örnekler: insanda ABO kan grubu (3 alel), tavşanlarda kürk rengi.
 
+![Yere boylu boyunca uzanmış bir tavşan: gövdesi beyaz, kulakları, burnu, ayakları ve kuyruğu koyu renkli.](gorsel/tyt-biyoloji/12-03-himalaya-tavsani.jpg "Tavşanlarda kürk rengi çok alelli bir karakterdir. Popülasyonda alel çeşidi çoktur ama bu tavşan da onlardan en fazla ikisini taşır. Görsel: SableSteel, CC BY-SA 3.0.")
+
 Alel çeşidi kaç olursa olsun:
 
 - **diploit** bir birey bu alellerden en fazla **ikisini**,
@@ -66,6 +70,8 @@ Bunların $n$ tanesi homozigot, $\frac{n(n-1)}{2}$ tanesi heterozigottur. Üç a
 | B | BB, BO | B | anti-A |
 | AB | AB | A ve B | Yok |
 | O | OO | Yok | anti-A ve anti-B |
+
+![ABO sisteminde üç alelden altı genotip oluşur: AA ve AO A kan grubunu, BB ve BO B kan grubunu, AB genotipi AB kan grubunu, OO genotipi O kan grubunu verir.](gorsel/tyt-biyoloji/12-03-abo-genotip-fenotip.svg "Üç alel, altı genotip, dört kan grubu. A ve B gruplarının altında ikişer genotip olduğuna, AB ve O gruplarının tek genotipli olduğuna dikkat et.")
 
 Toplam **6 genotip, 4 fenotip**. Tablodan çıkan kısa kurallar:
 
@@ -117,6 +123,8 @@ ABO ve Rh genleri farklı kromozomlardadır (bağımsız). İkisi birlikte sorul
 | Fetüs | **Rh+** (Rr) |
 
 Nasıl gelişir?
+
+![Rh uyuşmazlığının gelişimi: anne Rh−, bebek Rh+ iken bebeğin alyuvarları anne kanına geçer, anne anti-Rh antikoru üretir, ilk gebelikte genellikle sorun olmaz, sonraki Rh+ bebekte antikor plasentadan geçer ve bebeğin alyuvarları parçalanır.](gorsel/tyt-biyoloji/12-03-rh-uyusmazligi.svg "Rh uyuşmazlığı adım adım. Sorunun neden ilk gebelikte değil, sonraki gebeliklerde çıktığına bak.")
 
 1. Normalde anne ve bebeğin kanı karışmaz. Doğum sırasında ya da gebelikteki kanamalarda bebeğin Rh+ alyuvarları annenin kanına geçebilir.
 2. Annenin bağışıklık sistemi Rh antijenine karşı **anti-Rh antikoru** üretir.

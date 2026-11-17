@@ -29,12 +29,16 @@ Başlıca güncel çevre sorunları: hava, su, toprak, radyoaktif ve ses kirlili
 
 Canlı sağlığını olumsuz etkileyen ve cansız çevreyi bozan gaz ve kimyasalların havada **normal sınırların üzerinde** bulunmasıdır. Başlıca kirleticiler: kükürt dioksit ($\text{SO}_2$), azot dioksit ($\text{NO}_2$), karbondioksit ($\text{CO}_2$), ozon ($\text{O}_3$).
 
+![Yoğun kirli hava tabakası altında silüetleri güçlükle seçilen gökdelenler ve nehir; New York, havadan görünüm.](gorsel/tyt-biyoloji/15-01-kirli-hava-sehir.jpg "Kirleticiler normal sınırın üzerine çıkınca şehir böyle görünür: binalar pusun içinde kaybolur. Görsel: Chester Higgins Jr., kamu malı.")
+
 | Doğal kirleticiler | Yapay (insan kaynaklı) kirleticiler |
 |---|---|
 | Orman yangınları | Fosil yakıtların aşırı kullanımı |
 | Volkan patlamaları | Kalitesiz kömür yakılması |
 | Kum fırtınaları | Motorlu taşıtların egzoz gazları |
 | Okyanus ve denizlerden atmosfere karışan gaz, toz, su buharı | Sanayi tesislerinin baca gazları |
+
+![Hava kirleticileri ikiye ayrılır: doğal (örnek: orman yangını, volkan patlaması) ve yapay yani insan kaynaklı (örnek: egzoz gazı, baca gazı).](gorsel/tyt-biyoloji/15-01-hava-kirleticileri.svg "Önce şu ayrımı yerleştir: yeşil taraf doğal, kırmızı taraf insan kaynaklı.")
 
 **Etkileri:** kronik bronşit, nefes darlığı, üst solunum yolu enfeksiyonları. Hava kirliliği havada kalmaz; toprağın, suların ve yer altı sularının kirlenmesine, asit yağmurlarına, küresel iklim değişikliğine ve ozon tabakasının incelmesine de yol açar.
 
@@ -49,6 +53,8 @@ Oluşum zinciri:
 3. Asitli su buharı bulutlara karışır, hava akımlarıyla **kirlilik kaynağından çok uzaklara** taşınabilir.
 4. Yağmur ya da kar olarak yeryüzüne iner. pH değeri **5,6'dan düşük** olan yağışlar asit yağmuru sayılır.
 
+![Asit yağmurunun oluşum zinciri: egzoz ve baca gazları (SO₂, NO₂), su buharıyla tepkime, sülfürik asit ve nitrik asit, bulutlarla uzağa taşınma, pH değeri 5,6 altında asit yağmuru.](gorsel/tyt-biyoloji/15-01-asit-yagmuru-olusumu.svg "Dört adım tek zincirde. Sıralama sorularında bu oku takip et.")
+
 | Etkilenen | Ne olur? |
 |---|---|
 | Toprak | Yapısı bozulur; asit, topraktaki metallerle tepkimeye girip onları su kaynaklarına taşır. |
@@ -57,6 +63,8 @@ Oluşum zinciri:
 | Bitki örtüsü | Yeşil alanlar ve ormanlar tahrip olur. |
 | İnsan | Solunum yolları, cilt ve gözde tahriş. |
 | Cansız varlıklar | Tarihî eserler, yapılar ve anıtlar aşınır. |
+
+![Yüzeyi aşınmış, ayrıntıları silinmiş taş bir çörten heykeli.](gorsel/tyt-biyoloji/15-01-asit-yagmuru-heykel.jpg "Aşınmış bir taş heykel: asit yağmurları taş yapıların yüzeyini bu şekilde aşındırır, yüz hatlarının nasıl silindiğine bak. Görsel: Nino Barbieri, CC BY 2.5.")
 
 **Önlem:** fosil yakıtlar yerine güneş ve jeotermal enerji gibi temiz kaynakların kullanılması. Asit yağmuru sınır tanımadığı için ülkelerin ortak önlem alması gerekir.
 
@@ -81,6 +89,8 @@ $$\text{fosil yakıt kullanımı} \rightarrow \text{sera gazı birikimi} \righta
 - Göl ve akarsularda aşırı buharlaşma, su miktarının azalması
 - Bazı bölgelerde şiddetli **kuraklık ve çölleşme**, bazı bölgelerde aşırı yağış, sel ve toprak kayması
 - Bitki örtüsünün bozulması, yaşam alanlarının yok olması, **tür çeşitliliğinin azalması**
+
+![Aynı koyun iki fotoğrafı: 1909 yılında koyu dolduran büyük bir buzul var, 2004 yılında buzulun yerinde yalnızca su görülüyor.](gorsel/tyt-biyoloji/15-01-buzul-geri-cekilme.jpg "Aynı yer, 95 yıl arayla (Alaska, McCarty Buzulu). Alttaki 1909 fotoğrafındaki buzul, üstteki 2004 fotoğrafında yok. Görsel: USGS, kamu malı.")
 
 ## ÖSYM tuzakları
 

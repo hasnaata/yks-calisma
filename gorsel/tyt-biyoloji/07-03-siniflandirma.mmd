@@ -1,0 +1,13 @@
+flowchart TD
+  B([Bitki])
+  B --> S1{İletim demeti<br/>var mı?}
+  S1 -- Yok --> G1[Damarsız tohumsuz<br/>Kara yosunu]
+  S1 -- Var --> S2{Tohum<br/>oluşturuyor mu?}
+  S2 -- Hayır --> G2[Damarlı tohumsuz<br/>Eğrelti otu]
+  S2 -- Evet --> G3[Damarlı tohumlu<br/>Buğday]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class B kok
+  class G1,G2 sari
+  class G3 yesil

@@ -1,0 +1,21 @@
+flowchart TD
+  K1{{G1 kontrolü<br/>büyüklük ve besin}}
+  G0([G0<br/>bölünmez])
+  S[S<br/>DNA eşlenir]
+  G2[G2<br/>son hazırlık]
+  K2{{G2 kontrolü<br/>DNA eşlenmesi}}
+  M[Mitoz<br/>metafaz]
+  K3{{M kontrolü<br/>iğ ipliğine bağlanma}}
+  A[Anafaz<br/>kromatitler ayrılır]
+  K1 -- Devam et --> S
+  K1 -- Dur --> G0
+  S --> G2 --> K2
+  K2 -- Devam et --> M
+  M --> K3
+  K3 -- Devam et --> A
+  classDef kontrol fill:#fdf3d8,stroke:#8a5a00
+  classDef dur fill:#fbe9e7,stroke:#b3261e
+  classDef evre fill:#e8f0fc,stroke:#1f5fbf
+  class K1,K2,K3 kontrol
+  class G0 dur
+  class S,G2,M,A evre

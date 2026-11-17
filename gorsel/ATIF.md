@@ -1,7 +1,6 @@
 # Görsel Atıfları
 
 Bu sitedeki fotoğraf ve çizimler Wikimedia Commons'tan alınmıştır. Şemalar (.svg) bu site için üretilmiştir.
-
 | Dosya | Eser | Yazar | Lisans |
 |---|---|---|---|
 | `gorsel/tyt-biyoloji/03-01-glikoz-3b.png` | [Beta-D-glucose-from-xtal-3D-balls.png](https://commons.wikimedia.org/wiki/File:Beta-D-glucose-from-xtal-3D-balls.png) | Ben Mills | Public domain |
@@ -21,9 +20,9 @@ Bu sitedeki fotoğraf ve çizimler Wikimedia Commons'tan alınmıştır. Şemala
 | `gorsel/tyt-biyoloji/03-04-karbonik-anhidraz-3b.jpg` | [Carbonic anhydrase 1CA2.png](https://commons.wikimedia.org/wiki/File:Carbonic_anhydrase_1CA2.png) | Own work | Public domain |
 | `gorsel/tyt-biyoloji/03-05-turuncgiller.jpg` | [Citrus fruits.jpg](https://commons.wikimedia.org/wiki/File:Citrus_fruits.jpg) | Scott Bauer, USDA | Public domain |
 | `gorsel/tyt-biyoloji/03-05-insulin-3b.png` | [Human-insulin-hexamer-3D-ribbons.png](https://commons.wikimedia.org/wiki/File:Human-insulin-hexamer-3D-ribbons.png) | Benjah-bmm27 | Public domain |
-| `gorsel/tyt-biyoloji/03-05-testosteron-3b.png` | [Testosterone molecule ball.png](https://commons.wikimedia.org/wiki/File:Testosterone_molecule_ball.png) | Jynto (more from this user) | CC0 |
+| `gorsel/tyt-biyoloji/03-05-testosteron-3b.png` | [Testosterone molecule ball.png](https://commons.wikimedia.org/wiki/File:Testosterone_molecule_ball.png) | Jynto | CC0 |
 | `gorsel/tyt-biyoloji/03-06-dna-3b.png` | [ADN static.png](https://commons.wikimedia.org/wiki/File:ADN_static.png) | Brian0918 | Public domain |
-| `gorsel/tyt-biyoloji/03-06-nukleotit-3b.png` | [Adenosine-monophosphate-3D-balls.png](https://commons.wikimedia.org/wiki/File:Adenosine-monophosphate-3D-balls.png) | Jynto (talk) | CC0 |
+| `gorsel/tyt-biyoloji/03-06-nukleotit-3b.png` | [Adenosine-monophosphate-3D-balls.png](https://commons.wikimedia.org/wiki/File:Adenosine-monophosphate-3D-balls.png) | Jynto | CC0 |
 | `gorsel/tyt-biyoloji/03-06-trna-3b.jpg` | [3d tRNA.png](https://commons.wikimedia.org/wiki/File:3d_tRNA.png) | Vossman | CC BY-SA 3.0 |
 | `gorsel/tyt-biyoloji/03-06-baz-ciftleri.png` | [AT DNA base pair tr.png](https://commons.wikimedia.org/wiki/File:AT_DNA_base_pair_tr.png) | AT_DNA_base_pair_tr.svg: *AT_DNA_base_pair.svg: User:Isilanes derivative work: İ | Public domain |
 | `gorsel/tyt-biyoloji/03-06-baz-ciftleri.png` | [GC DNA base pair tr.png](https://commons.wikimedia.org/wiki/File:GC_DNA_base_pair_tr.png) | GC_DNA_base_pair_tr.svg: *GC_DNA_base_pair.svg: User:Isilanes derivative work: İ | Public domain |
@@ -33,10 +32,106 @@ Bu sitedeki fotoğraf ve çizimler Wikimedia Commons'tan alınmıştır. Şemala
 | `gorsel/tyt-biyoloji/04-01-hooke-mantar.jpg` | [Cork Micrographia Hooke.png](https://commons.wikimedia.org/wiki/File:Cork_Micrographia_Hooke.png) | Robert Hooke | Public domain |
 | `gorsel/tyt-biyoloji/03-08-kuru-baklagiller.jpg` | [CSIRO ScienceImage 3224 Pulses and legumes.jpg](https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_3224_Pulses_and_legumes.jpg) | division, CSIRO | CC BY 3.0 |
 | `gorsel/tyt-biyoloji/04-01-elodea-hucreleri.jpg` | [Chloroplasts - Microscopic view of Elodea canadensis.jpg](https://commons.wikimedia.org/wiki/File:Chloroplasts_-_Microscopic_view_of_Elodea_canadensis.jpg) | Juan Carlos Fonseca Mata | CC BY-SA 4.0 |
-| `gorsel/tyt-biyoloji/04-01-kamcili-bakteri.jpg` | [Dvulgaris micrograph.JPG](https://commons.wikimedia.org/wiki/File:Dvulgaris_micrograph.JPG) | No machine-readable author provided. Graham Bradley assumed (based on copyright  | Public domain |
+| `gorsel/tyt-biyoloji/04-01-kamcili-bakteri.jpg` | [Dvulgaris micrograph.JPG](https://commons.wikimedia.org/wiki/File:Dvulgaris_micrograph.JPG) | Graham Bradley | Public domain |
 | `gorsel/tyt-biyoloji/04-02-zar-modeli.png` | [Cell membrane detailed diagram blank.svg](https://commons.wikimedia.org/wiki/File:Cell_membrane_detailed_diagram_blank.svg) | Cell_membrane_detailed_diagram_en.svg: LadyofHats Mariana Ruiz derivative work:  | Public domain |
-| `gorsel/tyt-biyoloji/04-03-ribozom-3b.jpg` | [Ecoli 70S ribosome pair vs gentamicin.png](https://commons.wikimedia.org/wiki/File:Ecoli_70S_ribosome_pair_vs_gentamicin.png) | Dcrjsr | CC BY 3.0 |
 | `gorsel/tyt-biyoloji/04-02-sogan-hucreleri.jpg` | [Onion epidermis high power.jpg](https://commons.wikimedia.org/wiki/File:Onion_epidermis_high_power.jpg) | Mccloughlin | CC BY 4.0 |
 | `gorsel/tyt-biyoloji/04-03-golgi-tem.jpg` | [Human leukocyte, showing golgi - TEM.jpg](https://commons.wikimedia.org/wiki/File:Human_leukocyte,_showing_golgi_-_TEM.jpg) | Louisa Howard | Public domain |
 | `gorsel/tyt-biyoloji/04-02-cekirdek.png` | [Diagram human cell nucleus numbered version.svg](https://commons.wikimedia.org/wiki/File:Diagram_human_cell_nucleus_numbered_version.svg) | original version by Mariana Ruiz.numbered version by Felipe Fontoura. | Public domain |
 | `gorsel/tyt-biyoloji/04-03-kontraktil-koful.jpg` | [Paramecium contractile vacuoles.jpg](https://commons.wikimedia.org/wiki/File:Paramecium_contractile_vacuoles.jpg) | derivative work: Hämbörger (talk) Paramecium.jpg: User:Josh Grosse | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/04-03-ribozom-3b.jpg` | [Ribosome shape.png](https://commons.wikimedia.org/wiki/File:Ribosome_shape.png) | Vossman | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/04-05-mitokondri-tem.jpg` | [Mitochondria, mammalian lung - TEM.jpg](https://commons.wikimedia.org/wiki/File:Mitochondria,_mammalian_lung_-_TEM.jpg) | Louisa Howard | Public domain |
+| `gorsel/tyt-biyoloji/04-05-domates-olgunlasma.jpg` | [Ripening tomatoes.jpg](https://commons.wikimedia.org/wiki/File:Ripening_tomatoes.jpg) | Naposia | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/04-04-iskelet-floresan.jpg` | [HeLa-II.jpg](https://commons.wikimedia.org/wiki/File:HeLa-II.jpg) | National Institutes of Health (NIH) | Public domain |
+| `gorsel/tyt-biyoloji/04-04-katalaz-3b.jpg` | [Catalase 1DGF.png](https://commons.wikimedia.org/wiki/File:Catalase_1DGF.png) | own work | Public domain |
+| `gorsel/tyt-biyoloji/04-04-sentriyol-3b.png` | [Centrosome 2 -- Smart-Servier.png](https://commons.wikimedia.org/wiki/File:Centrosome_2_--_Smart-Servier.png) | Laboratoires Servier | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/04-05-kloroplastlar.jpg` | [Bryum capillare leaf cells.jpg](https://commons.wikimedia.org/wiki/File:Bryum_capillare_leaf_cells.jpg) | Des_Callaghan | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/04-05-kloroplast-tem.jpg` | [Chloroplast in leaf of Anemone sp TEM 85000x.png](https://commons.wikimedia.org/wiki/File:Chloroplast_in_leaf_of_Anemone_sp_TEM_85000x.png) | and3k and caper437 | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-01-glikoz-tasiyicisi-3b.png` | [Structure of GLUT1.png](https://commons.wikimedia.org/wiki/File:Structure_of_GLUT1.png) | ChemPro | CC0 |
+| `gorsel/tyt-biyoloji/05-02-plazmoliz-mikroskop.jpg` | [Rhoeo Discolor - Plasmolysis.jpg](https://commons.wikimedia.org/wiki/File:Rhoeo_Discolor_-_Plasmolysis.jpg) | Mnolf | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-02-alyuvar-uc-ortam.png` | [Human Erythrocytes OsmoticPressure PhaseContrast Plain.svg](https://commons.wikimedia.org/wiki/File:Human_Erythrocytes_OsmoticPressure_PhaseContrast_Plain.svg) | Zephyris | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-01-hemodiyaliz.jpg` | [Hemodialysis machine INNOVA.jpg](https://commons.wikimedia.org/wiki/File:Hemodialysis_machine_INNOVA.jpg) | Виталий Поспелов at ru.wikipedia | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-01-difuzyon-boya.jpg` | [Difuzija kalijum-permanganata.jpg](https://commons.wikimedia.org/wiki/File:Difuzija_kalijum-permanganata.jpg) | Dejan Jovic DJ | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/05-04-akyuvar-fagositoz.jpg` | [Neutrophil with anthrax copy.jpg](https://commons.wikimedia.org/wiki/File:Neutrophil_with_anthrax_copy.jpg) | Volker Brinkmann | CC BY 2.5 |
+| `gorsel/tyt-biyoloji/05-04-fagositoz-cizim.png` | [Cell eating - Phagocytosis 1 -- Smart-Servier.png](https://commons.wikimedia.org/wiki/File:Cell_eating_-_Phagocytosis_1_--_Smart-Servier.png) | Laboratoires Servier | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-04-ekzositoz-cizim.png` | [Exocytosis 1 -- Smart-Servier.png](https://commons.wikimedia.org/wiki/File:Exocytosis_1_--_Smart-Servier.png) | Laboratoires Servier | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-03-sodyum-potasyum-pompasi-3b.jpg` | [3b8e.png](https://commons.wikimedia.org/wiki/File:3b8e.png) | Andrei Lomize | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/05-03-deniz-yosunu.jpg` | [Kelp forest Channel Islands.JPG](https://commons.wikimedia.org/wiki/File:Kelp_forest_Channel_Islands.JPG) | myself, PatríciaR | CC BY-SA 2.5 |
+| `gorsel/tyt-biyoloji/05-05-gubre-deneyi.jpg` | [Reuse of urine demonstration - fertilised and not fertilised tomato plant experiment (3617543234).jpg](https://commons.wikimedia.org/wiki/File:Reuse_of_urine_demonstration_-_fertilised_and_not_fertilised_tomato_plant_experiment_(3617543234).jpg) | SuSanA Secretariat | CC BY 2.0 |
+| `gorsel/tyt-biyoloji/05-05-sararan-yaprak.jpg` | [Iron chlorosis on young rose leaves in a garden, by baby-bear.org.jpg](https://commons.wikimedia.org/wiki/File:Iron_chlorosis_on_young_rose_leaves_in_a_garden,_by_baby-bear.org.jpg) | Natalka Ukraine | CC BY 4.0 |
+| `gorsel/tyt-biyoloji/07-01-bolunen-bakteri.jpg` | [Ecoli dividing.jpg](https://commons.wikimedia.org/wiki/File:Ecoli_dividing.jpg) | CDC/ Evangeline Sowers, Janice Haney Carr | Public domain |
+| `gorsel/tyt-biyoloji/07-01-termal-kaynak.jpg` | [Grand Prismatic Spring (aerial) (9951906d-3887-48a1-a230-096a47152b23).jpg](https://commons.wikimedia.org/wiki/File:Grand_Prismatic_Spring_(aerial)_(9951906d-3887-48a1-a230-096a47152b23).jpg) | NPS Photo | Public domain |
+| `gorsel/tyt-biyoloji/07-01-comak-bakteriler.jpg` | [E coli at 10000x.jpg](https://commons.wikimedia.org/wiki/File:E_coli_at_10000x.jpg) | Photo by Eric Erbe, digital colorization by Christopher Pooley, both of USDA, AR | Public domain |
+| `gorsel/tyt-biyoloji/07-02-oglena.jpg` | [Euglena sp.jpg](https://commons.wikimedia.org/wiki/File:Euglena_sp.jpg) | Deuterostome | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/07-02-amip.jpg` | [Amoeba proteus with many pseudopodia.jpg](https://commons.wikimedia.org/wiki/File:Amoeba_proteus_with_many_pseudopodia.jpg) | SmallRex | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-02-paramesyum.jpg` | [Paramecium caudatum Ehrenberg, 1833.jpg](https://commons.wikimedia.org/wiki/File:Paramecium_caudatum_Ehrenberg,_1833.jpg) | Deuterostome | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/06-01-homolog-kemikler.png` | [Limb homology.png](https://commons.wikimedia.org/wiki/File:Limb_homology.png) | Petter Bøckman, based on File:Homology vertebrates.svg by Волков Владислав Петро | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/07-03-kuskut-otu.jpg` | [Dodder (Cuscuta sp.) - 30307990321.jpg](https://commons.wikimedia.org/wiki/File:Dodder_(Cuscuta_sp.)_-_30307990321.jpg) | Plant pests and diseases | CC0 |
+| `gorsel/tyt-biyoloji/06-01-yarasa.jpg` | [Grey headed flying fox - in flight - AndrewMercer IMG41482.jpg](https://commons.wikimedia.org/wiki/File:Grey_headed_flying_fox_-_in_flight_-_AndrewMercer_IMG41482.jpg) | Andrew Mercer (www.baldwhiteguy.co.nz) | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/06-01-kaplan.jpg` | [Bengal tiger (Panthera tigris tigris) female.jpg](https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female.jpg) | Charles J. Sharp | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-03-kaktus.jpg` | [Barrel Cactus Mojave Desert 0022.jpg](https://commons.wikimedia.org/wiki/File:Barrel_Cactus_Mojave_Desert_0022.jpg) | ImagePerson | CC0 |
+| `gorsel/tyt-biyoloji/07-03-egrelti-spor.jpg` | [Fern sori pattern.jpg](https://commons.wikimedia.org/wiki/File:Fern_sori_pattern.jpg) | L. Shyamal | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/07-04-miselyum.jpg` | [Mycelium in forest floor.jpg](https://commons.wikimedia.org/wiki/File:Mycelium_in_forest_floor.jpg) | PerytonMango | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-04-maya-tomurcuk.jpg` | [Saccharomyces cerevisiae SEM.jpg](https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg) | Mogana Das Murtey and Patchamuthu Ramasamy | CC BY 3.0 |
+| `gorsel/tyt-biyoloji/07-04-liken.jpg` | [Lichen on rock.jpg](https://commons.wikimedia.org/wiki/File:Lichen_on_rock.jpg) | Daniel Schwen | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-06-semender.jpg` | [Fire salamander (Salamandra Salamandra).jpg](https://commons.wikimedia.org/wiki/File:Fire_salamander_(Salamandra_Salamandra).jpg) | Petar Milošević | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-06-ornitorenk.jpg` | [Duck-billed platypus (Ornithorhynchus anatinus) Scottsdale.jpg](https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg) | Charles J. Sharp | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-06-kopek-baligi.jpg` | [White shark.jpg](https://commons.wikimedia.org/wiki/File:White_shark.jpg) | Pterantula (Terry Goss) at en.wikipedia | CC BY 2.5 |
+| `gorsel/tyt-biyoloji/07-05-palyaco-baligi.jpg` | [Amphiprion ocellaris (Clown anemonefish) in Heteractis magnifica (Sea anemone).jpg](https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_in_Heteractis_magnifica_(Sea_anemone).jpg) | Nhobgood Nick Hobgood | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/07-05-deri-degistirme.jpg` | [Molting cicada 08.jpg](https://commons.wikimedia.org/wiki/File:Molting_cicada_08.jpg) | Slimpickin | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-05-tup-ayaklar.jpg` | [Starfish (1).jpg](https://commons.wikimedia.org/wiki/File:Starfish_(1).jpg) | Mokele | CC BY 3.0 |
+| `gorsel/tyt-biyoloji/07-07-bakteriyofaj-em.jpg` | [Enterobacteria phage T2 transmission electron micrograph.jpg](https://commons.wikimedia.org/wiki/File:Enterobacteria_phage_T2_transmission_electron_micrograph.jpg) | SnaxMikn | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/07-07-grip-virusu-3b.jpg` | [Influenza Virus (14570577473).jpg](https://commons.wikimedia.org/wiki/File:Influenza_Virus_(14570577473).jpg) | NIAID | CC BY 2.0 |
+| `gorsel/tyt-biyoloji/07-07-faj-bakteri.jpg` | [Escherichia coli with phages.jpg](https://commons.wikimedia.org/wiki/File:Escherichia_coli_with_phages.jpg) | Terry J. McGenity ve ark.; fotoğraf: Miika Leppänen | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/08-01-sogan-kok-ucu.jpg` | [Mitosis (261 13) Pressed; root meristem of onion (cells in prophase, metaphase, anaphase, telophase).jpg](https://commons.wikimedia.org/wiki/File:Mitosis_(261_13)_Pressed;_root_meristem_of_onion_(cells_in_prophase,_metaphase,_anaphase,_telophase).jpg) | Doc. RNDr. Josef Reischig, CSc. | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/08-01-insan-kromozomlari.jpg` | [HumanChromosomesChromomycinA3.jpg](https://commons.wikimedia.org/wiki/File:HumanChromosomesChromomycinA3.jpg) | Steffen Dietzel | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/08-02-metafaz.jpg` | [Kinetochore.jpg](https://commons.wikimedia.org/wiki/File:Kinetochore.jpg) | Afunguy at English Wikipedia | Public domain |
+| `gorsel/tyt-biyoloji/08-02-anafaz.jpg` | [Anaphase IF.jpg](https://commons.wikimedia.org/wiki/File:Anaphase_IF.jpg) | Roy van Heesbeen | Public domain |
+| `gorsel/tyt-biyoloji/08-02-karyotip.jpg` | [Human male karyotpe high resolution.jpg](https://commons.wikimedia.org/wiki/File:Human_male_karyotpe_high_resolution.jpg) | Courtesy: National Human Genome Research Institute | Public domain |
+| `gorsel/tyt-biyoloji/08-03-ig-iplikleri-kinetokor.jpg` | [Kinetochore.jpg](https://commons.wikimedia.org/wiki/File:Kinetochore.jpg) | Afunguy at English Wikipedia | Public domain |
+| `gorsel/tyt-biyoloji/08-03-hela-kanser-hucreleri.jpg` | [HeLa-III.jpg](https://commons.wikimedia.org/wiki/File:HeLa-III.jpg) | National Institutes of Health (NIH) | Public domain |
+| `gorsel/tyt-biyoloji/09-01-hidra-tomurcuk.jpg` | [Hidra en proceso de gemación vista en campo oscuro.jpg](https://commons.wikimedia.org/wiki/File:Hidra_en_proceso_de_gemaci%C3%B3n_vista_en_campo_oscuro.jpg) | Brandon Antonio Segura Torres & Priscilla Vieto Bonilla | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/09-01-cilek-stolon.jpg` | [Fragaria virginiana 15-p.bot-fraga.virgin-26.jpg](https://commons.wikimedia.org/wiki/File:Fragaria_virginiana_15-p.bot-fraga.virgin-26.jpg) | Ayotte, Gilles, 1948- | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/09-01-maya-tomurcuk.jpg` | [Saccharomyces cerevisiae SEM.jpg](https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg) | Mogana Das Murtey and Patchamuthu Ramasamy | CC BY 3.0 |
+| `gorsel/tyt-biyoloji/10-01-krossing-over.png` | [Synapsis and Crossing Over No Labels.png](https://commons.wikimedia.org/wiki/File:Synapsis_and_Crossing_Over_No_Labels.png) | Christinelmiller | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/10-01-zambak-mayoz-1.jpg` | [Meiosis (261 36)- Dividing pollen mother cells M I, A I, T I (metaphase I, anaphase I, telophase I) - Lilium plant.jpg](https://commons.wikimedia.org/wiki/File:Meiosis_(261_36)-_Dividing_pollen_mother_cells_M_I,_A_I,_T_I_(metaphase_I,_anaphase_I,_telophase_I)_-_Lilium_plant.jpg) | Doc. RNDr. Josef Reischig, CSc. | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/11-01-toprak-solucani.jpg` | [Mating earthworms.jpg](https://commons.wikimedia.org/wiki/File:Mating_earthworms.jpg) | The original uploader was Jackhynes at English Wikipedia. | Public domain |
+| `gorsel/tyt-biyoloji/11-01-dollenme.jpg` | [Sperm-egg.jpg](https://commons.wikimedia.org/wiki/File:Sperm-egg.jpg) | Unknown author | Public domain |
+| `gorsel/tyt-biyoloji/12-01-krossing-over.png` | [Synapsis and Crossing Over No Labels.png](https://commons.wikimedia.org/wiki/File:Synapsis_and_Crossing_Over_No_Labels.png) | Christinelmiller | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/12-01-karyotip.jpg` | [Human karyotype (259 33) Karyotype Human 46,XX (woman).jpg](https://commons.wikimedia.org/wiki/File:Human_karyotype_(259_33)_Karyotype_Human_46,XX_(woman).jpg) | Doc. RNDr. Josef Reischig, CSc. | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/11-01-seftali-cicegi.jpg` | [Cherry blossom flower.jpg](https://commons.wikimedia.org/wiki/File:Cherry_blossom_flower.jpg) | Hallo3800 | CC0 |
+| `gorsel/tyt-biyoloji/12-03-alyuvarlar-sem.jpg` | [SEM blood cells.jpg](https://commons.wikimedia.org/wiki/File:SEM_blood_cells.jpg) | Bruce Wetzel (photographer). Harry Schaefer (photographer) | Public domain |
+| `gorsel/tyt-biyoloji/12-03-himalaya-tavsani.jpg` | [Himalayan Body Type.JPG](https://commons.wikimedia.org/wiki/File:Himalayan_Body_Type.JPG) | SableSteel | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/12-04-ishihara-testi.png` | [Ishihara 9.svg](https://commons.wikimedia.org/wiki/File:Ishihara_9.svg) | Shinobu Ishihara | Public domain |
+| `gorsel/tyt-biyoloji/12-04-karyotip-x.jpg` | [Human male karyotpe high resolution - Chromosome X.png](https://commons.wikimedia.org/wiki/File:Human_male_karyotpe_high_resolution_-_Chromosome_X.png) | National Human Genome Research Institute | Public domain |
+| `gorsel/tyt-biyoloji/12-02-mor-bezelye-cicegi.jpg` | [Blauwschokker Kapucijner rijserwt bloem Pisum sativum.jpg](https://commons.wikimedia.org/wiki/File:Blauwschokker_Kapucijner_rijserwt_bloem_Pisum_sativum.jpg) | Rasbak | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/12-05-soyagaci-ornegi.png` | [Pedigree-chart-example-Turkish.png](https://commons.wikimedia.org/wiki/File:Pedigree-chart-example-Turkish.png) | derivative work: Noumenon talk Pedigree-chart-example.svg: YassineMrabet This PN | Public domain |
+| `gorsel/tyt-biyoloji/12-02-bezelye-tohumlari.jpg` | [100 Peas (41-366) (24857298711).jpg](https://commons.wikimedia.org/wiki/File:100_Peas_(41-366)_(24857298711).jpg) | Tim Sackton from Somerville, MA | CC BY-SA 2.0 |
+| `gorsel/tyt-biyoloji/13-01-midye-kabuklari.jpg` | [Coquina variation3.jpg](https://commons.wikimedia.org/wiki/File:Coquina_variation3.jpg) | Debivort | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/13-01-kutup-tilkisi.jpg` | [Vulpes lagopus in Iceland (cropped 2).jpg](https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_(cropped_2).jpg) | Jonatan Pie (unsplash.com/@r3dmax) | CC0 |
+| `gorsel/tyt-biyoloji/13-01-col-tilkisi.jpg` | [Fennec Fox Vulpes zerda.jpg](https://commons.wikimedia.org/wiki/File:Fennec_Fox_Vulpes_zerda.jpg) | Drew Avery | CC BY 2.0 |
+| `gorsel/tyt-biyoloji/14-01-kralice-ari.jpg` | [Queen Bee (16545241268).jpg](https://commons.wikimedia.org/wiki/File:Queen_Bee_(16545241268).jpg) | U.S. Geological Survey from Reston, VA, USA | Public domain |
+| `gorsel/tyt-biyoloji/14-01-ayristirici-mantar.jpg` | [Wood decay mushrooms.jpg](https://commons.wikimedia.org/wiki/File:Wood_decay_mushrooms.jpg) | Sindugab | CC0 |
+| `gorsel/tyt-biyoloji/14-02-bocekcil-bitki.jpg` | [Finished eating that? (49917907042).png](https://commons.wikimedia.org/wiki/File:Finished_eating_that%3F_(49917907042).png) | USFWS/Southeast | Public domain |
+| `gorsel/tyt-biyoloji/14-02-kuf-mantari.jpg` | [Rhizopus stolonifer4.JPG](https://commons.wikimedia.org/wiki/File:Rhizopus_stolonifer4.JPG) | WDKeeper | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/14-01-inci-kefali.jpg` | [Göç eden İnci Kefalleri.jpg](https://commons.wikimedia.org/wiki/File:G%C3%B6%C3%A7_eden_%C4%B0nci_Kefalleri.jpg) | KediÇobanı | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/14-02-oglena.jpg` | [FieldofEuglena.gracilis.jpg](https://commons.wikimedia.org/wiki/File:FieldofEuglena.gracilis.jpg) | Ellis O'Neill | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/14-04-kok-yumrulari.jpg` | [Nitrogen-fixing nodules in the roots of legumes..JPG](https://commons.wikimedia.org/wiki/File:Nitrogen-fixing_nodules_in_the_roots_of_legumes..JPG) | Terraprima | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/14-04-yildirim.jpg` | [Rural nightime lightning strike.png](https://commons.wikimedia.org/wiki/File:Rural_nightime_lightning_strike.png) | Filip.vidinovski | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/14-03-yilan-kurbaga.jpg` | [Eastern garter snake eating frog.jpg](https://commons.wikimedia.org/wiki/File:Eastern_garter_snake_eating_frog.jpg) | Paul Prior | CC BY 4.0 |
+| `gorsel/tyt-biyoloji/15-01-asit-yagmuru-heykel.jpg` | [- Acid rain damaged gargoyle -.jpg](https://commons.wikimedia.org/wiki/File:-_Acid_rain_damaged_gargoyle_-.jpg) | User:Nino Barbieri | CC BY 2.5 |
+| `gorsel/tyt-biyoloji/15-01-kirli-hava-sehir.jpg` | [EAST RIVER AND MANHATTAN SKYLINE IN HEAVY SMOG - NARA - 548365 (restored).jpg](https://commons.wikimedia.org/wiki/File:EAST_RIVER_AND_MANHATTAN_SKYLINE_IN_HEAVY_SMOG_-_NARA_-_548365_(restored).jpg) | Chester Higgins, Jr. | Public domain |
+| `gorsel/tyt-biyoloji/15-01-buzul-geri-cekilme.jpg` | [McCarty Glacier.jpg](https://commons.wikimedia.org/wiki/File:McCarty_Glacier.jpg) | July 7th, 1909 by Ulysses Sherman Grant, USGS photo library, public domain 2 Aug | Public domain |
+| `gorsel/tyt-biyoloji/15-02-alg-tabakasi.jpg` | [Eutrophied lake - Maack - 200908 02.jpg](https://commons.wikimedia.org/wiki/File:Eutrophied_lake_-_Maack_-_200908_02.jpg) | Smaack | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/15-02-katarakt.jpg` | [Cataract in human eye.png](https://commons.wikimedia.org/wiki/File:Cataract_in_human_eye.png) | Rakesh Ahuja, MD | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/15-02-ses-bariyeri.jpg` | [Tolo Highway noise barrier 201707.jpg](https://commons.wikimedia.org/wiki/File:Tolo_Highway_noise_barrier_201707.jpg) | Wpcpey | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/15-04-sehir-agaci.jpg` | [BS CityTree 1.JPG](https://commons.wikimedia.org/wiki/File:BS_CityTree_1.JPG) | TeWeBs | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/15-03-teraslama.jpg` | [Rice terraces, Bali.jpg](https://commons.wikimedia.org/wiki/File:Rice_terraces,_Bali.jpg) | Vyacheslav Argenberg | CC BY 4.0 |
+| `gorsel/tyt-biyoloji/15-04-kahve.jpg` | [A small cup of coffee.JPG](https://commons.wikimedia.org/wiki/File:A_small_cup_of_coffee.JPG) | Julius Schorzman | CC BY-SA 2.0 |
+| `gorsel/tyt-biyoloji/15-03-orman-yangini.jpg` | [High Intensity Fire from the KNP Complex.jpg (704a5870-6772-4288-82f1-f39628facab4).jpg](https://commons.wikimedia.org/wiki/File:High_Intensity_Fire_from_the_KNP_Complex.jpg_(704a5870-6772-4288-82f1-f39628facab4).jpg) | NPS | Public domain |
+| `gorsel/tyt-biyoloji/16-01-acik-ocak-maden.jpg` | [KENNECOTT MINE IS THE LARGEST OPEN-PIT COPPER OPERATION IN THE WORLD - NARA - 544789.jpg](https://commons.wikimedia.org/wiki/File:KENNECOTT_MINE_IS_THE_LARGEST_OPEN-PIT_COPPER_OPERATION_IN_THE_WORLD_-_NARA_-_544789.jpg) | Bruce McAllister | Public domain |
+| `gorsel/tyt-biyoloji/16-01-tek-tur-agaclandirma.jpg` | [Pine Tree Monoculture.jpg](https://commons.wikimedia.org/wiki/File:Pine_Tree_Monoculture.jpg) | AgreeableTigerMoth | CC BY 4.0 |
+| `gorsel/tyt-biyoloji/16-01-ruzgar-turbinleri.jpg` | [Babalı Wind Farm, Kocaeli, Turkey.jpg](https://commons.wikimedia.org/wiki/File:Babal%C4%B1_Wind_Farm,_Kocaeli,_Turkey.jpg) | Şadi Akdoğan | CC BY 2.0 |
+| `gorsel/tyt-biyoloji/15-03-erozyon-tarla.jpg` | [NRCSIA99128 - Iowa (2959)(NRCS Photo Gallery).jpg](https://commons.wikimedia.org/wiki/File:NRCSIA99128_-_Iowa_(2959)(NRCS_Photo_Gallery).jpg) | Photo by Lynn Betts, USDA Natural Resources Conservation Service. | Public domain |
+| `gorsel/tyt-biyoloji/17-01-kabuk-renkleri.jpg` | [Coquina variation3.jpg](https://commons.wikimedia.org/wiki/File:Coquina_variation3.jpg) | Debivort | CC BY-SA 3.0 |
+| `gorsel/tyt-biyoloji/17-01-inci-kefali.jpg` | [Inci kefali 3.jpg](https://commons.wikimedia.org/wiki/File:Inci_kefali_3.jpg) | Rotadefterim | CC BY-SA 4.0 |
+| `gorsel/tyt-biyoloji/17-01-tohum-bankasi.jpg` | [Seedbank.jpg](https://commons.wikimedia.org/wiki/File:Seedbank.jpg) | R. C. Johnson | CC BY 2.5 |

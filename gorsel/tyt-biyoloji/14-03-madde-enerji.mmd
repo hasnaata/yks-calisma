@@ -1,0 +1,14 @@
+flowchart TD
+  G([Güneş]) -->|ışık enerjisi| U[Üreticiler]
+  U -->|besin| T[Tüketiciler]
+  U -->|atık ve kalıntı| A[Ayrıştırıcılar]
+  T -->|atık ve kalıntı| A
+  A -->|inorganik madde| U
+  U -.-> I([Isı kaybı])
+  T -.-> I
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class G sari
+  class U yesil
+  class I kirmizi

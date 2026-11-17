@@ -1,0 +1,14 @@
+flowchart TD
+  A[Ölü kalıntı ve<br/>organik atık]
+  A -->|enzimle parçalanır| B[Ayrıştırıcılar]
+  B --> C[İnorganik madde]
+  C --> D[Üreticiler]
+  D --> E[Tüketiciler]
+  D -.->|kalıntı| A
+  E -.->|atık, kalıntı| A
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class B kirmizi
+  class D yesil
+  class E sari

@@ -1,0 +1,14 @@
+flowchart TD
+  H([Bileşik enzim · holoenzim]) --> A[Apoenzim<br/>protein kısım]
+  H --> Y[Yardımcı kısım]
+  A --> T[Substratı tanır]
+  Y --> K[Koenzim<br/>organik · B vitaminleri]
+  Y --> F[Kofaktör<br/>inorganik · metal iyonları]
+  K --> E[Asıl etkiyi yapar]
+  F --> E
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class H kok
+  class A,T yesil
+  class Y,K,F,E sari

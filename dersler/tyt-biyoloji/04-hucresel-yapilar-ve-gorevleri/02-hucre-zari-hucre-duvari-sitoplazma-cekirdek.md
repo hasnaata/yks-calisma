@@ -30,6 +30,8 @@ Hücre zarının yapısı bugün, 1972'de Singer ve Nicolson'ın önerdiği **ak
 - **Akıcı:** fosfolipitler sürekli hareket hâlindedir.
 - **Mozaik:** fosfolipit tabakasına gömülü proteinler, yukarıdan bakıldığında mozaik görüntüsü verir.
 
+![Hücre zarının üç boyutlu kesit çizimi: kırmızı başlı, sarı kuyruklu fosfolipitler iki tabaka hâlinde dizilmiş; aralarına mavi proteinler gömülü, üst yüzeyde yeşil karbonhidrat zincirleri var.](gorsel/tyt-biyoloji/04-02-zar-modeli.png "Akıcı-mozaik zar modeli. Kırmızı toplar fosfolipit başları, sarı kuyruklar içte; mavi parçalar proteinler; kuyrukların arasındaki sarı altıgenler kolesterol; üst (dış) yüzeydeki açık yeşil zincirler karbonhidratlar. Görsel: LadyofHats, kamu malı.")
+
 ### Zardaki moleküller
 
 | Molekül | Yeri ve yapısı | Görevi |
@@ -38,6 +40,8 @@ Hücre zarının yapısı bugün, 1972'de Singer ve Nicolson'ın önerdiği **ak
 | **Protein** | Fosfolipit tabakasına gömülüdür; zarı boydan boya geçenler **kanal** oluşturur, kanalın açıklığına **por** denir | Madde alışverişini sağlar |
 | **Karbonhidrat** | Zarın **dış yüzeyinde**, proteine bağlıysa **glikoprotein**, lipide bağlıysa **glikolipit** | Hücrelerin birbirini **tanıması**, uyarıları algılayan **reseptör** görevi, hücreye **özgüllük (kimlik)** kazandırma |
 | **Kolesterol** | **Hayvan hücrelerinde** fosfolipitlerin arasına gömülüdür | Zarın dayanıklılığını, esnekliğini ve akışkanlığını düzenler |
+
+![Hücre zarının dört molekülü ve görevleri: fosfolipit akıcılık ve engel, protein madde alışverişi, karbonhidrat tanıma, reseptör ve kimlik, kolesterol dayanıklılık ve esneklik sağlar.](gorsel/tyt-biyoloji/04-02-zar-molekulleri.svg "Tablonun iskeleti: dört molekül, dört iş. Tanıma ve kimlik sorulursa sarı kola bak.")
 
 ### Fosfolipit tabakasının dizilişi
 
@@ -69,6 +73,8 @@ Hücre zarının **dışında** bulunan, hücreyi koruyan ve destekleyen yapıd�
 | Arkeler | Pseudopeptidoglikan |
 
 Alglerde de hücre duvarı vardır. **Hayvan hücrelerinde hücre duvarı yoktur.** Bitki hücreleri yaşlandıkça hücre duvarı kalınlaşır.
+
+![Mikroskop altında soğan zarı hücreleri: ince çizgilerle birbirinden ayrılmış uzun hücreler ve her birinin içinde koyu bir nokta.](gorsel/tyt-biyoloji/04-02-sogan-hucreleri.jpg "Soğan zarı hücreleri (mikroskop). Hücreleri ayıran çizgiler hücre duvarıdır; her hücredeki koyu nokta çekirdektir. Görsel: Mccloughlin, CC BY 4.0.")
 
 ### Hücre zarı ile hücre duvarı
 
@@ -110,6 +116,10 @@ Hücrenin **yönetim ve kalıtım merkezidir**. Kalıtsal bilgiyi saklar ve akta
 | **Çekirdek sıvısı** | Çekirdeğin içini doldurur; sitoplazmadan **daha yoğundur**. İçinde su, mineral, protein, nükleotit, ATP, DNA ve RNA bulunur |
 | **Çekirdekçik** | **Zarsızdır.** **rRNA** burada sentezlenir; rRNA'lar sitoplazmadan gelen proteinlerle birleşerek **ribozomun büyük ve küçük alt birimlerini** oluşturur. Sayısı ve büyüklüğü hücreye göre değişir. Hücre bölünürken kaybolur, sonra yeniden oluşur |
 | **Kromatin (kalıtım materyali)** | DNA'nın özel proteinlere sarılmış hâlidir |
+
+![Bir dilimi kesilmiş çekirdek çizimi: dışta çift katlı zar ve üzerindeki porlar, içte çekirdek sıvısı, ortada yuvarlak çekirdekçik, kenarlarda kromatin, dış yüzeyde ribozomlar.](gorsel/tyt-biyoloji/04-02-cekirdek.png "Çekirdeğin kesiti. 1: çift katlı çekirdek zarı (1a dış, 1b iç zar), 2: çekirdekçik, 3: çekirdek sıvısı, 4 (4a ve 4b): kromatin, 5: ribozom, 6: por. Görsel: LadyofHats, kamu malı.")
+
+![Ribozom alt birimlerinin yolu: çekirdekçikte rRNA sentezlenir, sitoplazmadan gelen proteinlerle birleşir, büyük ve küçük alt birimler oluşur, çekirdek zarı porlarından geçer, sitoplazmada birleşip protein sentezler.](gorsel/tyt-biyoloji/04-02-ribozom-yolu.svg "Alt birimler çekirdekçikte yapılır, protein sentezi ise sitoplazmada olur. Bu sırayı karıştırma.")
 
 ## ÖSYM tuzakları
 

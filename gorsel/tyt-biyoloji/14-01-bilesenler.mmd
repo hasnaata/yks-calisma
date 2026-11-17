@@ -1,0 +1,15 @@
+flowchart TD
+  E([Ekosistem])
+  E --> A[Cansız bileşenler<br/>abiyotik]
+  E --> C[Canlı bileşenler<br/>biyotik]
+  A --- A1[Işık, sıcaklık, iklim]
+  A1 --- A2[Su, pH, toprak, mineraller]
+  C --> U[Üreticiler<br/>ototrof]
+  C --> T[Tüketiciler<br/>heterotrof]
+  C --> S[Ayrıştırıcılar<br/>saprotrof]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class E kok
+  class C,U,T,S yesil
+  class A,A1,A2 sari

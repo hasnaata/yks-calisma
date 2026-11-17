@@ -41,6 +41,8 @@ Hücre, ihtiyacı olan maddeleri **yüzeyinden** (zarından) alır; ihtiyacın b
 
 Kenar 2 katına çıkınca yüzey 4 kat, hacim 8 kat artar. Yani hücre büyüdükçe **yüzey/hacim oranı küçülür**: zar, büyüyen sitoplazmaya yeterli madde alışverişini sağlayamaz. Çekirdek de genişleyen sitoplazmayı yönetmekte zorlanır. Çözüm bölünmektir; bölünen hücrenin yüzey/hacim oranı yeniden yükselir.
 
+![Hücre büyür, hacim yüzeyden hızlı artar, yüzey/hacim oranı küçülür, zar madde alışverişine yetişemez, hücre bölünür ve yüzey/hacim oranı yeniden yükselir.](gorsel/tyt-biyoloji/08-01-yuzey-hacim.svg "Bölünmeye giden zincir. Kırmızı kutular sorunu, koyu mavi kutu çözümü gösterir.")
+
 ### Bölünme hızı her hücrede aynı değildir
 
 | Hızlı bölünenler | Bölünmeyenler |
@@ -65,6 +67,8 @@ Hücre döngüsünün süresi hem türden türe hem de aynı canlının dokular�
 
 Kromatin ile kromozom aynı maddenin iki hâlidir: yün yumağı ile sıkıca sarılmış makara gibi. DNA eşlendikten sonra bir kromozom **iki kardeş kromatitten** oluşur; ama sentromer tek olduğu için hâlâ **bir kromozom** sayılır.
 
+![Floresan mikroskopta siyah zemin üzerinde dağılmış, kısalıp kalınlaşmış insan kromozomları; çoğunda yan yana duran iki kol seçiliyor.](gorsel/tyt-biyoloji/08-01-insan-kromozomlari.jpg "Bölünen bir insan hücresinin kromozomları (floresan mikroskop). Her kromozomda yan yana duran iki kardeş kromatidi ara. Görsel: Steffen Dietzel, CC BY-SA 3.0.")
+
 ### Kromozom sayısı ne söyler, ne söylemez?
 
 - Bir türün sağlıklı bireylerinde kromozom sayısı ve şekli kural olarak **sabittir**.
@@ -79,6 +83,8 @@ Yeni oluşmuş bir hücrenin büyüyüp bölünerek yeni hücreler oluşturması
 |---|---|
 | **İnterfaz** (hazırlık evresi) | G1 → S → G2 |
 | **Mitotik evre** (bölünme evresi) | Karyokinez (çekirdek bölünmesi) + sitokinez (sitoplazma bölünmesi) |
+
+![Hücre döngüsü iki bölümdür: interfaz (G1, S, G2 sırasıyla) ve mitotik evre (önce karyokinez, sonra sitokinez).](gorsel/tyt-biyoloji/08-01-hucre-dongusu.svg "Dersin iskeleti: solda hazırlık, sağda bölünme. DNA yalnızca kırmızı kutuda, S evresinde eşlenir.")
 
 ## İnterfaz
 
@@ -100,7 +106,11 @@ Hücrenin büyüdüğü, metabolizmasının hızlandığı ve bölünme hazırl�
 
 İnterfaz boyunca kalıtım maddesi **kromatin** hâlindedir, çekirdek zarı ve çekirdekçik yerindedir. Kromozomlar bu evrede ışık mikroskobuyla ayırt edilemez.
 
+![Mikroskop altında mora boyanmış soğan kök ucu hücreleri; çoğunun çekirdeği yuvarlak ve taneli, birkaç hücrede ise iplik iplik kromozomlar görülüyor.](gorsel/tyt-biyoloji/08-01-sogan-kok-ucu.jpg "Soğan kök ucu hücreleri (ışık mikroskobu). Yuvarlak, düzgün çekirdekli hücreler interfazdadır ve çoğunluktadır; iplikleri seçilen birkaç hücre bölünmektedir. Görsel: Josef Reischig, CC BY-SA 3.0.")
+
 DNA miktarı G1'de $X$ ise S evresinde artarak $2X$ olur ve G2 boyunca $2X$ kalır. Kromozom **sayısı** ise değişmez; eşlenme, kromozom sayısını değil kromatit sayısını artırır.
+
+![G1 evresinde DNA miktarı X; S evresinde DNA eşlenir; G2 evresinde DNA miktarı 2X olur. Kromatit sayısı iki katına çıkar, kromozom sayısı değişmez.](gorsel/tyt-biyoloji/08-01-dna-miktari.svg "S evresinden sonra ne artar, ne aynı kalır? Yeşil kutu ÖSYM tuzağının cevabıdır.")
 
 Not: MEB kaynağına göre embriyo hücreleri tam büyümeden DNA'larını eşler; bu hücrelerde G1 evresi görülmeden S evresine geçilir, bu yüzden döngüleri kısa sürer.
 

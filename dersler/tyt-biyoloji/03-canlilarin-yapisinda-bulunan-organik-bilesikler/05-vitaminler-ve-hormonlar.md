@@ -41,6 +41,8 @@ Yardımcı kısım (koenzim ya da kofaktör) farklı apoenzimlerle çalışabili
 
 Akılda tutma: yağda çözünenlerin baş harfleri **ADEK**.
 
+![Vitaminler ikiye ayrılır. Yağda çözünenler A, D, E, K: vücutta depolanır, eksikliği geç belli olur. Suda çözünenler B grubu ve C: depolanmaz, fazlası atılır, eksikliği çabuk belli olur.](gorsel/tyt-biyoloji/03-05-vitamin-siniflandirma.svg "Tablonun iskeleti: çözündüğü yer depolanmayı, depolanma da eksikliğin ne zaman belli olacağını belirler.")
+
 ## Vitaminler: görev ve eksiklik
 
 | Vitamin | Başlıca görevi | Eksikliğinde |
@@ -52,6 +54,8 @@ Akılda tutma: yağda çözünenlerin baş harfleri **ADEK**.
 | **B grubu** | Bileşik enzimlerin **koenzim** kısmını oluşturur | Beriberi, pellegra, anemi, sinirsel bozukluklar, yorgunluk |
 | **C** | Antioksidandır; bağışıklığı güçlendirir, demirin kana geçmesini kolaylaştırır. En çok turunçgillerde bulunur | **Diş eti kanaması ve çekilmesi** (skorbüt), yaraların geç iyileşmesi |
 
+![Işığa tutulmuş ince portakal, limon, misket limonu ve greyfurt dilimleri](gorsel/tyt-biyoloji/03-05-turuncgiller.jpg "Turunçgiller: C vitamininin en çok bulunduğu besinler. C suda çözünür ve depolanmaz, bu yüzden günlük alınmalıdır. Görsel: Scott Bauer, USDA, kamu malı.")
+
 ## Hormonlar
 
 - **Organik** yapılı **düzenleyici** moleküllerdir.
@@ -60,6 +64,12 @@ Akılda tutma: yağda çözünenlerin baş harfleri **ADEK**.
 - Bitkilerde de vardır: kök ve gövde büyümesi, çiçeklenme, meyve olgunlaşması, tohumun çimlenmesi hormonlarla düzenlenir.
 - **Çok az miktarda** etkilidir; miktarındaki küçük bir değişim bile metabolizmayı bozar.
 - Hepsi protein yapılı **değildir**: insülin protein yapılıdır, eşey hormonları steroit (lipit) yapılıdır.
+
+![Hormon salgılanır, kan ve vücut sıvılarıyla taşınır, hedef hücreyi etkiler; sonuçta büyüme, üreme ve homeostazi (iç denge) düzenlenir.](gorsel/tyt-biyoloji/03-05-hormon-yolu.svg "Bir hormonun yolu: salgılanır, kanla taşınır, yalnızca hedef hücresini etkiler.")
+
+![Protein yapılı insülin hormonunun renkli şeritlerle gösterilen üç boyutlu modeli](gorsel/tyt-biyoloji/03-05-insulin-3b.png "İnsülin: protein yapılı bir hormon. Şeritler amino asit zincirlerini gösterir; burada her biri ayrı renkte altı insülin molekülü bir arada duruyor. Görsel: Benjah-bmm27, kamu malı.")
+
+![Bir eşey hormonu olan testosteron molekülünün üç boyutlu top-çubuk modeli; karbon halkaları birbirine bitişik](gorsel/tyt-biyoloji/03-05-testosteron-3b.png "Testosteron: steroit (lipit) yapılı bir eşey hormonu. İnsülinle karşılaştır: amino asit zinciri yok, bitişik karbon halkaları var. Demek ki her hormon protein değildir. Görsel: Jynto, CC0.")
 
 Örnek: hipofiz bezinden salgılanan **büyüme hormonu** büyüme çağında az salgılanırsa **cücelik**, fazla salgılanırsa **devlik** görülür.
 

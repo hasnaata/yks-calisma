@@ -21,6 +21,8 @@ Anabolizma yapım (küçükten büyüğe: protein sentezi, fotosentez), kataboli
 
 Canlıdaki temel bileşikler ikiye ayrılır: **inorganik** (su, asitler, bazlar, tuzlar, mineraller) ve **organik**.
 
+![Canlıdaki temel bileşikler inorganik ve organik olarak ikiye ayrılır. İnorganik bileşikler su, asitler ve bazlar, tuzlar ve minerallerdir.](gorsel/tyt-biyoloji/02-01-inorganik-siniflandirma.svg "Bu dersin haritası: yeşil kutuları sırayla işleyeceğiz.")
+
 İnorganik bileşikler:
 
 1. Canlı tarafından **üretilemez**, dışarıdan hazır alınır.
@@ -35,8 +37,12 @@ Canlı kütlesinin %70'inden fazlası sudur. Dokuların su oranı farklıdır; s
 
 Su molekülleri birbirine **hidrojen bağı** ile tutunur. Buradan iki kuvvet doğar:
 
+![Su moleküllerinin üç boyutlu modeli: ortadaki molekül, çevresindeki dört su molekülüne kesikli çizgilerle gösterilen hidrojen bağlarıyla tutunuyor.](gorsel/tyt-biyoloji/02-01-hidrojen-bagi-3b.png "Su molekülleri (kırmızı: oksijen, beyaz: hidrojen). 1 ile gösterilen kesikli çizgiler hidrojen bağlarıdır; molekülleri birbirine bunlar tutar. Görsel: Qwerter, kamu malı.")
+
 - **Kohezyon:** su moleküllerinin birbirini çekmesi.
 - **Adhezyon:** suyun başka yüzeylere tutunması.
+
+![Hidrojen bağından kohezyon ve adhezyon doğar. Kohezyon yüzey gerilimini sağlar; kohezyon, adhezyon ve terleme birlikte bitkide suyun kökten yaprağa taşınmasını sağlar.](gorsel/tyt-biyoloji/02-01-kohezyon-adhezyon.svg "Hidrojen bağından iki kuvvet, iki kuvvetten iki sonuç. Bitkide su taşınması için üçünün de gerektiğine dikkat et.")
 
 | Suyun özelliği | Canlıdaki sonucu |
 |---|---|
@@ -46,6 +52,8 @@ Su molekülleri birbirine **hidrojen bağı** ile tutunur. Buradan iki kuvvet do
 | Kohezyon + adhezyon + terleme | Bitkide su, kökten yaprağa kesintisiz sütun hâlinde yer çekimine karşı taşınır |
 | Yüzey gerilimi (kohezyon) | Bazı böcekler su üstünde yürür |
 | Yüksek buharlaşma ısısı | Terleme ile etkili soğuma |
+
+![Dere yüzeyinde batmadan duran bir su böceği; ayaklarının bastığı yerde su yüzeyi hafifçe çukurlaşmış.](gorsel/tyt-biyoloji/02-01-su-orumcegi.jpg "Yüzey gerilimi iş başında: böcek suya batmıyor, ayaklarının altında su yüzeyi yalnızca esniyor. Görsel: Tim McCormack, CC BY-SA 3.0.")
 
 ## Asitler ve bazlar
 

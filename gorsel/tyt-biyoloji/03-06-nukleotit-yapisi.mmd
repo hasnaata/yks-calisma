@@ -1,0 +1,15 @@
+flowchart TD
+  subgraph NT [Nükleotit]
+    subgraph NZ [Nükleozit]
+      B[Azotlu baz] --- G([glikozit bağı]) --- S[Pentoz şeker]
+    end
+    S --- E([ester bağı]) --- F[Fosfat]
+  end
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef bag fill:#ffffff,stroke:#b3261e,color:#b3261e
+  class B mavi
+  class S yesil
+  class F sari
+  class G,E bag

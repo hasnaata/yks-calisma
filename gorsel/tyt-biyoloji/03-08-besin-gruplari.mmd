@@ -1,0 +1,15 @@
+flowchart TD
+  A["Sağlıklı beslenme"] --> B["Süt grubu"]
+  A --> C["Et, yumurta,<br/>kuru baklagil"]
+  A --> D["Sebze ve<br/>meyve"]
+  A --> E["Ekmek ve<br/>tahıl"]
+  B --> B1["Kalsiyum"]
+  C --> C1["Protein, demir"]
+  D --> D1["Vitamin"]
+  E --> E1["Karbonhidrat"]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef grup fill:#e8f0fc,stroke:#1f5fbf,color:#1a1a1a
+  classDef oge fill:#e3f4e9,stroke:#1c7c45,color:#1a1a1a
+  class A kok
+  class B,C,D,E grup
+  class B1,C1,D1,E1 oge

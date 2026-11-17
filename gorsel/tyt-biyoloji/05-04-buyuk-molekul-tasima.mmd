@@ -1,0 +1,15 @@
+flowchart TD
+  B([Büyük molekül<br/>kofulla taşınır])
+  B --> EN[Endositoz<br/>içeri alma]
+  B --> EK[Ekzositoz<br/>dışarı verme]
+  EN --> F[Fagositoz<br/>katı parçacık]
+  EN --> P[Pinositoz<br/>çözünmüş molekül]
+  F --> Z1[Zar yüzeyi küçülür]
+  P --> Z1
+  EK --> Z2[Zar yüzeyi büyür]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class B kok
+  class Z2 yesil
+  class Z1 kirmizi

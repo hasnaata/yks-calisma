@@ -1,0 +1,17 @@
+flowchart TD
+  D([Hücre döngüsü])
+  D --> I[İnterfaz<br/>hazırlık evresi]
+  D --> M[Mitotik evre<br/>bölünme evresi]
+  I --> G1[G1<br/>hücre büyür]
+  G1 --> S[S<br/>DNA eşlenir]
+  S --> G2[G2<br/>son hazırlık]
+  M --> K[Karyokinez<br/>çekirdek bölünür]
+  K --> C[Sitokinez<br/>sitoplazma bölünür]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class D kok
+  class I,G1,G2 yesil
+  class S kirmizi
+  class M,K,C sari

@@ -43,6 +43,8 @@ Hücre zarı **canlı** ve **seçici geçirgen** bir yapıdır. Bir maddenin zar
 
 Bu derste tablonun ilk satırındaki difüzyonu işliyorsun; diğerleri sonraki derslerin konusu.
 
+![Karar şeması: molekül küçük değilse endositoz ya da ekzositoz; küçükse ve az yoğundan çok yoğuna gidiyorsa aktif taşıma; çok yoğundan az yoğuna gidiyorsa pasif taşıma. Pasif taşıma basit difüzyon, kolaylaştırılmış difüzyon ve osmoz olarak üçe ayrılır.](gorsel/tyt-biyoloji/05-01-tasima-haritasi.svg "İki soru sor: molekül küçük mü, yön çok yoğundan aza mı? Kırmızı kutularda ATP harcanır, mavi kutular bu dersin konusu.")
+
 ## Pasif taşıma
 
 Küçük moleküllerin **çok yoğun** oldukları ortamdan **az yoğun** oldukları ortama geçmesidir.
@@ -50,6 +52,8 @@ Küçük moleküllerin **çok yoğun** oldukları ortamdan **az yoğun** oldukla
 - **ATP harcanmaz.** Gereken enerji moleküllerin kendi **kinetik enerjisinden** gelir.
 - **Canlı ve cansız** ortamlarda gerçekleşebilir (odaya yayılan koku da difüzyondur).
 - Net geçiş, iki taraftaki yoğunluk **eşitleninceye kadar** sürer. Eşitlendikten sonra moleküller yine hareket eder ama iki yöne geçen miktar aynıdır.
+
+![Su dolu cam beherin yüzeyine bırakılmış mor boya tanecikleri, ince mor iplikler hâlinde renksiz suyun içine doğru yayılıyor.](gorsel/tyt-biyoloji/05-01-difuzyon-boya.jpg "Cansız ortamda difüzyon: mor boya, çok yoğun olduğu yerden renksiz suya doğru kendiliğinden yayılıyor. Kimse karıştırmıyor, enerji veren yok. Görsel: Dejan Jovic DJ, CC BY-SA 4.0.")
 
 ## Basit difüzyon
 
@@ -67,6 +71,8 @@ Maddenin **zar proteinleri görev almadan**, doğrudan **fosfolipit tabakadan** 
 - ATP harcanmaz; madde yine kendi kinetik enerjisiyle hareket eder.
 - Taşıyıcı protein taşıdığı moleküle **özgüdür**. Aralarında enzim–substrat ilişkisine benzer bir **yüzey uygunluğu** vardır: glikoz taşıyıcısı amino asit taşımaz.
 
+![Glikoz taşıyıcı proteinin üç boyutlu şerit modeli: gökkuşağı renklerinde sarmallar bir demet oluşturuyor, demetin ortasındaki boşlukta küçük bir molekül duruyor.](gorsel/tyt-biyoloji/05-01-glikoz-tasiyicisi-3b.png "Zardaki bir glikoz taşıyıcı proteinin 3B modeli. Sarmalların ortasındaki boşluğa bak: molekül oraya oturur, bu yüzden taşıyıcı her molekülü taşımaz. Görsel: ChemPro, CC0.")
+
 | | Basit difüzyon | Kolaylaştırılmış difüzyon |
 |---|---|---|
 | Geçiş yeri | Fosfolipit tabaka | Taşıyıcı ya da kanal proteini |
@@ -74,6 +80,8 @@ Maddenin **zar proteinleri görev almadan**, doğrudan **fosfolipit tabakadan** 
 | ATP | Harcanmaz | Harcanmaz |
 | Yön | Çok yoğun → az yoğun | Çok yoğun → az yoğun |
 | Örnek | $\text{O}_2$, $\text{CO}_2$, yağda çözünen vitaminler | Glikoz, amino asit, iyonlar |
+
+![Karar şeması: çok yoğundan aza giden küçük molekül yağda çözünüyorsa ya da gazsa fosfolipit tabakadan geçer, bu basit difüzyondur; suda çözünüyorsa taşıyıcı ya da kanal proteininden geçer, bu kolaylaştırılmış difüzyondur. İkisinde de ATP harcanmaz.](gorsel/tyt-biyoloji/05-01-basit-mi-kolaylastirilmis-mi.svg "Tek soru yeter: madde yağda mı çözünür, suda mı? Yol ayrılır ama iki yol da aynı yerde biter: ATP harcanmaz.")
 
 ## Difüzyon hızını etkileyen etkenler
 
@@ -90,6 +98,8 @@ Ayrıca yağda çözünen maddeler suda çözünenlerden, nötr maddeler iyonlar
 ## Diyaliz
 
 Çözünmüş belirli maddelerin, seçici geçirgen bir zarın öbür tarafındaki farklı bileşimli çözeltiye geçirilerek ayrılmasıdır. Böbreği çalışmayan hastalarda uygulanan **hemodiyaliz** bunun örneğidir: hastanın kanı makinede seçici geçirgen bir zarın bir yanından geçer, öbür yanında bileşimi özel ayarlanmış **diyaliz sıvısı** bulunur. Üre gibi zararlı maddeler ve fazla su, kandan diyaliz sıvısına geçer; temizlenen kan hastaya geri verilir.
+
+![Bir diyaliz merkezinde hasta koltuğunun yanında duran, ekranlı ve hortumlu hemodiyaliz makinesi.](gorsel/tyt-biyoloji/05-01-hemodiyaliz.jpg "Hemodiyaliz makinesi ve hasta koltuğu. Seçici geçirgen zar bu makinenin içindedir; hastanın kanı hortumlarla makineye gidip geri döner. Görsel: Виталий Поспелов, CC BY-SA 3.0.")
 
 Olayın mantığı difüzyondur: madde, yoğunluğunun düşük olduğu tarafa geçer. Bu yüzden diyaliz sıvısındaki üre yoğunluğu kandakinden düşük tutulur.
 

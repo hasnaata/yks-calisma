@@ -1,0 +1,16 @@
+flowchart TD
+  M([Mantar])
+  M --> H[Hayvana benzer]
+  M --> B[Bitkiye benzer]
+  M --> K[Kendine özgü]
+  H --> H1[Heterotrof beslenir<br/>Glikojen depolar]
+  B --> B1[Aktif hareket yok<br/>Hücre duvarı var]
+  K --> K1[Hücre duvarı kitin]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class M kok
+  class B,B1 yesil
+  class H,H1 sari
+  class K,K1 kirmizi

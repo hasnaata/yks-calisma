@@ -1,0 +1,13 @@
+flowchart TD
+  S([Özdeş fideler]) --> D[Deney grubu<br/>Gübre verilir]
+  S --> K[Kontrol grubu<br/>Gübre verilmez]
+  D --> O[Diğer koşullar aynı]
+  K --> O
+  O --> B[Bitki boyu ölçülür]
+  B --> F([Boy farkı: gübrenin etkisi])
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class S kok
+  class D yesil
+  class K sari

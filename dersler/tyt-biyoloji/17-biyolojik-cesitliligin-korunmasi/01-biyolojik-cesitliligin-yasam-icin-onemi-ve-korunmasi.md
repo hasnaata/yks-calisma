@@ -21,11 +21,15 @@ Bugünkü nesillerin ihtiyacını karşılamak ve gelecek nesillerin haklarını
 
 Biyolojik çeşitlilik, belirli bir bölgede yaşayan birbirinden farklı canlıları ifade eder. Belirlenmesi için üç düzeyin bilinmesi gerekir:
 
+![Biyolojik çeşitlilik üç düzeye ayrılır: genetik çeşitlilik aynı tür içindeki kalıtsal farklar, tür çeşitliliği bölgedeki farklı tür sayısı, ekosistem çeşitliliği farklı ekosistemlerin varlığıdır.](gorsel/tyt-biyoloji/17-01-uc-duzey.svg "Üç düzey tek şemada. Genetik çeşitliliğin tür içinde, tür çeşitliliğinin türler arasında olduğuna dikkat et.")
+
 | Düzey | Anlamı | Örnek |
 |---|---|---|
 | **Genetik çeşitlilik** | **Aynı türün** bireyleri arasındaki kalıtsal farklılıklar | Aynı türden midyelerin farklı kabuk renkleri |
 | **Tür çeşitliliği** | Belirli bir bölgede yaşayan **farklı türlerin** sayısı | Bir ormandaki bitki, böcek, kuş ve memeli türleri |
 | **Ekosistem çeşitliliği** | Canlıların cansız etmenlerle etkileşimindeki farklılıklar; farklı ekosistemlerin varlığı | Orman, step, sulak alan, kıyı, deniz ekosistemleri |
+
+![Siyah zemin üzerinde aynı türe ait on beş midye kabuğu; mor, pembe, turuncu ve çizgili olmak üzere hepsinin rengi ve deseni farklı.](gorsel/tyt-biyoloji/17-01-kabuk-renkleri.jpg "Bu kabukların hepsi aynı türe ait. Renk ve desen farkı genetik çeşitliliğin gözle görülen hâlidir. Görsel: Debivort, CC BY-SA 3.0.")
 
 **Genetik çeşitlilik neden önemli?** Bireylerin genetik yapısı birbirine çok benzeyen popülasyonlarda çevre koşulları değiştiğinde (yeni bir hastalık, kuraklık) bireylerin çoğu aynı biçimde etkilenir; popülasyon yok olabilir. Genetik çeşitlilik arttıkça yeni koşullara uyabilen birey bulunma olasılığı da artar.
 
@@ -56,6 +60,8 @@ Endemik türler ve yerel ırklar çoğunlukla yaşadıkları yerin adıyla anıl
 | Sivas kangal köpeği | Kahramanmaraş orkidesi, Osmaniye orkidesi |
 | Saimbeyli mavisi kelebeği | Sığla ağacı (Muğla–Fethiye çevresi) |
 
+![Köpüren akıntının üzerinde sudan sıçrayan gümüşi renkli inci kefali balıkları.](gorsel/tyt-biyoloji/17-01-inci-kefali.jpg "Van Gölü inci kefali: Türkiye’ye özgü endemik bir balık, adını yaşadığı yerden alır. Görsel: Rotadefterim, CC BY-SA 4.0.")
+
 Türkiye'nin Akdeniz ve Ege kıyıları ayrıca **Akdeniz foku** ve **deniz kaplumbağaları** gibi nesli tehlikede olan türlere barınma ve üreme alanı sağlar.
 
 Endemik türler dar bir alanda yaşadıkları için habitatlarındaki küçük bir bozulma bile türün tümünü tehdit eder. Bu yüzden hem **millî** hem **küresel** bir mirastır.
@@ -68,6 +74,8 @@ Başlıca koruma yolları:
 2. **Gen bankaları** ile türleri koruma altına almak,
 3. Ulusal ve uluslararası **yasal düzenlemeler** yapmak ve uygulamak,
 4. **Toplumsal önlemler** almak (eğitim, bilinçlendirme).
+
+![Koruma yolları dörde ayrılır: habitatıyla koruma (millî park, tabiat parkı), gen bankaları (tohum, embriyo), yasal düzenlemeler (av yasakları, Bern Sözleşmesi) ve toplumsal önlemler (eğitim).](gorsel/tyt-biyoloji/17-01-koruma-yollari.svg "Dört koruma yolu ve birer örneği. Soruda verilen uygulamanın hangi kola girdiğini buradan bul.")
 
 ### Korunan alanlar ve yasal düzenlemeler
 
@@ -96,6 +104,8 @@ Saklanabilen örnekler:
 - **Sperm** ve **yumurta**
 - Hayvan **embriyosu**
 - Bazı bankalarda **kök hücreler**
+
+![Bir tohum bankasının çekmecelerinde yan yana dizilmiş, üzerlerinde numara ve barkod bulunan tohum zarfları.](gorsel/tyt-biyoloji/17-01-tohum-bankasi.jpg "Bir tohum gen bankasında saklanan tohum örnekleri. Her zarf numaralanır; tür doğada yok olsa bile tohumu elde kalır. Görsel: R. C. Johnson, CC BY 2.5.")
 
 Türkiye Tohum Gen Bankası 2010'da kurulmuştur; yaklaşık 250 bin tohum örneği saklama kapasitesine sahiptir ve bitki, bakteri ve mantar gen kaynaklarını korur. Araştırmacılar buradaki örnekleri türü yeniden yetiştirmek ya da genetik çeşitliliği artırmak için kullanabilir.
 

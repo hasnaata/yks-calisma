@@ -1,0 +1,12 @@
+flowchart TD
+  E([Enzim]) --> K[Enzim–substrat kompleksi]
+  S[Substrat] -- aktif bölgeye bağlanır --> K
+  K --> U[Ürün]
+  K --> E2[Enzim değişmeden çıkar]
+  E2 -. tekrar kullanılır .-> E
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class E,E2 kok
+  class S sari
+  class U yesil

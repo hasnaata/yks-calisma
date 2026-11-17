@@ -28,6 +28,8 @@ Mayoz ve döllenme. Mayoz, diploit ($2n$) hücreden haploit ($n$) gametleri olu�
 | **Karakter** | Dölden döle aktarılan nitelik | Göz rengi, tohum şekli |
 | **Özellik** | Bir karakterin her bir farklı tipi | Mavi göz, buruşuk tohum |
 
+![Yeşil zemin üzerinde dağınık duran, sarı renkli, çubuk ve X biçimli onlarca insan kromozomunun mikroskop görüntüsü](gorsel/tyt-biyoloji/12-01-karyotip.jpg "Mikroskop altında insan kromozomları. Genler bu kromozomların üzerinde, lokus denen belirli yerlerde bulunur. Görsel: Josef Reischig, CC BY-SA 3.0.")
+
 Bir genin alelleri aynı harfin büyüğü ve küçüğüyle gösterilir.
 
 - **Baskın (dominant) alel:** heterozigot durumda fenotipte etkisini gösteren aleldir; büyük harfle yazılır (A).
@@ -43,6 +45,8 @@ Bir genin alelleri aynı harfin büyüğü ve küçüğüyle gösterilir.
 | AA | Homozigot (arı döl) baskın | Baskın | Tek çeşit: A |
 | Aa | Heterozigot (melez) | Baskın | İki çeşit: A ve a |
 | aa | Homozigot (arı döl) çekinik | Çekinik | Tek çeşit: a |
+
+![Şema: AA ve Aa genotiplerinden çıkan oklar baskın fenotipte birleşir, aa genotipinden çıkan ok çekinik fenotipe gider](gorsel/tyt-biyoloji/12-01-genotip-fenotip.svg "İki farklı genotip (AA ve Aa) aynı baskın fenotipi verir; çekinik fenotipe ise yalnızca aa ulaşır.")
 
 Bu tablodan iki sonuç çıkar ve ikisi de sık sorulur:
 
@@ -87,6 +91,8 @@ Homozigot karakterler gamet çeşidini değiştirmez; yalnızca heterozigot olan
 | AaDd | 2 | $2^2 = 4$ | AD, Ad, aD, ad |
 | AaDDBb | 2 | $2^2 = 4$ | ADB, ADb, aDB, aDb |
 
+![Dallanma şeması: AaDd bireyinden yarım olasılıkla A ya da a seçilir, her birinden yine yarım olasılıkla D ya da d eklenerek AD, Ad, aD, ad gametleri elde edilir](gorsel/tyt-biyoloji/12-01-gamet-agaci.svg "AaDd için dallanma: her heterozigot karakter dalları ikiye katlar. Dört gametin her biri 1/2 · 1/2 = 1/4 olasılıkla oluşur.")
+
 ### Belirli bir gametin olasılığı
 
 Her karaktere ayrı bak, sonra çarp (çarpım kuralı):
@@ -116,10 +122,14 @@ AaBb genotipli bir bireyde A ile B aynı kromozomda, a ile b homoloğunda olsun:
 | Krossing over **yok** | AB, ab | 2 |
 | Krossing over **var** | AB, ab, Ab, aB | 4 |
 
+![Şema: A ile B bağlı AaBb bireyi krossing over yoksa AB ve ab olmak üzere 2 çeşit, krossing over varsa AB, ab, Ab, aB olmak üzere 4 çeşit gamet oluşturur](gorsel/tyt-biyoloji/12-01-bagli-genler.svg "Bağlı genlerde önce krossing over var mı diye bak: yoksa 2, varsa 4 çeşit gamet.")
+
 - Krossing over yoksa bağlı genler tek bir karakter gibi davranır: birlikte giden gen grubunu tek bir heterozigot çift say.
 - Krossing over varsa çeşit sayısı bağımsız genlerdeki gibi $2^n$ ile bulunur.
 - Krossing over yeni gen kombinasyonları oluşturur, gamet çeşitliliğini artırır.
 - İki gen kromozom üzerinde birbirinden ne kadar **uzaksa** krossing over ile ayrılma olasılığı o kadar **yüksektir**.
+
+![Mavi ve pembe iki homolog kromozomun yan yana gelip üst üste binmesini, parça değiştirmesini ve sonunda uçlarında karşı rengin parçasını taşıyan kromozomlara dönüşmesini gösteren dört aşamalı 3B çizim](gorsel/tyt-biyoloji/12-01-krossing-over.png "Krossing over: homolog kromozomlar parça değiştirir. Son aşamada uçların renk değiştirdiğine bak; yeni gen kombinasyonları böyle oluşur. Görsel: Christinelmiller, CC BY-SA 4.0.")
 
 **Çözümlü örnek 3.** AaBbDd genotipli bireyde A ve B bağlı (A ile B aynı kromozomda), D geni başka bir kromozomdadır. Krossing over yoksa: AB/ab grubu 2 çeşit, Dd 2 çeşit verir; toplam $2 \cdot 2 = 4$ çeşit gamet (ABD, ABd, abD, abd). Krossing over varsa $2^3 = 8$ çeşit.
 

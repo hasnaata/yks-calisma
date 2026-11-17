@@ -29,6 +29,8 @@ Otçul doğrudan üreticilerle, etçil diğer tüketicilerle, omnivor ikisiyle d
 | Geri dönüş | Ayrıştırıcılar sayesinde var | Yok; ısı olarak kaybedilen enerji geri kazanılamaz |
 | Kaynağı | Ekosistemin kendisi | Güneş |
 
+![Güneşten gelen ışık enerjisi üreticilere, besinle tüketicilere geçer; üretici ve tüketicilerden ısı kaybı olur. Atık ve kalıntılar ayrıştırıcılara gider, ayrıştırıcılar inorganik maddeyi üreticilere geri verir.](gorsel/tyt-biyoloji/14-03-madde-enerji.svg "Maddenin yolu bir halka çizip üreticiye geri döner. Enerjinin yolu ise ısı kaybında biter, geri dönen ok yoktur.")
+
 ## Besin zinciri ve trofik düzeyler
 
 **Besin zinciri:** üreticilerden başlayıp tüketicilere doğru bir zincirin halkaları gibi ilerleyen beslenme ilişkisidir.
@@ -44,6 +46,8 @@ Otçul doğrudan üreticilerle, etçil diğer tüketicilerle, omnivor ikisiyle d
 | Kurbağa | 3. | İkincil tüketici (etçil) |
 | Yılan | 4. | Üçüncül tüketici |
 | Atmaca | 5. | Dördüncül tüketici |
+
+![Otların arasında bir yılan, yakaladığı kurbağayı yutuyor.](gorsel/tyt-biyoloji/14-03-yilan-kurbaga.jpg "Örnek zincirin bir halkası: kurbağa (ikincil tüketici) yılana (üçüncül tüketici) besin oluyor. Görsel: Paul Prior, CC BY 4.0.")
 
 Kısa kural: **tüketici sırası = trofik düzey − 1**. Üçüncü trofik düzeydeki canlı ikincil tüketicidir.
 
@@ -69,6 +73,8 @@ $$E_{n+1} = E_n \times \frac{1}{10}$$
 | 2. | Birincil tüketiciler | 10 000 J |
 | 3. | İkincil tüketiciler | 1 000 J |
 | 4. | Üçüncül tüketiciler | 100 J |
+
+![Alttan üste dört basamak: üreticiler 100 000 J, birincil tüketiciler 10 000 J, ikincil tüketiciler 1 000 J, üçüncül tüketiciler 100 J.](gorsel/tyt-biyoloji/14-03-enerji-piramidi.svg "Alttan başla ve okları say: her ok bir aktarımdır ve enerjinin yalnızca %10'u üst basamağa geçer.")
 
 Her basamak atlayışında enerji 10'a bölünür. İki basamak yukarıdaki canlıya enerjinin $\frac{1}{100}$'ü, üç basamak yukarıdakine $\frac{1}{1000}$'i ulaşır.
 
@@ -100,6 +106,8 @@ Bir maddenin birikmesinin nedenleri:
 Örnek maddeler: **DDT**, cıva ve kurşun gibi **ağır metaller**, siyanür, bazı radyoaktif maddeler.
 
 Kural: biyolojik birikim **en az üreticide, en çok son tüketicide** görülür. Enerji piramidi yukarı doğru daralırken zehir yoğunluğu yukarı doğru artar.
+
+![Üreticiden tüketicilere, oradan son tüketiciye giden zincir. Üreticide enerji en çok, birikim en az; son tüketicide enerji en az, birikim en çok.](gorsel/tyt-biyoloji/14-03-zit-yonler.svg "Aynı zincirde iki zıt yön: enerji üreticide, biyolojik birikim son tüketicide en çoktur.")
 
 ## ÖSYM tuzakları
 

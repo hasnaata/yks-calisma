@@ -1,0 +1,12 @@
+flowchart TD
+  A[Hücre büyür] --> B[Hacim yüzeyden<br/>hızlı artar]
+  B --> C[Yüzey/hacim<br/>oranı küçülür]
+  C --> E[Zar madde alışverişine<br/>yetişemez]
+  E --> F([Hücre bölünür])
+  F --> G[Yüzey/hacim oranı<br/>yeniden yükselir]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class F kok
+  class G yesil
+  class C,E kirmizi

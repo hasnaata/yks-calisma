@@ -1,0 +1,13 @@
+flowchart TD
+  O([37 °C<br/>hız en yüksek]) --> S[Soğuk uç<br/>0 °C civarı]
+  O --> Y[Sıcak uç<br/>yüksek sıcaklık]
+  S --> S1[Enzim durur<br/>yapısı sağlam]
+  Y --> Y1[Yapı bozulur<br/>denatürasyon]
+  S1 --> S2[37 °C: yeniden çalışır]
+  Y1 --> Y2[37 °C: yine çalışmaz]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class O kok
+  class S,S1,S2 yesil
+  class Y,Y1,Y2 kirmizi

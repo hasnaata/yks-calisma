@@ -1,0 +1,16 @@
+flowchart TD
+  A([Atmosferdeki CO₂]) -- fotosentez --> B[Üreticiler]
+  B -- beslenme --> C[Tüketiciler]
+  B --> D[Ölü kalıntılar]
+  C --> D
+  D -- uzun sürede --> E[Fosil yakıtlar]
+  B -. solunum .-> A
+  C -. solunum .-> A
+  D -. ayrıştırma .-> A
+  E -. yanma .-> A
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,C yesil
+  class E sari

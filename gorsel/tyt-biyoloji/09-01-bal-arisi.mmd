@@ -1,0 +1,14 @@
+flowchart TD
+  Q([Kraliçe arı 2n = 32])
+  Q -->|mayoz| Y[Yumurta n = 16]
+  Y -->|döllenmezse| E[Erkek arı n = 16]
+  Y -->|döllenirse| Z[Döllenmiş yumurta 2n = 32]
+  Z -->|arı sütü| K[Kraliçe arı 2n]
+  Z -->|polen| I[İşçi arı 2n, kısır]
+  E -->|mitoz| S[Sperm n = 16]
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class Q kok
+  class E,S sari
+  class Z,K,I yesil

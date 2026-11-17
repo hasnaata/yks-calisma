@@ -43,7 +43,11 @@ Akılda tutma: her kontrol noktası, **kendinden sonraki olayın ön koşulunu**
 - G2 → eşlenen DNA bölünmeye hazır mı?
 - M → kromatitler ayrılmaya hazır mı?
 
+![Yukarıdan aşağı akış şeması: G1 kontrol noktasından Devam et sinyaliyle S evresine, Dur sinyaliyle G0 evresine gidilir; S ve G2 evrelerinden sonra G2 kontrol noktası, mitozun metafazında M kontrol noktası gelir ve ardından anafaz başlar](gorsel/tyt-biyoloji/08-03-kontrol-noktalari.svg "Sarı kutular kontrol noktalarıdır. Her birinin hemen altındaki olaya bak: kontrol noktası o olayın ön koşulunu denetler.")
+
 M kontrol noktası sayesinde yavru hücrelere **eşit sayıda kromozom** gider. Tek bir kromozom bile iğ ipliğine bağlanmamışsa anafaz başlamaz.
+
+![Bölünen bir insan hücresinin floresan mikroskop görüntüsü: ortada mavi kromozomlar, iki yandan uzanan yeşil iğ iplikleri ve kromozomların üzerinde pembe noktalar hâlinde kinetokorlar](gorsel/tyt-biyoloji/08-03-ig-iplikleri-kinetokor.jpg "Gerçek bir insan hücresi: yeşil iğ iplikleri, mavi kromozomlar, pembe noktalar kinetokorlar. M kontrol noktası, her pembe noktanın yeşil bir ipliğe tutunup tutunmadığını denetler.")
 
 ### G0 evresi
 
@@ -62,6 +66,8 @@ Hücre döngüsünün kontrolü iki yolla bozulabilir:
 
 **Kanser**, bir doku ya da organdaki hücrelerin **kontrolsüz** bölünüp çoğalmasıdır. Kaynağı **DNA hasarıdır**.
 
+![Laboratuvarda çoğaltılmış çok sayıda kanser hücresinin floresan mikroskop görüntüsü: hücre iskeleti mor, çekirdeklerdeki DNA açık mavi; hücreler alanı sık biçimde doldurmuş](gorsel/tyt-biyoloji/08-03-hela-kanser-hucreleri.jpg "Laboratuvarda çoğaltılan kanser hücreleri: açık mavi kısımlar çekirdek (DNA), mor ağ hücre iskeleti. Bu hücreler Dur sinyaline uymadan bölünmeyi sürdürür.")
+
 | | Normal hücre | Kanser hücresi |
 |---|---|---|
 | DNA hasarı olursa | Hasarı onarır, onaramazsa ölür | Hasar onarılamaz, hücre yine de bölünür |
@@ -78,6 +84,8 @@ Bağışıklık sistemi kontrolü bozulmuş hücrelerin çoğunu yok eder. Yok e
 | Etki | Genellikle soruna yol açmaz; cerrahiyle çıkarılabilir | Organların işlevini bozar |
 
 **Metastaz:** Kanser hücrelerinin **kan ya da lenf** dolaşımıyla vücudun başka bölgelerine taşınıp yayılmasıdır.
+
+![Dallanma şeması: kontrolü bozulmuş hücrelerin çoğunu bağışıklık sistemi yok eder; yok edilemeyenler çoğalıp tümör oluşturur; tümör iyi huylu (yayılmaz) ya da kötü huylu (kanser, yayılır) olabilir; kötü huylu tümör kan ya da lenf ile metastaz yapar](gorsel/tyt-biyoloji/08-03-tumor-cesitleri.svg "Tümörün iki çeşidini ayıran tek soru: yayılıyor mu? Metastaz yalnızca kötü huylu tümörün devamıdır.")
 
 Örnek: **kolon kanseri**, kalın bağırsağın iç yüzeyini örten hücrelerin kontrolsüz çoğalmasıyla gelişir; her yaşta görülebilir ama en sık 50 yaşından sonra ortaya çıkar.
 

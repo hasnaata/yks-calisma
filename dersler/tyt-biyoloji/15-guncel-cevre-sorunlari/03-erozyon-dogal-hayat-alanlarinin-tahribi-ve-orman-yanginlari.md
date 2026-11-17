@@ -21,6 +21,8 @@ guncelleme: 2026-11-16
 
 Toprağın **verimli üst tabakasının** akarsu, rüzgâr, deniz ve buzul gibi dış kuvvetlerle aşındırılıp bulunduğu yerden taşınmasıdır.
 
+![Bitki örtüsü olmayan sürülmüş bir tarlada yağmur sularının açtığı dallanan oyuklar; arkada bir çiftlik evi.](gorsel/tyt-biyoloji/15-03-erozyon-tarla.jpg "Çıplak tarlada yağmurdan sonra su erozyonu. Dallanan oyuklar, akan suyun üst toprağı alıp götürdüğü yollardır. Görsel: Lynn Betts, USDA NRCS, kamu malı.")
+
 | Erozyonu artıranlar | Erozyonu önleyenler |
 |---|---|
 | Arazinin eğimli olması | Eğimli arazide **teraslama** (suyun yüzeysel akışını yavaşlatır) |
@@ -28,6 +30,8 @@ Toprağın **verimli üst tabakasının** akarsu, rüzgâr, deniz ve buzul gibi 
 | Tarım alanlarının yanlış kullanılması | Eğimli tarlanın **eğime dik** sürülmesi |
 | Yanlış sulama, yanlış ekim ve toprak işleme | Doğru sulama ve toprak işleme yöntemleri |
 | Orman yangınları, ormanların kesilmesi | Yanan ve çıplak kalan alanların ağaçlandırılması |
+
+![Dik bir yamaca basamak basamak yapılmış yeşil pirinç tarlaları ve çevresinde palmiye ağaçları.](gorsel/tyt-biyoloji/15-03-teraslama.jpg "Teraslama: eğimli yamaç basamaklara bölünmüş. Her basamak suyun yüzeysel akışını yavaşlatır. Görsel: Vyacheslav Argenberg, CC BY 4.0.")
 
 **Sonuçları:**
 
@@ -37,6 +41,8 @@ Toprağın **verimli üst tabakasının** akarsu, rüzgâr, deniz ve buzul gibi 
 - Tarımsal üretimin düşmesi toplumsal sorunları artırır.
 
 Bitki örtüsünün rolü: kökler toprağı tutar, yapraklar yağmur damlalarının hızını keser. Bu yüzden bitki örtüsünün yok edildiği her olay (yangın, aşırı otlatma, orman kesimi) erozyonu hızlandırır.
+
+![Akış şeması: bitki örtüsü yok olur, kökler toprağı tutamaz, erozyon hızlanır, verimli üst toprak kaybolur; bunun sonucunda su ve verim kaybı olur ve çölleşme başlar.](gorsel/tyt-biyoloji/15-03-erozyon-zinciri.svg "Erozyonun neden–sonuç zinciri. Yangın, aşırı otlatma ve orman kesimi hep en üstteki kutudan başlar.")
 
 ## Doğal hayat alanlarının tahribi
 
@@ -59,6 +65,8 @@ Bu etkinlikler tarım arazilerinin, ormanların ve sulak alanların yok olmasın
 
 Ormanlar biyolojik çeşitliliğin en yüksek olduğu alanlardandır.
 
+![Gece yanan bir iğne yapraklı orman; ağaçların arkasında sarı alevler ve yükselen duman.](gorsel/tyt-biyoloji/15-03-orman-yangini.jpg "Yanan bir orman. Alevlerle birlikte hem canlıların yaşam alanı hem de toprağı tutan bitki örtüsü yok oluyor. Görsel: NPS, kamu malı.")
+
 | Doğal nedenler | İnsan kaynaklı nedenler |
 |---|---|
 | Yıldırım düşmesi | İhmal, dikkatsizlik, kaza |
@@ -73,6 +81,8 @@ Türkiye'de orman yangınlarının çok büyük bölümü **yaz aylarında** ç�
 - Fotosentez yapan bitkiler azalır; **oksijen–karbondioksit dengesi bozulur** (atmosferdeki $\text{CO}_2$ artar).
 - Toprağı tutan kökler yok olur; **erozyon** artar.
 - Hava, toprak ve su kirlenir; iklim olumsuz etkilenir.
+
+![Şema: orman yangınının dört sonucu. Yaşam alanı yok olur; bitki azalır ve karbondioksit artar; kökler yok olur ve erozyon artar; hava, toprak ve su kirlenir.](gorsel/tyt-biyoloji/15-03-yangin-sonuclari.svg "Orman yangınının dört sonucu tek bakışta. CO₂ kutusuna dikkat: yangından sonra azalmaz, artar.")
 
 **Önlemler:** insanları bilinçlendirmek, ormanlık alanlarda ateş ve ormana yakın tarlalarda anız yakmamak, yangına müdahale için orman içi yollar ve söndürme hatları oluşturmak, yanan alanları ağaçlandırmak.
 

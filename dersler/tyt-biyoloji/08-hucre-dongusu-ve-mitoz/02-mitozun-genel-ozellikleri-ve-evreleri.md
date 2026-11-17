@@ -31,6 +31,8 @@ Sentromer, kardeş kromatitleri bir arada tutan kromozom bölgesidir. Sentrozom,
 
 Mitotik evre iki bölümdür: **mitoz (karyokinez)**, yani çekirdek bölünmesi, ve ardından **sitokinez**, yani sitoplazma bölünmesi.
 
+![Mitotik evre iki bölümdür: karyokinez (çekirdek bölünmesi) ve sitokinez (sitoplazma bölünmesi). Karyokinez sırasıyla profaz, metafaz, anafaz ve telofazdan oluşur; telofazın ardından sitokinez gelir.](gorsel/tyt-biyoloji/08-02-mitotik-evre.svg "Dersin iskeleti: önce çekirdek dört evrede bölünür, sonra sitoplazma bölünür.")
+
 ## Karyokinezin dört evresi
 
 Sıra: **Profaz → Metafaz → Anafaz → Telofaz**
@@ -42,6 +44,10 @@ Sıra: **Profaz → Metafaz → Anafaz → Telofaz**
 | **Anafaz** | **Kardeş kromatitler ayrılır** ve zıt kutuplara çekilir. Ayrılan her kromatit artık bir **kromozom** sayılır. Kromozomlar kutuplara ulaşınca evre biter. | Kardeşler ayrılır. |
 | **Telofaz** | Çekirdek zarı ve çekirdekçik yeniden oluşur. İğ iplikleri kaybolur. Kromozomlar yeniden kromatine dönüşür. **İki çekirdekli** tek hücre oluşur. | Profazın tersi. |
 
+![Floresan mikroskopta metafazdaki bir hücre: mavi boyalı kromozomlar hücrenin ortasında tek sıra dizilmiş, iki kutuptan gelen yeşil iğ iplikleri onlara uzanıyor.](gorsel/tyt-biyoloji/08-02-metafaz.jpg "Metafaz (floresan mikroskop). Mavi: kromozomlar, yeşil: iğ iplikleri, pembe noktalar: kinetokorlar. Kromozomlar ortada tek sıra. Görsel: Afunguy, kamu malı.")
+
+![Floresan mikroskopta anafazdaki bir hücre: mavi boyalı kromozomlar iki gruba ayrılmış, aralarındaki yeşil iğ iplikleriyle zıt kutuplara çekiliyor.](gorsel/tyt-biyoloji/08-02-anafaz.jpg "Anafaz (floresan mikroskop). Ortadaki tek sıra ikiye ayrıldı; iki mavi küme zıt kutuplara gidiyor. Görsel: Roy van Heesbeen, kamu malı.")
+
 Telofaz, profazın olaylarını tersine çevirir. Birini biliyorsan ötekini de bilirsin:
 
 | | Profaz | Telofaz |
@@ -52,6 +58,8 @@ Telofaz, profazın olaylarını tersine çevirir. Birini biliyorsan ötekini de 
 | Kalıtım maddesi | Kromatin → kromozom | Kromozom → kromatin |
 
 **Karyotip:** Kromozomların büyüklük ve biçimlerine göre çiftler hâlinde dizilerek görüntülenmesidir. Kromozomlar en belirgin hâlde olduğu için **metafazda** çıkarılır; sayı ve şekil bakımından kromozom anormallikleri bu yolla saptanır, bazı kalıtsal hastalıklar erken teşhis edilir.
+
+![Bir insan hücresinin karyotipi: kromozomlar büyükten küçüğe çiftler hâlinde dizilmiş ve numaralanmış.](gorsel/tyt-biyoloji/08-02-karyotip.jpg "Bir insan karyotipi. Kromozomların büyüklük ve biçimlerine göre çift çift dizildiğine dikkat et. Görsel: National Human Genome Research Institute, kamu malı.")
 
 ## Sitokinez
 
@@ -65,6 +73,8 @@ Telofaz, profazın olaylarını tersine çevirir. Birini biliyorsan ötekini de 
 | Sentrozom | Var; iğ iplikleri sentrozomdan oluşur | Yok; iğ ipliklerini mikrotübül organize edici bölge oluşturur |
 
 İğ iplikleri **iki hücre tipinde de** oluşur. Bitkide olmayan iğ ipliği değil, sentrozomdur.
+
+![Sitokinez hayvan hücresinde boğumlanmayla dıştan içe, bitki hücresinde orta lamel oluşumuyla içten dışa gerçekleşir; farkın nedeni hücre duvarıdır.](gorsel/tyt-biyoloji/08-02-sitokinez.svg "Yön zıttır: hayvanda dıştan içe, bitkide içten dışa. Sebep hücre duvarı.")
 
 ## Kromozom sayısı ve DNA miktarı
 

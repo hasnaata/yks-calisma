@@ -31,6 +31,8 @@ Hücre metabolizması sırasında zehirli bir madde olan **hidrojen peroksit** o
 
 $$2\,\text{H}_2\text{O}_2 \xrightarrow{\text{katalaz}} 2\,\text{H}_2\text{O} + \text{O}_2$$
 
+![Katalaz enziminin üç boyutlu şerit modeli; kırmızı sarmallar ve mavi yassı şeritlerden oluşan, dört parçalı büyük bir protein](gorsel/tyt-biyoloji/04-04-katalaz-3b.jpg "Katalaz enziminin 3B modeli. Peroksizomun içinde hidrojen peroksiti suya ve oksijene ayrıştıran protein budur. Görsel: kamu malı.")
+
 Diğer bilgiler:
 
 - Alkol ve ilaç gibi maddelerin zararlı etkisini giderir.
@@ -44,12 +46,16 @@ Diğer bilgiler:
 - Birbirine **dik duran iki sentriyol**den oluşur.
 - Her sentriyol, **dokuz adet üçlü mikrotübül** demetinden yapılmış bir silindirdir.
 
+![Bir sentriyolün üç boyutlu çizimi: üçerli gruplar hâlinde dizilmiş yeşil tüpler bir silindir oluşturuyor](gorsel/tyt-biyoloji/04-04-sentriyol-3b.png "Tek bir sentriyol. Tüpleri üçer üçer say: dokuz tane üçlü mikrotübül demeti bir silindir oluşturur. Görsel: Laboratoires Servier, CC BY-SA 3.0.")
+
 Görevleri:
 
 - Hücre bölünmesinden önce (interfazda) **kendini eşler**.
 - Bölünme sırasında sentriyoller zıt kutuplara giderken **iğ ipliklerini** oluşturur.
 - İğ iplikleri **kromozomların kutuplara çekilmesini** sağlar.
 - **Sil ve kamçı** gibi hareket yapılarının oluşumunda görev alır; bu yapıların dip kısmında bulunur.
+
+![İnterfazda sentrozom kendini eşler, sentriyoller zıt kutuplara gider, iğ iplikleri oluşur ve kromozomlar kutuplara çekilir.](gorsel/tyt-biyoloji/04-04-sentrozom-gorevi.svg "Sentrozomun bölünmedeki işi dört adımda. Sıra önemli: önce eşlenme, en sonda kromozomların çekilmesi.")
 
 | Sentrozom bulunur | Sentrozom bulunmaz |
 |---|---|
@@ -66,6 +72,8 @@ Bazı kanser ilaçları iğ ipliklerinin oluşumunu engeller. Böylece kanser h�
 
 Sitoplazmadaki özel **proteinlerin** birleşerek oluşturduğu ipliksi ve tüpsü yapılar bütünüdür. **Zarsızdır.** Hücreye şekil ve destek verir, organellerin yerini ve hareketini düzenler. Üç elemanı vardır:
 
+![Hücre iskeleti üç elemandan oluşur: en ince olan mikrofilament aktinden, ortadaki ara filament çeşitli proteinlerden, en kalın olan mikrotübül tübülinden yapılır.](gorsel/tyt-biyoloji/04-04-hucre-iskeleti.svg "Üç eleman, üç protein. Soldan sağa kalınlık artar; aktin ve tübülin eşleşmesini ezberle.")
+
 | | Mikrofilament | Ara filament | Mikrotübül |
 |---|---|---|---|
 | Kalınlık | **En ince** | Ortada | **En kalın** |
@@ -74,6 +82,8 @@ Sitoplazmadaki özel **proteinlerin** birleşerek oluşturduğu ipliksi ve tüps
 | Görevleri | Kas hareketi; amipte **yalancı ayak** oluşumu; bölünmede hücrenin **boğumlanması**; ince bağırsakta **mikrovillus** oluşumu | Organellerin yerini **sabitleme**; hücreye şekil verme; dokuların gerginliğini koruma; tırnak, tüy, boynuz, balık pulu gibi yapıların oluşumu | Organellerin hücre içinde **yer değiştirmesi**; **sentrozomun**, iğ ipliklerinin, sil ve kamçının yapısına katılma; bitkide hücre duvarındaki selüloz liflerinin düzenlenmesi |
 
 Kalınlık sırası: mikrofilament < ara filament < mikrotübül.
+
+![Floresan mikroskopta insan hücreleri: hücrelerin içini mavi-yeşil ince bir ağ dolduruyor, kenarlarında kırmızı saçaklar var, çekirdekler mor görünüyor](gorsel/tyt-biyoloji/04-04-iskelet-floresan.jpg "Boyanmış gerçek hücreler. Mavi-yeşil ağ mikrotübüller, kenarlardaki kırmızı saçaklar aktin (mikrofilament), mor yuvarlaklar çekirdek. Görsel: NIH, kamu malı.")
 
 ## Organelleri zar durumuna göre topla
 

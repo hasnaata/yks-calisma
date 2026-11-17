@@ -1,0 +1,11 @@
+flowchart TD
+  A["Omurgasızlarda dolaşım"] --> B["Açık dolaşım<br/>(genellikle)"]
+  A --> C["Kapalı dolaşım<br/>(istisnalar)"]
+  B --> D["Eklem bacaklılar<br/>Yumuşakçaların çoğu"]
+  C --> F["Toprak solucanı<br/>Ahtapot, kalamar"]
+  classDef ana fill:#e8f0fc,stroke:#1f5fbf,color:#1f5fbf
+  classDef acik fill:#fdf3d8,stroke:#8a5a00,color:#8a5a00
+  classDef kapali fill:#fbe9e7,stroke:#b3261e,color:#b3261e
+  class A ana
+  class B,D acik
+  class C,F kapali

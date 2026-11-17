@@ -36,6 +36,8 @@ Eşeysiz üreme, **döllenme olmadan tek bir atadan** yeni bireylerin oluşması
 
 ## Çeşitler: genel tablo
 
+![Eşeysiz üreme altı çeşide ayrılır: bölünme, tomurcuklanma, rejenerasyon, sporla üreme, partenogenez ve vejetatif üreme. Her birinin yanında örnek canlılar yazılıdır.](gorsel/tyt-biyoloji/09-01-cesitler.svg "Altı çeşit, her birine birer anahtar canlı. Önce bu iskeleti ezberle, tablo ayrıntıyı verir.")
+
 | Çeşit | Örnek canlılar |
 |---|---|
 | Bölünerek üreme | Bakteri, arke, amip, öglena, paramesyum |
@@ -65,6 +67,10 @@ Oluşan iki hücrenin **kalıtsal yapısı aynıdır**; ancak sitoplazma miktar�
 - Ana canlının üzerinde mitozla bir çıkıntı (tomurcuk) oluşur ve gelişerek yeni bireye dönüşür.
 - Tomurcuk ana canlıdan **ayrılıp bağımsız** yaşayabilir ya da bağlı kalarak **koloni** oluşturur.
 - Tek hücrelilerde **bira mayası**, çok hücrelilerde **hidra** ve **mercan** örnektir.
+
+![Elektron mikroskobunda bira mayası hücreleri; bazı hücrelerin üzerinde küçük yuvarlak tomurcuklar var.](gorsel/tyt-biyoloji/09-01-maya-tomurcuk.jpg "Bira mayası (elektron mikroskobu). Büyük hücrelerin üzerindeki küçük toplar tomurcuktur; halka biçimli izler ise kopan tomurcukların yeridir. Görsel: Mogana Das Murtey ve Patchamuthu Ramasamy, CC BY 3.0.")
+
+![Koyu zeminde bir hidra; gövdesinin yanından kolları belirmiş küçük bir yavru hidra çıkıyor.](gorsel/tyt-biyoloji/09-01-hidra-tomurcuk.jpg "Tomurcuklanan hidra. Yandaki küçük birey ana canlının gövdesinden çıkıyor; kolları bile oluşmuş. Görsel: B. A. Segura Torres ve P. Vieto Bonilla, CC BY-SA 4.0.")
 
 ## Rejenerasyon (yenilenme)
 
@@ -100,9 +106,13 @@ Rejenerasyonda mitoz, büyüme ve farklılaşma görülür; kalıtsal çeşitlil
 - Kraliçe de işçi arı da döllenmiş yumurtadan gelişir; aralarındaki fark larvanın **beslenmesinden** kaynaklanır ve kalıtsal değildir.
 - Bal arısında $2n = 32$'dir: kraliçe ve işçi 32, erkek arı 16 kromozomludur. Yumurta da sperm de 16 kromozom taşır.
 
+![Kraliçe arı mayozla n = 16 kromozomlu yumurta üretir. Yumurta döllenmezse erkek arı (n) olur ve mitozla sperm üretir. Döllenirse 2n olur; larva arı sütüyle beslenirse kraliçe, polenle beslenirse işçi arı gelişir.](gorsel/tyt-biyoloji/09-01-bal-arisi.svg "Yumurtanın iki yolu: döllenmezse erkek arı (n), döllenirse dişi (2n). Mayoz ve mitozun nerede olduğuna dikkat et.")
+
 ## Vejetatif üreme
 
 Gelişmiş bitkilerin kök, gövde, dal ya da yaprak gibi kısımlarından ana bitkiyle aynı kalıtsal yapıda yeni bitkinin oluşmasıdır. Temeli mitoz ve yenilenmedir.
+
+![Çakıllı zeminde çilek bitkileri; aralarında toprak yüzeyinde uzanan ince kırmızı sürünücü gövdeler görülüyor.](gorsel/tyt-biyoloji/09-01-cilek-stolon.jpg "Çilekte sürünücü gövde (stolon). Kırmızı ipliklerin ucunda köklenen her yeni bitki ana bitkinin kalıtsal kopyasıdır. Görsel: Gilles Ayotte, CC BY-SA 4.0.")
 
 | Yöntem | Nasıl olur? | Örnek |
 |---|---|---|

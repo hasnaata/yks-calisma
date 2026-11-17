@@ -39,6 +39,8 @@ Bir nükleotit üç kısımdan oluşur:
 | **Beş karbonlu şeker (pentoz)** | **Riboz** (RNA'da), **deoksiriboz** (DNA'da) |
 | **Fosfat grubu** | Bütün nükleotitlerde aynıdır |
 
+![Adenin, riboz ve fosfattan oluşan bir RNA nükleotidinin üç boyutlu top-çubuk modeli: sağda çift halkalı baz, ortada beşgen şeker halkası, solda fosfat grubu.](gorsel/tyt-biyoloji/03-06-nukleotit-3b.png "Bir RNA nükleotidi (adenin nükleotit). Sağdaki çift halka adenin, ortadaki halka riboz, soldaki turuncu atom fosfatın fosforu. Mavi: azot, kırmızı: oksijen. Görsel: Jynto, CC0.")
+
 Bağlar:
 
 | Nerede | Bağ |
@@ -52,6 +54,8 @@ Glikozit ve ester bağları kurulurken **su açığa çıkar** (dehidrasyon). Hi
 
 Baz + şeker = **nükleozit**. Nükleozit + fosfat = **nükleotit**.
 
+![Azotlu baz glikozit bağıyla pentoz şekere bağlanır, ikisi birlikte nükleozittir; şeker ester bağıyla fosfata bağlanınca nükleotit oluşur.](gorsel/tyt-biyoloji/03-06-nukleotit-yapisi.svg "Şeker ortadadır: üstünde baz, altında fosfat. İçteki kutu nükleozit, dıştaki kutu nükleotit.")
+
 Nükleotitler taşıdıkları **baza göre adlandırılır** (adenin nükleotit, guanin nükleotit…), DNA'ya mı RNA'ya mı ait oldukları ise **şekerlerine** bakılarak anlaşılır.
 
 - A, G ve C her iki nükleik asitte de bulunur. **Timin yalnızca DNA'da**, **urasil yalnızca RNA'da** bulunur.
@@ -61,9 +65,14 @@ Nükleotitler taşıdıkları **baza göre adlandırılır** (adenin nükleotit,
 
 - **Bütün canlılarda** bulunur. Prokaryotlarda sitoplazmadadır ve **halkasaldır**; ökaryotlarda çekirdektedir ve **doğrusaldır**. Mitokondri ve plastitlerin de kendi DNA'ları vardır.
 - **Çift zincirli** ve sarmal yapıdadır. Şekeri deoksiribozdur.
+
+![DNA çift sarmalının üç boyutlu modeli: dışta şeker ve fosfatlardan oluşan iki zincir sarmal yapar, içte bazlar merdiven basamakları gibi karşılıklı dizilir.](gorsel/tyt-biyoloji/03-06-dna-3b.png "DNA çift sarmalı. Dışta dolanan iki zincir şeker ve fosfattan oluşur (turuncu: fosfor); bazlar içte, basamak gibi karşı karşıyadır. Görsel: Brian0918, kamu malı.")
+
 - Bir zincirdeki pürinin karşısına öbür zincirde hep bir pirimidin gelir:
 
 $$\text{A} = \text{T} \ (\text{2 hidrojen bağı}) \qquad \text{G} \equiv \text{C} \ (\text{3 hidrojen bağı})$$
+
+![Üstte adenin ile timin arasında iki, altta guanin ile sitozin arasında üç kesikli çizgiyle gösterilmiş hidrojen bağı.](gorsel/tyt-biyoloji/03-06-baz-ciftleri.png "Kesikli çizgileri say: adenin–timin arasında 2, guanin–sitozin arasında 3 hidrojen bağı. Çift halkalı bazın karşısında hep tek halkalı baz var. Görsel: Isilanes ve çevirenler, kamu malı.")
 
 - Zincirler birbirinin **tamamlayıcısıdır**: birinin baz dizisi biliniyorsa öbürü yazılabilir. Örnek: bir zincir `ATGCCA` ise karşısı `TACGGT`'dir.
 - Hücre bölünmeden önce DNA **kendini eşler (replikasyon)**. Böylece kalıtsal bilgi yavru hücrelere eşit aktarılır.
@@ -101,6 +110,8 @@ Guanin–sitozin çiftinde üç bağ olduğu için **G + C oranı yüksek olan D
 | **mRNA** (mesajcı) | DNA'daki şifreyi ribozoma taşır | Şifre, proteindeki amino asitlerin çeşidini, sayısını ve dizilişini belirler. DNA'nın yalnızca bir zinciri kalıp olarak kullanılır; DNA'daki A'nın karşısına mRNA'da U gelir |
 | **tRNA** (taşıyıcı) | Sitoplazmadaki amino asitleri ribozoma taşır | Tek zincir kendi üzerine katlanır; katlanan bölgeler hidrojen bağlarıyla tutulur. Her tRNA kendine özgü amino asidi taşır, bu yüzden en az 20 çeşit tRNA vardır |
 | **rRNA** (ribozomal) | Proteinlerle birlikte ribozomun yapısını oluşturur | Çekirdekçikte sentezlenir |
+
+![Bir tRNA molekülünün üç boyutlu modeli: tek bir zincir kendi üzerine katlanarak L biçimini almış, katlanan bölgelerde bazlar karşılıklı gelmiş.](gorsel/tyt-biyoloji/03-06-trna-3b.jpg "tRNA tek zincirdir ama kendi üzerine katlanır. Renkler aynı zincirin farklı bölgeleridir; karşı karşıya gelen bazları hidrojen bağları tutar. Görsel: Vossman, CC BY-SA 3.0.")
 
 ## DNA ile RNA
 

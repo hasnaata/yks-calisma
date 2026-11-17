@@ -36,6 +36,8 @@ Bir problemi çözmek için yürütülen; **mantığa, ölçmeye, gözleme ve de
 | **Tahmin** | Hipotezden çıkarılan mantıklı sonuç ("Eğer … ise … olur") | "Eğer neden azot eksikliğiyse azotlu gübre verilen bitkilerde sararma azalır." |
 | **Gerçek** | Herkesçe doğruluğu kabul edilen, aynı koşullarda aynı sonucu veren gözlem | — |
 
+![Bahçede genç bir gül fidanı; üstteki yaprakları sararmış, alttaki yaprakları yeşil kalmış.](gorsel/tyt-biyoloji/05-05-sararan-yaprak.jpg "Bilimsel çalışma böyle bir gözlemle başlar: yapraklar sararmış. Sıradaki adım soruyu sormaktır: neden? Görsel: Natalka Ukraine, CC BY 4.0 (kırpıldı).")
+
 ### Nitel ve nicel gözlem
 
 | | Nitel gözlem | Nicel gözlem |
@@ -74,7 +76,11 @@ Bir olayı etkileyebilecek etkenlerden **yalnızca biri değiştirilip** diğerl
 | Su, ışık, sıcaklık, toprak | Aynı | Aynı |
 | Ölçülen | Bitki boyu | Bitki boyu |
 
+![Özdeş fideler deney grubu (gübre verilir) ve kontrol grubu (gübre verilmez) olarak ikiye ayrılır; su, ışık, sıcaklık ve toprak iki grupta aynıdır; bitki boyu ölçülür ve boy farkı gübrenin etkisini gösterir.](gorsel/tyt-biyoloji/05-05-kontrollu-deney.svg "İki grup arasındaki tek fark gübredir; su, ışık, sıcaklık ve toprak aynıdır. Değiştirilen: gübre, ölçülen: bitki boyu.")
+
 Burada bağımsız değişken **gübre**, bağımlı değişken **bitki boyu**dur. Su, ışık, sıcaklık ve toprak sabit tutulan değişkenlerdir. İki grubun boyları arasındaki fark, yalnızca gübreyle açıklanabilir; kontrol grubunun işi budur.
+
+![Alt alta iki uzun saksı: üstteki saksıda gübre verilmiş üç domates fidesi bol yapraklı ve canlı, alttaki saksıda gübre verilmemiş fideler seyrek yapraklı ve cılız, biri kurumuş; arkalarında boy ölçmek için cetvel var.](gorsel/tyt-biyoloji/05-05-gubre-deneyi.jpg "Gerçek bir deney: üstte gübre verilen, altta verilmeyen domates fideleri. Gübresiz fideler cılız kalmış, biri kurumuş. Arkadaki cetvele dikkat et; boy ölçülerek nicel gözlem yapılıyor. Görsel: SuSanA Secretariat, CC BY 2.0 (kırpıldı, alt alta dizildi).")
 
 ## Basamaklar
 
@@ -93,6 +99,8 @@ Bundan sonra yol ikiye ayrılır:
 | **Desteklemiyorsa** | Hipotez gözden geçirilir ya da terk edilir, **yeni hipotez** kurulur |
 
 Hipotezin çürümesi başarısızlık değildir; yöntemin olağan bir parçasıdır.
+
+![Bilimsel yöntemin akışı: gözlem ve veri, problem, hipotez, tahmin, kontrollü deney, sonuçların değerlendirilmesi. Sonuçlar hipotezi desteklerse deneyler tekrarlanır ve hipotez gerçek olur; desteklemezse yeni hipotez kurulur ve hipotez basamağına dönülür.](gorsel/tyt-biyoloji/05-05-basamaklar.svg "Altı basamağı sırayla izle. Sonuç hipotezi desteklemezse ok yeniden hipoteze döner.")
 
 ## ÖSYM tuzakları
 
