@@ -1,0 +1,20 @@
+flowchart TD
+  A[Şimdiki yaşlara harf ver]
+  B[Herkese aynı yılı ekle]
+  C[Cümleyi denkleme çevir]
+  F{Doğmamış kişi var mı?}
+  G[Onu ayrı hesapla]
+  H[İstenen çokluğu yaz]
+  A --> B --> C --> F
+  F -- Evet --> G --> H
+  F -- Hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,C mavi
+  class F sari
+  class G kirmizi
+  class H yesil

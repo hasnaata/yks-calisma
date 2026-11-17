@@ -1,0 +1,22 @@
+flowchart TD
+  A[Verileni ve isteneni yaz]
+  B{Hangi strateji?}
+  C[Tablo ya da liste yap]
+  D[Örüntüyü bul]
+  E[Geriye doğru çalış]
+  F[Cevabı soruda kontrol et]
+  A --> B
+  B -- Tam sayı, en çok/en az --> C
+  B -- Tekrar eden durum --> D
+  B -- Sonuç verilmiş --> E
+  C --> F
+  D --> F
+  E --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class C,D,E mavi
+  class B sari
+  class F yesil

@@ -1,0 +1,21 @@
+flowchart TD
+  T[Tanımsız terimler]
+  D[Tanımlar]
+  A[Aksiyomlar]
+  H[Hipotez]
+  I[İspat]
+  M[Teorem]
+  T -- "kullanılarak" --> D
+  D --> I
+  A -- "ispatsız kabul" --> I
+  H -- "doğru kabul" --> I
+  I --> M
+  M -- "sonraki ispatlarda" --> I
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class T,D mavi
+  class A,H sari
+  class I kok
+  class M yesil

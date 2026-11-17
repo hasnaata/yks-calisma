@@ -1,0 +1,25 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# Soru 10: köşesi A = −1'de olan 3 × 1 dikdörtgen; A merkezli, |AC| yarıçaplı yay doğruyu P'de keser (P = −1 + √10).
+fig, ax = sekil(6, 3.2)
+ax.set_aspect("equal"); ax.axis("off")
+ax.annotate("", xy=(3.7, 0), xytext=(-2.6, 0), arrowprops=dict(arrowstyle="<->", color=SOLUK, lw=1.4))
+for t in range(-2, 4):
+    ax.plot([t, t], [-0.06, 0.06], color=SOLUK, lw=1.2)
+    ax.text(t, -0.16, str(t).replace("-", "−"), ha="center", va="top", fontsize=13)
+ax.add_patch(patches.Rectangle((-1, 0), 3, 1, facecolor=MAVI_ACIK, edgecolor=MAVI, lw=2))
+ax.plot([1.85, 1.85, 2], [0, 0.15, 0.15], color=MAVI, lw=1.2)
+ax.plot([-1, 2], [0, 1], color=KIRMIZI, lw=2.2)
+r = np.sqrt(10)
+t = np.linspace(np.arctan2(1, 3), 0, 60)
+ax.plot(-1 + r * np.cos(t), r * np.sin(t), color=KIRMIZI, lw=1.6, ls="--")
+ax.plot(-1, 0, "o", color=YAZI, markersize=7, zorder=6)
+ax.plot(-1 + r, 0, "o", color=KIRMIZI, markersize=8, zorder=6)
+ax.text(-1.08, 0.12, "A", ha="right", va="bottom", fontsize=14)
+ax.text(2.0, 1.08, "C", ha="center", va="bottom", fontsize=14)
+ax.text(-1 + r + 0.08, 0.12, "P", ha="left", va="bottom", color=KIRMIZI, fontsize=14, fontweight="bold")
+ax.text(1.9, 0.5, "1", ha="right", va="center", color=MAVI, fontsize=13)
+ax.text(0.5, -0.5, "3 birim", ha="center", va="top", color=MAVI, fontsize=13)
+ax.set_xlim(-2.7, 3.8); ax.set_ylim(-0.85, 1.45)
+kaydet(fig, __file__)

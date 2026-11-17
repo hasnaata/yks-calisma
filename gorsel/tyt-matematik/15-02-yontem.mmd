@@ -1,0 +1,24 @@
+flowchart TD
+  A[Denklemi sıfıra eşitle]
+  B[c = 0 mı?]
+  C[x parantezine al]
+  D[b = 0 mı?]
+  E["x² = k, ± karekök al"]
+  F[Çarpanlara ayrılıyor mu?]
+  G[Her çarpanı sıfıra eşitle]
+  H[Tam kareye tamamla]
+  A --> B
+  B -- Evet --> C
+  B -- Hayır --> D
+  D -- Evet --> E
+  D -- Hayır --> F
+  F -- Evet --> G
+  F -- Hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,D,F mavi
+  class C,E,G yesil
+  class H sari

@@ -1,0 +1,23 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# İki kümeli Venn şeması: dört bölge a, b, c, d ve evrensel küme E.
+fig, ax = sekil(5.8, 3.9)
+ax.axis("off"); ax.set_aspect("equal"); ax.set_xlim(-0.2, 10.2); ax.set_ylim(-0.2, 6.4)
+ax.add_patch(patches.Rectangle((0, 0), 10, 6.2, facecolor=SARI_ACIK, edgecolor=SARI, lw=1.6))
+ax.add_patch(patches.Ellipse((3.7, 3.2), 4.8, 4.2, facecolor=MAVI_ACIK, edgecolor="none"))
+ax.add_patch(patches.Ellipse((6.3, 3.2), 4.8, 4.2, facecolor=YESIL_ACIK, edgecolor="none", alpha=0.7))
+ax.add_patch(patches.Ellipse((3.7, 3.2), 4.8, 4.2, facecolor="none", edgecolor=MAVI, lw=2))
+ax.add_patch(patches.Ellipse((6.3, 3.2), 4.8, 4.2, facecolor="none", edgecolor=YESIL, lw=2))
+ax.text(9.4, 5.55, "E", fontsize=17, fontweight="bold", color=SARI)
+ax.text(1.3, 5.2, "A", fontsize=17, fontweight="bold", color=MAVI)
+ax.text(8.4, 5.2, "B", fontsize=17, fontweight="bold", color=YESIL)
+ax.text(2.6, 3.2, "a", fontsize=24, ha="center", va="center", color=MAVI, fontweight="bold")
+ax.text(5.0, 3.2, "b", fontsize=24, ha="center", va="center", color=YAZI, fontweight="bold")
+ax.text(7.4, 3.2, "c", fontsize=24, ha="center", va="center", color=YESIL, fontweight="bold")
+ax.text(9.2, 0.6, "d", fontsize=24, ha="center", va="center", color=SARI, fontweight="bold")
+ax.text(2.6, 2.35, "yalnız A", fontsize=11.5, ha="center", color=SOLUK)
+ax.text(5.0, 2.35, "ikisi de", fontsize=11.5, ha="center", color=SOLUK)
+ax.text(7.4, 2.35, "yalnız B", fontsize=11.5, ha="center", color=SOLUK)
+ax.text(7.75, 0.5, "hiçbiri", fontsize=11.5, ha="center", color=SOLUK)
+kaydet(fig, __file__)

@@ -1,7 +1,7 @@
 # İçerik Kataloğu (index.md)
 
 Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alıştırma hazır, ⬜ = sırada.
-**Toplam: 52/740 ders hazır.** Son güncelleme: 2026-11-17
+**Toplam: 159/740 ders hazır.** Son güncelleme: 2026-11-17
 
 ## TYT Biyoloji (50/50)
 
@@ -364,138 +364,138 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ⬜ Yaygın Günlük Hayat Kimyasalları — `dersler/tyt-kimya/09-kimya-her-yerde/01-yaygin-gunluk-hayat-kimyasallari.md`
   - ⬜ Kozmetikler-İlaçlar-Gıdalar — `dersler/tyt-kimya/09-kimya-her-yerde/02-kozmetikler-ilaclar-gidalar.md`
 
-## TYT Matematik (2/128)
+## TYT Matematik (109/128)
 
 - **1. Sayı Kümeleri**
-  - ⬜ Sayı Kümeleri — `dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.md`
-  - ⬜ Temel İşlemler — `dersler/tyt-matematik/01-sayi-kumeleri/02-temel-islemler.md`
-  - ⬜ Tek ve Çift Sayılar — `dersler/tyt-matematik/01-sayi-kumeleri/03-tek-ve-cift-sayilar.md`
-  - ⬜ Pozitif ve Negatif Sayılar — `dersler/tyt-matematik/01-sayi-kumeleri/04-pozitif-ve-negatif-sayilar.md`
-  - ⬜ Ardışık Sayılar — `dersler/tyt-matematik/01-sayi-kumeleri/05-ardisik-sayilar.md`
-  - ⬜ Sayı Basamakları — `dersler/tyt-matematik/01-sayi-kumeleri/06-sayi-basamaklari.md`
-  - ⬜ Asal ve Aralarında Asal Sayılar — `dersler/tyt-matematik/01-sayi-kumeleri/07-asal-ve-aralarinda-asal-sayilar.md`
-  - ⬜ Ondalık ve Devirli Ondalık Sayılar — `dersler/tyt-matematik/01-sayi-kumeleri/08-ondalik-ve-devirli-ondalik-sayilar.md`
-  - ⬜ Rasyonel Sayılarda İşlemler — `dersler/tyt-matematik/01-sayi-kumeleri/09-rasyonel-sayilarda-islemler.md`
+  - ✅ [Sayı Kümeleri](dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.alistirma.md)
+  - ✅ [Temel İşlemler](dersler/tyt-matematik/01-sayi-kumeleri/02-temel-islemler.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/02-temel-islemler.alistirma.md)
+  - ✅ [Tek ve Çift Sayılar](dersler/tyt-matematik/01-sayi-kumeleri/03-tek-ve-cift-sayilar.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/03-tek-ve-cift-sayilar.alistirma.md)
+  - ✅ [Pozitif ve Negatif Sayılar](dersler/tyt-matematik/01-sayi-kumeleri/04-pozitif-ve-negatif-sayilar.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/04-pozitif-ve-negatif-sayilar.alistirma.md)
+  - ✅ [Ardışık Sayılar](dersler/tyt-matematik/01-sayi-kumeleri/05-ardisik-sayilar.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/05-ardisik-sayilar.alistirma.md)
+  - ✅ [Sayı Basamakları](dersler/tyt-matematik/01-sayi-kumeleri/06-sayi-basamaklari.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/06-sayi-basamaklari.alistirma.md)
+  - ✅ [Asal ve Aralarında Asal Sayılar](dersler/tyt-matematik/01-sayi-kumeleri/07-asal-ve-aralarinda-asal-sayilar.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/07-asal-ve-aralarinda-asal-sayilar.alistirma.md)
+  - ✅ [Ondalık ve Devirli Ondalık Sayılar](dersler/tyt-matematik/01-sayi-kumeleri/08-ondalik-ve-devirli-ondalik-sayilar.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/08-ondalik-ve-devirli-ondalik-sayilar.alistirma.md)
+  - ✅ [Rasyonel Sayılarda İşlemler](dersler/tyt-matematik/01-sayi-kumeleri/09-rasyonel-sayilarda-islemler.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/09-rasyonel-sayilarda-islemler.alistirma.md)
 - **2. Bölünebilme Kuralları**
-  - ⬜ Tamsayılarda Kalanlı Bölme İşlemi — `dersler/tyt-matematik/02-bolunebilme-kurallari/01-tamsayilarda-kalanli-bolme-islemi.md`
-  - ⬜ Bölünebilme Kuralları 1 — `dersler/tyt-matematik/02-bolunebilme-kurallari/02-bolunebilme-kurallari-1.md`
-  - ⬜ Bölünebilme Kuralları 2 — `dersler/tyt-matematik/02-bolunebilme-kurallari/03-bolunebilme-kurallari-2.md`
-  - ⬜ Asal Çarpanlar — `dersler/tyt-matematik/02-bolunebilme-kurallari/04-asal-carpanlar.md`
-  - ⬜ EBOB-EKOK Kavramı ve Özellikleri — `dersler/tyt-matematik/02-bolunebilme-kurallari/05-ebob-ekok-kavrami-ve-ozellikleri.md`
-  - ⬜ EBOB-EKOK Problemleri — `dersler/tyt-matematik/02-bolunebilme-kurallari/06-ebob-ekok-problemleri.md`
-  - ⬜ Periyodik Problemler — `dersler/tyt-matematik/02-bolunebilme-kurallari/07-periyodik-problemler.md`
+  - ✅ [Tamsayılarda Kalanlı Bölme İşlemi](dersler/tyt-matematik/02-bolunebilme-kurallari/01-tamsayilarda-kalanli-bolme-islemi.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/01-tamsayilarda-kalanli-bolme-islemi.alistirma.md)
+  - ✅ [Bölünebilme Kuralları 1](dersler/tyt-matematik/02-bolunebilme-kurallari/02-bolunebilme-kurallari-1.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/02-bolunebilme-kurallari-1.alistirma.md)
+  - ✅ [Bölünebilme Kuralları 2](dersler/tyt-matematik/02-bolunebilme-kurallari/03-bolunebilme-kurallari-2.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/03-bolunebilme-kurallari-2.alistirma.md)
+  - ✅ [Asal Çarpanlar](dersler/tyt-matematik/02-bolunebilme-kurallari/04-asal-carpanlar.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/04-asal-carpanlar.alistirma.md)
+  - ✅ [EBOB-EKOK Kavramı ve Özellikleri](dersler/tyt-matematik/02-bolunebilme-kurallari/05-ebob-ekok-kavrami-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/05-ebob-ekok-kavrami-ve-ozellikleri.alistirma.md)
+  - ✅ [EBOB-EKOK Problemleri](dersler/tyt-matematik/02-bolunebilme-kurallari/06-ebob-ekok-problemleri.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/06-ebob-ekok-problemleri.alistirma.md)
+  - ✅ [Periyodik Problemler](dersler/tyt-matematik/02-bolunebilme-kurallari/07-periyodik-problemler.md) · [alıştırma](dersler/tyt-matematik/02-bolunebilme-kurallari/07-periyodik-problemler.alistirma.md)
 - **3. Birinci Dereceden Denklemler ve Eşitsizlikler**
   - ✅ [Aralık Kavramı](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/01-aralik-kavrami.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/01-aralik-kavrami.alistirma.md)
-  - ⬜ Birinci Dereceden Bir Bilinmeyenli Denklemler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/02-birinci-dereceden-bir-bilinmeyenli-denklemler.md`
-  - ⬜ Basit Eşitsizlikler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/03-basit-esitsizlikler.md`
-  - ⬜ Birinci Dereceden İki Bilinmeyenli Denklemler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/04-birinci-dereceden-iki-bilinmeyenli-denklemler.md`
-  - ⬜ Birinci Dereceden İki Bilinmeyenli Eşitsizlikler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/05-birinci-dereceden-iki-bilinmeyenli-esitsizlikler.md`
-  - ⬜ Birinci Dereceden İki Bilinmeyenli Eşitsizlik Sistemleri — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/06-birinci-dereceden-iki-bilinmeyenli-esitsizlik-sistemleri.md`
-  - ⬜ Mutlak Değer Kavramı ve Özellikleri — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/07-mutlak-deger-kavrami-ve-ozellikleri.md`
-  - ⬜ Mutlak Değerli Denklemler ve Eşitsizlikler — `dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/08-mutlak-degerli-denklemler-ve-esitsizlikler.md`
+  - ✅ [Birinci Dereceden Bir Bilinmeyenli Denklemler](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/02-birinci-dereceden-bir-bilinmeyenli-denklemler.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/02-birinci-dereceden-bir-bilinmeyenli-denklemler.alistirma.md)
+  - ✅ [Basit Eşitsizlikler](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/03-basit-esitsizlikler.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/03-basit-esitsizlikler.alistirma.md)
+  - ✅ [Birinci Dereceden İki Bilinmeyenli Denklemler](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/04-birinci-dereceden-iki-bilinmeyenli-denklemler.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/04-birinci-dereceden-iki-bilinmeyenli-denklemler.alistirma.md)
+  - ✅ [Birinci Dereceden İki Bilinmeyenli Eşitsizlikler](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/05-birinci-dereceden-iki-bilinmeyenli-esitsizlikler.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/05-birinci-dereceden-iki-bilinmeyenli-esitsizlikler.alistirma.md)
+  - ✅ [Birinci Dereceden İki Bilinmeyenli Eşitsizlik Sistemleri](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/06-birinci-dereceden-iki-bilinmeyenli-esitsizlik-sistemleri.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/06-birinci-dereceden-iki-bilinmeyenli-esitsizlik-sistemleri.alistirma.md)
+  - ✅ [Mutlak Değer Kavramı ve Özellikleri](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/07-mutlak-deger-kavrami-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/07-mutlak-deger-kavrami-ve-ozellikleri.alistirma.md)
+  - ✅ [Mutlak Değerli Denklemler ve Eşitsizlikler](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/08-mutlak-degerli-denklemler-ve-esitsizlikler.md) · [alıştırma](dersler/tyt-matematik/03-birinci-dereceden-denklemler-ve-esitsizlikler/08-mutlak-degerli-denklemler-ve-esitsizlikler.alistirma.md)
 - **4. Üslü İfadeler ve Denklemler**
-  - ⬜ Üslü İfadeler ve Özellikleri — `dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/01-uslu-ifadeler-ve-ozellikleri.md`
-  - ⬜ Üslü İfade İçeren Denklem ve Eşitsizlikler — `dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/02-uslu-ifade-iceren-denklem-ve-esitsizlikler.md`
-  - ⬜ Köklü İfadeler ve Özellikleri — `dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/03-koklu-ifadeler-ve-ozellikleri.md`
-  - ⬜ Köklü İfadeleri İçeren Denklem ve Eşitsizlikler — `dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/04-koklu-ifadeleri-iceren-denklem-ve-esitsizlikler.md`
+  - ✅ [Üslü İfadeler ve Özellikleri](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/01-uslu-ifadeler-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/01-uslu-ifadeler-ve-ozellikleri.alistirma.md)
+  - ✅ [Üslü İfade İçeren Denklem ve Eşitsizlikler](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/02-uslu-ifade-iceren-denklem-ve-esitsizlikler.md) · [alıştırma](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/02-uslu-ifade-iceren-denklem-ve-esitsizlikler.alistirma.md)
+  - ✅ [Köklü İfadeler ve Özellikleri](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/03-koklu-ifadeler-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/03-koklu-ifadeler-ve-ozellikleri.alistirma.md)
+  - ✅ [Köklü İfadeleri İçeren Denklem ve Eşitsizlikler](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/04-koklu-ifadeleri-iceren-denklem-ve-esitsizlikler.md) · [alıştırma](dersler/tyt-matematik/04-uslu-ifadeler-ve-denklemler/04-koklu-ifadeleri-iceren-denklem-ve-esitsizlikler.alistirma.md)
 - **5. Denklemler ve Eşitsizlikler ile İlgili Uygulamalar**
-  - ⬜ Oran-Orantı Kavramları ve Özellikleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/01-oran-oranti-kavramlari-ve-ozellikleri.md`
-  - ⬜ Oran-Orantı Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/02-oran-oranti-problemleri.md`
-  - ⬜ Sayı Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/03-sayi-problemleri.md`
-  - ⬜ Kesir Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/04-kesir-problemleri.md`
-  - ⬜ Yaş Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/05-yas-problemleri.md`
-  - ⬜ İşçi Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/06-isci-problemleri.md`
-  - ⬜ Yüzde Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/07-yuzde-problemleri.md`
-  - ⬜ Kar-Zarar Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/08-kar-zarar-problemleri.md`
-  - ⬜ Karışım Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/09-karisim-problemleri.md`
-  - ⬜ Hareket Problemleri — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/10-hareket-problemleri.md`
-  - ⬜ Rutin Olmayan Problemler — `dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/11-rutin-olmayan-problemler.md`
+  - ✅ [Oran-Orantı Kavramları ve Özellikleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/01-oran-oranti-kavramlari-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/01-oran-oranti-kavramlari-ve-ozellikleri.alistirma.md)
+  - ✅ [Oran-Orantı Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/02-oran-oranti-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/02-oran-oranti-problemleri.alistirma.md)
+  - ✅ [Sayı Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/03-sayi-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/03-sayi-problemleri.alistirma.md)
+  - ✅ [Kesir Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/04-kesir-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/04-kesir-problemleri.alistirma.md)
+  - ✅ [Yaş Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/05-yas-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/05-yas-problemleri.alistirma.md)
+  - ✅ [İşçi Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/06-isci-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/06-isci-problemleri.alistirma.md)
+  - ✅ [Yüzde Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/07-yuzde-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/07-yuzde-problemleri.alistirma.md)
+  - ✅ [Kar-Zarar Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/08-kar-zarar-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/08-kar-zarar-problemleri.alistirma.md)
+  - ✅ [Karışım Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/09-karisim-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/09-karisim-problemleri.alistirma.md)
+  - ✅ [Hareket Problemleri](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/10-hareket-problemleri.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/10-hareket-problemleri.alistirma.md)
+  - ✅ [Rutin Olmayan Problemler](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/11-rutin-olmayan-problemler.md) · [alıştırma](dersler/tyt-matematik/05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar/11-rutin-olmayan-problemler.alistirma.md)
 - **6. Önermeler ve Bileşik Önermeler**
-  - ⬜ Önermeler — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/01-onermeler.md`
-  - ⬜ Bileşik Önermeler — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/02-bilesik-onermeler.md`
-  - ⬜ Koşullu Önerme — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/03-kosullu-onerme.md`
-  - ⬜ İki Yönlü Koşullu Önerme — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/04-iki-yonlu-kosullu-onerme.md`
-  - ⬜ Niceleyiciler — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/05-niceleyiciler.md`
-  - ⬜ Tanım, Aksiyom, Teorem ve İspat Kavramları — `dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/06-tanim-aksiyom-teorem-ve-ispat-kavramlari.md`
+  - ✅ [Önermeler](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/01-onermeler.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/01-onermeler.alistirma.md)
+  - ✅ [Bileşik Önermeler](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/02-bilesik-onermeler.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/02-bilesik-onermeler.alistirma.md)
+  - ✅ [Koşullu Önerme](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/03-kosullu-onerme.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/03-kosullu-onerme.alistirma.md)
+  - ✅ [İki Yönlü Koşullu Önerme](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/04-iki-yonlu-kosullu-onerme.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/04-iki-yonlu-kosullu-onerme.alistirma.md)
+  - ✅ [Niceleyiciler](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/05-niceleyiciler.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/05-niceleyiciler.alistirma.md)
+  - ✅ [Tanım, Aksiyom, Teorem ve İspat Kavramları](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/06-tanim-aksiyom-teorem-ve-ispat-kavramlari.md) · [alıştırma](dersler/tyt-matematik/06-onermeler-ve-bilesik-onermeler/06-tanim-aksiyom-teorem-ve-ispat-kavramlari.alistirma.md)
 - **7. Kümelerde Temel Kavramlar**
-  - ⬜ Kümelerde Temel Kavramlar — `dersler/tyt-matematik/07-kumelerde-temel-kavramlar/01-kumelerde-temel-kavramlar.md`
-  - ⬜ Alt Küme — `dersler/tyt-matematik/07-kumelerde-temel-kavramlar/02-alt-kume.md`
+  - ✅ [Kümelerde Temel Kavramlar](dersler/tyt-matematik/07-kumelerde-temel-kavramlar/01-kumelerde-temel-kavramlar.md) · [alıştırma](dersler/tyt-matematik/07-kumelerde-temel-kavramlar/01-kumelerde-temel-kavramlar.alistirma.md)
+  - ✅ [Alt Küme](dersler/tyt-matematik/07-kumelerde-temel-kavramlar/02-alt-kume.md) · [alıştırma](dersler/tyt-matematik/07-kumelerde-temel-kavramlar/02-alt-kume.alistirma.md)
 - **8. Kümelerde İşlemler**
-  - ⬜ Kümelerde Kesişim ve Birleşim İşlemleri — `dersler/tyt-matematik/08-kumelerde-islemler/01-kumelerde-kesisim-ve-birlesim-islemleri.md`
-  - ⬜ Kümelerde Fark ve Tümleme İşlemleri — `dersler/tyt-matematik/08-kumelerde-islemler/02-kumelerde-fark-ve-tumleme-islemleri.md`
-  - ⬜ Küme Problemleri — `dersler/tyt-matematik/08-kumelerde-islemler/03-kume-problemleri.md`
-  - ⬜ Sıralı İkililer ve Kartezyen Çarpım — `dersler/tyt-matematik/08-kumelerde-islemler/04-sirali-ikililer-ve-kartezyen-carpim.md`
+  - ✅ [Kümelerde Kesişim ve Birleşim İşlemleri](dersler/tyt-matematik/08-kumelerde-islemler/01-kumelerde-kesisim-ve-birlesim-islemleri.md) · [alıştırma](dersler/tyt-matematik/08-kumelerde-islemler/01-kumelerde-kesisim-ve-birlesim-islemleri.alistirma.md)
+  - ✅ [Kümelerde Fark ve Tümleme İşlemleri](dersler/tyt-matematik/08-kumelerde-islemler/02-kumelerde-fark-ve-tumleme-islemleri.md) · [alıştırma](dersler/tyt-matematik/08-kumelerde-islemler/02-kumelerde-fark-ve-tumleme-islemleri.alistirma.md)
+  - ✅ [Küme Problemleri](dersler/tyt-matematik/08-kumelerde-islemler/03-kume-problemleri.md) · [alıştırma](dersler/tyt-matematik/08-kumelerde-islemler/03-kume-problemleri.alistirma.md)
+  - ✅ [Sıralı İkililer ve Kartezyen Çarpım](dersler/tyt-matematik/08-kumelerde-islemler/04-sirali-ikililer-ve-kartezyen-carpim.md) · [alıştırma](dersler/tyt-matematik/08-kumelerde-islemler/04-sirali-ikililer-ve-kartezyen-carpim.alistirma.md)
 - **9. Sıralama ve Seçme**
-  - ⬜ Saymanın Temel İlkesi — `dersler/tyt-matematik/09-siralama-ve-secme/01-saymanin-temel-ilkesi.md`
-  - ⬜ Faktöriyel Kavramı — `dersler/tyt-matematik/09-siralama-ve-secme/02-faktoriyel-kavrami.md`
-  - ⬜ Permütasyon — `dersler/tyt-matematik/09-siralama-ve-secme/03-permutasyon.md`
-  - ⬜ Tekrarlı Permütasyon — `dersler/tyt-matematik/09-siralama-ve-secme/04-tekrarli-permutasyon.md`
-  - ⬜ Kombinasyon Kavramı ve Özellikleri — `dersler/tyt-matematik/09-siralama-ve-secme/05-kombinasyon-kavrami-ve-ozellikleri.md`
-  - ⬜ Kombinasyon Problemleri — `dersler/tyt-matematik/09-siralama-ve-secme/06-kombinasyon-problemleri.md`
-  - ⬜ Kombinasyon ve Geometri — `dersler/tyt-matematik/09-siralama-ve-secme/07-kombinasyon-ve-geometri.md`
-  - ⬜ Pascal Üçgeni ve Binom Açılımı — `dersler/tyt-matematik/09-siralama-ve-secme/08-pascal-ucgeni-ve-binom-acilimi.md`
+  - ✅ [Saymanın Temel İlkesi](dersler/tyt-matematik/09-siralama-ve-secme/01-saymanin-temel-ilkesi.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/01-saymanin-temel-ilkesi.alistirma.md)
+  - ✅ [Faktöriyel Kavramı](dersler/tyt-matematik/09-siralama-ve-secme/02-faktoriyel-kavrami.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/02-faktoriyel-kavrami.alistirma.md)
+  - ✅ [Permütasyon](dersler/tyt-matematik/09-siralama-ve-secme/03-permutasyon.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/03-permutasyon.alistirma.md)
+  - ✅ [Tekrarlı Permütasyon](dersler/tyt-matematik/09-siralama-ve-secme/04-tekrarli-permutasyon.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/04-tekrarli-permutasyon.alistirma.md)
+  - ✅ [Kombinasyon Kavramı ve Özellikleri](dersler/tyt-matematik/09-siralama-ve-secme/05-kombinasyon-kavrami-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/05-kombinasyon-kavrami-ve-ozellikleri.alistirma.md)
+  - ✅ [Kombinasyon Problemleri](dersler/tyt-matematik/09-siralama-ve-secme/06-kombinasyon-problemleri.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/06-kombinasyon-problemleri.alistirma.md)
+  - ✅ [Kombinasyon ve Geometri](dersler/tyt-matematik/09-siralama-ve-secme/07-kombinasyon-ve-geometri.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/07-kombinasyon-ve-geometri.alistirma.md)
+  - ✅ [Pascal Üçgeni ve Binom Açılımı](dersler/tyt-matematik/09-siralama-ve-secme/08-pascal-ucgeni-ve-binom-acilimi.md) · [alıştırma](dersler/tyt-matematik/09-siralama-ve-secme/08-pascal-ucgeni-ve-binom-acilimi.alistirma.md)
 - **10. Basit Olayların Olasılıkları**
-  - ⬜ Olasılıkta Temel Kavramlar — `dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/01-olasilikta-temel-kavramlar.md`
-  - ⬜ Olasılık Kavramı İle İlgili Uygulamalar — `dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/02-olasilik-kavrami-ile-ilgili-uygulamalar.md`
+  - ✅ [Olasılıkta Temel Kavramlar](dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/01-olasilikta-temel-kavramlar.md) · [alıştırma](dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/01-olasilikta-temel-kavramlar.alistirma.md)
+  - ✅ [Olasılık Kavramı İle İlgili Uygulamalar](dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/02-olasilik-kavrami-ile-ilgili-uygulamalar.md) · [alıştırma](dersler/tyt-matematik/10-basit-olaylarin-olasiliklari/02-olasilik-kavrami-ile-ilgili-uygulamalar.alistirma.md)
 - **11. Fonksiyon Kavramı ve Gösterimi**
-  - ⬜ Fonksiyon Kavramı ve Gösterimi — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/01-fonksiyon-kavrami-ve-gosterimi.md`
-  - ⬜ Fonksiyon Soruları — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/02-fonksiyon-sorulari.md`
-  - ⬜ İçine, Örten, Birebir ve Eşit Fonksiyonlar — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/03-icine-orten-birebir-ve-esit-fonksiyonlar.md`
-  - ⬜ Birim ve Sabit Fonksiyon — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/04-birim-ve-sabit-fonksiyon.md`
-  - ⬜ Doğrusal ve Parçalı Fonksiyonlar — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/05-dogrusal-ve-parcali-fonksiyonlar.md`
-  - ⬜ Tek-Çift Fonksiyonlar — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/06-tek-cift-fonksiyonlar.md`
-  - ⬜ Fonksiyonlarda Dört İşlem — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/07-fonksiyonlarda-dort-islem.md`
-  - ⬜ Fonksiyon Grafikleri — `dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/08-fonksiyon-grafikleri.md`
+  - ✅ [Fonksiyon Kavramı ve Gösterimi](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/01-fonksiyon-kavrami-ve-gosterimi.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/01-fonksiyon-kavrami-ve-gosterimi.alistirma.md)
+  - ✅ [Fonksiyon Soruları](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/02-fonksiyon-sorulari.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/02-fonksiyon-sorulari.alistirma.md)
+  - ✅ [İçine, Örten, Birebir ve Eşit Fonksiyonlar](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/03-icine-orten-birebir-ve-esit-fonksiyonlar.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/03-icine-orten-birebir-ve-esit-fonksiyonlar.alistirma.md)
+  - ✅ [Birim ve Sabit Fonksiyon](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/04-birim-ve-sabit-fonksiyon.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/04-birim-ve-sabit-fonksiyon.alistirma.md)
+  - ✅ [Doğrusal ve Parçalı Fonksiyonlar](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/05-dogrusal-ve-parcali-fonksiyonlar.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/05-dogrusal-ve-parcali-fonksiyonlar.alistirma.md)
+  - ✅ [Tek-Çift Fonksiyonlar](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/06-tek-cift-fonksiyonlar.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/06-tek-cift-fonksiyonlar.alistirma.md)
+  - ✅ [Fonksiyonlarda Dört İşlem](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/07-fonksiyonlarda-dort-islem.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/07-fonksiyonlarda-dort-islem.alistirma.md)
+  - ✅ [Fonksiyon Grafikleri](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/08-fonksiyon-grafikleri.md) · [alıştırma](dersler/tyt-matematik/11-fonksiyon-kavrami-ve-gosterimi/08-fonksiyon-grafikleri.alistirma.md)
 - **12. İki Fonksiyonun Bileşkesi ve Bir Fonksiyonun Tersi**
-  - ⬜ İki Fonksiyonun Bileşkesi — `dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/01-iki-fonksiyonun-bileskesi.md`
-  - ⬜ Bir Fonksiyonun Tersi — `dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/02-bir-fonksiyonun-tersi.md`
-  - ⬜ Fonksiyon Grafikleri ile İlgili Uygulamalar — `dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/03-fonksiyon-grafikleri-ile-ilgili-uygulamalar.md`
+  - ✅ [İki Fonksiyonun Bileşkesi](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/01-iki-fonksiyonun-bileskesi.md) · [alıştırma](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/01-iki-fonksiyonun-bileskesi.alistirma.md)
+  - ✅ [Bir Fonksiyonun Tersi](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/02-bir-fonksiyonun-tersi.md) · [alıştırma](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/02-bir-fonksiyonun-tersi.alistirma.md)
+  - ✅ [Fonksiyon Grafikleri ile İlgili Uygulamalar](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/03-fonksiyon-grafikleri-ile-ilgili-uygulamalar.md) · [alıştırma](dersler/tyt-matematik/12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi/03-fonksiyon-grafikleri-ile-ilgili-uygulamalar.alistirma.md)
 - **13. Polinom Kavramı ve Polinomlarda İşlemler**
-  - ⬜ Polinom Kavramı — `dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/01-polinom-kavrami.md`
-  - ⬜ Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri — `dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/02-polinomlarda-toplama-cikarma-ve-carpma-islemleri.md`
-  - ⬜ Polinomlarda Bölme İşlemi — `dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/03-polinomlarda-bolme-islemi.md`
-  - ⬜ Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma — `dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/04-polinomlarda-bolme-islemi-yapmadan-kalan-bulma.md`
+  - ✅ [Polinom Kavramı](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/01-polinom-kavrami.md) · [alıştırma](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/01-polinom-kavrami.alistirma.md)
+  - ✅ [Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/02-polinomlarda-toplama-cikarma-ve-carpma-islemleri.md) · [alıştırma](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/02-polinomlarda-toplama-cikarma-ve-carpma-islemleri.alistirma.md)
+  - ✅ [Polinomlarda Bölme İşlemi](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/03-polinomlarda-bolme-islemi.md) · [alıştırma](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/03-polinomlarda-bolme-islemi.alistirma.md)
+  - ✅ [Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/04-polinomlarda-bolme-islemi-yapmadan-kalan-bulma.md) · [alıştırma](dersler/tyt-matematik/13-polinom-kavrami-ve-polinomlarda-islemler/04-polinomlarda-bolme-islemi-yapmadan-kalan-bulma.alistirma.md)
 - **14. Polinomların Çarpanlara Ayrılması**
-  - ⬜ Ortak Çarpan Parantezine Alma — `dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/01-ortak-carpan-parantezine-alma.md`
-  - ⬜ Tam Kare veya İki Kare Farkı Özdeşliklerinde Faydalanarak Çarpanlara Ayırma — `dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/02-tam-kare-veya-iki-kare-farki-ozdesliklerinde-faydalanarak-ca.md`
-  - ⬜ Tam Küp, İki Küp Toplamı veya Farkı Özdeşliklerinden Faydalanarak Çarpanlara Ayırma — `dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/03-tam-kup-iki-kup-toplami-veya-farki-ozdesliklerinden-faydalan.md`
-  - ⬜ Üç Terimli İfadelerin Çarpanlarına Ayrılması — `dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/04-uc-terimli-ifadelerin-carpanlarina-ayrilmasi.md`
-  - ⬜ Rasyonel İfadelerin Sadeleştirilmesi — `dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/05-rasyonel-ifadelerin-sadelestirilmesi.md`
+  - ✅ [Ortak Çarpan Parantezine Alma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/01-ortak-carpan-parantezine-alma.md) · [alıştırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/01-ortak-carpan-parantezine-alma.alistirma.md)
+  - ✅ [Tam Kare veya İki Kare Farkı Özdeşliklerinde Faydalanarak Çarpanlara Ayırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/02-tam-kare-veya-iki-kare-farki-ozdesliklerinde-faydalanarak-ca.md) · [alıştırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/02-tam-kare-veya-iki-kare-farki-ozdesliklerinde-faydalanarak-ca.alistirma.md)
+  - ✅ [Tam Küp, İki Küp Toplamı veya Farkı Özdeşliklerinden Faydalanarak Çarpanlara Ayırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/03-tam-kup-iki-kup-toplami-veya-farki-ozdesliklerinden-faydalan.md) · [alıştırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/03-tam-kup-iki-kup-toplami-veya-farki-ozdesliklerinden-faydalan.alistirma.md)
+  - ✅ [Üç Terimli İfadelerin Çarpanlarına Ayrılması](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/04-uc-terimli-ifadelerin-carpanlarina-ayrilmasi.md) · [alıştırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/04-uc-terimli-ifadelerin-carpanlarina-ayrilmasi.alistirma.md)
+  - ✅ [Rasyonel İfadelerin Sadeleştirilmesi](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/05-rasyonel-ifadelerin-sadelestirilmesi.md) · [alıştırma](dersler/tyt-matematik/14-polinomlarin-carpanlara-ayrilmasi/05-rasyonel-ifadelerin-sadelestirilmesi.alistirma.md)
 - **15. İkinci Dereceden Bir Bilinmeyenli Denklemler**
-  - ⬜ İkinci Dereceden Bir Bilinmeyenli Denklemler — `dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/01-ikinci-dereceden-bir-bilinmeyenli-denklemler.md`
-  - ⬜ İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi — `dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/02-ikinci-dereceden-bir-bilinmeyenli-denklemlerin-cozum-kumesi.md`
-  - ⬜ Diskriminant Kavramı ve Diskriminantın Kullanılması — `dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/03-diskriminant-kavrami-ve-diskriminantin-kullanilmasi.md`
-  - ⬜ İkinci Dereceden Denklemlerde Kök-Katsayı İlişkisi — `dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/04-ikinci-dereceden-denklemlerde-kok-katsayi-iliskisi.md`
-  - ⬜ Karmaşık Sayılar — `dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/05-karmasik-sayilar.md`
+  - ✅ [İkinci Dereceden Bir Bilinmeyenli Denklemler](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/01-ikinci-dereceden-bir-bilinmeyenli-denklemler.md) · [alıştırma](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/01-ikinci-dereceden-bir-bilinmeyenli-denklemler.alistirma.md)
+  - ✅ [İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/02-ikinci-dereceden-bir-bilinmeyenli-denklemlerin-cozum-kumesi.md) · [alıştırma](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/02-ikinci-dereceden-bir-bilinmeyenli-denklemlerin-cozum-kumesi.alistirma.md)
+  - ✅ [Diskriminant Kavramı ve Diskriminantın Kullanılması](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/03-diskriminant-kavrami-ve-diskriminantin-kullanilmasi.md) · [alıştırma](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/03-diskriminant-kavrami-ve-diskriminantin-kullanilmasi.alistirma.md)
+  - ✅ [İkinci Dereceden Denklemlerde Kök-Katsayı İlişkisi](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/04-ikinci-dereceden-denklemlerde-kok-katsayi-iliskisi.md) · [alıştırma](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/04-ikinci-dereceden-denklemlerde-kok-katsayi-iliskisi.alistirma.md)
+  - ✅ [Karmaşık Sayılar](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/05-karmasik-sayilar.md) · [alıştırma](dersler/tyt-matematik/15-ikinci-dereceden-bir-bilinmeyenli-denklemler/05-karmasik-sayilar.alistirma.md)
 - **16. Merkezi Eğilim ve Yayılım Ölçüleri**
-  - ⬜ Merkezi Eğilim Ölçüleri — `dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/01-merkezi-egilim-olculeri.md`
-  - ⬜ Merkezi Yayılım Ölçüleri — `dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/02-merkezi-yayilim-olculeri.md`
+  - ✅ [Merkezi Eğilim Ölçüleri](dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/01-merkezi-egilim-olculeri.md) · [alıştırma](dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/01-merkezi-egilim-olculeri.alistirma.md)
+  - ✅ [Merkezi Yayılım Ölçüleri](dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/02-merkezi-yayilim-olculeri.md) · [alıştırma](dersler/tyt-matematik/16-merkezi-egilim-ve-yayilim-olculeri/02-merkezi-yayilim-olculeri.alistirma.md)
 - **17. Verilerin Grafikle Gösterilmesi**
-  - ⬜ Histogram — `dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/01-histogram.md`
-  - ⬜ Çizgi, Sütun ve Daire Grafikleri — `dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/02-cizgi-sutun-ve-daire-grafikleri.md`
+  - ✅ [Histogram](dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/01-histogram.md) · [alıştırma](dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/01-histogram.alistirma.md)
+  - ✅ [Çizgi, Sütun ve Daire Grafikleri](dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/02-cizgi-sutun-ve-daire-grafikleri.md) · [alıştırma](dersler/tyt-matematik/17-verilerin-grafikle-gosterilmesi/02-cizgi-sutun-ve-daire-grafikleri.alistirma.md)
 - **18. Üçgenlerde Temel Kavramlar**
-  - ⬜ Açı Kavramı ve Çeşitleri — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/01-aci-kavrami-ve-cesitleri.md`
-  - ⬜ Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/02-paralel-iki-dogrunun-bir-kesenle-yaptigi-acilar.md`
+  - ✅ [Açı Kavramı ve Çeşitleri](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/01-aci-kavrami-ve-cesitleri.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/01-aci-kavrami-ve-cesitleri.alistirma.md)
+  - ✅ [Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/02-paralel-iki-dogrunun-bir-kesenle-yaptigi-acilar.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/02-paralel-iki-dogrunun-bir-kesenle-yaptigi-acilar.alistirma.md)
   - ✅ [Üçgende Açılar](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/03-ucgende-acilar.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/03-ucgende-acilar.alistirma.md)
-  - ⬜ İkizkenar ve Eşkenar Üçgende Açı Özellikleri — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/04-ikizkenar-ve-eskenar-ucgende-aci-ozellikleri.md`
-  - ⬜ Üçgende Açı-Kenar Bağıntıları — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/05-ucgende-aci-kenar-bagintilari.md`
-  - ⬜ Üçgen Eşitsizliği — `dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/06-ucgen-esitsizligi.md`
+  - ✅ [İkizkenar ve Eşkenar Üçgende Açı Özellikleri](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/04-ikizkenar-ve-eskenar-ucgende-aci-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/04-ikizkenar-ve-eskenar-ucgende-aci-ozellikleri.alistirma.md)
+  - ✅ [Üçgende Açı-Kenar Bağıntıları](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/05-ucgende-aci-kenar-bagintilari.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/05-ucgende-aci-kenar-bagintilari.alistirma.md)
+  - ✅ [Üçgen Eşitsizliği](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/06-ucgen-esitsizligi.md) · [alıştırma](dersler/tyt-matematik/18-ucgenlerde-temel-kavramlar/06-ucgen-esitsizligi.alistirma.md)
 - **19. Üçgenlerde Eşlik ve Benzerlik**
-  - ⬜ Üçgenlerde Eşlik — `dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/01-ucgenlerde-eslik.md`
-  - ⬜ Üçgenlerde Benzerlik — `dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/02-ucgenlerde-benzerlik.md`
-  - ⬜ Üçgende Temel Orantı Teoremi — `dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/03-ucgende-temel-oranti-teoremi.md`
-  - ⬜ Üçgenlerin Benzerliği İle İlgili Uygulamalar — `dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/04-ucgenlerin-benzerligi-ile-ilgili-uygulamalar.md`
+  - ✅ [Üçgenlerde Eşlik](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/01-ucgenlerde-eslik.md) · [alıştırma](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/01-ucgenlerde-eslik.alistirma.md)
+  - ✅ [Üçgenlerde Benzerlik](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/02-ucgenlerde-benzerlik.md) · [alıştırma](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/02-ucgenlerde-benzerlik.alistirma.md)
+  - ✅ [Üçgende Temel Orantı Teoremi](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/03-ucgende-temel-oranti-teoremi.md) · [alıştırma](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/03-ucgende-temel-oranti-teoremi.alistirma.md)
+  - ✅ [Üçgenlerin Benzerliği İle İlgili Uygulamalar](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/04-ucgenlerin-benzerligi-ile-ilgili-uygulamalar.md) · [alıştırma](dersler/tyt-matematik/19-ucgenlerde-eslik-ve-benzerlik/04-ucgenlerin-benzerligi-ile-ilgili-uygulamalar.alistirma.md)
 - **20. Üçgenin Yardımcı Elemanları**
-  - ⬜ Üçgende Açıortay ve Özellikleri — `dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/01-ucgende-aciortay-ve-ozellikleri.md`
-  - ⬜ Üçgende Açıortay Teoremleri — `dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/02-ucgende-aciortay-teoremleri.md`
-  - ⬜ Üçgende Kenarortay — `dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/03-ucgende-kenarortay.md`
-  - ⬜ Üçgende Yükseklik — `dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/04-ucgende-yukseklik.md`
-  - ⬜ Üçgende Kenar Orta Dikme — `dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/05-ucgende-kenar-orta-dikme.md`
+  - ✅ [Üçgende Açıortay ve Özellikleri](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/01-ucgende-aciortay-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/01-ucgende-aciortay-ve-ozellikleri.alistirma.md)
+  - ✅ [Üçgende Açıortay Teoremleri](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/02-ucgende-aciortay-teoremleri.md) · [alıştırma](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/02-ucgende-aciortay-teoremleri.alistirma.md)
+  - ✅ [Üçgende Kenarortay](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/03-ucgende-kenarortay.md) · [alıştırma](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/03-ucgende-kenarortay.alistirma.md)
+  - ✅ [Üçgende Yükseklik](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/04-ucgende-yukseklik.md) · [alıştırma](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/04-ucgende-yukseklik.alistirma.md)
+  - ✅ [Üçgende Kenar Orta Dikme](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/05-ucgende-kenar-orta-dikme.md) · [alıştırma](dersler/tyt-matematik/20-ucgenin-yardimci-elemanlari/05-ucgende-kenar-orta-dikme.alistirma.md)
 - **21. Dik Üçgen ve Trigonometri**
-  - ⬜ Dik Üçgende Pisagor Teoremi — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/01-dik-ucgende-pisagor-teoremi.md`
-  - ⬜ Dik Üçgende Öklid Teoremi — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/02-dik-ucgende-oklid-teoremi.md`
-  - ⬜ Trigonometrik Oranlar — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/03-trigonometrik-oranlar.md`
-  - ⬜ 30,45 ve 60 Derecelerin Trigonometrik Oranları — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/04-30-45-ve-60-derecelerin-trigonometrik-oranlari.md`
+  - ✅ [Dik Üçgende Pisagor Teoremi](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/01-dik-ucgende-pisagor-teoremi.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/01-dik-ucgende-pisagor-teoremi.alistirma.md)
+  - ✅ [Dik Üçgende Öklid Teoremi](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/02-dik-ucgende-oklid-teoremi.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/02-dik-ucgende-oklid-teoremi.alistirma.md)
+  - ✅ [Trigonometrik Oranlar](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/03-trigonometrik-oranlar.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/03-trigonometrik-oranlar.alistirma.md)
+  - ✅ [30,45 ve 60 Derecelerin Trigonometrik Oranları](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/04-30-45-ve-60-derecelerin-trigonometrik-oranlari.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/04-30-45-ve-60-derecelerin-trigonometrik-oranlari.alistirma.md)
   - ⬜ Birim Çember — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/05-birim-cember.md`
 - **22. Üçgenin Alanı**
   - ⬜ Üçgenin Alanı — `dersler/tyt-matematik/22-ucgenin-alani/01-ucgenin-alani.md`

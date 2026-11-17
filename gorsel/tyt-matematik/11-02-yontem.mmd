@@ -1,0 +1,22 @@
+flowchart TD
+  A["f(2x + 3) = ... verildi"]
+  B{Ne isteniyor?}
+  C["Tek değer: f(7)"]
+  D["Kural: f(x)"]
+  E["2x + 3 = 7 çöz"]
+  F["2x + 3 = t de"]
+  G["x = 2'yi yerine yaz"]
+  H["x'i t cinsinden yaz"]
+  A --> B
+  B --> C
+  B --> D
+  C --> E --> G
+  D --> F --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B mavi
+  class C,E,G yesil
+  class D,F,H sari

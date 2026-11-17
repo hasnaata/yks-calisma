@@ -1,0 +1,23 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# f(x) = 2x − 4 (mavi), f⁻¹(x) = x/2 + 2 (sarı), y = x (gri kesikli). (3, 2) ∈ f, (2, 3) ∈ f⁻¹. Kesişim (4, 4).
+fig, ax = sekil(5.4, 5.4)
+eksenler(ax, x=(-5, 6.8), y=(-5, 6.8))
+ax.set_aspect("equal")
+ax.set_xticks(range(-4, 7)); ax.set_xticklabels(["−4" if k == -4 else str(k) if k in (2, 3, 4) else "" for k in range(-4, 7)])
+ax.set_yticks(range(-4, 7)); ax.set_yticklabels(["−4" if k == -4 else str(k) if k in (2, 3, 4) else "" for k in range(-4, 7)])
+xs = np.linspace(-5, 6.6, 10); ax.plot(xs, xs, color=SOLUK, lw=1.3, ls="--")
+xs = np.linspace(-0.5, 5.3, 10); ax.plot(xs, 2 * xs - 4, color=MAVI)
+xs = np.linspace(-5, 6.6, 10); ax.plot(xs, xs / 2 + 2, color=SARI)
+ax.text(5.35, 6.05, "f", color=MAVI, fontsize=16, fontweight="bold")
+ax.text(6.0, 4.3, "f⁻¹", color=SARI, fontsize=16, fontweight="bold")
+ax.text(-4.9, -2.6, "y = x", color=SOLUK, fontsize=12, bbox=dict(facecolor="white", edgecolor="none", pad=1, alpha=0.9))
+kutu = dict(facecolor="white", edgecolor="none", pad=1.5, alpha=0.9)
+nokta(ax, 3, 2, renk=MAVI); nokta(ax, 2, 3, renk=SARI); nokta(ax, 4, 4, renk=YAZI)
+ax.plot([3, 2], [2, 3], color=SOLUK, lw=1.2, ls=":")
+ax.text(3.25, 1.45, "(3, 2)", color=MAVI, fontsize=12, bbox=kutu)
+ax.text(0.55, 3.35, "(2, 3)", color=SARI, fontsize=12, bbox=kutu)
+ax.text(4.3, 3.55, "(4, 4)", color=YAZI, fontsize=12, bbox=kutu)
+nokta(ax, 0, -4, renk=MAVI); nokta(ax, -4, 0, renk=SARI)
+kaydet(fig, __file__)

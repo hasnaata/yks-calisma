@@ -1,0 +1,26 @@
+flowchart TD
+  A["|ifade| = sağ taraf"]
+  B{Sağ taraf negatif sabit mi?}
+  C[Çözüm kümesi boş]
+  D[İki durum yaz]
+  E{x dışarıda da var mı?}
+  F[İki kök de geçerli]
+  G[Her kökü yerine koy]
+  H[Sağlamayanı at]
+  A --> B
+  B -- evet --> C
+  B -- hayır --> D
+  D --> E
+  E -- hayır --> F
+  E -- evet --> G
+  G --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,E mavi
+  class C kirmizi
+  class D,G sari
+  class F,H yesil

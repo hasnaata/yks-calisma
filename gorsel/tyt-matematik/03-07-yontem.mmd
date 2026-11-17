@@ -1,0 +1,21 @@
+flowchart TD
+  A[Mutlak değerli ifade]
+  B[İçinin işaretini bul]
+  C{İçi ≥ 0 mı?}
+  D[Olduğu gibi çıkar]
+  E[Başına eksi koyup çıkar]
+  F[Sadeleştir]
+  A --> B
+  B --> C
+  C -- evet --> D
+  C -- hayır --> E
+  D --> F
+  E --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A,F kok
+  class B,C mavi
+  class D yesil
+  class E kirmizi

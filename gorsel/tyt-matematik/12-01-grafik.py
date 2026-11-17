@@ -1,0 +1,28 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# f(x) = x + 2 (mavi doğru), g(x) = x² − 3 (yeşil parabol). Kurallar derste verilmez, grafikten okunur.
+# (g∘f)(0): f(0) = 2, sonra g(2) = 1.   (f∘g)(0): g(0) = −3, sonra f(−3) = −1.
+fig, ax = sekil(5.4, 5.4)
+eksenler(ax, x=(-3.8, 3.8), y=(-3.8, 4.6))
+ax.set_aspect("equal")
+ax.set_xticks(range(-3, 4)); ax.set_xticklabels(["", "", "", "", "", "2", ""])
+ax.set_yticks(range(-3, 5)); ax.set_yticklabels(["", "", "−1", "", "1", "2", "", ""])
+xs = np.linspace(-3.6, 2.4, 50); ax.plot(xs, xs + 2, color=MAVI)
+xs = np.linspace(-2.75, 2.75, 200); ax.plot(xs, xs**2 - 3, color=YESIL)
+ax.text(2.05, 4.35, "f", color=MAVI, fontsize=15, fontweight="bold")
+ax.text(2.85, 3.6, "g", color=YESIL, fontsize=15, fontweight="bold")
+kutu = dict(facecolor="white", edgecolor="none", pad=1.5, alpha=0.9)
+# (g∘f)(0)
+nokta(ax, 0, 2, renk=MAVI); nokta(ax, 2, 1, renk=YESIL)
+ax.plot([2, 2], [0, 1], color=YESIL, lw=1.2, ls="--")
+ax.text(-0.25, 2.55, "f(0) = 2", color=MAVI, fontsize=12, ha="right", bbox=kutu)
+ax.text(2.2, 0.55, "g(2) = 1", color=YESIL, fontsize=12, bbox=kutu)
+# (f∘g)(0)
+nokta(ax, 0, -3, renk=YESIL); nokta(ax, -3, -1, renk=MAVI)
+ax.plot([-3, -3], [-1, 0], color=MAVI, lw=1.2, ls="--")
+ax.text(0.3, -3.35, "g(0) = −3", color=YESIL, fontsize=12, bbox=kutu)
+ax.text(-3.4, -1.75, "f(−3) = −1", color=MAVI, fontsize=12, bbox=kutu)
+ax.text(-3, 0.18, "−3", color=SOLUK, fontsize=12, ha="center", va="bottom")
+ax.text(-0.25, -3.2, "−3", color=SOLUK, fontsize=12, ha="right", va="center")
+kaydet(fig, __file__)

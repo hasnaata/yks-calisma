@@ -1,0 +1,23 @@
+flowchart TD
+  A["x yerine −x koy"]
+  B{"f(−x) neye eşit?"}
+  C["f(−x) = f(x)"]
+  D["f(−x) = −f(x)"]
+  E["İkisi de değil"]
+  F["Çift fonksiyon"]
+  G["Tek fonksiyon"]
+  H["Ne tek ne çift"]
+  A --> B
+  B --> C --> F
+  B --> D --> G
+  B --> E --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B mavi
+  class C,F yesil
+  class D,G sari
+  class E,H kirmizi

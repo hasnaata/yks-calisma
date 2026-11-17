@@ -1,0 +1,27 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# B=(0,0), A=(0,15): nehir genişliği 15 m. |BC|=20, |CD|=8, |DE|=6; A, C, E doğrusal.
+A = np.array([0.0, 15.0]); B = np.array([0.0, 0.0]); C = np.array([20.0, 0.0])
+D = np.array([28.0, 0.0]); E = np.array([28.0, -6.0])
+print("AC eğimi", (C - A)[1] / (C - A)[0], "CE eğimi", (E - C)[1] / (E - C)[0])
+fig, ax = sekil(5.5, 4.6)
+ax.set_aspect("equal"); ax.axis("off")
+ax.add_patch(patches.Rectangle((-3, 0), 35, 15, facecolor=MAVI_ACIK, edgecolor="none"))
+ax.plot([-3, 32], [0, 0], color=MAVI, lw=1.4); ax.plot([-3, 32], [15, 15], color=MAVI, lw=1.4)
+ax.text(31.5, 7.5, "nehir", ha="right", va="center", color=MAVI, fontsize=12)
+ax.plot(*zip(A, B), color=YAZI, lw=1.8, ls="--")
+ax.plot(*zip(A, E), color=KIRMIZI, lw=2)
+ax.plot(*zip(B, D), color=YAZI); ax.plot(*zip(D, E), color=YAZI)
+s = 1.0
+ax.plot([B[0], B[0] + s, B[0] + s], [s, s, 0], color=YAZI, lw=1.2)
+ax.plot([D[0], D[0] - s, D[0] - s], [-s, -s, 0], color=YAZI, lw=1.2)
+ax.plot(*A, "^", color=YESIL, markersize=13, zorder=6)
+nokta(ax, *A, "A", dx=-2.2, dy=0.3); nokta(ax, *B, "B", dx=-2.0, dy=-1.6); nokta(ax, *C, "C", dx=-0.4, dy=-2.0)
+nokta(ax, *D, "D", dx=0.6, dy=0.4); nokta(ax, *E, "E", dx=0.6, dy=-0.8)
+ax.text(10, -1.4, "20 m", ha="center", va="center", fontsize=12)
+ax.text(24, 0.9, "8 m", ha="center", va="center", fontsize=12)
+ax.text(29.0, -3.0, "6 m", ha="left", va="center", fontsize=12)
+ax.text(-0.8, 7.5, "x", ha="right", va="center", fontsize=13)
+ax.set_xlim(-3, 32.5); ax.set_ylim(-7.5, 17)
+kaydet(fig, __file__)

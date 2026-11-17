@@ -1,0 +1,20 @@
+flowchart TD
+  A[Her sayının kalanını bul]
+  B[Sayılar yerine kalanları yaz]
+  C[İşlemi kalanlarla yap]
+  D{Sonuç nerede?}
+  E[Bölene böl, kalanı al]
+  F[Bölenin katını ekle]
+  G[Cevap bu sayı]
+  A --> B --> C --> D
+  D -->|bölen ya da büyük| E
+  D -->|negatif| F
+  D -->|0 ile bölen arası| G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,C,D mavi
+  class E,F sari
+  class G yesil

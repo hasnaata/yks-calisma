@@ -1,0 +1,18 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+fig, ax = sekil(6.2, 2.0)
+sayi_dogrusu(ax, 0, 8, isaretler=[4])
+ax.set_ylim(-1.35, 1.3)
+ax.text(8.75, 0, "m", va="center", fontsize=13)
+ax.hlines(0, -0.5, 3.92, color=YESIL, lw=5, alpha=0.8)
+ax.hlines(0, 4.08, 8.5, color=KIRMIZI, lw=5, alpha=0.8)
+nokta(ax, 4, 0, renk=SARI)
+ax.text(1.2, 0.42, "Δ > 0", ha="center", color=YESIL)
+ax.text(1.2, 0.85, "iki farklı kök", ha="center", color=YESIL, fontsize=12)
+ax.text(4, 0.42, "Δ = 0", ha="center", color=SARI)
+ax.text(4, 0.85, "çakışık kök", ha="center", color=SARI, fontsize=12)
+ax.text(6.8, 0.42, "Δ < 0", ha="center", color=KIRMIZI)
+ax.text(6.8, 0.85, "gerçek kök yok", ha="center", color=KIRMIZI, fontsize=12)
+ax.text(4, -1.1, "x² − 4x + m = 0 için Δ = 16 − 4m", ha="center", color=SOLUK, fontsize=12)
+kaydet(fig, __file__)

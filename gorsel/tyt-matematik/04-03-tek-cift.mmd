@@ -1,0 +1,21 @@
+flowchart TD
+  A["ⁿ√a : n kaç?"]
+  B["n tek"]
+  C["n çift"]
+  D["a her sayı olabilir"]
+  E["a ≥ 0 olmalı"]
+  F["ⁿ√xⁿ = x"]
+  G["ⁿ√xⁿ = |x|"]
+  A --> B
+  A --> C
+  B --> D
+  C --> E
+  D --> F
+  E --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  class A kok
+  class B,D,F yesil
+  class C,E,G sari

@@ -3265,8 +3265,8 @@
       "pdf": "fb85b97e86",
       "mebi": "a7bace37-2e4d-4831-e9d6-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3275,8 +3275,8 @@
       "pdf": "d864386300",
       "mebi": "42a96ee6-de6e-49bc-e9d7-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3285,8 +3285,8 @@
       "pdf": "11e883cea3",
       "mebi": "dfbadd51-c1fa-4aac-e9d8-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3295,8 +3295,8 @@
       "pdf": "ec41536b86",
       "mebi": "cc6d4eaa-fb41-430a-e9d9-08dc0b6ad494",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3305,8 +3305,8 @@
       "pdf": "6b6a0b7f99",
       "mebi": "0e1aa939-6df8-43cb-2280-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3315,8 +3315,8 @@
       "pdf": "7850c6c58e",
       "mebi": "f0fed4a7-20b4-43f0-e9da-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -3325,8 +3325,8 @@
       "pdf": "55a84c2edf",
       "mebi": "c80a52cd-4665-45e3-af7d-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -3335,8 +3335,8 @@
       "pdf": "a3f464f3e4",
       "mebi": "51969f2b-06b4-40cb-568b-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 9,
@@ -3345,8 +3345,8 @@
       "pdf": "7999b16dd9",
       "mebi": "ed2aa349-dcd9-4a56-c844-08dc224a8549",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "01-sayi-kumeleri"
@@ -3362,8 +3362,8 @@
       "pdf": "8aa2f97a11",
       "mebi": "fc8e27f3-8778-440e-568d-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3372,8 +3372,8 @@
       "pdf": "f7b60732c9",
       "mebi": "03c6794c-67d6-453c-568e-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3382,8 +3382,8 @@
       "pdf": "afccf19128",
       "mebi": "dc24b757-dcbe-44cf-1593-08dc0c34b5fa",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3392,8 +3392,8 @@
       "pdf": "aa74283ccd",
       "mebi": "4c1b662b-5fbb-405b-568f-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3402,8 +3402,8 @@
       "pdf": "09a0e51875",
       "mebi": "f461e084-d8cf-4c35-2282-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3412,8 +3412,8 @@
       "pdf": "b7d1686991",
       "mebi": "264b62f2-e64c-4e8e-e9dd-08dc0b6ad494",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -3422,8 +3422,8 @@
       "pdf": "3e385c2ca5",
       "mebi": "e6abeb3d-339d-418f-af80-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "02-bolunebilme-kurallari"
@@ -3449,8 +3449,8 @@
       "pdf": "18df908184",
       "mebi": "8cfafab3-b44b-44de-b6bc-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3459,8 +3459,8 @@
       "pdf": "dc6e58d0e7",
       "mebi": "0658e545-4322-40e8-b6bd-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3469,8 +3469,8 @@
       "pdf": "add5518705",
       "mebi": "3777fc8e-bec0-49bb-e9df-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3479,8 +3479,8 @@
       "pdf": "01d11ac5c1",
       "mebi": "d5e0ae7f-3b3e-4a54-e9e0-08dc0b6ad494",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3489,8 +3489,8 @@
       "pdf": "a0a558963f",
       "mebi": "83d74541-2b8a-43ee-5690-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -3499,8 +3499,8 @@
       "pdf": "37851bfa74",
       "mebi": "783ac38f-6cd6-4aff-31d6-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -3509,8 +3509,8 @@
       "pdf": "d86a66b754",
       "mebi": "89b0f9f2-6afa-4e81-8b87-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "03-birinci-dereceden-denklemler-ve-esitsizlikler"
@@ -3526,8 +3526,8 @@
       "pdf": "c503fcd74e",
       "mebi": "15d9e824-647a-4b03-5691-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3536,8 +3536,8 @@
       "pdf": "1b30d425e4",
       "mebi": "40674ae3-9d4c-44c3-8b88-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3546,8 +3546,8 @@
       "pdf": "c53a0b0cfd",
       "mebi": "4a9b0c1b-d4ed-4799-af81-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3556,8 +3556,8 @@
       "pdf": "2aae7edcd1",
       "mebi": "7b52799a-0d83-46ef-2283-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "04-uslu-ifadeler-ve-denklemler"
@@ -3573,8 +3573,8 @@
       "pdf": "db2747c6b2",
       "mebi": "562f645f-7262-4de5-5692-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3583,8 +3583,8 @@
       "pdf": "5b79ab590f",
       "mebi": "48d41471-990b-476e-af82-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3593,8 +3593,8 @@
       "pdf": "364ee2b827",
       "mebi": "5ce9f6eb-7505-4c48-af83-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3603,8 +3603,8 @@
       "pdf": "d33a576a81",
       "mebi": "8f8127ee-0908-4079-5faf-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3613,8 +3613,8 @@
       "pdf": "d5211d5a59",
       "mebi": "7e20c648-308c-470b-5693-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3623,8 +3623,8 @@
       "pdf": "f28501b49a",
       "mebi": "030a3a36-4896-405c-b6be-08dc0b6b444a",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -3633,8 +3633,8 @@
       "pdf": "94e996a2a3",
       "mebi": "21657ed2-c3f6-4315-b6bf-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -3643,8 +3643,8 @@
       "pdf": "a5221a5e18",
       "mebi": "45cebedf-d996-4238-8b89-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 9,
@@ -3653,8 +3653,8 @@
       "pdf": "d329034d67",
       "mebi": "c84da182-8aa6-4587-e9e1-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 10,
@@ -3663,8 +3663,8 @@
       "pdf": "a5770ab95d",
       "mebi": "0d83ce2c-0f2f-46c2-31d7-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 11,
@@ -3673,8 +3673,8 @@
       "pdf": "50f9db09ce",
       "mebi": "0735ba31-5bed-4949-b6c0-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "05-denklemler-ve-esitsizlikler-ile-ilgili-uygulamalar"
@@ -3690,8 +3690,8 @@
       "pdf": "417f2eca34",
       "mebi": "441b9036-b3f2-471e-31d8-08dc0b6b4f46",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3700,8 +3700,8 @@
       "pdf": "f11d72b5cb",
       "mebi": "5797b1f3-ae77-42e4-b6c1-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3710,8 +3710,8 @@
       "pdf": "946d4f187e",
       "mebi": "b405f11f-0770-4da8-e9e2-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3720,8 +3720,8 @@
       "pdf": "01686bd48b",
       "mebi": "2622943e-6e95-4d94-5fb0-08dc0b6b6139",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3730,8 +3730,8 @@
       "pdf": "2f5c308f94",
       "mebi": "c40c3f3c-3e71-4d1d-5fb1-08dc0b6b6139",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3740,8 +3740,8 @@
       "pdf": "f65ea46531",
       "mebi": "c4f771be-7d48-497e-e9e3-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "06-onermeler-ve-bilesik-onermeler"
@@ -3757,8 +3757,8 @@
       "pdf": "84a5cc28c9",
       "mebi": "bfdbf326-d5c3-4560-b6c2-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3767,8 +3767,8 @@
       "pdf": "0e9a9d8a87",
       "mebi": "5dd5568e-8073-4014-31d9-08dc0b6b4f46",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "07-kumelerde-temel-kavramlar"
@@ -3784,8 +3784,8 @@
       "pdf": "b96c4ae392",
       "mebi": "f64b9d70-06c6-41b8-af8c-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3794,8 +3794,8 @@
       "pdf": "b82a06dffe",
       "mebi": "4f6ec219-204d-40e4-8b8a-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3804,8 +3804,8 @@
       "pdf": "828737039b",
       "mebi": "500c543c-c211-40ef-5694-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3814,8 +3814,8 @@
       "pdf": "82824aa912",
       "mebi": "5643fe17-1400-462f-e9e4-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "08-kumelerde-islemler"
@@ -3831,8 +3831,8 @@
       "pdf": "4748fa90fd",
       "mebi": "e337f040-8cc8-40a3-5fb2-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3841,8 +3841,8 @@
       "pdf": "aa423e9603",
       "mebi": "7714382a-acee-4a76-af8d-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3851,8 +3851,8 @@
       "pdf": "90c5f9f8a3",
       "mebi": "3b9ef917-85e0-4fd8-2284-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3861,8 +3861,8 @@
       "pdf": "2d7a05988e",
       "mebi": "4ba7d0ec-08ab-479c-2285-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3871,8 +3871,8 @@
       "pdf": "6a9890787e",
       "mebi": "0f4269b2-7941-45e1-e9e5-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3881,8 +3881,8 @@
       "pdf": "4019557f82",
       "mebi": "1b84b9c2-feac-4838-8b8b-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -3891,8 +3891,8 @@
       "pdf": "9e9d4f39f8",
       "mebi": "8837ac9b-8823-4a70-02af-08dc5d2c64f3",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -3901,8 +3901,8 @@
       "pdf": "53bfd274bb",
       "mebi": "a6a1fa5d-c443-4773-31da-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "09-siralama-ve-secme"
@@ -3918,8 +3918,8 @@
       "pdf": "2b4cdac8ac",
       "mebi": "882d753d-9925-4933-5695-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3928,8 +3928,8 @@
       "pdf": "44b292d4db",
       "mebi": "82820b04-9d79-437b-2287-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "10-basit-olaylarin-olasiliklari"
@@ -3945,8 +3945,8 @@
       "pdf": "7cc0376018",
       "mebi": "a8ed90b4-2221-44f9-31db-08dc0b6b4f46",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -3955,8 +3955,8 @@
       "pdf": "02dbcbc400",
       "mebi": "eae2ad0f-cda8-4838-5697-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -3965,8 +3965,8 @@
       "pdf": "aad486ecb6",
       "mebi": "d1fef26e-364b-40b2-5696-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -3975,8 +3975,8 @@
       "pdf": "d612185080",
       "mebi": "bf93c133-0857-47eb-af8e-08dc0b6afc03",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -3985,8 +3985,8 @@
       "pdf": "260cbab73e",
       "mebi": "c7ead496-24b3-45db-5fb3-08dc0b6b6139",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -3995,8 +3995,8 @@
       "pdf": "1abc2e1bd8",
       "mebi": "f329b0b3-ca7d-4110-8b8c-08dc0b6b07fd",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -4005,8 +4005,8 @@
       "pdf": "4e05a4ffc0",
       "mebi": "a7debb85-25b0-4ff2-8b8d-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -4015,8 +4015,8 @@
       "pdf": "b4b0f53717",
       "mebi": "fbad582a-5578-451e-5698-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "11-fonksiyon-kavrami-ve-gosterimi"
@@ -4032,8 +4032,8 @@
       "pdf": "36ad81c827",
       "mebi": "d987156d-8491-43ed-31dd-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4042,8 +4042,8 @@
       "pdf": "9f29a60f53",
       "mebi": "fe8278f1-341f-4940-af8f-08dc0b6afc03",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4052,8 +4052,8 @@
       "pdf": "4ea6fcd12f",
       "mebi": "b4cc5134-26be-426b-cde3-08dce44c7538",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "12-iki-fonksiyonun-bileskesi-ve-bir-fonksiyonun-tersi"
@@ -4069,8 +4069,8 @@
       "pdf": "b24c173fec",
       "mebi": "1d3d46ca-1726-4b87-5699-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4079,8 +4079,8 @@
       "pdf": "176317e2fa",
       "mebi": "4c93cb58-36f9-458c-af93-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4089,8 +4089,8 @@
       "pdf": "188ef0d5f1",
       "mebi": "838d1114-2874-4092-5fb4-08dc0b6b6139",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4099,8 +4099,8 @@
       "pdf": "4e318d2bb9",
       "mebi": "fdcf3390-10f8-48c8-2288-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "13-polinom-kavrami-ve-polinomlarda-islemler"
@@ -4116,8 +4116,8 @@
       "pdf": "e421f9a3d1",
       "mebi": "d4daa420-c8e9-43d1-2289-08dc0b6af052",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4126,8 +4126,8 @@
       "pdf": "1d884531b7",
       "mebi": "9d366c1b-60f7-430a-8b8f-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4136,8 +4136,8 @@
       "pdf": "c49f4ae1ab",
       "mebi": "e4d4941a-8da0-410d-569a-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4146,8 +4146,8 @@
       "pdf": "b7d774edeb",
       "mebi": "223bcc2e-689d-4e95-5fb5-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -4156,8 +4156,8 @@
       "pdf": "9dbdbe4d4b",
       "mebi": "39d09cbc-77ef-4f03-569b-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "14-polinomlarin-carpanlara-ayrilmasi"
@@ -4173,8 +4173,8 @@
       "pdf": "33f3fe2a0a",
       "mebi": "d7327ae0-5a72-41fc-af9b-08dc0b6afc03",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4183,8 +4183,8 @@
       "pdf": "38df35be86",
       "mebi": "f8d22b84-3bd0-446e-af9c-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4193,8 +4193,8 @@
       "pdf": "7902b07f4b",
       "mebi": "48abdca4-ec25-4691-5fb6-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4203,8 +4203,8 @@
       "pdf": "a0df19a8b4",
       "mebi": "dc486e24-9a39-42a2-8b90-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -4213,8 +4213,8 @@
       "pdf": "b4f4d2bc65",
       "mebi": "0a3af494-5f2b-405e-31de-08dc0b6b4f46",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "15-ikinci-dereceden-bir-bilinmeyenli-denklemler"
@@ -4230,8 +4230,8 @@
       "pdf": "e0e804535c",
       "mebi": "37f2cb9e-1454-4941-228a-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4240,8 +4240,8 @@
       "pdf": "85718ea3a8",
       "mebi": "6f5dfdd5-d3a1-4a5e-31df-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "16-merkezi-egilim-ve-yayilim-olculeri"
@@ -4257,8 +4257,8 @@
       "pdf": "0e38692b7d",
       "mebi": "d62a2a1a-086f-4a32-af9d-08dc0b6afc03",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4267,8 +4267,8 @@
       "pdf": "cafaa7832b",
       "mebi": "0fcde9db-2137-44cc-569c-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "17-verilerin-grafikle-gosterilmesi"
@@ -4284,8 +4284,8 @@
       "pdf": "46407f0b2d",
       "mebi": "bf118af2-a14d-4462-b6c5-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4294,8 +4294,8 @@
       "pdf": "583bb8ac94",
       "mebi": "e0f295ba-69b8-477d-b6c6-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4314,8 +4314,8 @@
       "pdf": "a49e51e874",
       "mebi": "88144b68-3e67-4c7d-31e8-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -4324,8 +4324,8 @@
       "pdf": "36aa445876",
       "mebi": "a7a1cb28-b201-438e-31ea-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -4334,8 +4334,8 @@
       "pdf": "075c58448d",
       "mebi": "0681068f-b6c4-48fb-5fb7-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "18-ucgenlerde-temel-kavramlar"
@@ -4351,8 +4351,8 @@
       "pdf": "cde084b5ab",
       "mebi": "1e8d6134-2e07-45bc-228b-08dc0b6af052",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4361,8 +4361,8 @@
       "pdf": "1928b82e41",
       "mebi": "99b09934-a44e-4e57-569d-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4371,8 +4371,8 @@
       "pdf": "bba21e0006",
       "mebi": "ca5c077f-8812-4fb5-5fb8-08dc0b6b6139",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4381,8 +4381,8 @@
       "pdf": "21788ad791",
       "mebi": "1f9655d5-1bda-43c6-569e-08dc0b6b5532",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "19-ucgenlerde-eslik-ve-benzerlik"
@@ -4398,8 +4398,8 @@
       "pdf": "06dbfb93a8",
       "mebi": "663987b3-688a-4c7d-e9e6-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4408,8 +4408,8 @@
       "pdf": "c28592a518",
       "mebi": "b3231603-b5d4-4f80-569f-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4418,8 +4418,8 @@
       "pdf": "481bc8bb71",
       "mebi": "91208901-048e-49a1-5fb9-08dc0b6b6139",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4428,8 +4428,8 @@
       "pdf": "c7d83b5a70",
       "mebi": "4078e3de-eecf-4343-af9e-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -4438,8 +4438,8 @@
       "pdf": "22984e2f0a",
       "mebi": "d1120f60-3ffc-48ba-31f1-08dc0b6b4f46",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "20-ucgenin-yardimci-elemanlari"
@@ -4455,8 +4455,8 @@
       "pdf": "e9eb52be47",
       "mebi": "bc154e6a-18f4-4ac1-31f3-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4465,8 +4465,8 @@
       "pdf": "3f6ca2625c",
       "mebi": "f7f99c16-7305-4985-e9e7-08dc0b6ad494",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4475,8 +4475,8 @@
       "pdf": "b67d4b1d14",
       "mebi": "dd4fe81e-8854-4379-e9e8-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4485,8 +4485,8 @@
       "pdf": "08d4da8df9",
       "mebi": "add31939-9699-4ade-a9be-08dca664d222",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,

@@ -23,3 +23,5 @@ Her derse 3–5 görsel eklendi: toplam 237 (Pele şemaları, Wikimedia Commons'
 ## [2026-11-17] güncelle | TYT Biyoloji: 50 derse Mısır Arapçası giriş kutusu (yazım + ikinci okuyucu denetimi); kural CLAUDE.md, stil assets/stil.css
 
 ## [2026-11-17] düzelt | TYT Biyoloji: Arapça giriş kutularının 50si tek tek okundu; 1 yazım hatası, 4 tekrar eden süre ifadesi düzeltildi
+
+## [2026-11-17] ders yaz | TYT Matematik: 107 ders + alıştırma yazıldı (toplam 109); kör çözüm ve editör denetimi henüz yapılmadı, yayınlanmadı

@@ -1,0 +1,21 @@
+flowchart TD
+  A[Kombinasyon problemi]
+  B{Sıra önemli mi?}
+  C[Önce seç, sonra diz]
+  D["Yalnızca seç: C(n, r)"]
+  E{Koşul ne?}
+  F[Gruplardan seç: çarp]
+  G[En az: tümleyen]
+  H[En çok: durumları topla]
+  A --> B
+  B -- Evet --> C
+  B -- Hayır --> D --> E
+  E --> F
+  E --> G
+  E --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,E,D mavi
+  class C,F,G,H yesil

@@ -1,0 +1,25 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# 2,1(36 devreden) sayısının parçaları ve kesre çevirme formülü: (2136 − 21) / 990.
+fig, ax = sekil(6, 4.2)
+ax.axis("off")
+ax.set_xlim(0, 10); ax.set_ylim(0, 7.2)
+ax.text(2.4, 6.0, "2,", fontsize=34, color=YAZI, ha="left", va="center", fontweight="bold")
+ax.text(3.5, 6.0, "1", fontsize=34, color=SARI, ha="left", va="center", fontweight="bold")
+ax.text(4.2, 6.0, "36", fontsize=34, color=MAVI, ha="left", va="center", fontweight="bold")
+ax.plot([4.25, 5.7], [6.8, 6.8], color=MAVI, lw=3)
+ax.text(2.75, 4.85, "tam kısım", fontsize=10, color=SOLUK, ha="center")
+ax.text(3.75, 4.3, "devretmeyen", fontsize=10, color=SARI, ha="center")
+ax.text(5.95, 6.0, "devreden", fontsize=11, color=MAVI, ha="left", va="center")
+ax.text(1.0, 3.2, "Pay:", fontsize=13, color=SOLUK, va="center")
+ax.text(2.7, 3.2, "2136 − 21", fontsize=18, color=YAZI, va="center")
+ax.text(2.7, 2.5, "sayının tamamı − devretmeyen kısım", fontsize=10, color=SOLUK, va="center")
+ax.text(1.0, 1.4, "Payda:", fontsize=13, color=SOLUK, va="center")
+ax.text(2.7, 1.4, "99", fontsize=18, color=MAVI, va="center", fontweight="bold")
+ax.text(3.5, 1.4, "0", fontsize=18, color=SARI, va="center", fontweight="bold")
+ax.text(4.3, 1.65, "devreden 2 basamak → iki 9", fontsize=10, color=MAVI, va="center")
+ax.text(4.3, 1.05, "devretmeyen 1 basamak → bir 0", fontsize=10, color=SARI, va="center")
+ax.add_patch(patches.FancyBboxPatch((0.7, 0.4), 8.9, 3.5, boxstyle="round,pad=0.05,rounding_size=0.2",
+                                    facecolor="none", edgecolor=CIZGI, lw=1.2))
+kaydet(fig, __file__)

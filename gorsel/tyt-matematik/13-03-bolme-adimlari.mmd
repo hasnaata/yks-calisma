@@ -1,0 +1,22 @@
+flowchart TD
+  A[Azalan kuvvetlere göre sırala]
+  B[Eksik terime 0 yaz]
+  C[Baş terimi baş terime böl]
+  D[Bölenle çarp, alta yaz]
+  E[Çıkar: işaretleri değiştir]
+  F{"der kalan < der bölen ?"}
+  G[Bölme biter]
+  A --> B --> C --> D --> E --> F
+  F -- Hayır --> C
+  F -- Evet --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B sari
+  class C,D mavi
+  class E kirmizi
+  class F mavi
+  class G yesil

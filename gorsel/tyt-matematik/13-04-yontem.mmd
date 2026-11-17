@@ -1,0 +1,17 @@
+flowchart TD
+  A[Böleni sıfıra eşitle]
+  B[x değerini bul]
+  C[Bu değeri P'de yaz]
+  D{Sonuç 0 mı?}
+  E[Kalan 0: tam bölünür]
+  F[Bölen çarpan, x kök]
+  G[Sonuç kalandır]
+  A --> B --> C --> D
+  D -- Evet --> E --> F
+  D -- Hayır --> G
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A,B,C mavi
+  class D sari
+  class E,F,G yesil

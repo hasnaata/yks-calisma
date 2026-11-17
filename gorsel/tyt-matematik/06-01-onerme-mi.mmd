@@ -1,0 +1,20 @@
+flowchart TD
+  I[Bir ifade]
+  H{Hüküm bildiriyor mu?}
+  K{Kişiye göre değişir mi?}
+  X1[Önerme değil]
+  X2[Önerme değil]
+  O[Önerme: 1 ya da 0]
+  I --> H
+  H -- "Hayır: soru, emir, dilek" --> X1
+  H -- Evet --> K
+  K -- "Evet: zevk, görüş" --> X2
+  K -- Hayır --> O
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class I kok
+  class H,K mavi
+  class O yesil
+  class X1,X2 kirmizi

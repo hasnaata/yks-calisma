@@ -1,0 +1,21 @@
+flowchart TD
+  O["Ortak çarpan var mı?<br/>Önce paranteze al"]
+  S{"Kaç terim kaldı?"}
+  I["İki terim, kare − kare<br/>(a − b)(a + b)"]
+  T["Üç terim, uçlar kare<br/>Orta terim 2ab mi?"]
+  K["(a + b)² ya da (a − b)²"]
+  R["Çarpanları yine kontrol et"]
+  O --> S
+  S -->|2 terim| I
+  S -->|3 terim| T
+  T --> K
+  I --> R
+  K --> R
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class O kok
+  class S mavi
+  class I,K yesil
+  class T,R sari

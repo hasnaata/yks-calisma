@@ -1,0 +1,20 @@
+flowchart TD
+  A[Her terimde ortak çarpan?]
+  B[EBOB ile paranteze al]
+  C[Terimleri ikişerli grupla]
+  D[Her gruptan ortak çarpan]
+  E{Parantezler aynı mı?}
+  F[Ortak parantezi dışarı al]
+  G[İşaret çevir, yeniden grupla]
+  A -- Evet --> B
+  A -- Hayır --> C --> D --> E
+  E -- Evet --> F
+  E -- Hayır --> G --> D
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class C,D,E mavi
+  class B,F yesil
+  class G sari

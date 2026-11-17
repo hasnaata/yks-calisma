@@ -1,0 +1,27 @@
+flowchart TD
+  A["Kökü yalnız bırak"]
+  B{"Kök derecesi çift mi?"}
+  C{"Öbür taraf negatif mi?"}
+  D[Çözüm yok]
+  E["Kuvvet al, çöz"]
+  F{"Sağlıyor mu?"}
+  G[Kök geçerli]
+  H[Yabancı kök, at]
+  A --> B
+  B -- evet --> C
+  B -- hayır --> E
+  C -- evet --> D
+  C -- hayır --> E
+  E --> F
+  F -- evet --> G
+  F -- hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class E sari
+  class B,C,F mavi
+  class G yesil
+  class D,H kirmizi

@@ -1,0 +1,20 @@
+flowchart LR
+  A[Kısıtı bul]
+  B[Belirli yer]
+  C[Yan yana olsun]
+  D[Yan yana olmasın]
+  E[Eleman bulunsun]
+  F[Önce o yeri doldur]
+  G[Blok yap, içini sırala]
+  H[Tümü eksi yan yana]
+  I[Tümü eksi bulunmayan]
+  A --> B --> F
+  A --> C --> G
+  A --> D --> H
+  A --> E --> I
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,C,D,E mavi
+  class F,G,H,I yesil

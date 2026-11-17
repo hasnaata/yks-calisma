@@ -1,0 +1,22 @@
+flowchart TD
+  A["f sabit fonksiyon"]
+  B{Kural nasıl?}
+  C["Polinom kuralı"]
+  D["Kesirli: (ax+b)/(cx+d)"]
+  E["x'li katsayılar = 0"]
+  F["a/c = b/d yaz"]
+  G["f(x) = sabit terim"]
+  H["f(x) = a/c"]
+  A --> B
+  B --> C
+  B --> D
+  C --> E --> G
+  D --> F --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B mavi
+  class C,E,G yesil
+  class D,F,H sari

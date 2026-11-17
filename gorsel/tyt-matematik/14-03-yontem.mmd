@@ -1,0 +1,26 @@
+flowchart TD
+  O["Önce ortak çarpanı al"]
+  S{"Kaç terim kaldı?"}
+  I["İki terim:<br/>kare mi, küp mü?"]
+  KF["a² − b²<br/>(a − b)(a + b)"]
+  KT["a³ ± b³<br/>(a ± b)(a² ∓ ab + b²)"]
+  D["Dört terim:<br/>1, 3, 3, 1 mi?"]
+  TK["(a + b)³ ya da (a − b)³"]
+  R["Çarpanları yine yokla"]
+  O --> S
+  S -->|2 terim| I
+  S -->|4 terim| D
+  I -->|kare| KF
+  I -->|küp| KT
+  D --> TK
+  KF --> R
+  KT --> R
+  TK --> R
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class O kok
+  class S,I,D mavi
+  class KF,KT,TK yesil
+  class R sari

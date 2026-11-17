@@ -1,0 +1,20 @@
+flowchart TD
+  A{Ne soruluyor?}
+  B[Katsayılar toplamı]
+  C[Değişkenlere 1 yaz]
+  D[Sabit terim]
+  E{x paydada var mı?}
+  F[Değişkenlere 0 yaz]
+  H[Belirli ya da ortadaki terim]
+  G[Genel terimden r'yi bul]
+  A --> B --> C
+  A --> D --> E
+  E -- Hayır --> F
+  E -- Evet --> G
+  A --> H --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,D,E,H mavi
+  class C,F,G yesil

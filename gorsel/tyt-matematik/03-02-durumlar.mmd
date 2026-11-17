@@ -1,0 +1,22 @@
+flowchart TD
+  A[Denklemi ax = b yap]
+  B{a sıfır mı?}
+  C[Tek kök: x = b/a]
+  D{b sıfır mı?}
+  E[ÇK = ℝ]
+  F[ÇK = boş küme]
+  A --> B
+  B -- hayır --> C
+  B -- evet --> D
+  D -- evet --> E
+  D -- hayır --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,D mavi
+  class C yesil
+  class E sari
+  class F kirmizi

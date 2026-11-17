@@ -1,0 +1,17 @@
+flowchart TD
+  K[der P = n, der Q = m]
+  A[Toplama, çıkarma]
+  B[Çarpma]
+  C[Kuvvet, bileşke]
+  A1[Büyük olan: n]
+  B1[Toplanır: n + m]
+  C1[Çarpılır: n·k, n·m]
+  K --> A --> A1
+  K --> B --> B1
+  K --> C --> C1
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class K kok
+  class A,B,C mavi
+  class A1,B1,C1 yesil

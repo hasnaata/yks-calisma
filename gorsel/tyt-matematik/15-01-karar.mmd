@@ -1,0 +1,19 @@
+flowchart TD
+  A[x paydada veya kökte mi?]
+  B[Bütün terimleri sola topla]
+  C[Benzer terimleri sadeleştir]
+  D[En büyük üs 2 mi?]
+  E[İkinci dereceden denklem]
+  N[İkinci dereceden değil]
+  A -- Evet --> N
+  A -- Hayır --> B --> C --> D
+  D -- Evet --> E
+  D -- Hayır --> N
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,C,D mavi
+  class E yesil
+  class N kirmizi

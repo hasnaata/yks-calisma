@@ -1,0 +1,20 @@
+flowchart TD
+  A[Her terimi ayrı incele]
+  B{x'in üssü doğal sayı mı?}
+  C[Polinom]
+  D[Polinom değil]
+  E[Katsayı kesir, kök olabilir]
+  A --> B
+  B -- Evet, hepsinde --> C
+  B -- Biri bile değil --> D
+  C --> E
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B mavi
+  class C yesil
+  class D kirmizi
+  class E sari

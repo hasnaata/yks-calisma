@@ -1,0 +1,20 @@
+flowchart TD
+  A[Doldurulacak yerleri belirle]
+  B[Kısıtlı yerden başla]
+  C[Her yere seçenek yaz]
+  D{Tek kalıp yeter mi?}
+  E[Kutuları çarp]
+  F[Durumlara ayır, çarp]
+  G[Durumları topla]
+  A --> B --> C --> D
+  D -- Evet --> E
+  D -- Hayır --> F --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,C mavi
+  class D sari
+  class E,G yesil
+  class F sari

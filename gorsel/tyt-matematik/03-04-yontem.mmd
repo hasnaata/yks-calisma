@@ -1,0 +1,25 @@
+flowchart TD
+  A[Denklem sistemi]
+  B{Bir bilinmeyen yalnız mı?}
+  C[Yerine koy]
+  D{Katsayılar zıt mı?}
+  E[Taraf tarafa topla]
+  F[Uygun sayılarla çarp]
+  G[Diğerini bul, sağla]
+  A --> B
+  B -- evet --> C
+  B -- hayır --> D
+  D -- evet --> E
+  D -- hayır --> F
+  F --> E
+  C --> G
+  E --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,D mavi
+  class C,E yesil
+  class F sari
+  class G kok

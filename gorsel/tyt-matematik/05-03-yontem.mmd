@@ -1,0 +1,18 @@
+flowchart TD
+  A[Verileni ve isteneni yaz]
+  C[Bilinmeyene harf ver]
+  D[Denklemi kur, çöz]
+  F{x istenen mi?}
+  H[İsteneni hesapla]
+  G[Soruda yerine koy]
+  A --> C --> D --> F
+  F -- Evet --> G
+  F -- Hayır --> H --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class C,D,H mavi
+  class F sari
+  class G yesil

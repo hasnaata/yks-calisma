@@ -1,0 +1,23 @@
+flowchart TD
+  A[Periyodu bul]
+  B{İki olay birlikte mi?}
+  C[Periyot = EKOK]
+  D[Atılan adımı bul]
+  E[Adımı periyoda böl]
+  F{Kalan kaç?}
+  G[Kalan kadar ilerle]
+  H[Başlangıçla aynı yer]
+  A --> B
+  B -->|evet| C --> D
+  B -->|hayır| D
+  D --> E --> F
+  F -->|0 değil| G
+  F -->|0| H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,D,E,F mavi
+  class C sari
+  class G,H yesil

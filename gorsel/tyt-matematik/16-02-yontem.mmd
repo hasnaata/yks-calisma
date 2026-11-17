@@ -1,0 +1,13 @@
+flowchart TD
+  O[1. Ortalamayı bul]
+  F[2. Her veriden ortalamayı çıkar]
+  K[3. Farkların karelerini topla]
+  B[4. Toplamı n − 1'e böl]
+  R[5. Karekökünü al]
+  O --> F --> K --> B --> R
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class O kok
+  class F,K,B mavi
+  class R yesil

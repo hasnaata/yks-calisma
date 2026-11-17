@@ -1,0 +1,35 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+def uz(P, Q): return round(float(np.linalg.norm(np.asarray(P, float) - np.asarray(Q, float))), 3)
+def kenar(ax, P, Q, metin, G, d=0.45, renk=YAZI, fs=13):
+    """[PQ] kenarının ortasına, G noktasından uzak tarafa etiket."""
+    P, Q = np.asarray(P, float), np.asarray(Q, float); M = (P + Q) / 2
+    u = (Q - P) / np.linalg.norm(Q - P); v = np.array([-u[1], u[0]])
+    if np.dot(v, M - np.asarray(G, float)) < 0: v = -v
+    ax.text(*(M + d * v), metin, ha="center", va="center", color=renk, fontsize=fs)
+def dik(ax, K, P, Q, s=0.3, renk=SOLUK):
+    """K köşesinde KP ile KQ arasındaki dik açı işareti."""
+    K, P, Q = (np.asarray(t, float) for t in (K, P, Q))
+    u = (P - K) / np.linalg.norm(P - K) * s; v = (Q - K) / np.linalg.norm(Q - K) * s
+    ax.plot(*zip(K + u, K + u + v, K + v), color=renk, lw=1.3)
+def aci_olc(K, P, Q):
+    u, v = np.asarray(P, float) - K, np.asarray(Q, float) - K
+    return round(float(np.degrees(np.arccos(np.dot(u, v) / np.linalg.norm(u) / np.linalg.norm(v)))), 3)
+
+# [AH] ⊥ [BC], D noktası [AH] üzerinde. AB=11, AC=9, DB=7, DC=x=3.
+# |HB|²=44, |HC|²=4, |AH|²=77, |DH|²=5.
+H = np.array([0.0, 0.0]); B = np.array([-np.sqrt(44), 0]); C = np.array([2.0, 0]); A = np.array([0, np.sqrt(77)]); D = np.array([0, np.sqrt(5)])
+print("AB AC DB DC", uz(A, B), uz(A, C), uz(D, B), uz(D, C))
+fig, ax = sekil(5, 5.4); ax.set_aspect("equal"); ax.axis("off")
+ax.plot(*zip(A, B, C, A), color=YAZI)
+ax.plot(*zip(A, H), color=MAVI, lw=1.8)
+ax.plot(*zip(B, D, C), color=YESIL, lw=1.8)
+dik(ax, H, A, C, s=0.4, renk=MAVI)
+kenar(ax, A, B, "11", D, d=0.45, renk=KIRMIZI); kenar(ax, A, C, "9", B, d=0.4, renk=KIRMIZI)
+ax.text(-3.4, 1.55, "7", color=YESIL, ha="center", va="center")
+ax.text(0.9, 0.62, "x", color=YESIL, ha="center", va="center", fontsize=15)
+nokta(ax, *A, "A", dx=-0.2, dy=0.3); nokta(ax, *B, "B", dx=-0.65, dy=-0.2); nokta(ax, *C, "C", dx=0.2, dy=-0.25)
+nokta(ax, *H, "H", dx=-0.25, dy=-0.75, renk=MAVI); nokta(ax, *D, "D", dx=-0.75, dy=0.15)
+ax.set_xlim(-7.6, 3.2); ax.set_ylim(-1.0, 9.8)
+kaydet(fig, __file__)

@@ -1,0 +1,22 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# 100 TL -> %20 artış (100'ün %20'si = 20) -> 120 TL -> %20 azalış (120'nin %20'si = 24) -> 96 TL.
+fig, ax = sekil(6, 4)
+for s in ("top", "right", "left"): ax.spines[s].set_visible(False)
+ax.set_yticks([]); ax.set_xticks([0, 1, 2])
+ax.set_xticklabels(["Başta", "%20 artış\nsonra", "%20 azalış\nsonra"], fontsize=11, color=YAZI)
+ax.bar(0, 100, 0.55, color=MAVI_ACIK, edgecolor=MAVI, lw=1.4)
+ax.bar(1, 100, 0.55, color=MAVI_ACIK, edgecolor=MAVI, lw=1.4)
+ax.bar(1, 20, 0.55, bottom=100, color=YESIL_ACIK, edgecolor=YESIL, lw=1.4)
+ax.bar(2, 96, 0.55, color=MAVI_ACIK, edgecolor=MAVI, lw=1.4)
+ax.bar(2, 24, 0.55, bottom=96, color=KIRMIZI_ACIK, edgecolor=KIRMIZI, lw=1.4)
+ax.text(0, 50, "100", ha="center", va="center", fontsize=14, color=MAVI)
+ax.text(1, 50, "120", ha="center", va="center", fontsize=14, color=MAVI)
+ax.text(1, 110, "+20", ha="center", va="center", fontsize=12, color=YESIL)
+ax.text(2, 50, "96", ha="center", va="center", fontsize=14, color=MAVI)
+ax.text(2, 108, "−24", ha="center", va="center", fontsize=12, color=KIRMIZI)
+ax.axhline(100, color=SOLUK, lw=1, ls="--", zorder=0)
+ax.text(-0.48, 101.5, "100", va="bottom", ha="left", fontsize=10, color=SOLUK)
+ax.set_xlim(-0.5, 2.5); ax.set_ylim(0, 132)
+kaydet(fig, __file__)

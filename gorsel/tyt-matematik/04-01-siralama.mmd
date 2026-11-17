@@ -1,0 +1,20 @@
+flowchart TD
+  A[Üslü sayıları sırala]
+  B{Tabanlar eşitlenebiliyor mu?}
+  C[Büyük üs büyüktür]
+  D{Üsler eşitlenebiliyor mu?}
+  E[Büyük taban büyüktür]
+  F[Ardışık kuvvetler arasına yerleştir]
+  A --> B
+  B -- evet --> C
+  B -- hayır --> D
+  D -- evet --> E
+  D -- hayır --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,D mavi
+  class C,E yesil
+  class F sari

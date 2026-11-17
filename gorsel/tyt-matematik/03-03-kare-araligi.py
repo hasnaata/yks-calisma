@@ -1,0 +1,22 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# −3 < x < 2 iken y = x² değerleri: en küçüğü 0 (x = 0), en büyüğe 9'a yaklaşır ama ulaşmaz: 0 ≤ x² < 9.
+fig, ax = sekil(5.2, 4.6)
+eksenler(ax, x=(-4, 3.2), y=(-1, 10.5))
+ax.set_xticks([-3, -2, -1, 1, 2]); ax.set_yticks([4, 9])
+ax.set_xticklabels(["−3", "−2", "−1", "1", "2"]); ax.set_yticklabels(["4", "9"])
+t = np.linspace(-3, 2, 200)
+ax.plot(t, t ** 2, color=MAVI, zorder=3)
+t2 = np.linspace(-3.6, 2.6, 200)
+ax.plot(t2, t2 ** 2, color=MAVI, lw=1, alpha=0.3, zorder=2)
+ax.plot(-3, 9, "o", color=MAVI, markerfacecolor="white", markersize=9, mew=2, zorder=5)
+ax.plot(2, 4, "o", color=MAVI, markerfacecolor="white", markersize=9, mew=2, zorder=5)
+ax.plot(0, 0, "o", color=YESIL, markersize=9, zorder=6)
+ax.vlines(0, 0, 9, color=KIRMIZI, lw=6, alpha=0.8, zorder=4)
+ax.plot(0, 9, "o", color=KIRMIZI, markerfacecolor="white", markersize=9, mew=2, zorder=6)
+ax.hlines(9, -3, 0, color=SOLUK, lw=1, ls="--")
+ax.hlines(4, 0, 2, color=SOLUK, lw=1, ls="--")
+ax.annotate("en küçük: 0", xy=(-0.15, 0.1), xytext=(-3.3, 0.5), color=YESIL, fontsize=12, arrowprops=dict(arrowstyle="-|>", color=YESIL, lw=1.2))
+ax.text(0.45, 7.6, "0 ≤ x² < 9", color=KIRMIZI, fontsize=14, fontweight="bold")
+kaydet(fig, __file__)

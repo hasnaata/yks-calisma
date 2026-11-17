@@ -1,0 +1,17 @@
+flowchart TD
+  A[Faktöriyelli ifade]
+  B[Bölme ya da çarpma]
+  C[Toplama ya da çıkarma]
+  D[Asal çarpan sayısı]
+  E[Büyüğü küçüğe kadar aç]
+  F[En küçüğü paranteze al]
+  G[Art arda böl, topla]
+  A --> B --> E
+  A --> C --> F
+  A --> D --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,C,D mavi
+  class E,F,G yesil

@@ -1,0 +1,20 @@
+flowchart TD
+  A[Sayı n verildi]
+  B{n en az 2 mi?}
+  C[Karesi n'yi aşmayan asallar]
+  D{Birine tam bölünüyor mu?}
+  E[Asal değil]
+  F[Asaldır]
+  A --> B
+  B -- Hayır --> E
+  B -- Evet --> C --> D
+  D -- Evet --> E
+  D -- Hayır --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,C,D mavi
+  class F yesil
+  class E kirmizi

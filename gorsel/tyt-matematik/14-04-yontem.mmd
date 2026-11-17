@@ -1,0 +1,24 @@
+flowchart TD
+  O["Önce ortak çarpanı al"]
+  D{"Tekrar eden ifade var mı?"}
+  T["Ona t de"]
+  B{"Baş katsayı 1 mi?"}
+  E["Çarpımı c, toplamı b"]
+  C["Çapraz çarpımı dene"]
+  K["x = 1 koyup kontrol et"]
+  O --> D
+  D -->|evet| T
+  D -->|hayır| B
+  T --> B
+  B -->|evet| E
+  B -->|hayır| C
+  E --> K
+  C --> K
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class O kok
+  class D,B mavi
+  class T,E,C yesil
+  class K sari

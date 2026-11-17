@@ -1,0 +1,20 @@
+flowchart TD
+  A["Soruda ne verilmiş?"]
+  B["Kökler verilmiş"]
+  C["Katsayılar verilmiş"]
+  D["Köklerle ilgili koşul"]
+  E["x² − Tx + Ç = 0 kur"]
+  F["İfadeyi T, Ç ile yaz"]
+  G["Koşulu T, Ç ile çöz"]
+  H["T = −b/a, Ç = c/a"]
+  A --> B --> E
+  A --> C --> H --> F
+  A --> D --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class B,C,D mavi
+  class H sari
+  class E,F,G yesil

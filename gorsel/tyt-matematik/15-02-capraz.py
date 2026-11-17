@@ -1,0 +1,20 @@
+import sys; sys.path.insert(0, "tools")
+from cizim import *
+
+# 2x² − 5x − 3 = 0 için çapraz çarpım: (2x + 1)(x − 3)
+fig, ax = sekil(6, 3.4)
+ax.set_xlim(0, 10); ax.set_ylim(0, 6); ax.axis("off")
+ax.text(5, 5.5, "2x² − 5x − 3 = 0", ha="center", fontsize=16, color=YAZI)
+# sol sütun: x² teriminin çarpanları, sağ sütun: sabit terimin çarpanları
+ax.text(2.2, 3.9, "2x", ha="center", fontsize=17, color=MAVI)
+ax.text(2.2, 1.6, "x", ha="center", fontsize=17, color=MAVI)
+ax.text(4.6, 3.9, "+1", ha="center", fontsize=17, color=YESIL)
+ax.text(4.6, 1.6, "−3", ha="center", fontsize=17, color=YESIL)
+ax.annotate("", xy=(4.1, 1.95), xytext=(2.7, 3.85), arrowprops=dict(arrowstyle="-", color=KIRMIZI, lw=1.8))
+ax.annotate("", xy=(4.1, 3.85), xytext=(2.7, 1.95), arrowprops=dict(arrowstyle="-", color=KIRMIZI, lw=1.8))
+ax.text(2.2, 0.55, "çarpım 2x²", ha="center", fontsize=11, color=SOLUK)
+ax.text(4.6, 0.55, "çarpım −3", ha="center", fontsize=11, color=SOLUK)
+ax.text(6.0, 3.3, "2x · (−3) = −6x", ha="left", fontsize=13, color=KIRMIZI)
+ax.text(6.0, 2.5, "x · (+1) = +x", ha="left", fontsize=13, color=KIRMIZI)
+ax.text(6.0, 1.6, "toplam: −5x ✓", ha="left", fontsize=13, color=YAZI)
+kaydet(fig, __file__)

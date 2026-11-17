@@ -1,0 +1,16 @@
+flowchart TD
+  T["Bölmeyi çarpmaya çevir"]
+  A["Pay ve paydaları ayır"]
+  N["Tanımsız değerleri yaz"]
+  P["Gerekirse paydaları eşitle"]
+  O["Ortak çarpanları sadeleştir"]
+  K["Bir sayıyla kontrol et"]
+  T --> A --> N --> P --> O --> K
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class A kok
+  class T,P,O yesil
+  class N kirmizi
+  class K sari

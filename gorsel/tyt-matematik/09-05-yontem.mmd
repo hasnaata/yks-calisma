@@ -1,0 +1,20 @@
+flowchart TD
+  A[Seçilenler sıralanıyor mu?]
+  B[Evet: permütasyon]
+  C[Hayır: kombinasyon]
+  D["x bulunsun"]
+  E["x bulunmasın"]
+  F["x'i al, n−1'den r−1 seç"]
+  G["x'i at, n−1'den r seç"]
+  A --> B
+  A --> C
+  C --> D --> F
+  C --> E --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B sari
+  class C,D,E mavi
+  class F,G yesil

@@ -1,0 +1,23 @@
+flowchart TD
+  A[Çıktılar eş olası mı?]
+  B["s(E): bütün çıktılar"]
+  C{Soruda ne var?}
+  D["En az bir: 1 − P(hiç)"]
+  E["Veya: ortak kısmı çıkar"]
+  F["Diğer: s(A) say"]
+  G["P = s(A) / s(E)"]
+  A --> B --> C
+  C --> D
+  C --> E
+  C --> F
+  D --> G
+  E --> G
+  F --> G
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,C mavi
+  class D,E,F sari
+  class G yesil

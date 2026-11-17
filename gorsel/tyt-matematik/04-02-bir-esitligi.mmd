@@ -1,0 +1,29 @@
+flowchart TD
+  A["aᵇ = 1"]
+  B["Üs: b = 0"]
+  C["Taban: a = 1"]
+  D["Taban: a = −1"]
+  E{"a sıfır mı?"}
+  F{"b çift mi?"}
+  G[Kök geçerli]
+  H[Kökü at]
+  A --> B
+  A --> C
+  A --> D
+  B --> E
+  E -- hayır --> G
+  E -- evet --> H
+  C --> G
+  D --> F
+  F -- evet --> G
+  F -- hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,C,D sari
+  class E,F mavi
+  class G yesil
+  class H kirmizi

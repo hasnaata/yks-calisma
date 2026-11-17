@@ -1,0 +1,19 @@
+flowchart TD
+  A[Böleni iki çarpana ayır]
+  B{Çarpanlar aralarında asal mı?}
+  C[Başka iki çarpan seç]
+  D[Önce son basamak kuralı]
+  E[Sonra tüm basamaklar kuralı]
+  F[İki koşulu birlikte sağla]
+  A --> B
+  B -->|hayır| C
+  C --> B
+  B -->|evet| D --> E --> F
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  class A kok
+  class B,D,E mavi
+  class C kirmizi
+  class F yesil

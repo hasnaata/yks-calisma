@@ -1,0 +1,14 @@
+flowchart TD
+    S["Dik açıdan hipotenüse dikme"] --> Q{"Soruda hangileri var?"}
+    Q -->|"h, p, k"| R1["h² = p · k"]
+    Q -->|"dik kenar ve parça"| R2["c² = p · a<br/>b² = k · a"]
+    Q -->|"iki dik kenar"| R3["a² = b² + c²<br/>h = b · c / a"]
+    R1 --> K["Pisagorla kontrol et"]
+    R2 --> K
+    R3 --> K
+    classDef ana fill:#e8f0fc,stroke:#1f5fbf,color:#1d1f24
+    classDef kural fill:#e3f4e9,stroke:#1c7c45,color:#1d1f24
+    classDef son fill:#fdf3d8,stroke:#8a5a00,color:#1d1f24
+    class S,Q ana
+    class R1,R2,R3 kural
+    class K son

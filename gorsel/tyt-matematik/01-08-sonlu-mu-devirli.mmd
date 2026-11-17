@@ -1,0 +1,17 @@
+flowchart TD
+  K[Kesri en sade<br/>hâline getir]
+  A[Paydayı asal<br/>çarpanlarına ayır]
+  S{Yalnız 2 ve 5<br/>mi var?}
+  E[Sonlu ondalık<br/>örnek: 7/40 = 0,175]
+  H[Devirli ondalık<br/>örnek: 5/11 = 0,4545...]
+  K --> A --> S
+  S -- Evet --> E
+  S -- Hayır --> H
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef sari fill:#fdf3d8,stroke:#8a5a00
+  class K kok
+  class A,S mavi
+  class E yesil
+  class H sari

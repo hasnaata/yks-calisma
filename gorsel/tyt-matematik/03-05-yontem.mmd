@@ -1,0 +1,26 @@
+flowchart TD
+  A[Eşitsizliği eşitlik yap]
+  B[İki noktayla doğruyu çiz]
+  C{Eşitlik var mı?}
+  D[Düz çizgi]
+  E[Kesikli çizgi]
+  F["(0, 0) noktasını dene"]
+  G{Eşitsizlik doğru mu?}
+  H[O tarafı boya]
+  I[Karşı tarafı boya]
+  A --> B --> C
+  C -- "≤ ya da ≥" --> D
+  C -- "< ya da >" --> E
+  D --> F
+  E --> F
+  F --> G
+  G -- evet --> H
+  G -- hayır --> I
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  classDef mavi fill:#e8f0fc,stroke:#1f5fbf
+  classDef yesil fill:#e3f4e9,stroke:#1c7c45
+  classDef kirmizi fill:#fbe9e7,stroke:#b3261e
+  class A kok
+  class B,C,D,E,F,G mavi
+  class H yesil
+  class I kirmizi

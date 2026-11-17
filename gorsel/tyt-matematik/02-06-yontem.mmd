@@ -1,0 +1,13 @@
+flowchart TD
+  S["Soru ne istiyor?"] --> P["Bütünü eş parçalara böl"]
+  S --> B["Parçaları birleştir"]
+  S --> T["Olaylar tekrar ediyor"]
+  P --> E1["EBOB: parça en büyük"]
+  B --> E2["EKOK: bütün en küçük"]
+  T --> E3["EKOK: ortak periyot"]
+  classDef ebob fill:#e3f4e9,stroke:#1c7c45,color:#1c7c45
+  classDef ekok fill:#fdf3d8,stroke:#8a5a00,color:#8a5a00
+  class E1 ebob
+  class E2,E3 ekok
+  classDef kok fill:#1f5fbf,stroke:#1f5fbf,color:#ffffff
+  class S kok
