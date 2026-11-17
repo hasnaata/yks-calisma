@@ -2,7 +2,7 @@
 baslik: Kümelerde Kesişim ve Birleşim İşlemleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Kümelerde Kesişim ve Birleşim İşlemleri
 
@@ -164,7 +164,7 @@ D) $A \cap C = \emptyset$
 E) $A \cap C = C$
 
 **Cevap:** E
-**Çözüm:** $A \cup B = A$ ise $B$'nin her elemanı $A$'dadır: $B \subseteq A$. $B \cap C = C$ ise $C$'nin her elemanı $B$'dedir: $C \subseteq B$. Buradan $C \subseteq B \subseteq A$, yani $C \subseteq A$ ve $A \cap C = C$ her zaman doğrudur. Diğerleri yalnızca kümeler eşitse doğrudur: $A \cap B = B$ olur, $A$ değil; $B \cup C = B$ ve $A \cup C = A$ olur. $C$ boş olmadığı ve $A$'nın içinde kaldığı için $A \cap C$ boş olamaz.
+**Çözüm:** $A \cup B = A$ ise $B$'nin her elemanı $A$'dadır: $B \subseteq A$. $B \cap C = C$ ise $C$'nin her elemanı $B$'dedir: $C \subseteq B$. Buradan $C \subseteq B \subseteq A$, yani $C \subseteq A$ ve $A \cap C = C$ her zaman doğrudur. A, B ve C seçenekleri yalnızca ilgili kümeler eşitse doğrudur: $A \cap B = B$ olur, $A$ değil; $B \cup C = B$ ve $A \cup C = A$ olur. $C$ boş olmadığı ve $A$'nın içinde kaldığı için $A \cap C$ boş olamaz.
 
 ### Soru 12 · ÖSYM tarzı
 40 kişilik bir kurs merkezinde resim kursuna 26, müzik kursuna 21 kişi kayıtlıdır. Merkezdeki bazı kişiler bu iki kursun hiçbirine kayıtlı olmayabilir.

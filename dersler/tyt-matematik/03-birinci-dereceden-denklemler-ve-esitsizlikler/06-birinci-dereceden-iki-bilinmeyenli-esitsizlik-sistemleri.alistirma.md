@@ -128,7 +128,7 @@ D) 12
 E) 18
 
 **Cevap:** C
-**Çözüm:** Koşullar: $20x + 10y \le 80$, yani $2x + y \le 8$; $x \ge 1$; $y \ge x$. $x = 1$: $1 \le y \le 6$ (6 seçenek). $x = 2$: $2 \le y \le 4$ (3 seçenek). $x = 3$: $y \le 2$ olmalı ama $y \ge 3$; yok. Toplam 9. "Az olmayacak" ifadesini "fazla olacak" ($y > x$) diye okuyan 7 bulur; $y \ge x$ koşulunu atlayan 12 bulur.
+**Çözüm:** Koşullar: $20x + 10y \le 80$, yani $2x + y \le 8$; $x \ge 1$; $y \ge x$. $x = 1$: $1 \le y \le 6$ (6 seçenek). $x = 2$: $2 \le y \le 4$ (3 seçenek). $x = 3$: $y \le 2$ olmalı ama $y \ge 3$; yok. Toplam 9. "Az olmayacak" ifadesini "fazla olacak" ($y > x$) diye okuyan 7 bulur; $y \ge x$ koşulu yerine yalnızca "en az bir ayran" ($y \ge 1$) koşulunu kullanan 12 bulur.
 
 ### Soru 9 · ÖSYM tarzı
 Aşağıdaki grafikte boyalı bölge bir eşitsizlik sisteminin çözüm kümesidir. Düz çizilen sınırlar çözüme dahil, kesikli çizilen sınır dahil değildir.

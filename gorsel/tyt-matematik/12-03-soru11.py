@@ -6,7 +6,7 @@ from cizim import *
 fig, ax = sekil(5.6, 4.2)
 eksenler(ax, x=(0, 11.8), y=(0, 590))
 ax.set_xticks(range(1, 11)); ax.set_xticklabels(["", "", "", "", "5", "", "", "", "", "10"])
-ax.set_yticks([100, 200, 300, 400, 450, 500]); ax.set_yticklabels(["100", "200", "300", "400", "450", "500"])
+ax.set_yticks([100, 200, 300, 450, 500]); ax.set_yticklabels(["100", "200", "300", "450", "500"])
 ax.plot([0, 10], [300, 500], color=MAVI); ax.plot([0, 10], [0, 450], color=YESIL)
 for yy in (450, 500): ax.plot([0, 10], [yy, yy], ":", color=SOLUK, lw=1.2)
 ax.plot([10, 10], [0, 500], ":", color=SOLUK, lw=1.2)

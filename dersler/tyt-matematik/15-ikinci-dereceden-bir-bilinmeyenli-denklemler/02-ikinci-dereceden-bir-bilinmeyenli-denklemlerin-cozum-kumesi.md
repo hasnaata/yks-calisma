@@ -3,7 +3,7 @@ baslik: İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 38df35be86
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İkinci Dereceden Bir Bilinmeyenli Denklemlerin Çözüm Kümesi
 
@@ -157,7 +157,7 @@ D) $\{-3, 8\}$
 E) $\{4, 6\}$
 
 **Cevap:** B
-**Çözüm:** Çarpımı $-24$, toplamı $2$ olan sayılar $6$ ve $-4$: $(x + 6)(x - 4) = 0$. Kökler $x = -6$ ve $x = 4$. A seçeneği kökleri çarpandaki işaretle okumaktır ($6 - 4 = 2$ ama işaret ters döner). C ve D'de çarpım $-24$ ama toplam $\pm 5$ olur.
+**Çözüm:** Çarpımı $-24$, toplamı $2$ olan sayılar $6$ ve $-4$: $(x + 6)(x - 4) = 0$. Kökler $x = -6$ ve $x = 4$. A, kökleri çarpandaki işaretle okumaktır ($x + 6$ çarpanından $6$ değil, $-6$ çıkar). C ve D'de çarpım $-24$ ama toplam $\pm 5$ olur.
 
 ### Soru 2
 $(x - 3)^2 = 16$ denkleminin köklerinin toplamı kaçtır?
@@ -169,7 +169,7 @@ D) $6$
 E) $7$
 
 **Cevap:** D
-**Çözüm:** $x - 3 = 4$ ya da $x - 3 = -4$. Buradan $x = 7$ ya da $x = -1$; toplam $7 + (-1) = 6$. Eksi tarafı unutan yalnızca $7$'yi bulur; yalnızca $-1$ diğer köktür.
+**Çözüm:** $x - 3 = 4$ ya da $x - 3 = -4$. Buradan $x = 7$ ya da $x = -1$; toplam $7 + (-1) = 6$. Eksi tarafı unutan yalnızca $7$'yi (E) bulur; B ise yalnızca diğer kök $-1$'dir.
 
 ### Soru 3
 $x^4 - 3x^2 - 4 = 0$ denkleminin gerçek sayılardaki çözüm kümesi aşağıdakilerden hangisidir?

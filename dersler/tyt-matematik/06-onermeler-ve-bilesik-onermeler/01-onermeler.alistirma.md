@@ -2,7 +2,7 @@
 baslik: Önermeler · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Önermeler
 
@@ -65,7 +65,7 @@ D) $q \equiv s$
 E) $r \equiv s$
 
 **Cevap:** D
-**Çözüm:** $\sqrt{16} = 4$ doğrudur: $p \equiv 1$. Üs yalnızca 3'e etki eder, $-3^2 = -9$ olur: $q \equiv 0$. 0 doğal sayıdır: $r \equiv 1$. 1 asal sayı değildir (asal sayının tam iki pozitif böleni vardır): $s \equiv 0$. Değerleri aynı olan çift yalnızca $q$ ile $s$'dir (ikisi de 0). $-3^2$ ifadesini 9 sanan A seçeneğini doğru bulur.
+**Çözüm:** $\sqrt{16} = 4$ doğrudur: $p \equiv 1$. Üs yalnızca 3'e etki eder, $-3^2 = -9$ olur: $q \equiv 0$. 0 doğal sayıdır: $r \equiv 1$. 1 asal sayı değildir (asal sayının tam iki pozitif böleni vardır): $s \equiv 0$. Değerleri aynı olan çift yalnızca $q$ ile $s$'dir (ikisi de 0). $-3^2$ ifadesini 9 sanan, $q \equiv 1$ alır ve hem A'yı hem C'yi doğru bulur; tek cevap çıkmaması hatayı gösterir.
 
 ### Soru 5 · Orta
 Aşağıdaki ifadeler veriliyor.

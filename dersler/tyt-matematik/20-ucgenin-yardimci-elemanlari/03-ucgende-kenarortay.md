@@ -3,7 +3,7 @@ baslik: Üçgende Kenarortay
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 481bc8bb71
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Kenarortay
 
@@ -98,7 +98,7 @@ $$|BE| = |AE| = |EC| = \frac{|AC|}{2}$$
 
 > **Oranı ters kurmak.** $|GD| = 5$ verildiyse $|AG| = 10$, $|AD| = 15$'tir. $|AG| = 2{,}5$ bulduysan oranı ters çevirmişsindir.
 
-> **Kenarortayı kenarla karıştırmak.** $|AG| = \dfrac{2}{3}V_a$'dır, $\dfrac{2}{3}|BC|$ değil. Ama dik üçgende hipotenüse çizilen kenarortay $\dfrac{|BC|}{2}$ olduğu için bu durumda $|AG| = \dfrac{|BC|}{3}$ olur.
+> **Kenarortayı kenarla karıştırmak.** $|AG| = \dfrac{2}{3}V_a$'dır, $\dfrac{2}{3}|BC|$ değil. Ama $m(\widehat{A}) = 90^\circ$ ise hipotenüse çizilen kenarortay $\dfrac{|BC|}{2}$ olduğu için bu durumda $|AG| = \dfrac{|BC|}{3}$ olur.
 
 > **$P$ ile $G$'yi karıştırmak.** Orta taban kenarortayı ortalar ($P$); ağırlık merkezi ($G$) $P$'nin altındadır. $3 : 1 : 2$ sırası köşeden başlar.
 

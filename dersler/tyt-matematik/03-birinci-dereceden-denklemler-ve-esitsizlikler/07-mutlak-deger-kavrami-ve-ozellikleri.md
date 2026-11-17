@@ -123,7 +123,7 @@ En küçüğü **5** ($x = 0$).
 
 > **$\sqrt{x^2} = x$ yazmak:** $\sqrt{x^2} = |x|$'tir. $x$ negatifse sonuç $-x$ olur.
 
-> **İçin işaretini tahminle bulmak:** $a < 0 < b$ verildiğinde $a + b$'nin işareti **belli değildir**; $|a|$ ile $|b|$'nin hangisinin büyük olduğuna (sayı doğrusundaki yerlerine) bakmadan açma.
+> **İçinin işaretini tahminle bulmak:** $a < 0 < b$ verildiğinde $a + b$'nin işareti **belli değildir**; $|a|$ ile $|b|$'nin hangisinin büyük olduğuna (sayı doğrusundaki yerlerine) bakmadan açma.
 
 > **Değer ile yeri karıştırmak:** "$|x + 1| + |x - 2|$ ifadesinin en küçük değeri" $3$'tür; bu değer bir tek $x$ için değil, $[-1, 2]$ aralığındaki her $x$ için alınır. Soru kökü hangisini soruyor, oku.
 

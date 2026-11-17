@@ -120,7 +120,7 @@ Her iki sayı da 6'nın katı: $a = 6m$, $b = 6n$. $m$ ile $n$ **aralarında asa
 
 > **Çarpım özelliğini üç sayıya uygulamak:** $2, 4, 8$ için çarpım $64$, ama $\text{EBOB} \cdot \text{EKOK} = 2 \cdot 8 = 16$. $a \cdot b = \text{EBOB} \cdot \text{EKOK}$ yalnızca iki sayı içindir.
 
-> **Ortak katı çarpımla bulmak:** $12$ ve $18$'e bölünen sayılar $12 \cdot 18 = 216$'nın değil, $\text{EKOK} = 36$'nın katlarıdır. $36$'yı kaçırırsan sayımın yarısını kaybedersin.
+> **Ortak katı çarpımla bulmak:** $12$ ve $18$'e bölünen sayılar $12 \cdot 18 = 216$'nın değil, $\text{EKOK} = 36$'nın katlarıdır. Üç basamaklı ortak katları $216$'nın katlarıyla sayan 4 bulur; doğrusu $36$'nın katlarıdır ve 25 tanedir.
 
 > **$m$ ve $n$'yi aralarında asal seçmemek:** $\text{EBOB} = 6$, $\text{EKOK} = 90$ iken $m \cdot n = 15$; ama $\text{EBOB} = 4$, $\text{EKOK} = 48$ olsaydı $m \cdot n = 12$ ve $m = 2$, $n = 6$ seçilemez (sayılar 8 ve 24 olur, EBOB'ları 8'dir).
 

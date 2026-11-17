@@ -2,7 +2,7 @@
 baslik: Üçgenlerin Benzerliği İle İlgili Uygulamalar · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Üçgenlerin Benzerliği İle İlgili Uygulamalar
 
@@ -171,7 +171,7 @@ E) 9
 **Çözüm:** Rampa düz olduğundan yükseklik farkı yatay uzaklıkla orantılıdır. Birinciden ikinciye $24$ cm'de $3 - 1 = 2$ kutu çıkılıyor, yani kutu başına $12$ cm. İkinciden üçüncüye $36$ cm'de $36 : 12 = 3$ kutu daha çıkılır: $3 + 3 = 6$ kutu. Orantıyla: $\dfrac{2}{24} = \dfrac{n - 3}{36} \Rightarrow n - 3 = 3 \Rightarrow n = 6$. $3$, yalnızca farkı bulup ikinci yığını eklemeyi unutmaktır; $9$ ise kutu sayısını ($3$) farkla ($3$) çarpmaktır.
 
 ### Soru 12 · ÖSYM tarzı
-$3$ m uzunluğundaki bir tahterevallinin tahtası, $0{,}4$ m yüksekliğindeki desteğe orta noktasından dayanıyor. Bir ucu yerdeyken öbür ucu $0{,}8$ m yükseğe çıkıyor. Kerem, havadaki ucun $1$ m yükseğe çıkmasını istiyor ve tahtayı destek üzerinde kaydırıyor.
+$3$ m uzunluğundaki bir tahterevallinin tahtası, $0{,}4$ m yüksekliğindeki desteğe orta noktasından dayanıyor. Bir ucu yerdeyken öbür ucu $0{,}8$ m yükseğe çıkıyor. Havadaki ucun $1$ m yükseğe çıkması için tahta, destek üzerinde kaydırılacaktır.
 
 Buna göre tahtanın desteğe değdiği nokta, tahtanın orta noktasından yere değen uca doğru kaç metre uzakta olmalıdır?
 

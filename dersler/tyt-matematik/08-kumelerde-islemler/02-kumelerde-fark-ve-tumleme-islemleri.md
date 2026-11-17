@@ -3,7 +3,7 @@ baslik: Kümelerde Fark ve Tümleme İşlemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b82a06dffe
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kümelerde Fark ve Tümleme İşlemleri
 
@@ -114,7 +114,7 @@ Sınıf evrensel kümedir: $s(E) = 40$. İngilizce kümesi $\text{İ}$, Almanca 
 3. En az bir kursa gidenler: $14 + 8 + 7 = 29$.
 4. Hiçbirine gitmeyenler: $s\big((\text{İ} \cup A)'\big) = 40 - 29 = 11$.
 
-![Dikdörtgen E içinde kesişen iki elips, İ ve A. Yalnız İ bölgesinde 14, ortak bölgede 8, yalnız A bölgesinde 7, elipslerin dışında 11 yazıyor. Her sayının altında bölgenin adı var.](gorsel/tyt-matematik/08-02-dort-bolge.svg "Dört bölgenin toplamı 14 + 8 + 7 + 11 = 40, yani sınıfın tamamı.")
+![Dikdörtgen E içinde kesişen iki elips, İ ve A. Yalnız İ bölgesinde 14, ortak bölgede 8, yalnız A bölgesinde 7, elipslerin dışında 11 yazıyor. Her sayının altında ya da yanında bölgenin adı var.](gorsel/tyt-matematik/08-02-dort-bolge.svg "Dört bölgenin toplamı 14 + 8 + 7 + 11 = 40, yani sınıfın tamamı.")
 
 **Kural.** İki küme evrensel kümeyi dört parçaya ayırır: $A \setminus B$, $A \cap B$, $B \setminus A$, $(A \cup B)'$. Dördünün toplamı $s(E)$'dir.
 

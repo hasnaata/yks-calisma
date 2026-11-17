@@ -28,7 +28,7 @@ ax.text(-0.4, 0, "A", ha="right", va="center"); ax.text(-0.4, ab, "B", ha="right
 ax.text(ad + 0.4, ab, "C", ha="left", va="center"); ax.text(ad + 0.4, 0, "D", ha="left", va="center")
 ax.text(H[0] + 0.35, H[1] + 0.35, "H", color=KIRMIZI, ha="left", va="bottom")
 M1, M2 = (B + H) / 2, (H + D) / 2
-ax.text(*(M1 + 0.9 * np.array([0.6, 0.8])), "4", ha="center", va="center")
+ax.text(*(M1 + 1.0 * np.array([-0.45, -0.89])), "4", ha="center", va="center")
 ax.text(*(M2 + 0.9 * np.array([0.32, 0.95])), "16", ha="center", va="center")
 ax.set_xlim(-1.2, ad + 1.2); ax.set_ylim(-0.6, ab + 0.6)
 kaydet(fig, __file__)

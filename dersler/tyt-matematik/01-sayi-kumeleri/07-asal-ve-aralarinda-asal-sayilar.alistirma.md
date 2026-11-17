@@ -138,7 +138,7 @@ D) 18
 E) 19
 
 **Cevap:** D
-**Çözüm:** $A(10)$: 10'dan küçük, 2'ye ve 5'e bölünmeyen sayılar $1, 3, 7, 9$; $A(10) = 4$. $A(11)$: 11 asal olduğundan 1'den 10'a kadar bütün sayılar 11 ile aralarında asaldır; $A(11) = 10$. $A(12)$: 2'ye ve 3'e bölünmeyenler $1, 5, 7, 11$; $A(12) = 4$. Toplam $4 + 10 + 4 = 18$. 1'i saymayan $3 + 9 + 3 = 15$ bulur; 11'i de sayan 19 bulur.
+**Çözüm:** $A(10)$: 10'dan küçük, 2'ye ve 5'e bölünmeyen sayılar $1, 3, 7, 9$; $A(10) = 4$. $A(11)$: 11 asal olduğundan 1'den 10'a kadar bütün sayılar 11 ile aralarında asaldır; $A(11) = 10$. $A(12)$: 2'ye ve 3'e bölünmeyenler $1, 5, 7, 11$; $A(12) = 4$. Toplam $4 + 10 + 4 = 18$. 1'i saymayan $3 + 9 + 3 = 15$ bulur; $A(11)$'e 11'in kendisini de katan 19 bulur.
 
 ### Soru 10 · ÖSYM tarzı
 Bir oyunda masada aşağıdaki altı kart bulunuyor.

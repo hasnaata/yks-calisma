@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-17T14:41:06.969149</dc:date>
+    <dc:date>2026-11-18T00:15:49.762398</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -36,7 +36,7 @@ L 236.144 240.661333
 L 236.144 37.381333 
 L 32.864 37.381333 
 z
-" clip-path="url(#pf88e466a9e)" style="fill: #e3f4e9; stroke: #1c7c45; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p79ae309618)" style="fill: #e3f4e9; stroke: #1c7c45; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
     <path d="M 168.384 105.141333 
@@ -44,12 +44,17 @@ L 236.144 105.141333
 L 236.144 37.381333 
 L 168.384 37.381333 
 z
-" clip-path="url(#pf88e466a9e)" style="fill: #e8f0fc; stroke: #1f5fbf; stroke-width: 2; stroke-linejoin: miter"/>
+" clip-path="url(#p79ae309618)" style="fill: #e8f0fc; stroke: #1f5fbf; stroke-width: 2; stroke-linejoin: miter"/>
    </g>
    <g id="line2d_1">
+    <path d="M 32.864 35.122667 
+L 32.864 23.829333 
+" clip-path="url(#p79ae309618)" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
     <path d="M 168.384 35.122667 
 L 168.384 23.829333 
-" clip-path="url(#pf88e466a9e)" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: square"/>
+" clip-path="url(#p79ae309618)" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: square"/>
    </g>
    <g id="text_1">
     <!-- Havuz -->
@@ -291,9 +296,22 @@ z
      <use xlink:href="#DejaVuSans-15" transform="translate(257.402344 42.046875) scale(0.7)"/>
     </g>
    </g>
+   <g id="patch_4">
+    <path d="M 165.044796 29.476 
+Q 100.625577 29.476 36.206358 29.476 
+" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 159.844796 26.876 
+L 165.044796 29.476 
+L 159.844796 32.076 
+" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: round"/>
+    <path d="M 41.406358 32.076 
+L 36.206358 29.476 
+L 41.406358 26.876 
+" style="fill: none; stroke: #636a76; stroke-width: 1.2; stroke-linecap: round"/>
+   </g>
    <g id="text_3">
     <!-- 6 m -->
-    <g style="fill: #1d1f24" transform="translate(87.127125 27.242052) scale(0.14 -0.14)">
+    <g style="fill: #1d1f24" transform="translate(87.127125 22.724719) scale(0.14 -0.14)">
      <defs>
       <path id="DejaVuSans-19" d="M 2113 2584 
 Q 1688 2584 1439 2293 
@@ -375,7 +393,7 @@ z
   </g>
  </g>
  <defs>
-  <clipPath id="pf88e466a9e">
+  <clipPath id="p79ae309618">
    <rect x="5.76" y="5.76" width="239.418667" height="243.936"/>
   </clipPath>
  </defs>

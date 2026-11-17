@@ -20,8 +20,8 @@ for P, Q, R in ((A, B, C), (K, L, M)):
 G1, G2 = (A + B + C) / 3, (K + L + M) / 3
 nokta(ax, *A, "A", dx=-0.2, dy=0.3); nokta(ax, *B, "B", dx=-0.85, dy=-0.25); nokta(ax, *C, "C", dx=0.3, dy=-0.25)
 nokta(ax, *K, "K", dx=-0.2, dy=0.3); nokta(ax, *L, "L", dx=-0.85, dy=-0.25); nokta(ax, *M, "M", dx=0.3, dy=-0.25)
-kenar(ax, A, B, "4", G1, renk=YESIL); kenar(ax, A, C, "6", G1, d=0.7, renk=MAVI); kenar(ax, B, C, "7", G1, renk=KIRMIZI)
-kenar(ax, K, L, "8", G2, renk=YESIL); kenar(ax, K, M, "12", G2, d=0.8, renk=MAVI); kenar(ax, L, M, "14", G2, renk=KIRMIZI)
+kenar(ax, A, B, "4", G1, renk=YESIL); kenar(ax, A, C, "6", G1, d=0.7, renk=MAVI); kenar(ax, B, C, "7", G1, d=0.8, renk=KIRMIZI)
+kenar(ax, K, L, "8", G2, renk=YESIL); kenar(ax, K, M, "12", G2, d=0.8, renk=MAVI); kenar(ax, L, M, "14", G2, d=0.85, renk=KIRMIZI)
 aci(ax, A, B, C, r=0.6, renk=KIRMIZI); aci(ax, K, L, M, r=0.9, renk=KIRMIZI)
-ax.set_xlim(-1.1, 25.2); ax.set_ylim(-1.0, K[1] + 0.9)
+ax.set_xlim(-1.1, 25.2); ax.set_ylim(-1.3, K[1] + 0.9)
 kaydet(fig, __file__)

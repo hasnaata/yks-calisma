@@ -111,7 +111,7 @@ $$a - b = 3, \qquad a + b = 5.$$
 
 Taraf tarafa topla: $2a = 8$, $a = $ **4** ve $b = 1$. Kontrol: $15 \cdot 3 = 45 = 9 \cdot 5$. ✓
 
-**Kural.** $m \cdot X = n \cdot Y$ eşitliğinde $X$ ile $Y$ aralarında asalsa önce $m$ ile $n$'yi sadeleştir. Sonra $X$, karşı taraftaki sayıya; $Y$, kendi tarafındaki sayıya eşit olur (çapraz eşleşme).
+**Kural.** $m \cdot X = n \cdot Y$ eşitliğinde $X$ ile $Y$ aralarında asalsa önce $m$ ile $n$'yi sadeleştir. Sonra $X = n$ ve $Y = m$ olur: her ifade karşı taraftaki sayıya eşittir (çapraz eşleşme).
 
 ## ÖSYM tuzakları
 

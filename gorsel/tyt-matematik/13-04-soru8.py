@@ -14,5 +14,5 @@ for r, t, dx in ((-2, "−2", 0.35), (1, "1", -0.25), (3, "3", 0.3)):
     ax.text(r + dx, -0.6, t, fontsize=13, ha="center", va="top", bbox=kutu)
 nokta(ax, 0, 6)
 ax.text(-0.25, 6, "6", fontsize=13, ha="right", va="center", bbox=kutu)
-ax.text(3.65, 6.5, "y = P(x)", color=MAVI, fontsize=13, ha="center", bbox=kutu)
+ax.text(2.75, 7.6, "y = P(x)", color=MAVI, fontsize=13, ha="center", bbox=kutu)
 kaydet(fig, __file__)

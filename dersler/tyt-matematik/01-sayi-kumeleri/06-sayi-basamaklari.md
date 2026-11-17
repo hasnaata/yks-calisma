@@ -9,7 +9,7 @@ guncelleme: 2026-11-17
 
 **Bu dersin sonunda:** $ab$, $abc$ gibi bilinmeyen rakamlı sayıları çözümleyip denkleme çevirebilecek, rakamları yer değiştiren ya da yanına rakam eklenen sayıların nasıl değiştiğini hesaplayabileceksin.
 
-> **TYT'de yeri:** Her sınavda en az bir soru doğrudan basamakla çözülür. Sık gelen kalıplar: "$ab$ iki basamaklı sayı, $ab = k \cdot (a + b)$ ise…", "$AB - BA = 36$ olan kaç sayı var?", "sayının sağına bir rakam yazılınca sayı 466 artıyor" ve "rakamları farklı en büyük / en küçük sayı". Rakamı yanlış okunan sayı, kart dizme, şifre gibi günlük hayat kalıplarıyla da sorulur.
+> **TYT'de yeri:** Basamak çözümlemesi hem doğrudan sorularda hem de başka konuların içinde sık sık gerekir. Sık gelen kalıplar: "$ab$ iki basamaklı sayı, $ab = k \cdot (a + b)$ ise…", "$AB - BA = 36$ olan kaç sayı var?", "sayının sağına bir rakam yazılınca sayı 466 artıyor" ve "rakamları farklı en büyük / en küçük sayı". Rakamı yanlış okunan sayı, kart dizme, şifre gibi günlük hayat kalıplarıyla da sorulur.
 
 ## Önce hatırla
 

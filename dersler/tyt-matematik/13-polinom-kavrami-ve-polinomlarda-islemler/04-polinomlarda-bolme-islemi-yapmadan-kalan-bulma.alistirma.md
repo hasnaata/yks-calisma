@@ -2,7 +2,7 @@
 baslik: Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Polinomlarda Bölme İşlemi Yapmadan Kalan Bulma
 
@@ -120,7 +120,7 @@ D) $4$
 E) $6$
 
 **Cevap:** B
-**Çözüm:** Kökler $-2$, $1$, $3$ olduğundan $(x + 2)$, $(x - 1)$ ve $(x - 3)$ çarpandır: $P(x) = a(x + 2)(x - 1)(x - 3)$. $P(0) = a \cdot 2 \cdot (-1) \cdot (-3) = 6a = 6$, $a = 1$. Kalan $P(2) = 4 \cdot 1 \cdot (-1) = -4$. Grafikte de $x = 2$, $1$ ile $3$ arasında, eğrinin x ekseninin altında kaldığı yerdedir; kalan negatif olmalıdır. $(x - 3)$ yerine $(x + 3)$ alan $4$, kalanı y eksenini kestiği nokta sanan $6$ bulur.
+**Çözüm:** Kökler $-2$, $1$, $3$ olduğundan $(x + 2)$, $(x - 1)$ ve $(x - 3)$ çarpandır: $P(x) = a(x + 2)(x - 1)(x - 3)$. $P(0) = a \cdot 2 \cdot (-1) \cdot (-3) = 6a = 6$, $a = 1$. Kalan $P(2) = 4 \cdot 1 \cdot (-1) = -4$. Grafikte de $x = 2$, $1$ ile $3$ arasında, eğrinin x ekseninin altında kaldığı yerdedir; kalan negatif olmalıdır. $(2 - 3)$ çarpanının işaretini kaçıran $4$, kalanı y eksenini kestiği nokta sanan $6$ bulur.
 
 ### Soru 9 · ÖSYM tarzı
 Bir "kalan makinesi", içine bir $a$ sayısı yazıldığında $P(x)$ polinomunun $(x - a)$ ile bölümünden kalanı ekrana yazmaktadır. Makinede kayıtlı polinom

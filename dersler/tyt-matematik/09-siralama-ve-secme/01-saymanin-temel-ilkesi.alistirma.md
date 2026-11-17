@@ -2,7 +2,7 @@
 baslik: Saymanın Temel İlkesi · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Saymanın Temel İlkesi
 
@@ -87,7 +87,7 @@ E) 81
 ### Soru 7 · Orta
 Aşağıdaki şekilde A, B ve C kentleri arasındaki yollar gösterilmiştir: A ile B arasında 3, B ile C arasında 2 yol vardır; ayrıca A'dan C'ye B'ye uğramadan giden 4 yol vardır.
 
-![A, B, C kentleri yan yana. A ile B arasında mavi 3 yol, B ile C arasında yeşil 2 yol, A ile C arasında alttan dolaşan sarı 4 yol.](gorsel/tyt-matematik/09-01-soru7.svg "Mavi: A ile B arası 3 yol. Yeşil: B ile C arası 2 yol. Sarı: A ile C arası doğrudan 4 yol.")
+![A, B, C kentleri yan yana. A ile B arasında mavi 3 yol, B ile C arasında yeşil 2 yol, A ile C arasında alttan dolaşan kahverengi 4 yol.](gorsel/tyt-matematik/09-01-soru7.svg "Mavi: A ile B arası 3 yol. Yeşil: B ile C arası 2 yol. Kahverengi: A ile C arası doğrudan 4 yol.")
 
 Bir yolcu A kentinden C kentine kaç farklı biçimde gidebilir? (Yolcu bir kente en çok bir kez uğrar.)
 

@@ -164,13 +164,13 @@ Ekranda $2$ yazılıyken sırasıyla K, T, K, K tuşlarına basılıyor.
 Buna göre ekranda son olarak hangi sayı görünür?
 
 A) $2^{7}$
-B) $2^{10}$
-C) $2^{16}$
+B) $2^{8}$
+C) $2^{10}$
 D) $2^{20}$
 E) $2^{24}$
 
 **Cevap:** D
-**Çözüm:** Kare almak üssü $2$ ile çarpar: $(2^a)^2 = 2^{2a}$. $8$ ile çarpmak üsse $3$ ekler: $2^a \cdot 2^3 = 2^{a+3}$. Adımlar: $2^1 \xrightarrow{K} 2^2 \xrightarrow{T} 2^5 \xrightarrow{K} 2^{10} \xrightarrow{K} 2^{20}$. Kareyi "üsse 2 ekle" diye alan $2^{10}$; T tuşunu atlayan $2^{16}$; T'yi "üssü 3 ile çarp" diye uygulayan $2^{24}$ bulur.
+**Çözüm:** Kare almak üssü $2$ ile çarpar: $(2^a)^2 = 2^{2a}$. $8$ ile çarpmak üsse $3$ ekler: $2^a \cdot 2^3 = 2^{a+3}$. Adımlar: $2^1 \xrightarrow{K} 2^2 \xrightarrow{T} 2^5 \xrightarrow{K} 2^{10} \xrightarrow{K} 2^{20}$. Kareyi "üsse 2 ekle" diye alan $2^{10}$; T tuşunu atlayan $2^{8}$; T'yi "üssü 3 ile çarp" diye uygulayan $2^{24}$ bulur.
 
 ### Soru 12 · ÖSYM tarzı
 Bir ayrıtı $2^5$ cm olan küp biçimindeki tahta blok, bir ayrıtı $2^3$ cm olan eş küplere hiç artmayacak biçimde kesiliyor.

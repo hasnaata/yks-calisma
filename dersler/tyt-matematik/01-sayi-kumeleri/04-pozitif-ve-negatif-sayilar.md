@@ -32,7 +32,7 @@ Tek sayının bütün pozitif tam kuvvetleri tektir: $a^n$ tek. Tek + çift = <b
 
 Sıfırdan büyük sayılar **pozitif**, sıfırdan küçük sayılar **negatif** sayılardır. Sayının önündeki $+$ ya da $-$ onun **işaretidir**; işaret yazılmamışsa sayı pozitiftir. $-0 = +0 = 0$ olduğu için sıfır **ne pozitif ne negatiftir**.
 
-![Sayı doğrusu: sıfırın solu kırmızı ve Negatif sayılar diye, sağı yeşil ve Pozitif sayılar diye işaretli; sıfırda boş bir halka var. Altta sağa doğru büyür oku.](gorsel/tyt-matematik/01-04-sayi-dogrusu.svg "Sağdaki sayı her zaman büyüktür. Bu yüzden −5, −1'den küçüktür: sıfırdan uzak olan negatif sayı daha küçüktür.")
+![Sayı doğrusu: sıfırın solu kırmızı ve Negatif sayılar diye, sağı yeşil ve Pozitif sayılar diye işaretli; sıfırda boş bir halka var. Altta sağa gittikçe büyür yazan bir ok.](gorsel/tyt-matematik/01-04-sayi-dogrusu.svg "Sağdaki sayı her zaman büyüktür. Bu yüzden −5, −1'den küçüktür: sıfırdan uzak olan negatif sayı daha küçüktür.")
 
 Sözlü ifadeleri karıştırma:
 

@@ -9,7 +9,7 @@ guncelleme: 2026-11-17
 
 **Bu dersin sonunda:** hazır formülü olmayan bir problemde tablo kurarak tam sayı çözümlerini sistematik deneyebilecek, tekrar eden durumlarda örüntüyü bulabilecek ve sonucu verilen işlemleri geriye doğru çözebileceksin.
 
-> **TYT'de yeri:** TYT'nin son 10–15 sorusu çoğunlukla bu türdendir: bir günlük hayat durumu, birkaç kural ve "en çok kaç?", "en az kaç?", "kaçıncı?" ya da "saat kaçta?" sorusu. İşlem yükü azdır; puanı, verileri düzenleyip **sistemli** düşünen alır.
+> **TYT'de yeri:** TYT'de her yıl birkaç soru bu türdendir: bir günlük hayat durumu, birkaç kural ve "en çok kaç?", "en az kaç?", "kaçıncı?" ya da "saat kaçta?" sorusu. İşlem yükü azdır; puanı, verileri düzenleyip **sistemli** düşünen alır.
 
 ## Önce hatırla
 

@@ -3,7 +3,7 @@ baslik: Ortak Çarpan Parantezine Alma
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti e421f9a3d1
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Ortak Çarpan Parantezine Alma
 
@@ -63,7 +63,7 @@ $$3(x - 2)^2 + 5(x - 2) = (x - 2)\big(3(x - 2) + 5\big) = (x - 2)(3x - 1)$$
 
 Parantezin içini mutlaka sadeleştir: $3x - 6 + 5 = 3x - 1$.
 
-**Kural.** $a \cdot (\text{ifade}) + b \cdot (\text{ifade}) = (\text{ifade})(a + b)$. Ortak ifadenin kuvvetleri farklıysa yine en küçük kuvveti dışarı alınır.
+**Kural.** $a \cdot (\text{ifade}) + b \cdot (\text{ifade}) = (\text{ifade})(a + b)$. Ortak ifadenin kuvvetleri farklıysa yine en küçük kuvvet dışarı alınır.
 
 ## İşaret çevirme
 
@@ -160,7 +160,7 @@ D) $5x^4(2 - 3x^2)$
 E) $10x^2(x^2 - 3)$
 
 **Cevap:** C
-**Çözüm:** $\text{EBOB}(10, 15) = 5$, en küçük kuvvet $x^2$; ortak çarpan $5x^2$. $\frac{10x^4}{5x^2} = 2x^2$, $\frac{-15x^2}{5x^2} = -3$. Sonuç $5x^2(2x^2 - 3)$. A'da $15$ bölünmemiş, B'de $x$ fazla, D'de en büyük kuvvet dışarı alınmış, E'de katsayının yalnızca biri bölünmüş.
+**Çözüm:** $\text{EBOB}(10, 15) = 5$, en küçük kuvvet $x^2$; ortak çarpan $5x^2$. $\frac{10x^4}{5x^2} = 2x^2$, $\frac{-15x^2}{5x^2} = -3$. Sonuç $5x^2(2x^2 - 3)$. A'da $15$ bölünmemiş, B'de $x$ fazla, D'de en büyük kuvvet dışarı alınmış, E'de EBOB yerine $10$ alınmış; açılınca $10x^4 - 30x^2$ olur.
 
 ### Soru 2
 $xy + 3x - 2y - 6$ polinomunun çarpanlarından biri aşağıdakilerden hangisidir?

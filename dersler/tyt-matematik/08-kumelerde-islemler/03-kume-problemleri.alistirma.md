@@ -2,7 +2,7 @@
 baslik: Küme Problemleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Küme Problemleri
 
@@ -169,7 +169,7 @@ D) 56
 E) 61
 
 **Cevap:** C
-**Çözüm:** Tablo kur. Hafta sonu kadın $x$, hafta içi kadın $3x + 2$: $4x + 2 = 38$, $x = 9$. Erkek $70 - 38 = 32$; hafta içi erkek $32 - 14 = 18$. Kadın veya hafta sonu grubunda olmayan tek hücre hafta içi erkeklerdir: $70 - 18 = 52$. Kontrol: $38 + 23 - 9 = 52$. Kadınlarla hafta sonu grubunu ($9 + 14 = 23$) doğrudan toplayan, 9 kadını iki kez sayıp 61 bulur.
+**Çözüm:** Tablo kur. Hafta sonu kadın $x$, hafta içi kadın $3x + 2$: $4x + 2 = 38$, $x = 9$. Erkek $70 - 38 = 32$; hafta içi erkek $32 - 14 = 18$. Kadın veya hafta sonu grubunda olmayan tek hücre hafta içi erkeklerdir: $70 - 18 = 52$. Kontrol: $38 + 23 - 9 = 52$. Kadınları (38) ve hafta sonu grubunu ($9 + 14 = 23$) doğrudan toplayan, hafta sonundaki 9 kadını iki kez sayıp 61 bulur.
 
 ### Soru 12 · ÖSYM tarzı
 Bir okulda gezi için yapılan ankette öğrenciler müze ve hayvanat bahçesi seçeneklerinden istediği kadarını işaretlemiştir. Ankete katılan her öğrenci en az bir seçeneği işaretlemiştir.

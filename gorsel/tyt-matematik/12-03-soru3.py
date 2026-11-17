@@ -27,6 +27,10 @@ P = [(-4, 2), (-1, -1), (2, 2), (5, -1)]
 ax.plot(*zip(*P), color=MAVI)
 nokta(ax, -4, 2, renk=MAVI); nokta(ax, 5, -1, renk=MAVI)
 izdusum(ax, P, xsol=(), yust=())
-for x in (-2, 4): ax.text(x, -0.22 if x == 4 else 0.22, eksi(x), color=YAZI, fontsize=13, ha="center", va="top" if x == 4 else "bottom")
+for t in ax.texts:
+    if t.get_text() in ("2", "−1") and t.get_position()[0] > 0 and t.get_position()[0] < 1:
+        t.set_bbox(dict(facecolor="white", edgecolor="none", pad=0.5))  # y eksenindeki 2 ve −1, kesikli çizginin üstünde okunsun
+ax.text(-2.1, -0.22, "−2", color=YAZI, fontsize=13, ha="right", va="top")
+ax.text(4, -0.22, "4", color=YAZI, fontsize=13, ha="center", va="top")
 ax.text(3.3, 1.5, "f", color=MAVI, fontsize=15, fontweight="bold")
 kaydet(fig, __file__)

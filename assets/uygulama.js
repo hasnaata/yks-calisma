@@ -90,7 +90,7 @@ function md(kaynak, satirIci = false) {
   const parcalar = [];
   const sakla = (tex, blok) => { parcalar.push({ tex, blok }); return `\u0000M${parcalar.length - 1}\u0000`; };
   let s = kaynak.replace(/\$\$([\s\S]+?)\$\$/g, (_, t) => sakla(t, true))
-                .replace(/\$(?!\s)([^$\n]+?)(?<!\s)\$/g, (_, t) => sakla(t, false));
+                .replace(/\$(?!\s)([^$\n]+?)\$/g, (_, t) => sakla(t.trim(), false));
   s = satirIci ? marked.parseInline(s) : marked.parse(s);
   /* Tek başına duran görsel -> <figure>. Başlık (title) alt yazı olur; .svg şemalar yana kayabilir. */
   s = s.replace(/<p>(<img [^>]*>)<\/p>/g, (_, img) => {

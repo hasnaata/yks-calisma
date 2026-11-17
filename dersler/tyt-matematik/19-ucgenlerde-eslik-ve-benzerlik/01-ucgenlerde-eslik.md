@@ -3,7 +3,7 @@ baslik: Üçgenlerde Eşlik
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti cde084b5ab
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgenlerde Eşlik
 
@@ -116,13 +116,13 @@ Ayrıca $[AC]$, hem $\widehat{A}$'yı hem $\widehat{C}$'yi ikiye böler: $m(\wid
 
 > **Konuma göre eşlemek.** Şekilde ters dönmüş üçgende "soldaki köşe soldakine" eşlenmez. $\triangle ABC \cong \triangle KLM$ ise $[BC]$'nin karşılığı $[LM]$'dir; harf sırasını izle.
 
-> **Arada olmayan açı (K.K.A.).** İki kenar ve bunlardan birinin karşısındaki açı eşitse eşlik kesin değildir. Seçeneklerde bu durum "eşliği gösterir" diye bekler.
+> **Arada olmayan açı (K.K.A.).** İki kenar ve bunlardan birinin karşısındaki açı eşitse eşlik kesin değildir. Seçeneklerde bu durum, eşliği gösteren bir bilgi gibi karşına çıkar.
 
 > **Üç açı (A.A.A.).** Açıların hepsi eşit ama boyutlar farklı olabilir. Bu benzerliktir, eşlik değil.
 
 > **Gizli eşitlikleri görmemek.** Ters açılar, ortak kenar, karenin eş kenarları ve dik açıları, katlanan kâğıdın iki yarısı: soruda yazmayan bu eşitlikler genelde eşliğin anahtarıdır.
 
-> **Eşliği bulup durmak.** Soru eşliği değil, eşlikten çıkan bir uzunluğu ya da açıyı ister. "Merdiven" şeklinde $|AC| = |AD| + |CE|$ toplamı sorulur; bir parçayı cevap sanma.
+> **Eşliği bulunca durmak.** Soru eşliği değil, eşlikten çıkan bir uzunluğu ya da açıyı ister. "Merdiven" şeklinde $|AC| = |AD| + |CE|$ toplamı sorulur; bir parçayı cevap sanma.
 
 ## Kendini dene
 

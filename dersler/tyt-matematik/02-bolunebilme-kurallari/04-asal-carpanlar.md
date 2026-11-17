@@ -126,7 +126,7 @@ D) 24
 E) 48
 
 **Cevap:** D
-**Çözüm:** $504 = 2^3 \cdot 3^2 \cdot 7^1$. Pozitif bölen sayısı $(3+1)(2+1)(1+1) = 4 \cdot 3 \cdot 2 = 24$. Üsleri 1 eklemeden çarpan 6, tam sayı bölenlerini sayan 48 bulur.
+**Çözüm:** $504 = 2^3 \cdot 3^2 \cdot 7^1$. Pozitif bölen sayısı $(3+1)(2+1)(1+1) = 4 \cdot 3 \cdot 2 = 24$. Üslere 1 eklemeden çarpan 6, tam sayı bölenlerini sayan 48 bulur.
 
 ### Soru 3
 180 sayısının asal olmayan tam sayı bölenlerinin toplamı kaçtır?

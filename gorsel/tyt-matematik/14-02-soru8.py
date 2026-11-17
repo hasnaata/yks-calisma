@@ -10,8 +10,11 @@ ax.add_patch(patches.Rectangle((A - B, A - B), B, B, facecolor=MAVI_ACIK, edgeco
 ax.text(A - B / 2, A - B / 2, "Havuz", ha="center", va="center", fontsize=13, color=MAVI)
 ax.text(3.6, 3.6, r"Çim" "\n" r"72 m$^2$", ha="center", va="center", fontsize=15, color=YESIL)
 # üst kenar parçaları
-ax.text((A - B) / 2, A + 0.3, "6 m", ha="center", va="bottom", fontsize=14)
-ax.plot([A - B, A - B], [A + 0.1, A + 0.6], color=SOLUK, lw=1.2)
+ax.annotate("", xy=(0, A + 0.35), xytext=(A - B, A + 0.35),
+            arrowprops=dict(arrowstyle="<->", color=SOLUK, lw=1.2))
+for xx in (0, A - B):
+    ax.plot([xx, xx], [A + 0.1, A + 0.6], color=SOLUK, lw=1.2)
+ax.text((A - B) / 2, A + 0.5, "6 m", ha="center", va="bottom", fontsize=14)
 ax.text(-0.3, A / 2, "?", ha="right", va="center", fontsize=14)
 ax.set_xlim(-1.2, A + 0.4); ax.set_ylim(-0.4, A + 1.4)
 kaydet(fig, __file__)

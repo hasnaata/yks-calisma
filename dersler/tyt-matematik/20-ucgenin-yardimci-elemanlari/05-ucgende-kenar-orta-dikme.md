@@ -3,7 +3,7 @@ baslik: Üçgende Kenar Orta Dikme
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 22984e2f0a
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Kenar Orta Dikme
 

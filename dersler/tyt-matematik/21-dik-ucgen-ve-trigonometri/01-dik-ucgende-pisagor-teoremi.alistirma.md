@@ -2,7 +2,7 @@
 baslik: Dik Üçgende Pisagor Teoremi · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Dik Üçgende Pisagor Teoremi
 
@@ -90,7 +90,7 @@ D) $\sqrt{115}$
 E) 13
 
 **Cevap:** A
-**Çözüm:** $|AB|^2 - |AC|^2 = |HB|^2 - |HC|^2 = |DB|^2 - |DC|^2$. Yani çapraz kenarların kareleri toplamı eşittir: $|AB|^2 + |DC|^2 = |AC|^2 + |DB|^2 \Rightarrow 100 + x^2 = 64 + 49 \Rightarrow x^2 = 13 \Rightarrow x = \sqrt{13}$. $5$, uzunlukların farkını aynen taşımaktır ($7 - 2$); $\sqrt{85}$ ($100 + 49 - 64$) ve $\sqrt{115}$ ($100 + 64 - 49$) yanlış eşleştirmedir; $13$ ise kök almayı unutmaktır.
+**Çözüm:** $|AB|^2 - |AC|^2 = |HB|^2 - |HC|^2 = |DB|^2 - |DC|^2$. Yani çapraz kenarların kareleri toplamı eşittir: $|AB|^2 + |DC|^2 = |AC|^2 + |DB|^2 \Rightarrow 100 + x^2 = 64 + 49 \Rightarrow x^2 = 13 \Rightarrow x = \sqrt{13}$. $5$, $|AB| - |AC| = 2$ farkını uzunluklara aynen taşımaktır ($7 - 2$); $\sqrt{85}$ ($100 + 49 - 64$) ve $\sqrt{115}$ ($100 + 64 - 49$) yanlış eşleştirmedir; $13$ ise kök almayı unutmaktır.
 
 ### Soru 7 · Orta
 $ABC$ üçgeninde $m(\widehat{A}) = 90^\circ$ ve $m(\widehat{B}) = 15^\circ$'dir. $[AH] \perp [BC]$, $H \in [BC]$ ve $|AH| = 3$ birimdir. $ABC$ üçgeninin alanı kaç birimkaredir?

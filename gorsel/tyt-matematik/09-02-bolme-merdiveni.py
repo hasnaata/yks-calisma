@@ -10,8 +10,8 @@ for i, s in enumerate(sayilar):
     x, y = i * dx, i * dy
     bolum = i > 0
     if bolum:
-        ax.add_patch(patches.Circle((x + 0.18, y - 0.02), 0.3, facecolor=SARI_ACIK, edgecolor=SARI, lw=1.4))
-    ax.text(x + 0.18, y - 0.02, str(s), ha="center", va="center", fontsize=14,
+        ax.add_patch(patches.Circle((x + 0.18, y - 0.02), 0.34, facecolor=SARI_ACIK, edgecolor=SARI, lw=1.4))
+    ax.text(x + 0.18, y - 0.02, str(s), ha="center", va="center", fontsize=13 if bolum else 14,
             color=SARI if bolum else YAZI, fontweight="bold" if bolum else "normal")
     if i < len(sayilar) - 1:
         # bölme çizgisi: dikey + yatay

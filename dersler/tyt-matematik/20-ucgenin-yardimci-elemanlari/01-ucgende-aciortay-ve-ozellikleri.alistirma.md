@@ -2,7 +2,7 @@
 baslik: Üçgende Açıortay ve Özellikleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Üçgende Açıortay ve Özellikleri
 
@@ -126,7 +126,7 @@ D) 120
 E) 240
 
 **Cevap:** B
-**Çözüm:** $D$'yi köşelere birleştir; park, tabanları $a$, $b$, $c$ (kenarlar) ve yükseklikleri $3$ m olan üç üçgene ayrılır (uzaklık dik uzaklıktır). Alan $= \dfrac{3a}{2} + \dfrac{3b}{2} + \dfrac{3c}{2} = \dfrac{3 \cdot (a + b + c)}{2} = \dfrac{3 \cdot 40}{2} = 60$ m². $120$, $\dfrac{1}{2}$'yi unutmaktır; $30$ ise çevrenin yarısını bir kez daha ikiye bölmektir.
+**Çözüm:** $D$'yi köşelere birleştir; park, tabanları $a$, $b$, $c$ (kenarlar) ve yükseklikleri $3$ m olan üç üçgene ayrılır (uzaklık dik uzaklıktır). Alan $= \dfrac{3a}{2} + \dfrac{3b}{2} + \dfrac{3c}{2} = \dfrac{3 \cdot (a + b + c)}{2} = \dfrac{3 \cdot 40}{2} = 60$ m². $120$, $\dfrac{1}{2}$'yi unutmaktır; $30$ ise sonucu gereksiz yere bir kez daha ikiye bölmektir.
 
 ### Soru 10 · ÖSYM tarzı
 $ABC$ üçgeninde $A$ ve $B$ köşelerindeki iç açıortaylar $D$ noktasında kesişiyor. Buna göre

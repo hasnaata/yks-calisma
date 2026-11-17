@@ -2,7 +2,7 @@
 baslik: Fonksiyon Soruları · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Fonksiyon Soruları
 
@@ -137,7 +137,7 @@ $$f(C) = \frac{9}{5}C + 32$$
 
 kuralıyla bulunur. Bir laboratuvardaki bir ölçüm cihazı yalnızca $[-10, 25)$ aralığındaki Celsius sıcaklıklarını ölçebilmektedir.
 
-Buna göre bu cihazın ölçebildiği sıcaklıkların Fahrenheit karşılıkları arasında kaç tam sayı vardır?
+Buna göre bu cihazın ölçebildiği sıcaklıkların Fahrenheit karşılıklarından kaç tanesi tam sayıdır?
 
 A) 35
 B) 36

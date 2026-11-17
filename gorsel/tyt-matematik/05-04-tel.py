@@ -14,8 +14,8 @@ ax.text(-3, y2, "sonra", ha="right", va="center", fontsize=12, color=YAZI)
 for xm, y, ad in ((L / 2, y1, "orta"), ((k + L) / 2, y2, "yeni orta")):
     ax.plot([xm, xm], [y - 0.28, y + 0.28], color=YAZI, lw=2)
     ax.text(xm, y + 0.38, ad, ha="center", va="bottom", fontsize=11, color=YAZI)
-ax.text(k / 2, y2 - 0.35, "kesilen 24", ha="center", va="top", fontsize=11, color=KIRMIZI)
-ax.text(L / 2, y1 - 0.35, "120 cm", ha="center", va="top", fontsize=11, color=MAVI)
+ax.text(k / 2, y2 - 0.35, "kesilen 24 cm", ha="center", va="top", fontsize=11, color=KIRMIZI)
+ax.text(0.8 * L, y1 - 0.35, "120 cm", ha="center", va="top", fontsize=11, color=MAVI)
 # kayma
 ax.plot([L / 2, L / 2], [y1 - 0.3, y2 - 0.75], color=SOLUK, lw=1, ls="--")
 ax.plot([(k + L) / 2] * 2, [y2 - 0.3, y2 - 0.75], color=SOLUK, lw=1, ls="--")

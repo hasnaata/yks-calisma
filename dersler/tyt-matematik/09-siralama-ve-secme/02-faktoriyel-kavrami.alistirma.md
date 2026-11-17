@@ -2,7 +2,7 @@
 baslik: Faktöriyel Kavramı · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Faktöriyel Kavramı
 
@@ -115,7 +115,7 @@ D) 72
 E) 90
 
 **Cevap:** B
-**Çözüm:** $f(n) = (n+2)(n+1)$. $f(a) = (a+2)(a+1) = 42 = 7 \cdot 6$, yani $a = 5$. $f(6) = 8 \cdot 7 = 56$. $72 = 9 \cdot 8$, $a$ yerine $a + 1 = 6$'yı $a$ sanıp $f(7)$ hesaplamaktır; $48 = 8 \cdot 6$ ise bir çarpanı yanlış artırmaktır.
+**Çözüm:** $f(n) = (n+2)(n+1)$. $f(a) = (a+2)(a+1) = 42 = 7 \cdot 6$, yani $a = 5$. $f(6) = 8 \cdot 7 = 56$. $72 = 9 \cdot 8$, $a = 6$ sanıp $f(7)$ hesaplamaktır; $48 = 8 \cdot 6$ ise bir çarpanı yanlış artırmaktır.
 
 ### Soru 9 · ÖSYM tarzı
 Bir ışık gösterisinde birbirinden farklı renkteki lambalar her gösterimde farklı bir sırayla yakılıyor. Her sıralama 1 saniye sürüyor ve lambaların bütün sıralamaları tam bir kez gösterildiğinde gösteri 720 saniyede bitiyor.

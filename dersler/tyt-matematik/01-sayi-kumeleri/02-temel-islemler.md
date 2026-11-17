@@ -27,7 +27,7 @@ Evet: $\mathbb{N} \subset \mathbb{Z} \subset \mathbb{Q} \subset \mathbb{R}$ ve h
 
 Sayı doğrusunda $-7$'den başla. $+4$ demek **4 birim sağa** git demektir. Vardığın yer $-3$. Benzer şekilde $3 + (-8)$ işleminde $3$'ten **8 birim sola** gidersin ve $-5$'e varırsın.
 
-![İki sayı doğrusu. Üstte eksi 7'den 4 birim sağa giden mavi ok eksi 3'te biter. Altta 3'ten 8 birim sola giden kırmızı ok eksi 5'te biter.](gorsel/tyt-matematik/01-02-sayi-dogrusu-toplama.svg "Pozitif sayı eklemek sağa, negatif sayı eklemek sola gitmektir. Sonuç, uzun okun yönündeki tarafta kalır.")
+![İki sayı doğrusu. Üstte eksi 7'den 4 birim sağa giden mavi ok eksi 3'te biter. Altta 3'ten 8 birim sola giden kırmızı ok eksi 5'te biter.](gorsel/tyt-matematik/01-02-sayi-dogrusu-toplama.svg "Pozitif sayı eklemek sağa, negatif sayı eklemek sola gitmektir. Sonucun işaretini mutlak değerce büyük olan sayı belirler.")
 
 Kısa yol: işaretler farklıysa büyük mutlak değerden küçüğü çıkar, sonuca **mutlak değerce büyük olanın işaretini** ver.
 

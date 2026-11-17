@@ -78,7 +78,7 @@ D) 239
 E) 241
 
 **Cevap:** A
-**Çözüm:** Her kalan bölenden 1 eksik; sayıya 1 eklenince 6, 8 ve 10'a tam bölünür. $\text{EKOK}(6, 8, 10) = 120$, $x + 1 = 120k$, $x = 120k - 1$: 119, 239, … Üç basamaklı en küçüğü 119. 121, 1'i eklemek yerine çıkarmanın yanlış yönünden gelir; 239 da koşulu sağlar ama en küçük değildir.
+**Çözüm:** Her kalan bölenden 1 eksik; sayıya 1 eklenince 6, 8 ve 10'a tam bölünür. $\text{EKOK}(6, 8, 10) = 120$, $x + 1 = 120k$, $x = 120k - 1$: 119, 239, … Üç basamaklı en küçüğü 119. 121, $x + 1$ yerine $x - 1 = 120$ almaktan gelir; 239 da koşulu sağlar ama en küçük değildir.
 
 ### Soru 6 · Orta
 Kenarları 90 m ve 126 m olan dikdörtgen bir tarlanın çevresine fidan dikilecek. Her köşede bir fidan olacak, ardışık iki fidan arasındaki uzaklıklar eşit ve metre cinsinden tam sayı olacak.

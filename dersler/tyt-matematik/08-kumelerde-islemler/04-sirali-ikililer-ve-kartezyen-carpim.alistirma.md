@@ -2,7 +2,7 @@
 baslik: Sıralı İkililer ve Kartezyen Çarpım · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Sıralı İkililer ve Kartezyen Çarpım
 
@@ -103,16 +103,16 @@ E) 64
 ## ÖSYM tarzı
 
 ### Soru 8 · ÖSYM tarzı
-Bir kafede menü, bir içecek ve bir tatlıdan oluşur ve (içecek, tatlı) sıralı ikilisiyle gösterilir. Kafede başlangıçta 20 farklı menü vardır. Menüye yeni bir içecek eklenince farklı menü sayısı 24 olur. Ardından yeni bir tatlı da eklenirse farklı menü sayısı kaç olur?
+Bir kafede menü, bir içecek ve bir tatlıdan oluşur ve (içecek, tatlı) sıralı ikilisiyle gösterilir. Kafede başlangıçta 20 farklı menü vardır. Kafeye yeni bir içecek çeşidi eklenince farklı menü sayısı 24 olur. Ardından yeni bir tatlı çeşidi de eklenirse farklı menü sayısı kaç olur?
 
-A) 30
-B) 32
-C) 35
+A) 28
+B) 30
+C) 32
 D) 36
 E) 40
 
-**Cevap:** A
-**Çözüm:** İçecek sayısı $n$, tatlı sayısı $t$ olsun: $n \cdot t = 20$ ve $(n + 1) \cdot t = 24$. Farkı al: $t = 4$, buradan $n = 5$. Yeni içecekle 6 içecek var; yeni tatlıyla 5 tatlı olur: $6 \cdot 5 = 30$. Kısa yol: yeni tatlı her içecekle bir menü kurar, $24 + 6 = 30$. 35, iki ekleme de içeceğe yapılmış gibi $7 \cdot 5$; 36, tatlı sayısını da 6 sanmaktan gelir.
+**Cevap:** B
+**Çözüm:** İçecek sayısı $n$, tatlı sayısı $t$ olsun: $n \cdot t = 20$ ve $(n + 1) \cdot t = 24$. Farkı al: $t = 4$, buradan $n = 5$. Yeni içecekle 6 içecek var; yeni tatlıyla 5 tatlı olur: $6 \cdot 5 = 30$. Kısa yol: yeni tatlı her içecekle bir menü kurar, $24 + 6 = 30$. 28, ikinci eklemeyi de içeceğe yapmak gibi $7 \cdot 4$ hesaplamaktan; 36, tatlı sayısını da 6 sanmaktan gelir.
 
 ### Soru 9 · ÖSYM tarzı
 Bir oyunda Ali $A = \{1, 2, 3, 4, 5\}$ kümesinden, Berk $B = \{2, 4, 6\}$ kümesinden birer sayı seçer ve seçim (Ali'nin sayısı, Berk'in sayısı) sıralı ikilisiyle yazılır. Berk'in sayısı Ali'nin sayısından **büyükse** Berk kazanır.

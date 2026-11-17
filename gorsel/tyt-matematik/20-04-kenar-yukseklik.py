@@ -37,10 +37,14 @@ ax.plot(*zip(A, H), color=MAVI, lw=2.2); ax.plot(*zip(B, E), color=YESIL, lw=2.2
 dik(ax, H, A, C, k=0.75, renk=MAVI); dik(ax, E, B, C, k=0.75, renk=YESIL)
 nokta(ax, *A, "A", dx=-0.35, dy=0.45); nokta(ax, *B, "B", dx=-0.9, dy=-0.9); nokta(ax, *C, "C", dx=0.3, dy=-0.9)
 nokta(ax, *H, "H", dx=-0.35, dy=-1.25, renk=MAVI); nokta(ax, *E, "E", dx=0.35, dy=0.2, renk=YESIL)
-ax.text(9.5, -1.0, "14", fontsize=14, ha="center", va="center")
+# [BC] ölçü çizgisi: 14 tüm kenara aittir, yalnızca [HC]'ye değil.
+yd = -2.1
+ax.plot([B[0], C[0]], [yd, yd], color=SOLUK, lw=1.0)
+for x in (B[0], C[0]): ax.plot([x, x], [yd - 0.3, yd + 0.3], color=SOLUK, lw=1.0)
+ax.text(7.0, yd, "14", fontsize=14, ha="center", va="center", bbox=dict(fc="white", ec="none", pad=1.5))
 P = A + 0.3 * (C - A); ax.text(P[0] + 0.75, P[1] + 0.45, "15", fontsize=14, ha="center", va="center")
 ax.text(A[0] - 0.35, 8.6, "12", color=MAVI, fontsize=14, ha="right")
 M = (B + E) / 2
 ax.text(M[0] - 0.2, M[1] + 0.8, r"$h_b = ?$", color=YESIL, fontsize=14, ha="center", rotation=np.degrees(np.arctan2(E[1], E[0])))
-ax.set_xlim(-1.2, 15.2); ax.set_ylim(-2.2, 13.2)
+ax.set_xlim(-1.2, 15.2); ax.set_ylim(-2.8, 13.2)
 kaydet(fig, __file__)

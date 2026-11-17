@@ -5,7 +5,7 @@ from cizim import *
 GRUPLAR = ['5–9', '10–14', '15–19', '20–24', '25–29']
 FREK = [4, 9, 7, 3, 2]
 VURGU = []   # koyu renkli sütunlar (sıra no, 0'dan)
-fig, ax = sekil(5.8, 3.6)
+fig, ax = sekil(5.8, 4.2)
 k = len(GRUPLAR)
 for i, f in enumerate(FREK):
     sol = 0.8 + i

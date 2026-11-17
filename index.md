@@ -1,7 +1,7 @@
 # İçerik Kataloğu (index.md)
 
 Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alıştırma hazır, ⬜ = sırada.
-**Toplam: 159/740 ders hazır.** Son güncelleme: 2026-11-17
+**Toplam: 159/740 ders hazır.** Son güncelleme: 2026-11-18
 
 ## TYT Biyoloji (50/50)
 

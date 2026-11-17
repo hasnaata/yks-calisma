@@ -99,7 +99,7 @@ E) 18
 ### Soru 7 · Orta
 Aynı güçteki 5 işçi, eş büyüklükteki 2 duvarı 12 günde boyuyor.
 
-Bu işçilerle aynı güçteki işçilerle eş büyüklükte 3 duvarın 10 günde boyanması için kaç işçi gerekir?
+Aynı güçteki işçilerle, aynı büyüklükteki 3 duvarın 10 günde boyanması için kaç işçi gerekir?
 
 A) 4
 B) 6
@@ -157,7 +157,7 @@ E) 12
 ### Soru 11 · ÖSYM tarzı
 Ali ve Bora'nın bir işi tek başlarına çalışırken her gün aynı miktarda iş yaptıkları biliniyor. Aşağıdaki grafikte ikisinin bu işin yüzde kaçını kaç günde yaptığı gösterilmiştir.
 
-![Grafik: yatay eksen gün, dikey eksen yapılan iş yüzde. Ali'nin doğrusu 6. günde yüzde 50'den, 12. günde yüzde 100'den geçiyor. Bora'nın doğrusu 6. günde yüzde 25'ten, 12. günde yüzde 50'den geçiyor.](gorsel/tyt-matematik/05-06-soru11.svg "6. günde Ali işin yüzde 50'sini, Bora yüzde 25'ini yapmış.")
+![Grafik: yatay eksen gün, dikey eksen yapılan iş yüzde. Ali'nin doğrusu 6. günde yüzde 50'den, 12. günde yüzde 100'den geçiyor. Bora'nın doğrusu 6. günde yüzde 25'ten, 12. günde yüzde 50'den geçiyor.](gorsel/tyt-matematik/05-06-soru11.svg "Her doğrunun 6. gündeki değerini oku.")
 
 Buna göre Ali ve Bora birlikte çalışırsa bu iş kaç günde biter?
 
@@ -176,10 +176,10 @@ Aynı güçteki 12 işçi, bir işi 20 günde bitirmek üzere çalışmaya başl
 Buna göre iş, planlanandan kaç gün geç tamamlanır?
 
 A) 5
-B) 6
+B) 7
 C) 15
 D) 20
 E) 25
 
 **Cevap:** A
-**Çözüm:** İş $12 \cdot 20 = 240$ işçi-gün. İlk 5 günde $12 \cdot 5 = 60$ işçi-gün yapılır; kalan $180$ işçi-gün. 9 işçi ile $180 \div 9 = 20$ gün. İş $5 + 20 = 25$ günde biter; planlanandan $25 - 20 = 5$ gün geç. 20, ayrılmadan sonraki süre; 25, toplam süredir. 6, işin tamamını 9 işçiyle yapılıyormuş gibi alıp $\frac{240}{9} \approx 26{,}7$ günü 20'den çıkarıp yuvarlamaktan gelir.
+**Çözüm:** İş $12 \cdot 20 = 240$ işçi-gün. İlk 5 günde $12 \cdot 5 = 60$ işçi-gün yapılır; kalan $180$ işçi-gün. 9 işçi ile $180 \div 9 = 20$ gün. İş $5 + 20 = 25$ günde biter; planlanandan $25 - 20 = 5$ gün geç. 20, ayrılmadan sonraki süre; 25, toplam süredir. 7, işin tamamını 9 işçiyle yapılıyormuş gibi alıp $\frac{240}{9} \approx 26{,}7$ günü 27'ye yuvarlayıp 20'den çıkarmaktan gelir.

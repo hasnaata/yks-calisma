@@ -93,7 +93,7 @@ Kök içi $7 > 1$. Derece büyüdükçe sayı 1'e yaklaşır, yani küçülür: 
 
 Ama kök içi 0 ile 1 arasındaysa sıra döner: $\sqrt{\frac{1}{16}} = \frac{1}{4}$, $\sqrt[4]{\frac{1}{16}} = \frac{1}{2}$. Burada derecesi büyük olan büyüktür.
 
-![Üç eğri: y eşittir karekök x mavi, küpkök x yeşil, dördüncü dereceden kök x kahverengi. Üçü de 1 virgül 1 noktasında kesişiyor. x 1'den büyükken en üstte karekök, x 0 ile 1 arasındayken en üstte dördüncü dereceden kök var.](gorsel/tyt-matematik/04-04-kok-dereceleri.svg "Eğriler x = 1'de yer değiştirir. Kök içi 1'den büyükse derecesi küçük olan, 0 ile 1 arasındaysa derecesi büyük olan sayı daha büyüktür.")
+![Üç eğri: y eşittir karekök x mavi, küpkök x yeşil, dördüncü dereceden kök x kahverengi. Üçü de x eşittir 1, y eşittir 1 noktasında kesişiyor. x 1'den büyükken en üstte karekök, x 0 ile 1 arasındayken en üstte dördüncü dereceden kök var.](gorsel/tyt-matematik/04-04-kok-dereceleri.svg "Eğriler x = 1'de yer değiştirir. Kök içi 1'den büyükse derecesi küçük olan, 0 ile 1 arasındaysa derecesi büyük olan sayı daha büyüktür.")
 
 **Kural.** Kök içi eşit ve pozitifse: içi $1$'den büyükse **derecesi küçük olan** büyüktür; içi $0$ ile $1$ arasındaysa **derecesi büyük olan** büyüktür.
 

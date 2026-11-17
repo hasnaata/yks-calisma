@@ -3,7 +3,7 @@ baslik: Sıralı İkililer ve Kartezyen Çarpım
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 82824aa912
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Sıralı İkililer ve Kartezyen Çarpım
 
@@ -61,7 +61,7 @@ Aynı kümelerle $B \times A = \{(4, 1), (4, 2), (4, 3), (5, 1), (5, 2), (5, 3)\
 | Özellik | Açıklama |
 |---|---|
 | $s(A \times B) = s(A) \cdot s(B)$ | Tablodaki satır sayısı çarpı sütun sayısı |
-| $A \ne B$ ise $A \times B \ne B \times A$ | Ama $s(A \times B) = s(B \times A)$ |
+| $A \ne B$ (ikisi de boş değil) ise $A \times B \ne B \times A$ | Ama $s(A \times B) = s(B \times A)$ |
 | $A \times \varnothing = \varnothing \times A = \varnothing$ | Boş kümeden bileşen seçilemez |
 | $A \times A$ (kısaca $A^2$) | $s(A \times A) = s(A)^2$ |
 
@@ -91,7 +91,7 @@ Bir $(x, y)$ ikilisi iki kümede de olmalı: $A \times B$'de olması için $x \i
 
 $$(A \times B) \cap (B \times A) = \{2, 3\} \times \{2, 3\} = \{(2, 2), (2, 3), (3, 2), (3, 3)\}$$
 
-![Koordinat düzleminde A×B'nin 9 noktası daire, B×A'nın 9 noktası kare. y = x doğrusu kesikli. Ortadaki yeşil karede (2, 2), (2, 3), (3, 2), (3, 3) noktaları iki kümede de var.](gorsel/tyt-matematik/08-04-simetri.svg "B×A, A×B'nin y = x doğrusuna göre yansımasıdır. Ortak noktalar yeşil karede: x ve y'nin ikisi de A∩B'den gelir.")
+![Koordinat düzleminde yalnız A×B'de olan 5 nokta mavi daire, yalnız B×A'da olan 5 nokta kırmızı kare. y = x doğrusu kesikli. Ortadaki yeşil karede iki kümede de bulunan (2, 2), (2, 3), (3, 2), (3, 3) noktaları yeşil daire.](gorsel/tyt-matematik/08-04-simetri.svg "B×A, A×B'nin y = x doğrusuna göre yansımasıdır. Ortak noktalar yeşil karede: x ve y'nin ikisi de A∩B'den gelir.")
 
 Birleşim için kesişimi bir kez çıkar: $9 + 9 - 4 = 14$.
 

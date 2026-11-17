@@ -3,7 +3,7 @@ baslik: Rasyonel İfadelerin Sadeleştirilmesi
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 9dbdbe4d4b
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Rasyonel İfadelerin Sadeleştirilmesi
 
@@ -116,7 +116,7 @@ Paydalar yalnızca işaretçe farklıysa birini $-1$ ile düzelt: $\dfrac{1}{x -
 
 ## ÖSYM tuzakları
 
-> **Terim silmek:** $\dfrac{x^2 + 4}{x + 2} \ne x + 2$. Payda bir toplam var ve $x^2 + 4$ gerçek sayılarda ayrılmaz; sadeleşme yoktur. Yalnızca çarpanlar silinir.
+> **Terim silmek:** $\dfrac{x^2 + 4}{x + 2} \ne x + 2$. Pay ve payda birer toplamdır ve $x^2 + 4$ gerçek sayılarda ayrılmaz; sadeleşme yoktur. Yalnızca çarpanlar silinir.
 
 > **İşareti kaybetmek:** $\dfrac{x - 5}{5 - x} = -1$, $1$ değil. Seçeneklerde doğru cevabın eksilisi mutlaka bulunur.
 

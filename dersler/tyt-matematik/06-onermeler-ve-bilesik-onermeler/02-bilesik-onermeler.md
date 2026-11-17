@@ -3,7 +3,7 @@ baslik: Bileşik Önermeler
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti f11d72b5cb
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Bileşik Önermeler
 
@@ -112,7 +112,7 @@ Bu cümle ne zaman yanlıştır? Yağmur yağmıyorsa da, hava soğuk değilse d
 
 Sayılarla: "$-1 < x$ ve $x \le 4$" önermesinin değili "$x \le -1$ **veya** $x > 4$" olur. $x$ aralığın dışına sol taraftan da sağ taraftan da çıkabilir.
 
-![İki Venn şeması. Solda dikdörtgenin iki daire dışında kalan kısmı boyalı: p veya q önermesinin değili, p üssü ve q üssüne denk. Sağda yalnızca iki dairenin ortak bölgesi boş, geri kalan her yer boyalı: p ve q önermesinin değili, p üssü veya q üssüne denk.](gorsel/tyt-matematik/06-02-de-morgan.svg "Daire içi o önermenin doğru olduğu durumlardır. Soldaki boyalı bölge iki dairenin de dışı, yani p üssü ve q üssü; sağdaki ortak bölge dışındaki her yer.")
+![İki Venn şeması. Solda dikdörtgenin iki daire dışında kalan kısmı boyalı: p veya q önermesinin değili, p değil ve q değil önermesine denk. Sağda yalnızca iki dairenin ortak bölgesi boş, geri kalan her yer boyalı: p ve q önermesinin değili, p değil veya q değil önermesine denk.](gorsel/tyt-matematik/06-02-de-morgan.svg "Daire içi o önermenin doğru olduğu durumlardır. Soldaki boyalı bölge iki dairenin de dışı, yani p değil ve q değil; sağdaki ortak bölge dışındaki her yer, yani p değil veya q değil.")
 
 **Kural.**
 
@@ -148,7 +148,7 @@ Günlük dilde "ya da" bazen "veya" anlamında kullanılır; mantık sorularınd
 
 > **De Morgan'da bağlacı çevirmeyi unutmak:** $(p \wedge q')'$ ifadesi $p' \wedge q$ değil, $p' \vee q$ olur. Üsleri dağıtırken $\wedge$ da $\vee$'ye döner; $(q')' \equiv q$.
 
-> **Eşitsizliğin değilinde iki hata birden:** "$3 \le x$ ve $x < 8$" önermesinin değili "$x < 3$ **veya** $x \ge 8$" olur. "ve" kalırsa hiçbir sayı sağlamaz; eşitlik yanlış uca konursa bir sayı kaybolur.
+> **Eşitsizliğin değilinde iki hata birden:** "$3 \le x$ ve $x < 8$" önermesinin değili "$x < 3$ **veya** $x \ge 8$" olur. "ve" kalırsa hiçbir sayı sağlamaz; eşitlik yanlış uca konursa 3 ve 8 gibi uç sayılar yanlış tarafa geçer.
 
 > **Tek bilgiden fazlasını çıkarmak:** $p \wedge q \equiv 0$ ise "$p \equiv 0$" denemez; yalnızca "ikisi birden 1 değil" denebilir. Kesin sonuç yalnızca "ve $\equiv 1$" ya da "veya $\equiv 0$" bilgisinden çıkar.
 
@@ -178,7 +178,7 @@ D) $x > 3$ veya $x \le 8$
 E) $x < 3$ veya $x > 8$
 
 **Cevap:** B
-**Çözüm:** De Morgan: $(p \wedge q)' \equiv p' \vee q'$. "$3 \le x$" önermesinin değili "$x < 3$", "$x < 8$" önermesinin değili "$x \ge 8$". Bağlaç "veya" olur: B. A'da bağlaç çevrilmemiş (hiçbir sayı sağlamaz). C ve E'de eşitlikler yanlış uçta; örneğin $x = 8$ asıl önermeyi sağlamaz, öyleyse değile girmelidir. D asıl önermenin bağlaç değiştirilmiş hâlidir.
+**Çözüm:** De Morgan: $(p \wedge q)' \equiv p' \vee q'$. "$3 \le x$" önermesinin değili "$x < 3$", "$x < 8$" önermesinin değili "$x \ge 8$". Bağlaç "veya" olur: B. A'da bağlaç çevrilmemiş (hiçbir sayı sağlamaz). C ve E'de eşitlikler yanlış uçta; örneğin $x = 8$ asıl önermeyi sağlamaz, öyleyse değile girmelidir. D'yi her gerçek sayı sağlar; asıl önermeyi sağlayan $x = 5$ de D'yi sağladığı için D değil olamaz.
 
 ### Soru 3
 $p' \wedge (p \vee q)$ önermesi aşağıdakilerden hangisine denktir?

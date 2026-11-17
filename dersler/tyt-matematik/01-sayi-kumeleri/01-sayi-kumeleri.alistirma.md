@@ -156,7 +156,7 @@ D) $\sqrt{10} - 1$
 E) $\sqrt{10}$
 
 **Cevap:** D
-**Çözüm:** Pisagor bağıntısından $|AC| = \sqrt{3^2 + 1^2} = \sqrt{10}$. $P$, $A$'nın $\sqrt{10}$ birim sağındadır: $-1 + \sqrt{10} = \sqrt{10} - 1 \approx 2{,}16$. Bu değer şekille de uyumludur ($P$, 2'nin biraz sağında). Yayın $0$'dan başladığını sanan E'yi, $\sqrt{10}$'u sola ölçen A'yı seçer.
+**Çözüm:** Pisagor bağıntısından $|AC| = \sqrt{3^2 + 1^2} = \sqrt{10}$. $P$, $A$'nın $\sqrt{10}$ birim sağındadır: $-1 + \sqrt{10} = \sqrt{10} - 1 \approx 2{,}16$. Bu değer şekille de uyumludur ($P$, 2'nin biraz sağında). Yayın $0$'dan başladığını sanan E'yi, işareti ters çeviren A'yı ($1 - \sqrt{10} \approx -2{,}16$) seçer.
 
 ### Soru 11 · ÖSYM tarzı
 $x$ pozitif bir gerçek sayıdır. $x^2$ rasyonel, $x^3$ ise irrasyonel bir sayıdır.

@@ -3,7 +3,7 @@ baslik: Üç Terimli İfadelerin Çarpanlarına Ayrılması
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b7d774edeb
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üç Terimli İfadelerin Çarpanlarına Ayrılması
 
@@ -14,7 +14,7 @@ guncelleme: 2026-11-17
 ## Önce hatırla
 
 <details><summary>Geçen dersten: $x^3 - 27$ ifadesini çarpanlarına ayır.</summary>
-$27 = 3^3$, iki küp farkı: $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$. Sonuç $(x - 3)(x^2 + 3x + 9)$. İkinci çarpan $x^2 + 3x + 9$ bir üç terimlidir ama gerçek sayılarda ayrılmaz: çarpımı $9$, toplamı $3$ olan iki tam sayı yok. Bu derste hangi üç terimlilerin ayrıldığını göreceksin.
+$27 = 3^3$, iki küp farkı: $a^3 - b^3 = (a - b)(a^2 + ab + b^2)$. Sonuç $(x - 3)(x^2 + 3x + 9)$. İkinci çarpan $x^2 + 3x + 9$ bir üç terimlidir ama gerçek sayılarda ayrılmaz: çarpımı $9$, toplamı $3$ olan iki gerçek sayı yok. Bu derste hangi üç terimlilerin ayrıldığını göreceksin.
 </details>
 
 <details><summary>Geçen dersten: $8x^3 + 1$ ifadesini çarpanlarına ayır.</summary>
@@ -161,7 +161,7 @@ E) $3x + 1$
 **Çözüm:** $3x^2 = 3x \cdot x$, $-2 = 1 \cdot (-2)$. Satırlar $3x, +1$ ve $x, -2$: çaprazlar $3x \cdot (-2) + x \cdot 1 = -6x + x = -5x$. Tuttu. Sonuç $(3x + 1)(x - 2)$. B seçeneği işaretleri ters koymaktan gelir: $(3x - 1)(x + 2) = 3x^2 + 5x - 2$.
 
 ### Soru 3
-$x^4 - 13x^2 + 36$ ifadesinin çarpanlarından biri **değildir**?
+Aşağıdakilerden hangisi $x^4 - 13x^2 + 36$ ifadesinin çarpanlarından biri **değildir**?
 
 A) $x - 3$
 B) $x - 2$
@@ -175,7 +175,7 @@ E) $x + 3$
 ## Özet kartı
 
 - $x^2 + bx + c$: çarpımı $c$, toplamı $b$ olan $m$, $n$ bul; $(x + m)(x + n)$.
-- $c > 0$ ise iki sayı aynı işaretli; $c < 0$ ise büyüğün işareti $b$'nin işareti.
+- $c > 0$ ise iki sayı aynı işaretli; $c < 0$ ise mutlak değerce büyüğün işareti $b$'nin işareti.
 - $ax^2 + bx + c$: çapraz çarpım; çaprazların toplamı $bx$ olmalı, çarpanlar satırlardan okunur.
 - İkinci yol: $a \cdot c$ çarpımıyla orta terimi böl, gruplandır.
 - Tekrar eden parça varsa $t$ de, ayır, geri koy.

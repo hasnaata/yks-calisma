@@ -39,7 +39,7 @@ E) 30
 **Çözüm:** Şeker $240 \cdot 0{,}25 = 60$ g ve su eklenince değişmez. Yeni karışım $240 + 60 = 300$ g: $\frac{60}{300} \cdot 100 = 20$. 25 diyen, su eklenince yüzdenin değişmediğini sanır; su %0 şekerli olduğu için yüzde düşer.
 
 ### Soru 3 · Kolay
-Bir şişede %12'lik tuzlu su vardır. Şişedeki suyun yarısı dökülüyor.
+Bir şişede %12'lik tuzlu su vardır. Şişedeki tuzlu suyun yarısı dökülüyor.
 
 Şişede kalan karışımın tuz yüzdesi kaçtır?
 

@@ -3,7 +3,7 @@ baslik: Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 176317e2fa
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Polinomlarda Toplama, Çıkarma ve Çarpma İşlemleri
 
@@ -95,7 +95,7 @@ Yukarıdaki örnekte: $(2 - 3)(1 + 4 - 1) = -1 \cdot 4 = -4$ ve açılmış hâl
 **Kural.** $\text{der}[P(x)] = n$, $\text{der}[Q(x)] = m$, $k$ pozitif tam sayı olsun:
 
 - $\text{der}[P(x) \cdot Q(x)] = n + m$
-- $\text{der}[k \cdot P(x)] = n$ ($k \ne 0$ sayı)
+- $\text{der}[c \cdot P(x)] = n$ ($c \ne 0$ bir sayı)
 - $\text{der}[P^k(x)] = \text{der}[P(x^k)] = n \cdot k$
 - $\text{der}[P(Q(x))] = n \cdot m$
 

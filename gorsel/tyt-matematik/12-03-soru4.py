@@ -31,5 +31,5 @@ ax.plot([-3, -3], [0, -2], color=SOLUK, ls="--", lw=1); ax.plot([-3, 0], [-2, -2
 ax.text(-3.12, -0.22, "−3", color=YAZI, fontsize=13, ha="right", va="top")
 ax.text(0.18, -2, "−2", color=YAZI, fontsize=13, ha="left", va="center")
 ax.text(-2.1, 0.22, "−2", color=YAZI, fontsize=13, ha="right", va="bottom")
-ax.text(1.4, 3.75, "f", color=MAVI, fontsize=15, fontweight="bold")
+ax.text(1.9, 3.0, "f", color=MAVI, fontsize=15, fontweight="bold")
 kaydet(fig, __file__)

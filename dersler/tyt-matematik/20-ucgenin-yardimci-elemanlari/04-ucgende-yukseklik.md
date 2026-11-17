@@ -3,7 +3,7 @@ baslik: Üçgende Yükseklik
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti c7d83b5a70
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Üçgende Yükseklik
 
@@ -27,7 +27,7 @@ Bir köşeden karşı kenara (ya da karşı kenarın uzantısına) **dik** inen 
 
 **Örnek.** $ABC$ üçgeninde $[AH] \perp [BC]$, $|AB| = 13$, $|BH| = 5$ ve $|HC| = 9$'dur. $|AH|$ ve $|AC|$ kaçtır?
 
-![ABC üçgeni: A'dan BC'ye dik inen kırmızı AH yüksekliği, H'de dik açı işareti. AB 13, AC 15, BH 5, HC 9 birim. Yüksekliğin solundaki ABH üçgeni mavi, sağındaki AHC üçgeni yeşil boyalı.](gorsel/tyt-matematik/20-04-yukseklik.svg "Yükseklik üçgeni iki dik üçgene ayırır: mavi ABH ve yeşil AHC. İkisinin ortak dik kenarı h_a'dır.")
+![ABC üçgeni: A'dan BC'ye dik inen kırmızı AH yüksekliği, H'de dik açı işareti. AB 13, BH 5, HC 9 birim; AC kenarında soru işareti. Yüksekliğin solundaki ABH üçgeni mavi, sağındaki AHC üçgeni yeşil boyalı.](gorsel/tyt-matematik/20-04-yukseklik.svg "Yükseklik üçgeni iki dik üçgene ayırır: mavi ABH ve yeşil AHC. İkisinin ortak dik kenarı h_a'dır.")
 
 **Çözüm.**
 
@@ -46,7 +46,7 @@ Alan $= \dfrac{\text{taban} \cdot \text{yükseklik}}{2}$. Üçgenin hangi kenar�
 
 **Örnek.** Aynı üçgende $|BC| = 14$, $|AC| = 15$ ve $h_a = 12$. $B$'den $[AC]$'ye inen $h_b$ kaçtır?
 
-![Aynı ABC üçgeni: mavi AH yüksekliği 12 birim, BC 14 birim. B'den AC'ye dik inen yeşil BE yüksekliği, E'de dik açı işareti ve h_b = ? etiketi. AC 15 birim.](gorsel/tyt-matematik/20-04-kenar-yukseklik.svg "Mavi yükseklik 14 birimlik tabana, yeşil yükseklik 15 birimlik tabana aittir. Taban uzadıkça ona ait yükseklik kısalır.")
+![Aynı ABC üçgeni: mavi AH yüksekliği 12 birim, BC kenarının tamamı altındaki ölçü çizgisiyle 14 birim. B'den AC'ye dik inen yeşil BE yüksekliği, E'de dik açı işareti ve h_b = ? etiketi. AC 15 birim.](gorsel/tyt-matematik/20-04-kenar-yukseklik.svg "Mavi yükseklik 14 birimlik tabana, yeşil yükseklik 15 birimlik tabana aittir. Taban uzadıkça ona ait yükseklik kısalır.")
 
 **Çözüm.**
 

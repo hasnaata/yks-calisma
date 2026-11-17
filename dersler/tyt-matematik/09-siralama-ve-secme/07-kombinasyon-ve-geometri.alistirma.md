@@ -2,7 +2,7 @@
 baslik: Kombinasyon ve Geometri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Kombinasyon ve Geometri
 
@@ -85,7 +85,7 @@ E) 32
 **Çözüm:** Eşleşme türlerini ayrı say. Doğru–doğru: $C(5, 2) = 10$. Çember–çember: $2 \cdot C(2, 2) = 2$. Doğru–çember: her doğru her çemberi en çok 2 noktada keser, $5 \cdot 2 \cdot 2 = 20$. Toplam $10 + 2 + 20 = 32$. 12, doğru–çember kesişimini unutmaktır; 22, doğru–çemberi 1 noktayla saymaktır; 30, iki çemberin kesişimini unutmaktır.
 
 ### Soru 7 · Orta
-Aynı düzlemde bulunan ve birbiriyle çakışmayan 3 tane beşgen en çok kaç noktada kesişir?
+Aynı düzlemde bulunan ve birbiriyle çakışmayan 3 tane dışbükey beşgen en çok kaç noktada kesişir?
 
 A) 15
 B) 18
@@ -94,7 +94,7 @@ D) 45
 E) 60
 
 **Cevap:** C
-**Çözüm:** İki beşgen en çok $2 \cdot 5 = 10$ noktada kesişir. Beşgen çiftlerinin sayısı $C(3, 2) = 3$. Toplam $10 \cdot 3 = 30$. 15, kenar sayısını 2 ile çarpmayı unutmaktır ($5 \cdot 3$); 18, üçgen kuralını kullanmaktır ($6 \cdot 3$); 60, çift sayısı yerine $P(3, 2) = 6$ almaktır.
+**Çözüm:** İki dışbükey beşgen en çok $2 \cdot 5 = 10$ noktada kesişir. Beşgen çiftlerinin sayısı $C(3, 2) = 3$. Toplam $10 \cdot 3 = 30$. 15, kenar sayısını 2 ile çarpmayı unutmaktır ($5 \cdot 3$); 18, üçgen kuralını kullanmaktır ($6 \cdot 3$); 60, çift sayısı yerine $P(3, 2) = 6$ almaktır.
 
 ## ÖSYM tarzı
 
@@ -145,7 +145,7 @@ E) 70
 ### Soru 11 · ÖSYM tarzı
 Bir bahçeye 9 fidan, aşağıdaki gibi 3 sıra ve 3 sütun hâlinde, komşu fidanlar arası 2 m olacak biçimde dikilmiştir. Bahçıvan, en az iki fidanın üzerinden geçen her doğru boyunca düz bir sulama hortumu çekecektir.
 
-![3 sıra ve 3 sütun hâlinde dizilmiş 9 yeşil nokta. Yatay ve dikey komşu noktalar arası 2 m.](gorsel/tyt-matematik/09-07-soru11.svg "Fidanlar eşit aralıklı bir kare ızgara oluşturur. Satırlar, sütunlar ve iki köşegen üzerinde üçer fidan vardır.")
+![3 sıra ve 3 sütun hâlinde dizilmiş 9 yeşil nokta. Yatay ve dikey komşu noktalar arası 2 m.](gorsel/tyt-matematik/09-07-soru11.svg "Fidanlar eşit aralıklı bir kare ızgara oluşturur.")
 
 Buna göre bahçıvan kaç hortum çeker?
 

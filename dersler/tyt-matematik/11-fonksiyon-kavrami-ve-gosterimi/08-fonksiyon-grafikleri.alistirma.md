@@ -2,7 +2,7 @@
 baslik: Fonksiyon Grafikleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Fonksiyon Grafikleri
 
@@ -41,7 +41,7 @@ E) $(4, 2)$
 ### Soru 3 · Kolay
 Aşağıda üç bağıntının grafiği verilmiştir. II ve III'te $x = 1$ için iki nokta işaretlenmiştir: II'de üstteki nokta içi boş, III'te ikisi de doludur.
 
-![Üç grafik yan yana. I: sola doğru açılan, yana yatık bir parabol. II: soldan yükselen bir doğru parçası x = 1'de içi boş noktayla bitiyor; x = 1'de daha aşağıda dolu bir noktadan sağa yatay doğru başlıyor. III: II ile aynı, ama üstteki nokta da dolu.](gorsel/tyt-matematik/11-08-soru3.svg "Her grafiğe zihninde düşey doğrular çiz. Boş nokta grafiğe ait değildir.")
+![Üç grafik yan yana. I: sağa doğru açılan, yana yatık bir parabol. II: soldan yükselen bir doğru parçası x = 1'de içi boş noktayla bitiyor; x = 1'de daha aşağıda dolu bir noktadan sağa yatay doğru başlıyor. III: II ile aynı, ama üstteki nokta da dolu.](gorsel/tyt-matematik/11-08-soru3.svg "Her grafiğe zihninde düşey doğrular çiz. Boş nokta grafiğe ait değildir.")
 
 Bunlardan hangileri bir fonksiyon grafiğidir?
 
@@ -178,7 +178,7 @@ D) 7
 E) 8
 
 **Cevap:** B
-**Çözüm:** Kırmızı kısım $f(x) < 0$ olan noktalardır: $|x - 2| - 3 < 0$, $|x - 2| < 3$, $-1 < x < 5$. Tam sayılar $0, 1, 2, 3, 4$: 5 nokta. $x = -1$ ve $x = 5$'te $f(x) = 0$; bu noktalar eksenin üstünde, altında değil, tam üzerindedir. Onları da sayan 7 bulur.
+**Çözüm:** Kırmızı kısım $f(x) < 0$ olan noktalardır: $|x - 2| - 3 < 0$, $|x - 2| < 3$, $-1 < x < 5$. Tam sayılar $0, 1, 2, 3, 4$: 5 nokta. $x = -1$ ve $x = 5$'te $f(x) = 0$; bu noktalar eksenin altında değil, tam üzerindedir. Onları da sayan 7 bulur.
 
 ### Soru 12 · ÖSYM tarzı
 $a$ bir gerçek sayı olmak üzere $f\colon \mathbb{R} \to \mathbb{R}$,

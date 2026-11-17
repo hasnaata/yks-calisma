@@ -127,7 +127,7 @@ D) $a - b$ tektir.
 E) $a + b$ çifttir.
 
 **Cevap:** E
-**Çözüm:** Kapalı lamba tek sayıda basıştan sonra açık, çift sayıda basıştan sonra kapalıdır. Lamba açık olduğuna göre toplam basış $3 + a + b$ tektir. $3$ tek olduğundan $a + b$ çifttir. $a = 1, b = 1$ ve $a = 2, b = 0$ ikisi de koşulu sağlar; bu örnekler A, B ve C'nin kesin olmadığını gösterir. $a + b$ çift ise $a - b$ de çifttir, D hiçbir zaman doğru değildir.
+**Çözüm:** Kapalı lamba tek sayıda basıştan sonra açık, çift sayıda basıştan sonra kapalıdır. Lamba açık olduğuna göre toplam basış $3 + a + b$ tektir. $3$ tek olduğundan $a + b$ çifttir. $a = 1, b = 1$ ve $a = 2, b = 2$ ikisi de koşulu sağlar; bu örnekler A, B ve C'nin kesin olmadığını gösterir. $a + b$ çift ise $a - b$ de çifttir, D hiçbir zaman doğru değildir.
 
 ### Soru 9 · ÖSYM tarzı
 Bir tahtaya $1, 2, 3, \dots, 25$ sayıları yazılmıştır. Ela her sayının önüne $+$ ya da $-$ işaretlerinden birini koyuyor ve bu 25 sayının toplamını hesaplıyor.

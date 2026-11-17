@@ -3,7 +3,7 @@ baslik: Permütasyon
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 90c5f9f8a3
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Permütasyon
 
@@ -18,7 +18,7 @@ Küçük faktöriyele göre düzenle: $8! = 8 \cdot 7!$. Pay $7! + 8 \cdot 7! = 
 </details>
 
 <details><summary>Faktöriyel kavramından: $15! = 3^k \cdot A$ ($A$ ve $k$ doğal sayı) ise $k$ en çok kaçtır?</summary>
-15'i kalan 3'ten küçük olana kadar 3'e böl ve bölümleri topla: $15 : 3 = 5$, $5 : 3 = 1$ (kalan 2). $k = 5 + 1 = 6$.
+15'i art arda 3'e böl (bölüm 3'ten küçük olunca dur) ve bölümleri topla: $15 : 3 = 5$, $5 : 3 = 1$ (kalan 2). $k = 5 + 1 = 6$.
 </details>
 
 ## Permütasyon nedir?

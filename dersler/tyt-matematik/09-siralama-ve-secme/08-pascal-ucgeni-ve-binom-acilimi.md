@@ -3,7 +3,7 @@ baslik: Pascal Üçgeni ve Binom Açılımı
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 53bfd274bb
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Pascal Üçgeni ve Binom Açılımı
 
@@ -158,7 +158,7 @@ D) 20
 E) 30
 
 **Cevap:** C
-**Çözüm:** Genel terim $C(6, r)\,(x^2)^{6 - r} \left(\dfrac{1}{x}\right)^r = C(6, r)\, x^{12 - 3r}$. $12 - 3r = 0 \Rightarrow r = 4$. Sabit terim $C(6, 4) = 15$. 20, ortadaki terimin ($r = 3$) katsayısıdır; o terim $20x^3$'tür, sabit değildir. 1, paydada $x$ varken $x = 0$ yazıp yalnızca "1" kalır sanmaktır.
+**Çözüm:** Genel terim $C(6, r)\,(x^2)^{6 - r} \left(\dfrac{1}{x}\right)^r = C(6, r)\, x^{12 - 3r}$. $12 - 3r = 0 \Rightarrow r = 4$. Sabit terim $C(6, 4) = 15$. 20, ortadaki terimin ($r = 3$) katsayısıdır; o terim $20x^3$'tür, sabit değildir. 1, ilk terimin ($x^{12}$) katsayısıdır; sabit terim değildir.
 
 ## Özet kartı
 

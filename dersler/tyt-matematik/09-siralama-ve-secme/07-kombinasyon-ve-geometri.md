@@ -3,7 +3,7 @@ baslik: Kombinasyon ve Geometri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 9e9d4f39f8
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kombinasyon ve Geometri
 
@@ -107,7 +107,7 @@ Aynı düşünce her şekilde geçerlidir: **çift sayısı × iki şeklin en ç
 | doğru – doğru | 1 | $C(n, 2)$ |
 | çember – çember | 2 | $2 \cdot C(n, 2)$ |
 | üçgen – üçgen | 6 | $6 \cdot C(n, 2)$ |
-| $r$-gen – $r$-gen | $2r$ | $2r \cdot C(n, 2)$ |
+| dışbükey $r$-gen – dışbükey $r$-gen | $2r$ | $2r \cdot C(n, 2)$ |
 | doğru – çember | 2 | — |
 
 Örnekler: 5 çember en çok $2 \cdot C(5, 2) = 20$ noktada, 4 üçgen $6 \cdot C(4, 2) = 36$ noktada, 3 kare $2 \cdot 4 \cdot C(3, 2) = 24$ noktada kesişir.
@@ -130,7 +130,7 @@ Toplam $6 + 6 + 24 = 36$.
 
 > **Permütasyon yazmak.** $ABC$ ile $BCA$ aynı üçgendir. $P(7, 3) = 210$ değil, $C(7, 3) = 35$.
 
-> **Çemberde iki kat.** $n$ çember $C(n, 2)$ değil $2 \cdot C(n, 2)$ noktada kesişir. Çokgende de kenar sayısının 2 katı unutulmaz: iki beşgen en çok 10 noktada kesişir.
+> **Çemberde iki kat.** $n$ çember $C(n, 2)$ değil $2 \cdot C(n, 2)$ noktada kesişir. Dışbükey çokgende de kenar sayısının 2 katı unutulmaz: iki dışbükey beşgen en çok 10 noktada kesişir.
 
 > **"En çok" sözcüğü.** Formüller en çok kesişim sayısını verir. Soru paralel doğrular ya da aynı noktadan geçen doğrular verirse o kesişimleri çıkar.
 
@@ -180,7 +180,7 @@ E) 20
 - $k$ nokta doğrusal: doğru $C(n, 2) - C(k, 2) + 1$; üçgen $C(n, 3) - C(k, 3)$.
 - İki paralel doğru ($m$ ve $n$ nokta): üçgen $C(m, 2) \cdot n + m \cdot C(n, 2)$; dörtgen $C(m, 2) \cdot C(n, 2)$.
 - $n$-genin köşegen sayısı $C(n, 2) - n$.
-- En çok kesişim = çift sayısı × iki şeklin kesişimi: doğru 1, çember 2, üçgen 6, $r$-gen $2r$, doğru–çember 2.
+- En çok kesişim = çift sayısı × iki şeklin kesişimi: doğru 1, çember 2, üçgen 6, dışbükey $r$-gen $2r$, doğru–çember 2.
 - Karışık sorularda her eşleşme türünü ayrı say, topla.
 
 ## Sonraki adım

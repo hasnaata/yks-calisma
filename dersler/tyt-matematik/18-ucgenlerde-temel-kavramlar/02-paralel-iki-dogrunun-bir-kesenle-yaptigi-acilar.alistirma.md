@@ -2,7 +2,7 @@
 baslik: Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Paralel İki Doğrunun Bir Kesenle Yaptığı Açılar
 
@@ -78,7 +78,7 @@ D) 70
 E) 75
 
 **Cevap:** E
-**Çözüm:** Kırılma noktasındaki açı iki uçtaki açının toplamıdır: $2x + 5 = x + 40 \Rightarrow x = 35$. $m(\widehat{AEC}) = 2 \cdot 35 + 5 = 75^\circ$. Kontrol: $40^\circ + 35^\circ = 75^\circ$. $35$, $x$'te durmaktır; $45$, $E$'deki açıyı uçtaki açıların toplamının bütünleri sanmaktan ($2x + 5 = 180 - (x + 40)$) gelir; $70$ ise $2x$'tir.
+**Çözüm:** Kırılma noktasındaki açı iki uçtaki açının toplamıdır: $2x + 5 = x + 40 \Rightarrow x = 35$. $m(\widehat{AEC}) = 2 \cdot 35 + 5 = 75^\circ$. Kontrol: $40^\circ + 35^\circ = 75^\circ$. $35$, $x$'te durmaktır; $45$, $E$'deki açıyı uçtaki açıların toplamının bütünleri sanıp ($2x + 5 = 180 - (x + 40)$) bulunan $x$ değeridir; $70$ ise $2x$'tir.
 
 ### Soru 6 · Orta
 ![Yatay paralel d1 ve d2 doğruları. A, d1 üzerinde; D de d1 üzerinde A'nın sağında. A'dan d2'deki B'ye bir kesen iniyor; DAB açısı 110 derece. A'dan çıkan yeşil AC ışını bu açıyı iki eş parçaya bölüp d2'yi C'de kesiyor. C'deki ACB açısı soru işaretiyle gösterilmiş.](gorsel/tyt-matematik/18-02-s6.svg "Yeşil yaylar eş açılardır.")

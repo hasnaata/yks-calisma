@@ -112,7 +112,7 @@ $$\left(\frac{5}{6} \cdot \frac{3}{2}\right) : \frac{5}{4} = \frac{5}{4} : \frac
 En alttaki kesirden başla, yukarı doğru çık:
 
 1. $1 + \frac{1}{2} = \frac{3}{2}$
-2. $\frac{1}{3/2} = \frac{2}{3}$, yani $1 + \frac{2}{3} = \frac{5}{3}$
+2. $\frac{1}{3/2} = \frac{2}{3}$, sonra $1 + \frac{2}{3} = \frac{5}{3}$
 3. $\frac{1}{5/3} = \frac{3}{5}$
 4. $1 - \frac{3}{5} = \frac{2}{5}$
 

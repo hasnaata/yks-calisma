@@ -3,7 +3,7 @@ baslik: Dik Üçgende Pisagor Teoremi
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti e9eb52be47
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Dik Üçgende Pisagor Teoremi
 
@@ -118,7 +118,7 @@ $$|AB|^2 + |CD|^2 = |BC|^2 + |DA|^2 \Rightarrow 100 + 121 = 25 + x^2 \Rightarrow
 
 **Örnek 9 (yükseklik üzerinde nokta).** $ABC$ üçgeninde $[AH] \perp [BC]$ ve $D$ noktası $[AH]$ üzerindedir. $|AB| = 11$, $|AC| = 9$, $|DB| = 7$ birimdir. $|DC| = x$ kaçtır?
 
-![ABC üçgeni ve A'dan BC'ye inen AH yüksekliği, H'de dik açı. AH üzerindeki D noktası B ve C'ye bağlanmış. AB 11, AC 9, DB 7, DC x olarak işaretli.](gorsel/tyt-matematik/21-01-yukseklik-nokta.svg "Çapraz duran kenarları eşleştir: AB ile DC, AC ile DB. Kırmızı ve yeşil birer kenarın kareleri toplamı eşittir.")
+![ABC üçgeni ve A'dan BC'ye inen AH yüksekliği, H'de dik açı. AH üzerindeki D noktası B ve C'ye bağlanmış. AB 11, AC 9, DB 7, DC x olarak işaretli.](gorsel/tyt-matematik/21-01-yukseklik-nokta.svg "Çapraz duran kenarları eşleştir: AB ile DC, AC ile DB. Her eşleşmede bir kırmızı ve bir yeşil kenar vardır; iki eşleşmenin kareleri toplamı eşittir.")
 
 **Çözüm.** $|AB|^2 - |AC|^2 = |HB|^2 - |HC|^2$ ve $|DB|^2 - |DC|^2 = |HB|^2 - |HC|^2$ (iki durumda da $|AH|^2$ ya da $|DH|^2$ sadeleşir). Öyleyse:
 

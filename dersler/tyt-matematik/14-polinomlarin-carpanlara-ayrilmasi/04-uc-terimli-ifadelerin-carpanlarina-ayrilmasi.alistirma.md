@@ -2,7 +2,7 @@
 baslik: Üç Terimli İfadelerin Çarpanlarına Ayrılması · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Üç Terimli İfadelerin Çarpanlarına Ayrılması
 
@@ -200,4 +200,4 @@ D) $7$
 E) $13$
 
 **Cevap:** D
-**Çözüm:** Baş terim $2x^2$, çarpanlardan biri $2x - 3$ ise diğeri $x + m$ biçimindedir. Sabit terimler: $(-3) \cdot m = -15$, $m = 5$. $(2x - 3)(x + 5) = 2x^2 + 10x - 3x - 15 = 2x^2 + 7x - 15$. Kutudaki sayı $7$. İkinci yol: $x = \frac{3}{2}$ ifadeyi sıfır yapmalı: $\frac{9}{2} + \frac{3}{2}\square - 15 = 0$, $\square = 7$. Diğer çarpanı $x - 5$ alan $-7$, çaprazları toplamak yerine mutlak değerleri toplayan $13$ bulur.
+**Çözüm:** Baş terim $2x^2$, çarpanlardan biri $2x - 3$ ise diğeri $x + m$ biçimindedir. Sabit terimler: $(-3) \cdot m = -15$, $m = 5$. $(2x - 3)(x + 5) = 2x^2 + 10x - 3x - 15 = 2x^2 + 7x - 15$. Kutudaki sayı $7$. İkinci yol: $x = \frac{3}{2}$ ifadeyi sıfır yapmalı: $\frac{9}{2} + \frac{3}{2}\square - 15 = 0$, $\square = 7$. Çarpanı $2x + 3$ sanıp $(2x + 3)(x - 5)$ yazan $-7$, çaprazları toplamak yerine mutlak değerleri toplayan $13$ bulur.

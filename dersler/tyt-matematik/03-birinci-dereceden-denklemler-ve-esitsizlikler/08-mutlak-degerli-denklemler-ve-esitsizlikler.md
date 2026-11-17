@@ -122,7 +122,7 @@ Sağ taraf negatif ya da sıfırsa ezber yerine "uzaklık" diye düşün:
 
 | Eşitsizlik | Çözüm kümesi | Neden? |
 |---|---|---|
-| $\lvert x\rvert < 0$ ya da $\lvert x\rvert < -2$ | $\varnothing$ | Uzaklık negatif ya da $0$'dan küçük olamaz |
+| $\lvert x\rvert < 0$ ya da $\lvert x\rvert < -2$ | $\varnothing$ | Uzaklık $0$'dan küçük olamaz |
 | $\lvert x\rvert \le 0$ | $\{0\}$ | Yalnız $\lvert 0\rvert = 0$ |
 | $\lvert x\rvert \ge 0$ ya da $\lvert x\rvert > -2$ | $\mathbb{R}$ | Her uzaklık bunu sağlar |
 | $\lvert x\rvert > 0$ | $\mathbb{R} \setminus \{0\}$ | Yalnız $0$ sağlamaz |

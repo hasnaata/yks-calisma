@@ -2,7 +2,7 @@
 baslik: Kümelerde Temel Kavramlar · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Kümelerde Temel Kavramlar
 
@@ -158,9 +158,9 @@ E) 6
 **Çözüm:** $\{\ \}$ ile $\emptyset$ aynı kümedir (boş küme); kümede aynı eleman bir kez sayılır. Farklı elemanlar: $\emptyset$, $\{\emptyset\}$, $\{0\}$, $0$. $s(K) = 4$. Her yazılanı ayrı sayan 5, boş kümeyi "hiçbir şey" sanıp saymayan 3 bulur.
 
 ### Soru 11 · ÖSYM tarzı
-Bir kafede bardaklar 4'lü, tabaklar 6'lı paketler hâlinde satılıyor. Kafe sahibi, hem 4'lü hem 6'lı paketlerle **tam olarak** karşılanabilen sayıları bir kümede topluyor:
+Bir kafede bardaklar 4'lü, tabaklar 6'lı paketler hâlinde satılıyor. Kafe sahibi, eşit sayıda bardak ve tabak almak istiyor; paketleri bölmeden alabileceği ve 50'den küçük olan ortak sayıları bir kümede topluyor:
 
-$$A = \{x \mid x \in \mathbb{N},\ x < 50,\ x \text{ hem 4'e hem 6'ya tam bölünür}\}$$
+$$A = \{x \mid x \in \mathbb{N}^+,\ x < 50,\ x \text{ hem 4'e hem 6'ya tam bölünür}\}$$
 
 Buna göre $s(A)$ kaçtır?
 
@@ -170,8 +170,8 @@ C) 4
 D) 5
 E) 8
 
-**Cevap:** D
-**Çözüm:** Hem 4'e hem 6'ya bölünen sayılar $\text{EKOK}(4, 6) = 12$'nin katlarıdır. $x$ doğal sayı ve $0$ her sayıya bölünür: $A = \{0, 12, 24, 36, 48\}$, $s(A) = 5$. $0$'ı unutan 4; $4 \cdot 6 = 24$'ün katlarını alan 3 ya da (0'sız) 2; yalnızca 6'nın katlarını sayan 8 bulur.
+**Cevap:** C
+**Çözüm:** Hem 4'e hem 6'ya bölünen sayılar $\text{EKOK}(4, 6) = 12$'nin katlarıdır. $x$ pozitif doğal sayı olduğu için $0$ alınmaz: $A = \{12, 24, 36, 48\}$, $s(A) = 4$. $\mathbb{N}^+$'yı gözden kaçırıp $0$'ı da yazan 5; $4 \cdot 6 = 24$'ün katlarını alan 2 (ya da $0$ ile 3); yalnızca 6'nın katlarını sayan 8 bulur.
 
 ### Soru 12 · ÖSYM tarzı
 Bir çekiliş torbasında 1'den 20'ye kadar numaralanmış 20 top vardır. Topların numaraları evrensel küme $E$, numarası asal sayı olan topların numaraları $A$ kümesi olarak Venn şemasında gösteriliyor.

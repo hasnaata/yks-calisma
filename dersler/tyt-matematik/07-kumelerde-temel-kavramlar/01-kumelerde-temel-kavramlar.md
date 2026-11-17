@@ -3,7 +3,7 @@ baslik: Kümelerde Temel Kavramlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 84a5cc28c9
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kümelerde Temel Kavramlar
 
@@ -123,7 +123,7 @@ Kümeyi bir kutu gibi düşün. $\emptyset$ boş kutudur. $\{\emptyset\}$ ise **
 
 > **Tekrar edeni iki kez saymak:** $\{x^2 \mid x \in \mathbb{Z},\ -2 \le x \le 2\}$ kümesinde $x$ beş değer alır ama küme $\{0, 1, 4\}$, yani 3 elemanlıdır.
 
-> **Sıfırı unutmak:** $\mathbb{N}$ sıfırla başlar. $\{x \mid x \in \mathbb{N},\ x < 4\}$ 4 elemanlıdır, 3 değil. Ayrıca $0$ her sayıya bölünür: "4'e bölünen doğal sayılar" listesine $0$ da girer.
+> **Sıfırı unutmak:** $\mathbb{N}$ sıfırla başlar. $\{x \mid x \in \mathbb{N},\ x < 4\}$ 4 elemanlıdır, 3 değil. Ayrıca $0$, sıfırdan farklı her sayıya tam bölünür: "4'e bölünen doğal sayılar" listesine $0$ da girer.
 
 > **İç içe kümeyi açmak:** $A = \{1, \{2, 3\}\}$ ise $2 \notin A$ ve $s(A) = 2$'dir. İçteki küme bütün olarak tek elemandır.
 

@@ -2,7 +2,7 @@
 baslik: Kombinasyon Problemleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Kombinasyon Problemleri
 
@@ -182,4 +182,4 @@ D) 24
 E) 25
 
 **Cevap:** A
-**Çözüm:** Başlangıçta $n$ takım varsa maç sayısı $\binom{n}{2}$. Yeni maçlar: iki yeni takımın her biri eski $n$ takımla oynar ($2n$) ve kendi aralarında 1 maç yapar: $2n + 1 = 25$, $n = 12$. Kontrol: $\binom{14}{2} - \binom{12}{2} = 91 - 66 = 25$. $14$ yeni takım sayısıdır; iki yeni takımın kendi arasındaki maçı unutan $2n = 25$ ile tam sayı bulamaz.
+**Çözüm:** Başlangıçta $n$ takım varsa maç sayısı $\binom{n}{2}$. Yeni maçlar: iki yeni takımın her biri eski $n$ takımla oynar ($2n$) ve kendi aralarında 1 maç yapar: $2n + 1 = 25$, $n = 12$. Kontrol: $\binom{14}{2} - \binom{12}{2} = 91 - 66 = 25$. $14$ yeni takımlar katıldıktan sonraki takım sayısıdır; iki yeni takımın kendi arasındaki maçı unutan $2n = 25$ ile tam sayı bulamaz.

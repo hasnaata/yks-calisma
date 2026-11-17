@@ -172,4 +172,4 @@ D) $240$
 E) $270$
 
 **Cevap:** E
-**Çözüm:** Bırakılma yüksekliği $h$ olsun. Her çarpışmada yükseklik $\frac{2}{3}$ ile çarpılır (kalanın kesri): 1. çarpışmadan sonra $\frac{2}{3}h$, 2.'den sonra $\frac{4}{9}h$, 3.'den sonra $\frac{8}{27}h$. $\frac{8}{27}h = 80$ ise $h = 80 \cdot \frac{27}{8} = 270$ cm. Yalnızca bir adım geri giden $120$, iki adım geri giden $180$ bulur; 80 cm'yi bırakılma yüksekliğinin $\frac{1}{3}$'ü sanıp $80 \cdot 3$ yapan $240$ bulur.
+**Çözüm:** Bırakılma yüksekliği $h$ olsun. Her çarpışmada yükseklik $\frac{2}{3}$ ile çarpılır: 1. çarpışmadan sonra $\frac{2}{3}h$, 2. çarpışmadan sonra $\frac{4}{9}h$, 3. çarpışmadan sonra $\frac{8}{27}h$. $\frac{8}{27}h = 80$ ise $h = 80 \cdot \frac{27}{8} = 270$ cm. Yalnızca bir adım geri giden $120$, iki adım geri giden $180$ bulur; 80 cm'yi bırakılma yüksekliğinin $\frac{1}{3}$'ü sanıp $80 \cdot 3$ yapan $240$ bulur.

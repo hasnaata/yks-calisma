@@ -2,7 +2,7 @@ import sys; sys.path.insert(0, "tools")
 from cizim import *
 
 # 1. terazi: 2 küp = 1 top + 300 g.  2. terazi: 1 küp + 1 top = 900 g.  (küp 400 g, top 500 g)
-fig, ax = sekil(6.4, 2.8)
+fig, ax = sekil(6.8, 2.8)
 ax.axis("off"); ax.set_aspect("equal")
 
 def kup(x, y):
@@ -29,8 +29,8 @@ def terazi(cx, baslik):
 sol, sag, y = terazi(0, "1. terazi")
 kup(sol - 0.3, y); kup(sol + 0.3, y)
 top(sag - 0.46, y); agirlik(sag + 0.27, y, "300 g")
-sol, sag, y = terazi(5.0, "2. terazi")
+sol, sag, y = terazi(5.6, "2. terazi")
 kup(sol - 0.3, y); top(sol + 0.32, y)
 agirlik(sag, y, "900 g")
-ax.set_xlim(-2.45, 7.45); ax.set_ylim(-0.75, 1.75)
+ax.set_xlim(-2.45, 8.05); ax.set_ylim(-0.75, 1.75)
 kaydet(fig, __file__)

@@ -144,7 +144,7 @@ E) $2$
 ### Soru 10 · ÖSYM tarzı
 $a$, $b$ ve $c$ gerçek sayılarının sayı doğrusundaki yerleri aşağıda gösterilmiştir.
 
-![Sayı doğrusu: soldan sağa a, b, 0 ve c. a sıfırdan en uzak noktada; c, b'den uzak ama a'dan yakın.](gorsel/tyt-matematik/01-04-soru10.svg "Önce işaretlere, sonra sıfıra olan uzaklıklara bak: a, c'den daha uzakta.")
+![Sayı doğrusu: soldan sağa a, b, 0 ve c. a sıfırdan en uzak noktada; c sıfıra b'den uzak ama a'dan yakın.](gorsel/tyt-matematik/01-04-soru10.svg "Önce işaretlere, sonra sıfıra olan uzaklıklara bak: a, c'den daha uzakta.")
 
 Buna göre aşağıdakilerden hangisi pozitiftir?
 

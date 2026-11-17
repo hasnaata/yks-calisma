@@ -2,7 +2,7 @@
 baslik: Polinomlarda Bölme İşlemi · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Polinomlarda Bölme İşlemi
 
@@ -153,7 +153,7 @@ D) $3x + 6$
 E) $2x + 3$
 
 **Cevap:** A
-**Çözüm:** Eksik terim: $x^3 + 2x^2 + 0x + 3$. $\frac{x^3}{x^2} = x$; çarp: $x^3 - x^2$; çıkar: $3x^2 + 0x + 3$. $\frac{3x^2}{x^2} = 3$; çarp: $3x^2 - 3x$; çıkar: $3x + 3$. Derecesi $1 < 2$, bölme biter. Ekranda $3x + 3$ görünür. Kontrol: $(x^2 - x)(x + 3) + 3x + 3 = x^3 + 2x^2 + 3$. İlk turda yalnızca baş terimi çıkarıp $-x^2$'nin işaretini değiştirmeyen kişi $x^2$ katsayısını $1$ bulur ve yanlış bir kalana ulaşır; $3x - 3$ ise sabit terimin işaretini bozan hatadır.
+**Çözüm:** Eksik terim: $x^3 + 2x^2 + 0x + 3$. $\frac{x^3}{x^2} = x$; çarp: $x^3 - x^2$; çıkar: $3x^2 + 0x + 3$. $\frac{3x^2}{x^2} = 3$; çarp: $3x^2 - 3x$; çıkar: $3x + 3$. Derecesi $1 < 2$, bölme biter. Ekranda $3x + 3$ görünür. Kontrol: $(x^2 - x)(x + 3) + 3x + 3 = x^3 + 2x^2 + 3$. İlk turda $-x^2$'nin işaretini değiştirmeyen kişi $2x^2 - x^2 = x^2$ bulur ve C'ye ($x + 3$) ulaşır; son çıkarmada sabit terimin işaretini bozan B'yi seçer.
 
 ### Soru 11 · ÖSYM tarzı
 Bir dikdörtgen biçimindeki bahçenin alanı $(2x^2 + 7x + 6)$ metrekare, kenarlarından birinin uzunluğu $(x + 2)$ metredir.

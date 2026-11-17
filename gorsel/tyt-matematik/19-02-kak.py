@@ -21,8 +21,8 @@ aci(ax, A, B, C, r=0.7, ad="α", renk=MAVI); aci(ax, D, E, F, r=0.6, ad="α", re
 G1, G2 = (A + B + C) / 3, (D + E + F) / 3
 nokta(ax, *A, "A", dx=-0.2, dy=0.3); nokta(ax, *B, "B", dx=-0.75, dy=-0.25); nokta(ax, *C, "C", dx=0.25, dy=-0.25)
 nokta(ax, *D, "D", dx=-0.2, dy=0.3); nokta(ax, *E, "E", dx=-0.75, dy=-0.25); nokta(ax, *F, "F", dx=0.25, dy=-0.25)
-kenar(ax, A, B, "6", G1, renk=KIRMIZI); kenar(ax, A, C, "9", G1, renk=KIRMIZI); kenar(ax, B, C, "7,5", G1)
-kenar(ax, D, E, "4", G2, renk=KIRMIZI); kenar(ax, D, F, "6", G2, renk=KIRMIZI); kenar(ax, E, F, "?", G2)
+kenar(ax, A, B, "6", G1, renk=KIRMIZI); kenar(ax, A, C, "9", G1, renk=KIRMIZI); kenar(ax, B, C, "7,5", G1, d=1.0)
+kenar(ax, D, E, "4", G2, renk=KIRMIZI); kenar(ax, D, F, "6", G2, renk=KIRMIZI); kenar(ax, E, F, "?", G2, d=0.8)
 xs = [p[0] for p in (A, B, C, D, E, F)]; ys = [p[1] for p in (A, B, C, D, E, F)]
 ax.set_xlim(min(xs) - 1.0, max(xs) + 1.0); ax.set_ylim(min(ys) - 1.0, max(ys) + 0.9)
 kaydet(fig, __file__)

@@ -3,7 +3,7 @@ baslik: Trigonometrik Oranlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b67d4b1d14
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Trigonometrik Oranlar
 
@@ -141,7 +141,7 @@ D) $\frac{31}{24}$
 E) $\frac{25}{7}$
 
 **Cevap:** C
-**Çözüm:** Hipotenüs $|AC| = \sqrt{7^2 + 24^2} = \sqrt{625} = 25$. $\alpha$, $C$ köşesinde: karşısı $|AB| = 7$, komşusu $|BC| = 24$. $\sin \alpha + \cos \alpha = \frac{7}{25} + \frac{24}{25} = \frac{31}{25}$. A ve B yalnızca bir oranı yazmaktır; D'de $\cos$ yerine $\tan$'ın paydası olan $24$ kullanılmıştır.
+**Çözüm:** Hipotenüs $|AC| = \sqrt{7^2 + 24^2} = \sqrt{625} = 25$. $\alpha$, $C$ köşesinde: karşısı $|AB| = 7$, komşusu $|BC| = 24$. $\sin \alpha + \cos \alpha = \frac{7}{25} + \frac{24}{25} = \frac{31}{25}$. A ve B yalnızca bir oranı yazmaktır; D'de payda olarak hipotenüs ($25$) yerine komşu dik kenar ($24$) kullanılmıştır.
 
 ### Soru 2
 $\alpha$ bir dar açı ve $\tan \alpha = 2{,}4$ olduğuna göre $\cos \alpha$ kaçtır?

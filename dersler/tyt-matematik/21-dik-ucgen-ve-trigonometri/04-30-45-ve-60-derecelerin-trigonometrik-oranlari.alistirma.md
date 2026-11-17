@@ -2,7 +2,7 @@
 baslik: 30°, 45° ve 60°'nin Trigonometrik Oranları · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: 30°, 45° ve 60°'nin Trigonometrik Oranları
 
@@ -121,7 +121,7 @@ E) $2\sqrt{3}$
 ### Soru 9 · ÖSYM tarzı
 ![Yere dik bir kulenin tepesi T. Yerde A ve B noktaları kuleyle aynı tarafta; kule dibi ile A arası 30 m. A'dan T'ye bakış çizgisi yerle 60 derece, B'den T'ye bakış çizgisi yerle 30 derece yapıyor. A ile B arası soru işareti.](gorsel/tyt-matematik/21-04-soru9.svg "Kule yere diktir; kulenin dibi, A ve B aynı doğru üzerindedir.")
 
-Yere dik bir kulenin dibinden $30$ metre uzaktaki $A$ noktasından kulenin tepesine bakan Elif, bakış doğrusu ile yer arasındaki açıyı $60^\circ$ ölçüyor. Elif kuleden uzaklaşarak aynı doğru üzerindeki $B$ noktasına gidiyor ve bu açıyı $30^\circ$ ölçüyor.
+Yere dik bir kulenin dibinden $30$ metre uzaktaki $A$ noktasından kulenin tepesine bakan bir gözlemci, bakış doğrusu ile yer arasındaki açıyı $60^\circ$ ölçüyor. Gözlemci kuleden uzaklaşarak aynı doğru üzerindeki $B$ noktasına gidiyor ve bu açıyı $30^\circ$ ölçüyor.
 
 Gözün yerden yüksekliği önemsenmediğine göre $A$ ile $B$ arası kaç metredir?
 

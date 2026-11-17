@@ -3,7 +3,7 @@ baslik: Açı Kavramı ve Çeşitleri
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 46407f0b2d
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Açı Kavramı ve Çeşitleri
 
@@ -142,7 +142,7 @@ D) 90
 E) 120
 
 **Cevap:** C
-**Çözüm:** Açı $x$ olsun: $180 - x = 4(90 - x) \Rightarrow 180 - x = 360 - 4x \Rightarrow 3x = 180 \Rightarrow x = 60^\circ$. Kontrol: tümleri $30^\circ$, bütünleri $120^\circ = 4 \cdot 30^\circ$. $30$ tümler, $120$ bütünlerdir; sorulan açının kendisidir.
+**Çözüm:** Açı $x$ olsun: $180 - x = 4(90 - x) \Rightarrow 180 - x = 360 - 4x \Rightarrow 3x = 180 \Rightarrow x = 60^\circ$. Kontrol: tümleri $30^\circ$, bütünleri $120^\circ = 4 \cdot 30^\circ$. $30$ tümleri, $120$ bütünleridir; sorulan ise açının kendisidir.
 
 ### Soru 2
 İki doğru bir noktada kesişiyor. Oluşan açılardan yan yana duran ikisinin ölçüleri $2x + 30^\circ$ ve $4x$'tir.

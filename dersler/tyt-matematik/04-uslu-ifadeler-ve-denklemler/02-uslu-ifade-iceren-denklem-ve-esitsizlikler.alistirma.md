@@ -58,7 +58,7 @@ D) 9
 E) 27
 
 **Cevap:** B
-**Çözüm:** En küçük kuvvet $3^{x-1}$; onu ortak paranteze al: $3^{x+1} = 3^{x-1} \cdot 9$. Böylece $3^{x-1}(9 - 1) = 72$, $3^{x-1} = 9 = 3^2$, $x - 1 = 2$, $x = 3$. Kontrol: $3^4 - 3^2 = 81 - 9 = 72$. $3^x$ değerini ($27$) ya da $3^{x-1}$ değerini ($9$) cevap sanan D ya da E'yi işaretler.
+**Çözüm:** En küçük kuvvet $3^{x-1}$; onu ortak paranteze al: $3^{x+1} = 3^{x-1} \cdot 9$. Böylece $3^{x-1}(9 - 1) = 72$, $3^{x-1} = 9 = 3^2$, $x - 1 = 2$, $x = 3$. Kontrol: $3^4 - 3^2 = 81 - 9 = 72$. $3^{x-1}$ değerini ($9$) ya da $3^x$ değerini ($27$) cevap sanan D ya da E'yi işaretler.
 
 ### Soru 5 · Orta
 $(2x - 1)^4 = 81$ denklemini sağlayan $x$ değerlerinin çarpımı kaçtır?
@@ -86,7 +86,7 @@ E) 11
 Üs sıfır: $x^2 = 9$, $x = 3$ ya da $x = -3$. Tabanlar $-1$ ve $-7$, ikisi de sıfır değil: ikisi de geçerli.
 Taban bir: $x - 4 = 1$, $x = 5$; $1^{16} = 1$, geçerli.
 Taban eksi bir: $x = 3$; üs $0$, çift: geçerli ama bu kök zaten bulundu.
-Çözüm kümesi $\{-3, 3, 5\}$, toplam $5$. Yalnızca üssü sıfır yapanları alan $0$; $x = 3$'ü iki kez sayan $11$; $-3$'ü unutan $8$ bulur.
+Çözüm kümesi $\{-3, 3, 5\}$, toplam $5$. Yalnızca üssü sıfır yapanları alan $0$; $x = 3$'ü iki kez sayan ya da $-3$'ü unutan $8$ bulur.
 
 ### Soru 7 · Orta
 $(0{,}2)^{x-1} \le 25^{x+4}$ eşitsizliğini sağlayan en küçük $x$ tam sayısı kaçtır?
@@ -177,4 +177,4 @@ D) 6
 E) 7
 
 **Cevap:** E
-**Çözüm:** Hepsini 3 tabanına çevir: $\left(\frac{1}{9}\right)^{x-6} = 3^{-2x+12}$ ve $\frac{1}{27} = 3^{-3}$. Eşitsizlik $3^{-2x+12} \ge 3^x > 3^{-3}$ olur. Taban $3 > 1$, yön aynı: $-2x + 12 \ge x$ ve $x > -3$. İlkinden $x \le 4$. Birlikte $-3 < x \le 4$: tam sayılar $-2, -1, 0, 1, 2, 3, 4$; toplam 7. $x = 4$'ü dahil etmeyen 6, iki ucu da dışarıda bırakan 5 bulur.
+**Çözüm:** Hepsini 3 tabanına çevir: $\left(\frac{1}{9}\right)^{x-6} = 3^{-2x+12}$ ve $\frac{1}{27} = 3^{-3}$. Eşitsizlik $3^{-2x+12} \ge 3^x > 3^{-3}$ olur. Taban $3 > 1$, yön aynı: $-2x + 12 \ge x$ ve $x > -3$. İlkinden $x \le 4$. Birlikte $-3 < x \le 4$: tam sayılar $-2, -1, 0, 1, 2, 3, 4$; toplam 7. $x = 4$'ü dahil etmeyen 6, alt sınırda $x > -3$ yerine $x > -2$ alan 5 bulur.

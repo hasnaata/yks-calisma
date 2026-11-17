@@ -3,7 +3,7 @@ baslik: Kombinasyon Kavramı ve Özellikleri
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 6a9890787e
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Kombinasyon Kavramı ve Özellikleri
 
@@ -113,7 +113,7 @@ Yukarıdaki örneğe tekrar bak. 8 elemanlı kümenin bütün 3'lü alt kümeler
 
 $$C(7, 2) + C(7, 3) = 21 + 35 = 56 = C(8, 3).$$
 
-**Kural.** $C(n, r) + C(n, r + 1) = C(n + 1, r + 1)$. Alt satırları (üst sayı aynı, alt sayılar ardışık) topla: üst sayı 1 artar, alt sayı büyük olanı alır.
+**Kural.** $C(n, r) + C(n, r + 1) = C(n + 1, r + 1)$. Üst sayıları aynı, alt sayıları ardışık iki kombinasyonu toplarsan üst sayı 1 artar, alt sayı büyük olanı alır.
 
 **Örnek.** $C(9, 4) + C(9, 5)$ kaçtır? Kural: $C(10, 5) = \dfrac{10 \cdot 9 \cdot 8 \cdot 7 \cdot 6}{120} = 252$. Kontrol: $126 + 126 = 252$.
 

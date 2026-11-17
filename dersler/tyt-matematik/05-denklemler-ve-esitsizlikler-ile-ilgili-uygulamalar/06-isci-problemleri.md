@@ -81,7 +81,7 @@ $$\frac{\text{işçi sayısı} \cdot \text{süre}}{\text{iş miktarı}} = \text{
 - Kalan: $30 - 20 = 10$ birim.
 - B tek başına: $10 \div 2 = 5$ gün.
 
-![Zaman çizelgesi. A'nın şeridi 0 ile 4. gün arasında, B'nin şeridi 0 ile 9. gün arasında. 4. günde kırmızı kesikli çizgi: A ayrılıyor. Altta: ilk 4 günde 20 birim, kalan 10 birim B ile 5 günde biter.](gorsel/tyt-matematik/05-06-ayrilma.svg "Her aralıkta kim çalışıyorsa onun hızını yaz. B ayrıldıktan sonra 5 gün daha çalışır; iş toplam 9 günde biter.")
+![Zaman çizelgesi. A'nın şeridi 0 ile 4. gün arasında, B'nin şeridi 0 ile 9. gün arasında. 4. günde kırmızı kesikli çizgi: A ayrılıyor. Altta: ilk 4 günde 20 birim, kalan 10 birim B ile 5 günde biter.](gorsel/tyt-matematik/05-06-ayrilma.svg "Her aralıkta kim çalışıyorsa onun hızını yaz. A ayrıldıktan sonra B 5 gün daha çalışır; iş toplam 9 günde biter.")
 
 **Kural.** Çalışanlar değişiyorsa işi **zaman aralıklarına böl**: her aralıkta (o aralıkta çalışanların günlük işi) $\times$ (gün). Aralıkların toplamı işin tamamıdır. Soru "kalan iş kaç günde" mi, "iş toplam kaç günde" mi, oku.
 

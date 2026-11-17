@@ -90,7 +90,7 @@ D) $b < c < a$
 E) $c < a < b$
 
 **Cevap:** B
-**Çözüm:** Hepsini ondalık aç: $a = \frac{13}{15} = 0{,}8\overline{6} = 0{,}8666\dots$, $c = \frac{7}{8} = 0{,}875$, $b = 0{,}8777\dots$ Virgülden sonraki ilk basamak hepsinde 8; ikinci basamak $a$'da 6, $b$ ve $c$'de 7. $b$ ile $c$ üçüncü basamakta ayrılır: $0{,}877\dots > 0{,}875$. Sıra $a < c < b$. $b$'yi $0{,}87$ gibi düşünüp $c$'den küçük sanan C ya da D'ye gider.
+**Çözüm:** Hepsini ondalık aç: $a = \frac{13}{15} = 0{,}8\overline{6} = 0{,}8666\dots$, $c = \frac{7}{8} = 0{,}875$, $b = 0{,}8777\dots$ Virgülden sonraki ilk basamak hepsinde 8; ikinci basamak $a$'da 6, $b$ ve $c$'de 7. $b$ ile $c$ üçüncü basamakta ayrılır: $0{,}877\dots > 0{,}875$. Sıra $a < c < b$. $b$'yi $0{,}87$ gibi düşünüp $c$'den küçük sanan $a < b < c$ (A) seçeneğine gider.
 
 ### Soru 7 · Orta
 $$\frac{1{,}\overline{2}}{0{,}\overline{1}} + \frac{0{,}\overline{4}}{0{,}0\overline{4}}$$
@@ -120,7 +120,7 @@ D) 10 000
 E) 100 000
 
 **Cevap:** C
-**Çözüm:** $3{,}75$'te virgülden sonra 2, $2{,}4$'te 1 basamak var; çarpımda toplam $2 + 1 = 3$ basamak ayrılır. Bu, sonucu $10^3 = 1000$'e bölmek demektir: $9000 : 1000 = 9$. Kontrol: $3{,}75 \cdot 2{,}4 = 9$. Basamakları toplamak yerine çarpan ya da yalnız birini sayan 100 ya da 10 000 bulur.
+**Çözüm:** $3{,}75$'te virgülden sonra 2, $2{,}4$'te 1 basamak var; çarpımda toplam $2 + 1 = 3$ basamak ayrılır. Bu, sonucu $10^3 = 1000$'e bölmek demektir: $9000 : 1000 = 9$. Kontrol: $3{,}75 \cdot 2{,}4 = 9$. Basamak sayılarını toplamak yerine çarpan ($2 \cdot 1 = 2$) 100, bir basamak fazla sayan 10 000 bulur.
 
 ### Soru 9 · ÖSYM tarzı
 Bir kırtasiyeci bir defterin fiyatını etikete yazarken virgülü yanlışlıkla bir basamak sağa kaydırıyor. Etikette yazan fiyat, defterin gerçek fiyatından $41{,}4$ TL fazla çıkıyor.

@@ -20,7 +20,7 @@ D) $7009$
 E) $7900$
 
 **Cevap:** B
-**Çözüm:** Sağdan sayınca birler 6, onlar 1, yüzler 9, binler 2. Binler basamağındaki 2'nin basamak değeri $2 \cdot 1000 = 2000$; yüzler basamağındaki 9'un sayı değeri $9$. Toplam $2009$. İkisinin de sayı değerini alan $11$, 9'un basamak değerini alan $2900$, binler yerine on binler basamağını (7) okuyan $7009$ bulur.
+**Çözüm:** Sağdan sayınca birler 6, onlar 1, yüzler 9, binler 2. Binler basamağındaki 2'nin basamak değeri $2 \cdot 1000 = 2000$; yüzler basamağındaki 9'un sayı değeri $9$. Toplam $2009$. İkisinin de sayı değerini alan $11$, 9'un basamak değerini alan $2900$, binler basamağındaki rakamı yanlışlıkla 7 (on binler basamağındaki rakam) alan $7000 + 9 = 7009$ bulur.
 
 ### Soru 2 · Kolay
 $a$ ve $b$ birer rakam olmak üzere, dört basamaklı $4a0b$ sayısının çözümlenmiş biçimi aşağıdakilerden hangisidir?

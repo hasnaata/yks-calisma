@@ -23,7 +23,7 @@ Yok etme yöntemi: iki denklemi taraf tarafa topla, $y$ gider: $2x = 10$, yani $
 
 ## Çözüm kümesi bir bölgedir
 
-Önceki derste $ax + by = c$ denkleminin grafiğinin bir **doğru** olduğunu gördün. Eşittir yerine $<$, $\le$, $>$, $\ge$ koyarsan **birinci dereceden iki bilinmeyenli eşitsizlik** elde edersin ($a \ne 0$, $b \ne 0$):
+Önceki derste $ax + by = c$ denkleminin grafiğinin bir **doğru** olduğunu gördün. Eşittir yerine $<$, $\le$, $>$, $\ge$ koyarsan **birinci dereceden iki bilinmeyenli eşitsizlik** elde edersin ($a$ ile $b$ aynı anda $0$ olmaz):
 
 $$ax + by < c, \quad ax + by \le c, \quad ax + by > c, \quad ax + by \ge c$$
 

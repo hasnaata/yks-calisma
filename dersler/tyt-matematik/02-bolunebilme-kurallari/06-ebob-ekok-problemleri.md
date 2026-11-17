@@ -69,7 +69,7 @@ Eş tuğlalardan (dikdörtgenler prizması) en küçük küp yapmada da aynı yo
 
 ## Tekrar eden olaylar: EKOK
 
-**Örnek 4.** Bir duraktan üç hat otobüsü sırasıyla 12, 15 ve 20 dakikada bir kalkıyor. Üçü saat 08.00'de birlikte kalktı. Üçü birlikte **üçüncü kez** saat kaçta kalkar?
+**Örnek 4.** Bir duraktan üç hat otobüsü sırasıyla 12, 15 ve 20 dakikada bir kalkıyor. Üçü **ilk kez** saat 08.00'de birlikte kalktı. Üçü birlikte **üçüncü kez** saat kaçta kalkar?
 
 Her otobüs kendi periyodunun katlarında kalkar. Üçünün birlikte kalktığı anlar ortak katlardır; ilk ortak kat
 
@@ -79,7 +79,7 @@ $$\text{EKOK}(12, 15, 20) = 60 \text{ dakika}$$
 
 Birlikte kalkışlar 08.00, 09.00, 10.00 … Birinci kez 08.00 (başlangıç) olduğu için üçüncü kez $2 \cdot 60 = 120$ dakika sonra: **10.00**.
 
-**Kural.** Belirli aralıklarla tekrar eden olaylar EKOK zamanında bir aynı anda gerçekleşir. Başlangıç anı birinci kez sayılırsa $n$. kez için geçen süre $(n - 1) \cdot \text{EKOK}$ olur. Pistte koşan atletlerin başlangıçta yeniden buluşması, ışıkların birlikte yanması ve makinelerin birlikte ürün vermesi de bu kalıptır.
+**Kural.** Belirli aralıklarla tekrar eden olaylar EKOK zamanında bir aynı anda gerçekleşir. Başlangıç anı birinci kez sayılırsa $n$. kez için geçen süre $(n - 1) \cdot \text{EKOK}$ olur. Soru "başladıktan sonra $n$. kez" diyorsa başlangıç sayılmaz ve süre $n \cdot \text{EKOK}$ olur; soru kökünü dikkatle oku. Pistte koşan atletlerin başlangıçta yeniden buluşması, ışıkların birlikte yanması ve makinelerin birlikte ürün vermesi de bu kalıptır.
 
 ## Kalanlı bölme problemleri
 
@@ -106,7 +106,7 @@ Kalanları çıkarınca tam bölme olur: $d$, $75 - 3 = 72$ ile $110 - 2 = 108$ 
 
 > **Toplamak ile çarpmayı karıştırmak:** Ayrı sıvıları şişelere doldururken şişe sayıları **toplanır** ($4 + 6 + 7$). Alanı ya da hacmi kareye, küpe bölerken sayılar **çarpılır** ($3 \cdot 2$).
 
-> **"n. kez"de başlangıcı unutmak:** 08.00'de birlikte kalktılarsa bu birinci kezdir. Üçüncü kez için $3 \cdot 60$ değil $2 \cdot 60$ dakika eklenir.
+> **"n. kez"de başlangıcı yanlış saymak:** Soru 08.00'i "ilk kez" diye veriyorsa üçüncü kez için $3 \cdot 60$ değil $2 \cdot 60$ dakika eklenir. "Başladıktan sonra üçüncü kez" deniyorsa başlangıç sayılmaz, $3 \cdot 60$ dakika eklenir.
 
 > **EKOK yerine çarpım:** 12, 15 ve 20 dakikalık otobüsler $12 \cdot 15 \cdot 20$ dakikada değil, $\text{EKOK} = 60$ dakikada birlikte kalkar. Sayılar aralarında asal değilse çarpım EKOK'tan büyüktür.
 
@@ -160,7 +160,7 @@ E) 142
 
 - Büyük bütünü eş, en büyük parçalara ayırmak: **EBOB**.
 - Küçük eş parçalarla en küçük kare ya da küp kurmak: **EKOK**.
-- Tekrar eden olayların yeniden aynı anda olması: **EKOK**; $n$. kez için $(n - 1) \cdot \text{EKOK}$.
+- Tekrar eden olayların yeniden aynı anda olması: **EKOK**; başlangıç birinci kezse $n$. kez için $(n - 1) \cdot \text{EKOK}$.
 - Aynı kalan $r$: $x = \text{EKOK} \cdot k + r$; hep $m$ eksik: $x = \text{EKOK} \cdot k - m$.
 - Bölen aranıyorsa önce kalanları çıkar, sonra EBOB al.
 - EBOB/EKOK boyutu verir; parça sayısı için bir adım daha at.

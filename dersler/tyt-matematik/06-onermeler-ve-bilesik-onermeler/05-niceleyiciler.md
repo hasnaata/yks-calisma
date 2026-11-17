@@ -3,7 +3,7 @@ baslik: Niceleyiciler
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 2f5c308f94
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Niceleyiciler
 
@@ -14,7 +14,7 @@ guncelleme: 2026-11-17
 ## Önce hatırla
 
 <details><summary>İki yönlü koşullu önermeden: p ≡ 1 ve q ≡ 0 ise p ⇔ q ve p′ ⇔ q önermelerinin doğruluk değerleri nedir?</summary>
-"Ancak ve ancak" bağlacı, iki taraf <b>aynı</b> değerdeyse 1, farklıysa 0 verir. $p \Leftrightarrow q \equiv 1 \Leftrightarrow 0 \equiv 0$. $p' \Leftrightarrow q \equiv 0 \Leftrightarrow 0 \equiv 1$. Bu da $(p \Leftrightarrow q)' \equiv p' \Leftrightarrow q$ özelliğini gösterir.
+"Ancak ve ancak" bağlacı, iki taraf <b>aynı</b> değerdeyse 1, farklıysa 0 verir. $p \Leftrightarrow q \equiv 1 \Leftrightarrow 0 \equiv 0$. $p' \Leftrightarrow q \equiv 0 \Leftrightarrow 0 \equiv 1$. Bu, $(p \Leftrightarrow q)' \equiv p' \Leftrightarrow q$ özelliğine bir örnektir.
 </details>
 
 <details><summary>İki yönlü koşullu önermeden: p ⇔ q önermesini iki "ise" önermesiyle yaz. p ≡ 0, q ≡ 1 için değeri nedir?</summary>
@@ -50,7 +50,7 @@ Aynı soruda $x$ bir **doğal sayı** olsaydı negatifler hiç aday olmazdı: $\
 
 Doğruluk kümeleri: $P = \{2, 3, 5, 7\}$ ve $Q = \{1, 3, 5, 7, 9\}$.
 
-![E kümesi 1'den 10'a. p asal dairesi ve q tek dairesi kesişiyor. Yalnız p bölgesinde 2, kesişimde 3, 5, 7, yalnız q bölgesinde 1 ve 9, dışarıda 4, 6, 8, 10.](gorsel/tyt-matematik/06-05-venn.svg "Yeşil bölge p(x) ∧ q(x) önermesinin doğruluk kümesidir. Asal olup tek olmayan tek sayı 2'dir.")
+![E kümesi 1'den 10'a. p asal dairesi ve q tek dairesi kesişiyor. Yalnız p bölgesinde 2, kesişimde 3, 5, 7, yalnız q bölgesinde 1 ve 9, dışarıda 4, 6, 8, 10.](gorsel/tyt-matematik/06-05-venn.svg "Yeşil bölge p(x) ∧ q(x) önermesinin doğruluk kümesidir. Asal olup tek olmayan yalnızca 2'dir.")
 
 - $p(x) \wedge q(x)$: iki koşul birlikte, yani kesişim: $\{3, 5, 7\}$.
 - $p(x) \vee q(x)$: en az biri, yani birleşim: $\{1, 2, 3, 5, 7, 9\}$.
@@ -71,7 +71,7 @@ Doğruluk kümeleri: $P = \{2, 3, 5, 7\}$ ve $Q = \{1, 3, 5, 7, 9\}$.
 
 İkinci satırı **tek bir sayı** (0) çürüttü. Üçüncü satırı **tek bir sayı** ($-4$) doğruladı.
 
-![Dört kutu. Her kutu evrensel küme, mavi daireli noktalar doğruluk kümesinde. Her için: bütün noktalar içerideyse 1, bir nokta dışarıdaysa 0. Bazı için: bir nokta içerideyse 1, hiçbiri içeride değilse 0.](gorsel/tyt-matematik/06-05-her-bazi.svg "Her: tek bir istisna yeter, önerme yanlış olur. Bazı: tek bir örnek yeter, önerme doğru olur.")
+![Dört kutu. Her kutu evrensel küme, mavi daireli noktalar doğruluk kümesinde. Her için: bütün noktalar içerideyse 1, bir nokta dışarıdaysa 0. Bazı için: bir nokta içerideyse 1, hiçbiri içeride değilse 0.](gorsel/tyt-matematik/06-05-her-bazi.svg "D, doğruluk kümesidir. Her: tek bir istisna yeter, önerme yanlış olur. Bazı: tek bir örnek yeter, önerme doğru olur.")
 
 **Kural.**
 

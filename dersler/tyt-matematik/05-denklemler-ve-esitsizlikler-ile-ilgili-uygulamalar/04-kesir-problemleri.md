@@ -113,7 +113,7 @@ $$\frac{x}{5} \cdot \frac{1}{2} = 12 \quad\Rightarrow\quad \frac{x}{10} = 12 \qu
 
 > **$x$'i cevap sanmak:** Bütüne $12x$ dedikten sonra $x = 25$ bulup "25" işaretlemek. Seçeneklerde $x$'in değeri hep bulunur; istenen çokluğu yeniden oku.
 
-> **Orta noktanın kesilen kadar kaydığını sanmak:** Bir uçtan $24$ cm kesilen telin orta noktası $24$ değil $12$ cm kayar. Yarıyı unutan, telin boyunu iki kat küçük bulur.
+> **Orta noktanın kesilen kadar kaydığını sanmak:** Bir uçtan $24$ cm kesilen telin orta noktası $24$ değil $12$ cm kayar. Yarıyı unutan, telin boyunu gerçek boyun yarısı bulur ($120$ yerine $60$).
 
 > **Kabın kütlesini unutmak:** "$\frac{1}{3}$'ü dolu iken 900 g" demek suyun 900 g olduğu anlamına gelmez; bu, kap ile suyun toplamıdır. Önce iki durumun farkını al.
 

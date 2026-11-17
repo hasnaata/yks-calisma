@@ -3,7 +3,7 @@ baslik: Fonksiyon Grafikleri
 ders: tyt-matematik
 sure: 22 dk
 kaynak: MEBİ Konu Özeti b4b0f53717
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Fonksiyon Grafikleri
 
@@ -106,7 +106,7 @@ $g(x) < 0$ eşitsizliğini sağlayan tek tam sayı $-1$'dir. $g(x) \le 0$ densey
 
 **Örnek.** Aşağıdaki iki grafikten hangisi bir fonksiyon grafiğidir?
 
-![Solda bir çember, ona dik kesikli kırmızı düşey bir doğru çemberi iki noktada kesiyor. Sağda yukarı açılan bir eğri, iki kesikli yeşil düşey doğru eğriyi birer noktada kesiyor.](gorsel/tyt-matematik/11-08-dusey-test.svg "Fonksiyonda her x'in tek bir görüntüsü olur. Bir düşey doğru grafiği iki noktada keserse o x için iki görüntü var demektir.")
+![Solda bir çember; kesikli kırmızı düşey bir doğru çemberi iki noktada kesiyor. Sağda yukarı açılan bir eğri, iki kesikli yeşil düşey doğru eğriyi birer noktada kesiyor.](gorsel/tyt-matematik/11-08-dusey-test.svg "Fonksiyonda her x'in tek bir görüntüsü olur. Bir düşey doğru grafiği iki noktada keserse o x için iki görüntü var demektir.")
 
 Çemberde $x = 1$ doğrusu iki noktadan geçer: $x = 1$'in iki görüntüsü var, **fonksiyon değil**. Sağdaki eğride hangi düşey doğruyu çizersen çiz tek noktada keser: **fonksiyon**.
 

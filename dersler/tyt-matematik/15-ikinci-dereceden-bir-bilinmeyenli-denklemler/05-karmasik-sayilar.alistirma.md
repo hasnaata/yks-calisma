@@ -2,7 +2,7 @@
 baslik: Karmaşık Sayılar · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Karmaşık Sayılar
 
@@ -187,4 +187,4 @@ D) $24$
 E) $25$
 
 **Cevap:** B
-**Çözüm:** Her dört adımda toplam $0$'a döner; bu yüzden ara toplam yalnızca $n$'nin $4$'e bölümünden kalana bağlıdır: kalan $1$ ise $i$, $2$ ise $-1 + i$, $3$ ise $-1$, $0$ ise $0$. Ara toplam $n = 3, 7, 11, \dots, 47$ adımlarında $-1$ olur. Sayısı $\dfrac{47 - 3}{4} + 1 = 12$. $50$'yi $4$'e bölüp $12{,}5$'i $13$'e yuvarlayan C'yi, tek adımları sayan ($-1$ yalnızca tek adımlarda çıkar ama her tek adımda değil) $25$'i bulur.
+**Çözüm:** Her dört adımda toplam $0$'a döner; bu yüzden ara toplam yalnızca $n$'nin $4$'e bölümünden kalana bağlıdır: kalan $1$ ise $i$, $2$ ise $-1 + i$, $3$ ise $-1$, $0$ ise $0$. Ara toplam $n = 3, 7, 11, \dots, 47$ adımlarında $-1$ olur. Sayısı $\dfrac{47 - 3}{4} + 1 = 12$. $50$'yi $4$'e bölüp $12{,}5$'i $13$'e yuvarlayan C'yi bulur. Bütün tek adımları sayan E'yi bulur; oysa $-1$ yalnızca tek adımlarda çıkar ama her tek adımda çıkmaz (kalan $1$ olan adımlarda ara toplam $i$'dir).

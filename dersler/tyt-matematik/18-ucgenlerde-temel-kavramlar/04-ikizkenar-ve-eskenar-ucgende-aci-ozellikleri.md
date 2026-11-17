@@ -37,7 +37,7 @@ guncelleme: 2026-11-17
 
 **Çözüm.**
 
-1. $|AB| = |AC|$ olduğundan bu kenarların karşısındaki açılar eşittir: $m(\widehat{B}) = m(\widehat{C}) = x$ de.
+1. $|AB| = |AC|$ olduğundan bu kenarların karşısındaki açılar eşittir: $m(\widehat{B}) = m(\widehat{C}) = x$ diyelim.
 2. İç açılar toplamı: $40^\circ + x + x = 180^\circ \Rightarrow 2x = 140^\circ \Rightarrow x = 70^\circ$.
 
 ![İkizkenar ABC üçgeni: AB ve AC kenarlarında birer çentik var. Tepe A'da 40 derece, tabandaki B ve C köşelerinde 70'er derece.](gorsel/tyt-matematik/18-04-ikizkenar.svg "Çentikli iki yan kenar eşit, bu yüzden karşılarındaki yeşil taban açıları da eşit: 70° ve 70°. Mavi açı tepe açısıdır.")

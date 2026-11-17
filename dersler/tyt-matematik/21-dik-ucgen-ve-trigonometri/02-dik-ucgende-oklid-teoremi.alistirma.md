@@ -2,7 +2,7 @@
 baslik: Dik Üçgende Öklid Teoremi · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Dik Üçgende Öklid Teoremi
 
@@ -98,12 +98,12 @@ E) 18
 Şekilde $[AB] \perp [AC]$, $[AH] \perp [BC]$, $|AH| = 4$ birim, $|BC| = 10$ birim ve $|BH| < |HC|$'dir. Buna göre $|AB|$ kaç birimdir?
 
 A) 2
-B) $2\sqrt{5}$
-C) 4
-D) $4\sqrt{5}$
-E) 8
+B) 4
+C) $2\sqrt{5}$
+D) 8
+E) $4\sqrt{5}$
 
-**Cevap:** B
+**Cevap:** C
 **Çözüm:** $|BH| = x$ olsun; $|HC| = 10 - x$. $x(10 - x) = 16 \Rightarrow x^2 - 10x + 16 = 0 \Rightarrow (x - 2)(x - 8) = 0$. $|BH| < |HC|$ olduğu için $|BH| = 2$. $|AB|^2 = 2 \cdot 10 = 20 \Rightarrow |AB| = 2\sqrt{5}$. $4\sqrt{5}$, $x = 8$ kökünü seçmektir ($|AC|$ çıkar); $2$ ve $8$ ise parçaların kendisidir.
 
 ## ÖSYM tarzı

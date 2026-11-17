@@ -2,7 +2,7 @@
 baslik: Tek-Çift Fonksiyonlar · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Tek-Çift Fonksiyonlar
 
@@ -37,7 +37,7 @@ E) $f(x) = x^3 + x^2$
 ### Soru 3 · Kolay
 Aşağıda üç fonksiyonun grafiği verilmiştir.
 
-![Yan yana üç grafik. I: orijinden geçen, soldan sağa sürekli artan, x³'e benzeyen bir eğri. II: tepesi aşağıda, y ekseninde −2'de en düşük noktası olan bir parabol. III: orijinden geçen, sağa doğru azalan bir doğru.](gorsel/tyt-matematik/11-06-soru3.svg "Her grafiği önce y ekseninden aynala, sonra orijin etrafında çevir; hangisi kendisiyle çakışıyor?")
+![Yan yana üç grafik. I: orijinden geçen, soldan sağa sürekli artan, x³'e benzeyen bir eğri. II: kolları yukarı bakan, y ekseninde −2'de en düşük noktası olan bir parabol. III: orijinden geçen, sağa doğru azalan bir doğru.](gorsel/tyt-matematik/11-06-soru3.svg "Her grafiği orijin etrafında yarım tur çevir; hangisi kendisiyle çakışıyor?")
 
 Bu grafiklerden hangileri tek fonksiyona aittir?
 

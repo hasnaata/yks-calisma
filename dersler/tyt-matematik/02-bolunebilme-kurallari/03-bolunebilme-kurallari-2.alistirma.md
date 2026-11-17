@@ -88,7 +88,7 @@ D) 12
 E) 14
 
 **Cevap:** A
-**Çözüm:** $44 = 4 \cdot 11$. 4 kuralı: $\overline{3b}$ 4'ün katı, $32$ ya da $36$; $b \in \{2, 6\}$. 11 kuralı, sağdan sola $+, -, +, -$: $b - 3 + 7 - a = b + 4 - a$ toplamı 11'in katı olmalı. $b = 6$ ise $10 - a$; $a$ rakam olduğundan bu 0 ya da 11 olamaz ($a = 10$ gerekir). $b = 2$ ise $6 - a = 0$, $a = 6$. Sayı $6\,732 = 44 \cdot 153$; $a + b = 8$.
+**Çözüm:** $44 = 4 \cdot 11$. 4 kuralı: $\overline{3b}$ 4'ün katı, $32$ ya da $36$; $b \in \{2, 6\}$. 11 kuralı, sağdan sola $+, -, +, -$: $b - 3 + 7 - a = b + 4 - a$ toplamı 11'in katı olmalı. $b = 6$ ise $10 - a$; $a$ sıfırdan farklı bir rakam olduğundan bu değer 1 ile 10 arasındadır, 11'in katı olamaz. $b = 2$ ise $6 - a = 0$, $a = 6$. Sayı $6\,732 = 44 \cdot 153$; $a + b = 8$.
 
 ### Soru 7 · Orta
 Bir $x$ doğal sayısının 4 ile bölümünden kalan 3, 9 ile bölümünden kalan 5'tir.

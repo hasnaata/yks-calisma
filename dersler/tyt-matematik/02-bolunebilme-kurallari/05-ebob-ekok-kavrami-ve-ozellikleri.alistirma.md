@@ -123,7 +123,7 @@ E) 30
 ### Soru 9 · ÖSYM tarzı
 Aşağıdaki Venn şemasında $A$ ve $B$ pozitif tam sayılarının asal çarpanları gösterilmiştir. Her asal çarpan, kaç kez çarpılıyorsa o kadar yazılmıştır; kesişimdekiler iki sayıda da vardır.
 
-![İki kesişen çember: A ve B. Yalnız A bölgesinde 3 ve 7, kesişimde 2, 2 ve 5, yalnız B bölgesinde 2 ve 11.](gorsel/tyt-matematik/02-05-soru9.svg "Kesişimdeki çarpanlar iki sayıda da var. Yalnız B bölgesindeki 2'yi atlama.")
+![İki kesişen çember: A ve B. Yalnız A bölgesinde 3 ve 7, kesişimde 2, 2 ve 5, yalnız B bölgesinde 2 ve 11.](gorsel/tyt-matematik/02-05-soru9.svg "Kesişimdeki çarpanlar iki sayıda da var. Her bölgedeki çarpanları tek tek oku.")
 
 Buna göre $\dfrac{\text{EKOK}(A, B)}{\text{EBOB}(A, B)}$ oranı kaçtır?
 

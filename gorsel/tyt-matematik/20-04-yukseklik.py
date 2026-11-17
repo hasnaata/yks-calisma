@@ -25,7 +25,7 @@ def centik(ax, P, Q, n=1, renk=YAZI, L=0.18, ara=0.12):
         c = M + (i - (n - 1) / 2) * ara * u
         ax.plot(*zip(c - L * v, c + L * v), color=renk, lw=1.3)
 
-# |AB|=13, |BH|=5, |HC|=9, [AH] ⊥ [BC]  =>  |AH|=12, |AC|=15.
+# |AB|=13, |BH|=5, |HC|=9, [AH] ⊥ [BC]  =>  |AH|=12, |AC|=15 (soru: AC şekilde ? olarak).
 B, C = np.array([0.0, 0.0]), np.array([14.0, 0.0]); H = np.array([5.0, 0.0]); A = np.array([5.0, 12.0])
 print("AB", uz(A, B), "AC", uz(A, C), "AH", uz(A, H))
 G = (A + B + C) / 3
@@ -37,7 +37,7 @@ ax.plot(*zip(A, H), color=KIRMIZI, lw=2.2)
 dik(ax, H, A, C, k=0.75, renk=KIRMIZI)
 nokta(ax, *A, "A", dx=-0.35, dy=0.45); nokta(ax, *B, "B", dx=-0.9, dy=-0.9); nokta(ax, *C, "C", dx=0.3, dy=-0.9)
 nokta(ax, *H, "H", dx=-0.35, dy=-1.25, renk=KIRMIZI)
-kenar(ax, A, B, "13", G, d=0.8); kenar(ax, A, C, "15", G, d=0.8, renk=SOLUK)
+kenar(ax, A, B, "13", G, d=0.8); kenar(ax, A, C, "?", G, d=0.8, renk=MAVI, fs=15)
 kenar(ax, B, H, "5", G, d=0.8, renk=MAVI); kenar(ax, H, C, "9", G, d=0.8, renk=YESIL)
 ax.text(A[0] + 0.3, 5.5, r"$h_a$", color=KIRMIZI, fontsize=15, ha="left")
 ax.set_xlim(-1.2, 15.2); ax.set_ylim(-1.6, 13.2)

@@ -170,7 +170,7 @@ D) II ve III
 E) I, II ve III
 
 **Cevap:** D
-**Çözüm:** $a + b = 2\sqrt{3}$ irrasyonel. $a - b = (\sqrt{3} + 1) - (\sqrt{3} - 1) = 2$ rasyonel. $a \cdot b = 3 - 1 = 2$ rasyonel. "İki irrasyonelin işlemi irrasyoneldir" diyen A'yı, çarpımı hesaplamayan B'yi seçer.
+**Çözüm:** $a + b = 2\sqrt{3}$ irrasyonel. $a - b = (\sqrt{3} + 1) - (\sqrt{3} - 1) = 2$ rasyonel. $a \cdot b = 3 - 1 = 2$ rasyonel. Toplamda kökler birbirini götürmez; $a + b$'yi de rasyonel sanan E'yi, çarpımı hesaplamayan B'yi seçer.
 
 ## Özet kartı
 

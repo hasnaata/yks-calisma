@@ -154,7 +154,7 @@ E) 52
 ### Soru 11 · ÖSYM tarzı
 Aşağıdaki sayı doğrusunda $|x - a| \ge b$ eşitsizliğinin çözüm kümesi gösterilmiştir.
 
-![Sayı doğrusu: −3'te dolu nokta ve oradan sola ok; 5'te dolu nokta ve oradan sağa ok. Arada boyalı kısım yok.](gorsel/tyt-matematik/03-08-soru11.svg "Boyalı olmayan kısmın ortası merkezi, ortadan sınırlara uzaklık b'yi verir.")
+![Sayı doğrusu: −3'te dolu nokta ve oradan sola ok; 5'te dolu nokta ve oradan sağa ok. Arada boyalı kısım yok.](gorsel/tyt-matematik/03-08-soru11.svg "Uç noktalar dolu: −3 ve 5 çözüm kümesine dahildir.")
 
 Buna göre $a + b$ toplamı kaçtır?
 

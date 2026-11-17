@@ -152,7 +152,7 @@ Kontrol: $3(x - 1) + 2(x + 2) = 5x + 1$.
 
 > **Sabit polinom ile sıfır polinomunu karıştırmak:** $P(x) = 6$ polinomunun derecesi $0$'dır; $P(x) = 0$ polinomunun derecesi belirsizdir.
 
-> **$n = 0$'ı unutmak:** Doğal sayılar $0$'dan başlar. $x^{n-2}$ teriminde $n = 2$ olabilir; terim sabit sayı olur.
+> **Üssün $0$ olabileceğini unutmak:** Doğal sayılar $0$'dan başlar. $x^{n-2}$ teriminde $n - 2 = 0$, yani $n = 2$ olabilir; terim sabit sayı olur.
 
 ## Kendini dene
 

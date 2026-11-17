@@ -2,7 +2,7 @@
 baslik: Açı Kavramı ve Çeşitleri · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Açı Kavramı ve Çeşitleri
 
@@ -165,7 +165,7 @@ E) 150
 **Çözüm:** İki ağız arasındaki açı $x$ olsun. Üstteki ağız ile üstteki sap farklı kollardadır ve yan yana durur; bu iki açı bir doğru üzerindedir, toplamları $180^\circ$: üstteki ağız–sap açısı $180^\circ - x$. Denklem: $180 - x = 4x - 30 \Rightarrow 5x = 210 \Rightarrow x = 42^\circ$. Kontrol: $180 - 42 = 138$ ve $4 \cdot 42 - 30 = 138$. $24$, yan yana açıları tümler sanmaktan ($90 - x = 4x - 30$); $138$, ağız–sap açısının kendisinden; $84$ ise iki ağız ve iki sap arasındaki açıların toplamından gelir.
 
 ### Soru 11 · ÖSYM tarzı
-![Kağıdın düz kenarı AB doğrusu, üzerinde O noktası. Kağıt O'dan geçen kesikli OD çizgisi boyunca katlanmış; OA kenarı katlanınca OA' konumuna gelmiş. AOD ve DOA' açıları x ile, A'OB açısı 40 derece ile gösterilmiş.](gorsel/tyt-matematik/18-01-soru11.svg "Katlama çizgisi, katlanan kenar ile yeni konumu arasındaki açıyı iki eş parçaya böler.")
+![Kâğıdın düz kenarı AB doğrusu, üzerinde O noktası. Kâğıt O'dan geçen kesikli OD çizgisi boyunca katlanmış; OA kenarı katlanınca OA' konumuna gelmiş. AOD ve DOA' açıları x ile, A'OB açısı 40 derece ile gösterilmiş.](gorsel/tyt-matematik/18-01-soru11.svg "Katlama çizgisi, katlanan kenar ile yeni konumu arasındaki açıyı iki eş parçaya böler.")
 
 Bir kâğıdın düz kenarı $AB$ doğrusudur ve $O$ bu kenar üzerindedir. Kâğıt, $O$'dan geçen $[OD$ çizgisi boyunca katlanınca $[OA$ kenarı $[OA'$ konumuna geliyor ve $m(\widehat{A'OB}) = 40^\circ$ oluyor.
 

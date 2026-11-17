@@ -3,7 +3,7 @@ baslik: İçine, Örten, Birebir ve Eşit Fonksiyonlar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti aad486ecb6
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # İçine, Örten, Birebir ve Eşit Fonksiyonlar
 

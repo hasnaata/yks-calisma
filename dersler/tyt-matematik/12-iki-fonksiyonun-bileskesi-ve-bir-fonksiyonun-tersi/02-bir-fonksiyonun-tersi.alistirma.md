@@ -2,7 +2,7 @@
 baslik: Bir Fonksiyonun Tersi · Alıştırma
 ders: tyt-matematik
 soru: 12
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Alıştırma: Bir Fonksiyonun Tersi
 
@@ -146,7 +146,7 @@ D) $\frac{13}{4}$
 E) $\frac{11}{3}$
 
 **Cevap:** A
-**Çözüm:** $(1, 3) \in f^{-1}$ ise $(3, 1) \in f$; $(5, 4) \in f^{-1}$ ise $(4, 5) \in f$. $f(x) = mx + n$: $3m + n = 1$ ve $4m + n = 5$. Çıkarınca $m = 4$, $n = -11$. $f(x) = 4x - 11$, $f(2) = -3$. Noktaları doğrudan $f$'nin noktası sanan $f^{-1}(2) = \frac{13}{4}$ bulur. Yalnız bir noktanın bileşenlerini çeviren $-\frac{1}{2}$ ya da $\frac{11}{3}$ bulur.
+**Çözüm:** $(1, 3) \in f^{-1}$ ise $(3, 1) \in f$; $(5, 4) \in f^{-1}$ ise $(4, 5) \in f$. $f(x) = mx + n$: $3m + n = 1$ ve $4m + n = 5$. Çıkarınca $m = 4$, $n = -11$. $f(x) = 4x - 11$, $f(2) = -3$. Noktaları doğrudan $f$'nin noktası sanan, $f(2)$ yerine $f^{-1}(2) = \frac{13}{4}$ değerini bulur. Yalnız bir noktanın bileşenlerini çeviren $-\frac{1}{2}$ ya da $\frac{11}{3}$ bulur.
 
 ### Soru 11 · ÖSYM tarzı
 Bir hesap makinesindeki $T$ tuşu, ekrandaki $x$ sayısını ($x \neq 2$)

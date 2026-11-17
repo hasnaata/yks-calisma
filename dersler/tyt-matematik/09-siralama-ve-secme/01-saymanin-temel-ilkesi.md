@@ -3,7 +3,7 @@ baslik: Saymanın Temel İlkesi
 ders: tyt-matematik
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 4748fa90fd
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Saymanın Temel İlkesi
 
@@ -117,7 +117,7 @@ Durumlar "ya da" ile bağlı, toplanır: $20 + 32 = 52$.
 
 > **Kısıtlı yeri sona bırakmak:** "Rakamları farklı çift sayı" sorusunda yüzlerden başlayıp birlere gelince "kaç çift rakam kaldı?" sorusunun cevabı belli olmaz. Önce birleri doldur; gerekirse durumlara ayır.
 
-> **"En az bir"i doğrudan saymak:** "En az bir 5" için $1 \cdot 9 \cdot 9$ gibi tek bir çarpım yazmak bazı sayıları atlar, bazılarını iki kez sayar. Tümleyeni kullan.
+> **"En az bir"i doğrudan saymak:** "En az bir 5" için $1 \cdot 9 \cdot 9$ gibi tek bir çarpım yazmak 5'in başka basamakta olduğu sayıları atlar; "5'i bir basamağa koy, kalanları serbest bırak" demek ise birden çok 5 içeren sayıları birden çok kez sayar. Tümleyeni kullan.
 
 ## Kendini dene
 

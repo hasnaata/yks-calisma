@@ -126,7 +126,7 @@ Hiçbir şey eşitlenemiyor. $50$'yi her tabanın ardışık iki kuvveti arasın
 
 Sonuç: $z < y < x$.
 
-![Karar şeması: üslü sayıları sırala. Tabanlar eşitlenebiliyorsa büyük üs büyüktür. Değilse üsler eşitlenebiliyorsa büyük taban büyüktür. O da olmazsa ardışık kuvvetler arasına yerleştir.](gorsel/tyt-matematik/04-01-siralama.svg "Sıralama sorusunda bu sırayla dene. İlk iki yol, taban 1'den büyük ve pozitifken geçerlidir.")
+![Karar şeması: üslü sayıları sırala. Tabanlar eşitlenebiliyorsa büyük üs büyüktür. Değilse üsler eşitlenebiliyorsa büyük taban büyüktür. O da olmazsa ardışık kuvvetler arasına yerleştir.](gorsel/tyt-matematik/04-01-siralama.svg "Sıralama sorusunda bu sırayla dene. İlk yol taban 1'den büyükken, ikinci yol tabanlar pozitifken geçerlidir.")
 
 ## ÖSYM tuzakları
 

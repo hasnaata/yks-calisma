@@ -3,7 +3,7 @@ baslik: Karmaşık Sayılar
 ders: tyt-matematik
 sure: 20 dk
 kaynak: MEBİ Konu Özeti b4f4d2bc65
-guncelleme: 2026-11-17
+guncelleme: 2026-11-18
 ---
 # Karmaşık Sayılar
 
@@ -171,7 +171,7 @@ E) $7i$
 - $i^n$: üssü $4$'e böl; kalan $0, 1, 2, 3$ için $1, i, -1, -i$. Ardışık dört kuvvetin toplamı $0$.
 - $\overline{a + bi} = a - bi$; $z + \overline{z} = 2a$, $z \cdot \overline{z} = a^2 + b^2$.
 - $\Delta < 0$ ise $x = \dfrac{-b \pm i\sqrt{|\Delta|}}{2a}$; kökler eşleniktir, $m \pm ni$.
-- Bir kök $m + ni$ ise denklem $x^2 - 2m\,x + (m^2 + n^2) = 0$.
+- Katsayılar gerçek, $x^2$'nin katsayısı $1$ ve bir kök $m + ni$ ise denklem $x^2 - 2m\,x + (m^2 + n^2) = 0$.
 
 ## Sonraki adım
 

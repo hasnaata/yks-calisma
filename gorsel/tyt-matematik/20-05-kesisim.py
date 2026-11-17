@@ -47,12 +47,12 @@ ax.add_patch(patches.Circle(K, R, fill=False, ls=(0, (4, 3)), color=SOLUK, lw=1.
 ax.plot(*zip(A, B, C, A), color=YAZI)
 for (P, Q), renk, n in (((B, C), MAVI, 1), ((C, A), YESIL, 2), ((A, B), KIRMIZI, 3)):
     M = (P + Q) / 2; u = (K - M) / np.linalg.norm(K - M)
-    ax.plot(*zip(M - 0.35 * u, K + 0.8 * u), color=renk, lw=1.9, ls="--")
+    ax.plot(*zip(M - 0.35 * u, K + 0.45 * u), color=renk, lw=1.9, ls="--")
     dik(ax, M, Q, K, s=0.25, renk=renk)
     centik(ax, P, M, n, renk=renk, L=0.14, ara=0.1); centik(ax, M, Q, n, renk=renk, L=0.14, ara=0.1)
 for P in (A, B, C):
     ax.plot(*zip(K, P), color=SARI, lw=1.4)
 nokta(ax, *A, "A", dx=-0.1, dy=0.2); nokta(ax, *B, "B", dx=-0.45, dy=-0.4); nokta(ax, *C, "C", dx=0.15, dy=-0.4)
-nokta(ax, *K, "K", dx=0.3, dy=-0.62, renk=SARI)
+nokta(ax, *K, "K", dx=0.25, dy=-0.62, renk=SARI)
 ax.set_xlim(K[0] - R - 0.4, K[0] + R + 0.4); ax.set_ylim(K[1] - R - 0.3, K[1] + R + 0.3)
 kaydet(fig, __file__)
