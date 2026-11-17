@@ -3,9 +3,23 @@ baslik: Eşeyli Üremenin Genel Özellikleri ve Örnekleri
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 225a221a17
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Eşeyli Üremenin Genel Özellikleri ve Örnekleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التكاثر الجنسي (eşeyli üreme): إزاي خلية من الأب وخلية من الأم بيتحدوا ويطلع منهم كائن جديد مش نسخة من حد فيهم.
+
+- هتفهم الحدثين اللي التكاثر الجنسي قايم عليهم: mayoz (الانقسام الميوزي) و döllenme (الإخصاب)، وتحسب عدد الكروموسومات في gamet (الخلية التناسلية) و zigot (البويضة المخصبة).
+- هتعرف التنوع الوراثي (kalıtsal çeşitlilik) بييجي منين، وليه الإخوات مش نسخة من بعض.
+- هتتعرف على الكائنات hermafrodit (الخنثى) زي دودة الأرض، وتقارن بين eşeyli üreme و eşeysiz üreme (التكاثر اللاجنسي) في جدول واحد.
+
+**ليه مهم؟** في TYT السؤال غالبًا بيطلب المشترك والمختلف بين نوعين التكاثر، أو مصادر التنوع الوراثي، وبيتربط كتير بدرس mayoz، فاللي فاهم الصورة كاملة بيحلها في ثواني.
+
+ربع ساعة بس، ومعاك صور حقيقية ورسمتين يثبتوا المعلومة. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** eşeyli üremenin iki temel olayını açıklayabilecek, gamet ve zigottaki kromozom sayısını hesaplayabilecek ve eşeyli üremeyi eşeysiz üremeyle tek tabloda karşılaştırabileceksin.
 

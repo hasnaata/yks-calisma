@@ -3,9 +3,23 @@ baslik: Mantarlar Âlemi
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 1508675dc0
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Mantarlar Âlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مملكة الفطريات (mantarlar): كائنات ثابتة في مكانها زي النبات، بس بتتغذى زي الحيوان.
+
+- هتعرف الفطريات شبه النبات في إيه وشبه الحيوان في إيه، وإن جدار خلاياها من الكيتين (kitin) ومخزونها الجليكوجين (glikojen).
+- هتفرّق بين الأربع مجموعات: عيش الغراب (şapkalı)، الخميرة (maya)، العفن (küf)، والمتطفلة (parazit)، مع مثال لكل واحدة.
+- هتفهم الأُشنة (liken) وشراكة الفطر مع جذور النبات: مين بيدّي إيه للتاني.
+
+**ليه مهم؟** في TYT بييجي سؤال المقارنة بين mantar والنبات والحيوان، ومعاه أسئلة عن kitin و glikojen و liken وفطر الخميرة (maya mantarı).
+
+ربع ساعة بس، والجداول والصور هتثبّت المعلومة من أول مرة. ركّز معانا!
+
+</div>
 
 **Bu dersin sonunda:** mantarların hangi özelliğiyle bitkiye, hangisiyle hayvana benzediğini söyleyebilecek, dört mantar grubunu örnekleriyle ayırt edebilecek ve liken ile kök–mantar ortaklığını açıklayabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Mitokondri ve Plastitler
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 7f034d8cab
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Mitokondri ve Plastitler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده معانا العضيّات اللي ليها غشا دوبل: الميتوكوندريا (mitokondri) اللي بتطلّع طاقة الخلية، والبلاستيدات (plastitler) اللي في خلايا النبات والطحالب.
+
+- هتعرف أجزاء الـ mitokondri والبلاستيدة الخضرا (kloroplast) بالاسم: krista و matriks، و tilakoit و granum و stroma.
+- هتحط الاتنين جنب بعض في جدول واحد: إيه المشترك بينهم وإيه المختلف.
+- هتفرّق بين kloroplast و kromoplast و lökoplast: كل واحدة لونها إيه، شغلتها إيه، وإزاي بتتحوّل للتانية.
+
+**ليه مهم؟** سؤال "إيه المشترك وإيه اللي مش مشترك بين mitokondri و kloroplast" أكتر سؤال بيتكرر من الموضوع ده في TYT، والجدول اللي في الدرس بيجاوبه.
+
+عشرين دقيقة بس، وفيه صور حقيقية بالميكروسكوب وأمثلة من المطبخ زي الطماطم والبطاطس. ركّز وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** mitokondri ve kloroplastın kısımlarını adlandırabilecek, bu iki organelin ortak ve farklı yanlarını tek tabloda gösterebilecek ve üç plastit çeşidini (kloroplast, kromoplast, lökoplast) görevleri ve birbirine dönüşümleriyle ayırt edebileceksin.
 

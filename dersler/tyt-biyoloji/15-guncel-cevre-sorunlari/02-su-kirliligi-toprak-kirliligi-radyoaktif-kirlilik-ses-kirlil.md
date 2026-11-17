@@ -3,9 +3,23 @@ baslik: Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 663bba95e6
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Su Kirliliği, Toprak Kirliliği, Radyoaktif Kirlilik, Ses Kirliliği
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** بعد تلوث الهوا، النهارده هنشوف أربع أنواع تانية: تلوث المَيّة (su kirliliği)، تلوث التربة (toprak kirliliği)، التلوث الإشعاعي (radyoaktif kirlilik) والضوضاء (ses kirliliği).
+
+- هتحفظ خطوات الإثراء الغذائي (ötrofikasyon) بالترتيب: من زيادة النيتروجين (azot) والفوسفور (fosfor) لحد ما الأكسجين يخلص والسمك يموت.
+- هتعرف كل نوع تلوث جاي منين، بيأثر على الكائنات الحية إزاي، وإيه طرق الوقاية منه.
+- هتتعلم إن الإشعاع (radyasyon) بيضر الـ DNA، وإيه أكتر عضو وأكتر خلايا بتتأثر بيه.
+
+**ليه مهم؟** ötrofikasyon أكتر حاجة بتتسأل في TYT من الموضوع ده، وباقي الأنواع بتيجي في أسئلة توصيل: السبب مع النتيجة مع الحل.
+
+كلها ٢٠ دقيقة، والجداول والصور هتخلّي الترتيب يثبت في دماغك. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** ötrofikasyonun basamaklarını sırasıyla anlatabilecek; su, toprak, radyoaktif ve ses kirliliğinin kaynaklarını, canlılara etkilerini ve önlemlerini eşleştirebileceksin.
 

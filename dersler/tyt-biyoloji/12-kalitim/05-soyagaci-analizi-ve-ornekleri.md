@@ -3,9 +3,23 @@ baslik: Soyağacı Analizi ve Örnekleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 3c8b563fa0
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Soyağacı Analizi ve Örnekleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن شجرة العيلة الوراثية (soyağacı): رسمة بتورّيك صفة معيّنة بتتنقل إزاي في العيلة من جيل لجيل، وإزاي تقراها وتحللها.
+
+- هتعرف معنى كل رمز في الرسمة: المربع، الدايرة، والشكل المتظلل.
+- هتتعلم تحدد الصفة سايدة (baskın) ولا متنحية (çekinik)، وتستبعد نوع الوراثة اللي مينفعش: جسمية (otozomal) ولا مرتبطة بالكروموسوم X أو Y (X'e bağlı / Y'ye bağlı).
+- هتطلّع التركيب الجيني (genotip) المؤكد للأفراد، وتحسب احتمال إن الطفل الجاي يطلع مصاب.
+
+**ليه مهم؟** في TYT بييجي soyağacı ومعاه سؤال زي "أنهي نوع وراثة مش ممكن؟" أو "احتمال الطفل المصاب كام؟"، والجديد هنا قليل: إنت بتطبّق قواعد الأربع دروس اللي فاتوا.
+
+خد ٢٥ دقيقة بتركيز، ومع الأمثلة المحلولة هتلاقي الموضوع بقى شبه حل لغز. بالتوفيق!
+
+</div>
 
 **Bu dersin sonunda:** bir soyağacında verilen özelliğin otozomal baskın, otozomal çekinik, X'e bağlı ya da Y'ye bağlı olup olamayacağını eleme yoluyla belirleyebilecek, bireylerin kesin genotiplerini çıkarabilecek ve doğacak çocuk için olasılık hesaplayabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Hayvanlar Âlemi - Omurgasız Hayvanlar
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 51885b5f36
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hayvanlar Âlemi: Omurgasız Hayvanlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** دخلنا مملكة الحيوانات (hayvanlar âlemi)، وهنبدأ بأكبر جزء فيها: اللافقاريات (omurgasız hayvanlar)، يعني الحيوانات اللي مالهاش عمود فقري، زي الإسفنج والديدان والحشرات ونجم البحر.
+
+- هتعرف الست مجموعات بتوعهم، وكل حيوان مشهور تبع أنهي مجموعة.
+- هتفرّق بين الدورة الدموية المفتوحة (açık dolaşım) والمقفولة (kapalı dolaşım)، ومين التلاتة اللي خارجين عن القاعدة.
+- هتحفظ مين بيتنفس بإيه، وإيه اللي ظهر "لأول مرة" في أنهي مجموعة: الخلية العصبية، العضو، والجناح.
+
+**ليه مهم؟** أسئلة TYT هنا معظمها توصيل: حيوان بمجموعته أو بطريقة تنفسه، وفيها فخاخ معروفة زي إن الأخطبوط مش سمكة. اللي مرتّب المعلومة في دماغه بيجاوب في ثواني.
+
+عشرين دقيقة بس، ومعاك جدول واحد بيلمّ الدرس كله وصور حقيقية للحيوانات. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** altı omurgasız grubunu örnek canlı, solunum, dolaşım ve üreme özellikleriyle ayırt edebilecek, "ilk kez hangi grupta görülür" sorularını cevaplayabileceksin.
 

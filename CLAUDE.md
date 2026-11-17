@@ -43,7 +43,7 @@ dersler HTML değil **Markdown**'dır ve `dersler/` altındadır; görünüm `as
 
 Ön madde: `baslik, ders, sure, kaynak, guncelleme`. Sonra sırayla:
 
-1. `# Başlık` ve **"Bu dersin sonunda:"** tek cümlelik somut kazanım.
+1. `# Başlık`, hemen altında **Arapça giriş kutusu** (aşağıda), sonra **"Bu dersin sonunda:"** tek cümlelik somut kazanım.
 2. Alıntı kutusunda **sınavdaki yeri** (hangi soru kalıbı gelir).
 3. `## Önce hatırla`: önceki dersten 1–2 geri çağırma sorusu, `<details>` içinde cevap (aralıklı tekrar).
 4. Konu anlatımı: kısa bölümler, **görseller** (aşağıdaki kurallar), **tablolar**, formüller KaTeX (`$...$`, `$$...$$`). Bir ders 15–25 dakikada biter.
@@ -51,6 +51,28 @@ dersler HTML değil **Markdown**'dır ve `dersler/` altındadır; görünüm `as
 6. `## Kendini dene`: 3 soru (soru biçimi aşağıda).
 7. `## Özet kartı`: en çok 6 madde.
 8. `## Sonraki adım`.
+
+### Arapça giriş kutusu
+
+Her dersin başında, `# Başlık` satırının hemen altında, öğrenciler ve velileri için **Mısır Arapçası (ammiye)** ile yazılmış kısa bir tanıtım bulunur. Dersin geri kalanı Türkçe kalır.
+
+```
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** …
+
+- هتعرف …
+- هتتعلم …
+
+**ليه مهم؟** …
+
+</div>
+```
+
+- 6–8 kısa satır: ders ne hakkında, öğrenci ne öğrenecek (2–3 madde), sınavda neden önemli, bir cümle teşvik. Açılış ve kapanış etiketinden sonra/önce boş satır bırak (içi Markdown olarak işlenir).
+- Doğal, sıcak Mısır lehçesi (fusha değil); abartılı ya da çocukça olmasın. İsim, yaş, kişisel bilgi yazma.
+- Sınavda geçecek ana terimler **Türkçe** (Latin harfleriyle) kalır; ilk geçtiği yerde Arapça karşılığı yanında verilir: `الكربوهيدرات (karbonhidratlar)`. Formül ve `$` kullanma.
+- Yalnızca dersin kendisinde olan bilgiyi söyle; yeni bilgi ekleme.
 
 Dil: öğrenciler 17 ve 19 yaşında; "sen" diye hitap et, kısa ve net yaz, çocukça ya da süslü anlatma.
 Terimler MEB ders kitabındaki gibi kullanılır (örn. "ototrof (üretici)").

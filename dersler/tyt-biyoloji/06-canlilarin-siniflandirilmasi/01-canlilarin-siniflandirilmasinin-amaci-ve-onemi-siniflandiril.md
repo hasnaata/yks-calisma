@@ -3,9 +3,23 @@ baslik: Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandır
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 07fce13a1e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Canlıların Sınıflandırılmasının Amacı ve Önemi, Sınıflandırılmada Kullanılan Kategoriler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** العلماء بيرتّبوا ملايين الكائنات الحية إزاي وليه؟ ده موضوع تصنيف الكائنات الحية (canlıların sınıflandırılması) والمستويات اللي بيتقسّموا عليها (kategoriler).
+
+- هتفرّق بين التصنيف الاصطناعي (yapay) والطبيعي (doğal)، وبين العضو المتشابه (analog) والعضو المتماثل (homolog).
+- هتحفظ ترتيب المستويات من النوع (tür) لحد المملكة (âlem)، وتعرف إيه اللي بيزيد وإيه اللي بيقلّ بقاعدة واحدة بس.
+- هتتعلم تقرا الاسم العلمي بالتسمية الثنائية (ikili adlandırma) وتعرف منه مين قريب لمين.
+
+**ليه مهم؟** في TYT بييجي سؤال "من tür لـ âlem إيه اللي بيزيد؟" وسؤال القرابة من الأسماء العلمية، والاتنين درجاتهم مضمونة لو ركّزت في الاتجاه.
+
+كلها ٢٥ دقيقة ومعاك جداول وصور توضّح كل حاجة. ركّز وهتلاقيه سهل!
+
+</div>
 
 **Bu dersin sonunda:** yapay ve doğal sınıflandırmayı, analog ve homolog organı ayırabilecek; türden âleme gidildikçe neyin artıp neyin azaldığını söyleyebilecek ve ikili adlandırmadan akrabalık çıkarımı yapabileceksin.
 

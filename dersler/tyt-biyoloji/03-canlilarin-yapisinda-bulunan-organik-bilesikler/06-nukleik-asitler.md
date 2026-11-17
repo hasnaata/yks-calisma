@@ -3,9 +3,23 @@ baslik: Nükleik Asitler
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 5715adcb61
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Nükleik Asitler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده مع الأحماض النووية (nükleik asitler): الـ DNA والـ RNA، الجزيئات اللي بتدير الخلية وشايلة المعلومات الوراثية.
+
+- هتعرف النيوكليوتيدة (nükleotit) بتتكوّن من أنهي تلات أجزاء، وإيه الروابط اللي بتربطهم ببعض.
+- هتتعلم تحسب عدد النيوكليوتيدات وعدد الروابط الهيدروجينية (hidrojen bağı) في الـ DNA باستخدام تزاوج القواعد (baz eşleşmesi).
+- هتقارن بين DNA و RNA، وتعرف وظيفة كل نوع من التلاتة: mRNA و tRNA و rRNA.
+
+**ليه مهم؟** مسائل حساب الـ DNA ومقارنة DNA بـ RNA من الأسئلة الثابتة في TYT، والدرس ده كمان أساس لدروس تصنيع البروتين وانقسام الخلية اللي جاية بعدين.
+
+كلها ٢٥ دقيقة، ومعاك نماذج ثلاثية الأبعاد ومثال محلول خطوة بخطوة. ركّز وهتلاقيها سهلة!
+
+</div>
 
 **Bu dersin sonunda:** bir nükleotidin üç kısmını ve aralarındaki bağları söyleyebilecek, DNA'da baz eşleşmesi kurallarıyla nükleotit ve hidrojen bağı hesabı yapabilecek, DNA ile RNA'yı ve üç RNA çeşidini karşılaştırabileceksin.
 

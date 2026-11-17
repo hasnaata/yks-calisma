@@ -3,9 +3,23 @@ baslik: Peroksizom, Sentrozom, Hücre İskeleti
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 3bab89a462
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Peroksizom, Sentrozom, Hücre İskeleti
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** هنكمّل جولتنا جوّه الخلية مع تلات حاجات: البيروكسيسوم (peroksizom)، والسنتروسوم (sentrozom)، وهيكل الخلية (hücre iskeleti).
+
+- هتفهم إزاي إنزيم الكاتالاز (katalaz) جوّه peroksizom بيخلّص الخلية من مادة سامة ويحوّلها لمَيّة وأكسجين.
+- هتعرف sentrozom متكوّن من إيه، دوره إيه في انقسام الخلية، وأنهي خلايا مفيهاش sentrozom أصلًا.
+- هتوصّل كل عنصر من عناصر الهيكل التلاتة: الخيوط الدقيقة (mikrofilament) والخيوط الوسطية (ara filament) والأنيبيبات الدقيقة (mikrotübül)، بالبروتين بتاعه ووظيفته.
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي خلية مفيهاش sentrozom" وسؤال katalaz موجود في أنهي عضيّة، وكمان sentrozom هيقابلك تاني في درس انقسام الخلية.
+
+ربع ساعة بس وتبقى قافل الدرس، والجداول والصور هتسهّل عليك المذاكرة. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** peroksizomun hidrojen peroksiti nasıl etkisiz hâle getirdiğini açıklayabilecek, sentrozomun yapısını, görevini ve hangi hücrelerde bulunmadığını söyleyebilecek, hücre iskeletinin üç elemanını proteinleri ve görevleriyle eşleştirebileceksin.
 

@@ -3,9 +3,23 @@ baslik: Doğal Kaynakların Sürdürülebilirliğinin Önemi
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 264d24520e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Doğal Kaynakların Sürdürülebilirliğinin Önemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الاستدامة (sürdürülebilirlik): إزاي نستخدم الموارد الطبيعية (doğal kaynaklar) من غير ما نخلّصها أو نبوّظها، عشان تفضل للأجيال اللي جاية.
+
+- هتعرف الشرطين اللي لازم يتحققوا مع بعض عشان الاستخدام يبقى مستدام.
+- هتشوف بأمثلة واضحة تدخّل الإنسان بيعمل إيه في الطبيعة: التعدين، قطع الغابات، وزراعة نوع واحد بس من الشجر.
+- هتميّز التطبيقات اللي بتدعم الاستدامة: الطاقة المتجددة (yenilenebilir enerji)، إعادة التدوير (geri dönüşüm)، ومنع الإسراف (israf).
+
+**ليه مهم؟** الموضوع ده جه منه أسئلة في TYT قبل كده، وغالبًا بيدّوك تطبيق أو موقف ويسألوك: بيفيد الاستدامة ولا لأ؟
+
+ربع ساعة بس، والدرس خفيف وفيه صور من الواقع. ركّز شوية وهتلاقيه سهل!
+
+</div>
 
 **Bu dersin sonunda:** sürdürülebilirliği tanımlayabilecek, insanın canlı ve cansız doğal kaynaklara müdahalesinin sonuçlarını örnekleyebilecek ve sürdürülebilirliği destekleyen uygulamaları (yenilenebilir enerji, geri dönüşüm, israfın önlenmesi) ayırt edebileceksin.
 

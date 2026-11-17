@@ -3,9 +3,23 @@ baslik: Hayvanlar Âlemi - Omurgalı Hayvanlar
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 4d5b059bd6
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hayvanlar Âlemi: Omurgalı Hayvanlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده مع الحيوانات الفقارية (omurgalı hayvanlar)، يعني اللي عندها عمود فقري: السمك، البرمائيات، الزواحف، الطيور والثدييات.
+
+- هتعرف الصفات المشتركة بين كل الفقاريات، زي الدورة الدموية المغلقة (kapalı dolaşım) والكِلية (böbrek).
+- هتقارن الخمس مجموعات في جدول واحد: التنفس، عدد حجرات القلب، حرارة الجسم، الإخصاب (döllenme) والتحوّل (başkalaşım).
+- هتحط الحيوانات اللي بتلخبط في مكانها الصح: الدولفين (yunus) والخفاش (yarasa) من الثدييات (memeliler)، والسمندر (semender) من البرمائيات (iki yaşamlılar).
+
+**ليه مهم؟** في TYT بيدّوك صفات حيوان ويسألوك هو من أنهي مجموعة، والاختيارات الغلط دايمًا جاية من الاستثناءات دي.
+
+عشرين دقيقة بس، ومعاك جدول وصور هتثبّت المعلومة. ركّز وهتلاقيها سهلة!
+
+</div>
 
 **Bu dersin sonunda:** beş omurgalı grubunu solunum, kalp, vücut ısısı, döllenme ve boşaltım atığı bakımından tek tabloda karşılaştırabilecek ve yanıltıcı örnekleri (yunus, yarasa, penguen, semender) doğru gruba yerleştirebileceksin.
 

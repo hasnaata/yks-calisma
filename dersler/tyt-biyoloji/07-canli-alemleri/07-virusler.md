@@ -3,9 +3,23 @@ baslik: Virüsler
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 8abaf092e7
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Virüsler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده هنتكلم عن الفيروسات (virüsler): كائنات صغيرة جدًا واقفة في النص بين الحي والجماد، ومش داخلة في أي مملكة من ممالك الكائنات الحية.
+
+- هتعرف الفيروس متكوّن من إيه، وإيه اللي بيخليه شبه الحي وإيه اللي بيخليه شبه الجماد.
+- هتفهم إزاي بيتكاثر جوه الخلية العائلة (konak hücre)، وليه المضاد الحيوي (antibiyotik) مالوش أي تأثير عليه.
+- هتقارن بين الفيروس والبكتيريا (bakteri)، وتربط كل فيروس بالمرض والخلية اللي بيهاجمها.
+
+**ليه مهم؟** في TYT بييجي سؤال "إيه اللي مش موجود في الفيروسات" أو "إيه المشترك بين الفيروس والبكتيريا"، واللي فاهم الفرق بيجاوب في ثواني.
+
+ربع ساعة بس (١٥ دقيقة) ومعاك صور حقيقية بالميكروسكوب. ركّز وهتلاقيه درس خفيف!
+
+</div>
 
 **Bu dersin sonunda:** virüslerin canlı ve cansız özelliklerini ayırabilecek, antibiyotiklerin virüslere neden etki etmediğini açıklayabilecek ve virüsü bakteriyle karşılaştırabileceksin.
 

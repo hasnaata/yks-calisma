@@ -7,6 +7,20 @@ guncelleme: 2026-11-16
 ---
 # Organik Bileşikler ve Karbonhidratlar
 
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** هنبدأ مع المركبات العضوية (organik bileşikler)، وأول نوع فيها: الكربوهيدرات (karbonhidratlar)، مصدر الطاقة الأول في جسمك.
+
+- هتعرف إيه اللي بيميّز المركبات العضوية عن غير العضوية.
+- هتتعلم تحسب كام جزيء مَيّة بيطلع أو بيتصرف في dehidrasyon و hidroliz.
+- هتفرّق بسهولة بين nişasta و glikojen و selüloz و kitin: كل واحد بيتكوّن من إيه وموجود فين.
+
+**ليه مهم؟** النوعين دول من الأسئلة بييجوا كتير في TYT، ولو فهمت الفكرة مرة مش هتحتاج تحفظ.
+
+الدرس ٢٥ دقيقة وفيه صور ورسومات بسيطة. يلا بينا!
+
+</div>
+
 **Bu dersin sonunda:** dehidrasyon ve hidrolizde su hesabı yapabilecek, bir karbonhidratın adını duyunca türünü, yapı taşını ve bulunduğu canlıyı söyleyebileceksin.
 
 > **TYT'de yeri:** "n tane glikozdan oluşan polisakkaritte kaç su çıkar?" hesabı ve "nişasta / glikojen / selüloz / kitin" karşılaştırması en sık gelen iki kalıptır.

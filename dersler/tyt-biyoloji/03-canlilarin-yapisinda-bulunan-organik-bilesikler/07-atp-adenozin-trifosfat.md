@@ -3,9 +3,23 @@ baslik: ATP (Adenozin trifosfat)
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 663ccdb712
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # ATP (Adenozin trifosfat)
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده هنتكلم عن ATP، جزيء الطاقة اللي الخلية بتصرف منه على طول في كل شغلها، زي الفلوس الفكّة اللي في جيبك.
+
+- هتعرف ATP متركّب من إيه: الأدينين (adenin) وسكر الريبوز (riboz) و٣ فوسفات (fosfat)، وهتعدّ الروابط (bağlar) اللي فيه واحدة واحدة.
+- هتفرّق بين fosforilasyon (تكوين ATP) و defosforilasyon (تكسيره): مين فيهم محتاج طاقة ومين بيطلّع طاقة، والمَيّة بتطلع ولا بتتستهلك.
+- هتفهم ليه ATP مابيتخزّنش ومابيعدّيش من غشا الخلية (hücre zarı)، وليه كل خلية بتعمل الـ ATP بتاعها بنفسها.
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي جملة غلط عن ATP" وسؤال "إيه اللي مش موجود في تركيبه"، وكمان من غيره مش هتعرف تحل أسئلة التنفس الخلوي (solunum) والبناء الضوئي (fotosentez) والنقل النشط (aktif taşıma).
+
+ربع ساعة بس (١٥ دقيقة) والموضوع يبقى في إيدك. ركّز معانا وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** ATP'nin yapısını ve içindeki bağları sayabilecek, fosforilasyon ile defosforilasyonu ayırabilecek ve ATP'nin neden depolanmadığını, neden her hücrenin kendi ATP'sini ürettiğini açıklayabileceksin.
 

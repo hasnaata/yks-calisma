@@ -3,9 +3,23 @@ baslik: Hücre Döngüsünün Kontrolü
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 548dd015dd
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hücre Döngüsünün Kontrolü
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** الخلية مش بتنقسم على مزاجها: في دورة الخلية (hücre döngüsü) فيه نقط تفتيش اسمها kontrol noktaları، بتقول للخلية "كمّلي" أو "اقفي".
+
+- هتعرف كل نقطة من التلاتة (G1 و G2 و M) بتراجع إيه بالظبط قبل ما الخلية تكمّل.
+- هتفهم إزاي لما التحكم ده يبوظ الخلايا بتفضل تنقسم من غير ضابط، وده السرطان (kanser).
+- هتفرّق بين الورم الحميد (iyi huylu tümör) والورم الخبيث (kötü huylu tümör)، وتعرف يعني إيه انتشار السرطان في الجسم (metastaz).
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي نقطة بتراجع إيه؟" وسؤال عن صفات خلايا السرطان. الموضوع قصير، والمهم بس ما تلخبطش بين التلات نقط.
+
+ربع ساعة بس وتبقى قفلت الموضوع ده. ركّز معانا!
+
+</div>
 
 **Bu dersin sonunda:** hücre döngüsündeki üç kontrol noktasında neyin denetlendiğini söyleyebilecek, kontrolün bozulmasıyla kanser arasındaki ilişkiyi kurabilecek ve iyi huylu tümör, kötü huylu tümör, metastaz terimlerini ayırabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmı
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 74434844c5
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hücre Zarından Madde Geçişleri, Basit Difüzyon, Kolaylaştırılmış Difüzyon
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** إزاي المواد بتعدّي من غشاء الخلية (hücre zarı)، وبالذات نوعين من الانتشار: الانتشار البسيط (basit difüzyon) والانتشار الميسَّر (kolaylaştırılmış difüzyon).
+
+- هتعرف الغشاء بيختار على أساس إيه: حجم المادة، شحنتها، وبتدوب في الدهون ولا في المَيّة.
+- هتفرّق بين basit difüzyon و kolaylaştırılmış difüzyon: مين بيعدّي من طبقة الـ fosfolipit ومين محتاج بروتين ناقل (taşıyıcı protein).
+- هتحفظ من غير تعب إيه اللي بيسرّع الانتشار وإيه اللي بيبطّئه، وهتشوف الفكرة نفسها في الغسيل الكلوي (diyaliz).
+
+**ليه مهم؟** أسئلة «فين الـ ATP ما بيتصرفش؟» و«فين بروتين الغشاء بيشتغل؟» ثابتة في TYT، والدرس ده أساس كل المقارنات اللي جاية في باقي الوحدة.
+
+عشرين دقيقة بس ومعاهم صور ورسومات توضّح الفكرة. ركّز وهتلاقيها أسهل مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** bir maddenin zardan hangi yolla geçeceğini büyüklüğüne ve çözünürlüğüne bakarak söyleyebilecek, basit difüzyon ile kolaylaştırılmış difüzyonu ayırt edebilecek ve difüzyon hızını değiştiren etkenleri sıralayabileceksin.
 

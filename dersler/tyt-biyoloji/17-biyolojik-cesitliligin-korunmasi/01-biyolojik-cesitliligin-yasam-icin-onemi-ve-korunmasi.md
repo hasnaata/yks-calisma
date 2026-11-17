@@ -3,9 +3,23 @@ baslik: Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 53296ab219
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Biyolojik Çeşitliliğin Yaşam İçin Önemi ve Korunması
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التنوع البيولوجي (biyolojik çeşitlilik): ليه وجود كائنات كتير ومختلفة مهم للحياة، وإزاي بنحافظ عليه.
+
+- هتعرف مستوياته التلاتة: الجيني (genetik)، والأنواع (tür)، والنظام البيئي (ekosistem)، والفرق بينهم.
+- هتفهم يعني إيه نوع متوطّن (endemik tür) وإيه هي biyokaçakçılık (تهريب الكائنات الحية)، بأمثلة من تركيا.
+- هتتعلم طرق الحماية: بنوك الجينات (gen bankaları)، المحميات زي millî park، والقوانين والاتفاقيات.
+
+**ليه مهم؟** الموضوع ده جه منه أسئلة في TYT قبل كده، وأغلبها تعريفات وسؤال "أنهي إجراء بيحمي التنوع؟"، يعني درجات مضمونة لو ركّزت.
+
+٢٠ دقيقة بس، وبيها تبقى قفلت جزء علم البيئة (ekoloji) كله. شدّ حيلك!
+
+</div>
 
 **Bu dersin sonunda:** biyolojik çeşitliliğin üç düzeyini (genetik, tür, ekosistem) ayırt edebilecek, endemik tür ve biyokaçakçılık kavramlarını açıklayabilecek, gen bankaları ve korunan alanlar gibi koruma yöntemlerini örnekleriyle sayabileceksin.
 

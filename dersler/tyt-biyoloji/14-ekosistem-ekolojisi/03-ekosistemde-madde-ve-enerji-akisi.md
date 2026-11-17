@@ -3,9 +3,23 @@ baslik: Ekosistemde Madde ve Enerji Akışı
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 18e48d60ea
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Ekosistemde Madde ve Enerji Akışı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن اللي بيحصل للمادة والطاقة جوه النظام البيئي (ekosistem): المادة بتلف وترجع تاني، والطاقة بتمشي في اتجاه واحد وبتقل في كل خطوة.
+
+- هتعرف تحدد المستوى الغذائي (trofik düzey) لأي كائن في السلسلة الغذائية (besin zinciri)، وهو مستهلك رقم كام.
+- هتتعلم تحسب بقاعدة العشرة في المية (%10 kuralı) الطاقة اللي بتوصل من درجة للي فوقها في الهرم الغذائي (besin piramidi).
+- هتفهم إيه اللي بيزيد وإيه اللي بيقل وإنت طالع في الهرم، وليه التراكم البيولوجي (biyolojik birikim) أعلى حاجة عند آخر مستهلك.
+
+**ليه مهم؟** الموضوع ده جه منه أسئلة في TYT قبل كده، والأسئلة بتلعب على نفس الغلطات: عدّ الدرجات غلط، أو الخلط بين اتجاه الطاقة واتجاه التراكم.
+
+٢٥ دقيقة بس، ومعاك جداول ورسومات توضّح كل فكرة. ركّز وابدأ على مهلك.
+
+</div>
 
 **Bu dersin sonunda:** bir besin zincirindeki canlıların trofik düzeyini belirleyebilecek, %10 kuralıyla basamaklar arası enerji aktarımını hesaplayabilecek ve piramitte yukarı çıkıldıkça neyin artıp neyin azaldığını söyleyebileceksin.
 

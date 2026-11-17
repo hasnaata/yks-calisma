@@ -3,9 +3,23 @@ baslik: Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti f3a2d630f0
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hücre Bölünmesinin Gerekliliği, Hücre Döngüsü ve İnterfaz
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** الخلية ليه لازم تنقسم أصلًا، وإيه اللي بيحصل جوّاها وهي بتجهّز نفسها للانقسام: دورة الخلية (hücre döngüsü) ومرحلة التحضير (interfaz).
+
+- هتفهم ليه الخلية لما بتكبر مساحة سطحها مبتكفيش حجمها، فبتضطر تنقسم.
+- هتفرّق بين الكروماتين (kromatin) والكروموسوم (kromozom) والكروماتيد (kromatit) والسنترومير (sentromer) من غير ما تتلخبط.
+- هتعرف بيحصل إيه في G1 و S و G2، وإن الـ DNA بيتضاعف في S بس.
+
+**ليه مهم؟** في TYT بييجي سؤال زي "إيه اللي مبيحصلش في interfaz؟" والفرق بين خلية النبات وخلية الحيوان في الجسم المركزي (sentrozom)، والمصطلحات دي هي لغة دروس الانقسام الميتوزي (mitoz) والميوزي (mayoz) اللي جاية.
+
+عشرين دقيقة بس وفيهم صور ميكروسكوب حقيقية. ركّز فيهم والباقي هيبقى أسهل بكتير.
+
+</div>
 
 **Bu dersin sonunda:** bir hücrenin neden bölünmek zorunda kaldığını yüzey–hacim ilişkisiyle açıklayabilecek, kromatin–kromozom–kromatit–sentromer terimlerini ayırabilecek ve interfazın G1, S, G2 evrelerinde neler olduğunu söyleyebileceksin.
 

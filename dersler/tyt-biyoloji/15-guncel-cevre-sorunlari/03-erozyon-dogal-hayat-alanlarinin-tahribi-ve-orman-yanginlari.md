@@ -3,9 +3,23 @@ baslik: Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyol
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti d33548b0fb
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Erozyon, Doğal Hayat Alanlarının Tahribi ve Orman Yangınları, Biyolojik Çeşitliliğin Azalması
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الأرض لما بتخسر تربتها وغاباتها: انجراف التربة (erozyon)، حرائق الغابات (orman yangınları)، وإزاي ده بيقلّل التنوع البيولوجي (biyolojik çeşitlilik).
+
+- هتعرف إيه اللي بيزوّد الـ erozyon وإيه اللي بيمنعه، زي المدرّجات (teraslama) والتشجير (ağaçlandırma).
+- هتفهم حريق الغابة بيعمل إيه في البيئة: الكائنات بتفقد مكان عيشتها، وثاني أكسيد الكربون بيزيد، والتربة بتتجرف.
+- هتتعرّف على تصرفات الإنسان اللي بتهدد الكائنات الحية، وليه التغيير السريع بيخلّيها تهاجر أو تنقرض.
+
+**ليه مهم؟** أسئلة TYT هنا معلومة وسبب ونتيجة، من نوع "أنهي واحدة بتمنع الـ erozyon؟"، واللي يربط السبب بالنتيجة يجاوب من غير حفظ.
+
+ربع ساعة بس (١٥ دقيقة) ومعاك صور حقيقية ورسمتين يلخّصوا الموضوع. ابدأ على مهلك!
+
+</div>
 
 **Bu dersin sonunda:** erozyonu artıran etkenleri ve önleme yollarını sayabilecek, orman yangınlarının ekolojik sonuçlarını açıklayabilecek ve biyolojik çeşitliliği tehdit eden insan etkinliklerini tanıyabileceksin.
 

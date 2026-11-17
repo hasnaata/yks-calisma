@@ -19,3 +19,5 @@ Okuma genişliği, kaydırılabilir tablolar, telefon başlığı, sorularda yaz
 
 ## [2026-11-17] görsel | TYT Biyoloji derslerine görseller (50/50)
 Her derse 3–5 görsel eklendi: toplam 237 (Pele şemaları, Wikimedia Commons'tan fotoğraf, mikroskop görüntüsü ve 3B modeller). Her görsel ikinci bir gözden geçirmede telefon boyutunda kontrol edildi; 73 düzeltme, 1 çıkarma. Atıflar `gorsel/ATIF.md` içinde. Site açık temaya alındı; ders renkleri, simgeler ve günlük seri eklendi.
+
+## [2026-11-17] güncelle | TYT Biyoloji: 50 derse Mısır Arapçası giriş kutusu (yazım + ikinci okuyucu denetimi); kural CLAUDE.md, stil assets/stil.css

@@ -3,9 +3,23 @@ baslik: Aktif Taşıma
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti a57e9854ec
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Aktif Taşıma
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده هنتكلم عن النقل النشط (aktif taşıma): إزاي الخلية بتنقل المادة للناحية اللي المادة دي كتيرة فيها أصلًا، وبتدفع تمن ده طاقة من ATP.
+
+- هتعرف تفرّق بين aktif taşıma والنقل السلبي (pasif taşıma) من تلات حاجات: الاتجاه، والطاقة، وهل الخلية لازم تكون حيّة ولا لأ.
+- هتفهم إيه اللي بيقف وإيه اللي بيكمّل لو الخلية بطّلت تنتج ATP.
+- هتاخد بالك من الفخ المشهور: البروتين الناقل (taşıyıcı protein) موجود كمان في الانتشار الميسَّر (kolaylaştırılmış difüzyon)، والمَيّة عمرها ما بتتنقل نقل نشط.
+
+**ليه مهم؟** أسئلة TYT هنا غالبًا مقارنة بين أنواع النقل، فلازم تربط الدرس ده بالدرسين اللي فاتوا.
+
+كلها ١٥ دقيقة، ومعاك رسومات وجدول مقارنة يلمّوا الموضوع. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** aktif taşımayı pasif taşımadan yön, enerji ve canlılık ölçütleriyle ayırabilecek, ATP üretimi duran bir hücrede hangi taşımanın duracağını söyleyebileceksin.
 

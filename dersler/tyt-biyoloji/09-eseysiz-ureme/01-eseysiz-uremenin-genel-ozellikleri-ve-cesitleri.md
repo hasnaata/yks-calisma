@@ -3,9 +3,23 @@ baslik: Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti f07d91443e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Eşeysiz Üremenin Genel Özellikleri ve Çeşitleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التكاثر اللاجنسي (eşeysiz üreme): إزاي كائن واحد لوحده، من غير إخصاب (döllenme)، يطلّع أفراد جديدة نسخة منه.
+
+- هتعرف الصفات المشتركة للتكاثر اللاجنسي، وليه سريع بس ضعيف قدام تغيّر البيئة.
+- هتتعلم أنواعه الستة: الانقسام (bölünme)، التبرعم (tomurcuklanma)، التجدد (rejenerasyon)، التكاثر بالجراثيم (sporla üreme)، التوالد البكري (partenogenez) والتكاثر الخضري (vejetatif üreme)، ومين بيتكاثر بكل نوع.
+- هتفهم حكاية نحل العسل: مين بييجي من بيضة مخصّبة ومين لأ، وكل واحد فيهم عنده كام كروموسوم.
+
+**ليه مهم؟** في TYT بييجي كتير سؤال توصيل الكائن بطريقة تكاثره، وأسئلة كروموسومات النحل، وفايدة vejetatif üreme في الزراعة.
+
+كلها ٢٥ دقيقة، والجداول والصور هتخلّي الأنواع تثبت في دماغك بسرعة. ركّز وهتلاقيها سهلة.
+
+</div>
 
 **Bu dersin sonunda:** eşeysiz üremenin ortak özelliklerini sayabilecek, altı eşeysiz üreme çeşidini örnek canlılarıyla eşleştirebilecek ve bal arılarındaki partenogenezde kimin kaç kromozomlu olduğunu hesaplayabileceksin.
 

@@ -3,9 +3,23 @@ baslik: Endositoz, Ekzositoz
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 1911234502
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Endositoz, Ekzositoz
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** الجزيئات الكبيرة مابتعدّيش من غشاء الخلية (hücre zarı) عادي، فالخلية بتلفّها بغشاها وتنقلها جوه كيس صغير (koful): دخول اسمه endositoz (الإدخال الخلوي) وخروج اسمه ekzositoz (الإخراج الخلوي).
+
+- هتعرف الخلية بتدخّل وتطلّع الجزيئات الكبيرة إزاي، وإمتى مساحة الغشا بتصغر وإمتى بتكبر.
+- هتفرّق بين fagositoz (بلع الحاجات الصلبة) و pinositoz (شرب الجزيئات الدايبة في سائل).
+- هتعرف ليه البكتيريا مابتعملش ولا واحدة من العمليتين، وليه النبات والفطريات بيعملوا ekzositoz بس، وهتقارن كل أنواع النقل في جدول واحد.
+
+**ليه مهم؟** في TYT بييجي سؤال زي "مساحة الغشا بتزيد في أنهي عملية؟" أو "أنهي كائن مايعملش fagositoz؟"، ودي درجات سهلة للي فاهم الفرق.
+
+٢٠ دقيقة بس، وفيه صورة حقيقية لخلية دم بيضا وهي بتبلع بكتيريا. ركّز وهتخلّصه على طول!
+
+</div>
 
 **Bu dersin sonunda:** büyük moleküllerin hücreye nasıl alınıp nasıl dışarı verildiğini anlatabilecek, fagositoz ile pinositozu ayırabilecek ve zardan madde geçişlerinin tamamını tek tabloda karşılaştırabileceksin.
 

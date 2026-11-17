@@ -3,9 +3,23 @@ baslik: Canlıların Ortak Özellikleri
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti d4d0b9c404
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Canlıların Ortak Özellikleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** أول درس في الأحياء: إزاي نحكم إن الحاجة دي كائن حي؟ هنمشي على الصفات المشتركة بين الكائنات الحية (canlıların ortak özellikleri)، وهي ١٢ صفة لازم نبص عليهم كلهم مع بعض.
+
+- هتعرف الفرق بين الخلية اللي من غير نواة (prokaryot) والخلية اللي بنواة (ökaryot)، وإن مش كل كائن وحيد الخلية يبقى prokaryot.
+- هتفرّق بين البناء (anabolizma) والهدم (katabolizma)، وبين النمو (büyüme) والتطوّر (gelişme).
+- هتحفظ إيه اللي موجود في كل الكائنات الحية وإيه اللي موجود في بعضها بس.
+
+**ليه مهم؟** سؤال "أنهي صفة مشتركة في كل الكائنات الحية؟" بييجي كتير في TYT، والدرس ده بيوريك الفخ اللي فيه بالظبط.
+
+عشرين دقيقة بس، فيهم جدول واحد وكام صورة، وتبقى حطّيت أول طوبة في الأحياء. بالتوفيق!
+
+</div>
 
 **Bu dersin sonunda:** bir varlığın canlı olup olmadığını 12 ortak özellikle sınayabilecek ve ÖSYM'nin en sevdiği "her canlıda var mı, bazılarında mı?" tuzağını çözebileceksin.
 

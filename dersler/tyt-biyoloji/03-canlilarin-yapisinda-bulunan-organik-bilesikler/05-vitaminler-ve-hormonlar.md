@@ -3,9 +3,23 @@ baslik: Vitaminler ve Hormonlar
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 3b535ed85a
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Vitaminler ve Hormonlar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الفيتامينات (vitaminler) والهرمونات (hormonlar): جزيئات بتنظّم شغل الجسم من غير ما تدّيه طاقة.
+
+- هتفرّق بين الفيتامينات اللي بتدوب في الدهون (yağda çözünen: A, D, E, K) واللي بتدوب في المَيّة (suda çözünen: B, C)، وأنهي فيهم بيتخزّن في الجسم.
+- هتربط كل فيتامين بوظيفته وبعلامة نقصه (eksiklik)، زي العشى الليلي (gece körlüğü) والكساح (raşitizm).
+- هتقارن بين الإنزيم (enzim) والفيتامين والهرمون في جدول واحد.
+
+**ليه مهم؟** في TYT التلاتة دول بييجوا غالبًا مع بعض في نفس السؤال، وسؤال "أنهي فيتامين نقصه بيعمل إيه" من الأسئلة المتكررة.
+
+كلها ٢٠ دقيقة، والجداول هتخلّي المذاكرة أخف. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** vitaminleri yağda ve suda çözünenler olarak ayırıp bu ayrımın sonuçlarını söyleyebilecek, her vitamini görevi ve eksiklik belirtisiyle eşleştirebilecek ve vitamin, hormon, enzim üçlüsünü karşılaştırabileceksin.
 

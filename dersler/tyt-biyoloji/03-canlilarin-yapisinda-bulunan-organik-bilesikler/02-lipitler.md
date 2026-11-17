@@ -3,9 +3,23 @@ baslik: Lipitler
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti c3f3ce67c2
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Lipitler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده دور الدهون (lipitler): أنواعها التلاتة، وكل نوع بيعمل إيه في جسم الكائن الحي.
+
+- هتفرّق بين الدهون المتعادلة (nötral yağlar) والفوسفوليبيدات (fosfolipitler) والستيرويدات (steroitler): كل واحد متركّب إزاي ووظيفته إيه.
+- هتتعلم تحسب عدد الروابط وجزيئات المَيّة في تكوين الدهن المتعادل (esterleşme).
+- هتفهم ليه الدهون بتدّي أكتر طاقة، ومع كده الجسم بيستخدمها في المرتبة التانية.
+
+**ليه مهم؟** المقارنة بين المشبّع (doymuş) وغير المشبّع (doymamış) وترتيب مصادر الطاقة من الحاجات اللي بتتكرر كتير في TYT.
+
+عشرين دقيقة بس وتبقى ماسك الموضوع كويس. ركّز معانا!
+
+</div>
 
 **Bu dersin sonunda:** üç lipit çeşidini yapı ve görevleriyle ayırabilecek, nötral yağ sentezindeki su ve bağ sayısını hesaplayabilecek ve "yağlar neden en çok enerjiyi verir ama ikinci sırada kullanılır?" sorusunu açıklayabileceksin.
 

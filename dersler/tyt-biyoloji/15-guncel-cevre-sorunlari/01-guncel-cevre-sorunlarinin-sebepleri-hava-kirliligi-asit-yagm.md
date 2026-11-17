@@ -3,9 +3,23 @@ baslik: Güncel Çevre Sorunlarının Sebepleri, Hava Kirliliği, Asit Yağmurla
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 345733ab10
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Güncel Çevre Sorunlarının Sebepleri, Hava Kirliliği, Asit Yağmurları, Küresel İklim Değişikliği
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن مشاكل البيئة اللي بنسمع عنها كل يوم: تلوث الهوا (hava kirliliği)، الأمطار الحمضية (asit yağmurları)، وتغيّر المناخ العالمي (küresel iklim değişikliği)، وإيه اللي بيسببها.
+
+- هتفرّق بين ملوّثات الهوا الطبيعية زي حرايق الغابات والبراكين، واللي من صنع الإنسان زي عوادم العربيات ودخان المصانع.
+- هتفهم المطر الحمضي بيتكوّن إزاي خطوة بخطوة، وبيأذي إيه: التربة، البحيرات، الغابات، وحتى الآثار.
+- هتعرف الفرق بين sera etkisi (الاحتباس الحراري الطبيعي) و küresel ısınma (ارتفاع حرارة الأرض)، ونتايج تغيّر المناخ.
+
+**ليه مهم؟** أسئلة الموضوع ده في TYT معلومات وربط سبب بنتيجة، زي "أنهي واحدة مش من النتايج؟" أو ترتيب الأحداث، فاللي فاهم السلسلة بيجاوب من غير حفظ.
+
+كلها ٢٠ دقيقة، والموضوع قريب من حياتك وهتلاقيه أسهل ما انت متخيّل. بالتوفيق!
+
+</div>
 
 **Bu dersin sonunda:** hava kirliliğinin doğal ve yapay kaynaklarını ayırabilecek, asit yağmurunun nasıl oluştuğunu ve neye zarar verdiğini anlatabilecek, sera etkisi ile küresel ısınma arasındaki farkı ve küresel iklim değişikliğinin sonuçlarını sıralayabileceksin.
 

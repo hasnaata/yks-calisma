@@ -3,9 +3,23 @@ baslik: Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti a7af107264
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Ribozom, Endoplazmik Retikulum, Golgi Aygıtı, Lizozom, Koful
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** خمس عضيّات (organel) جوّه الخلية وكل واحدة شغلتها إيه: الريبوسوم (ribozom)، الشبكة الإندوبلازمية (endoplazmik retikulum)، جهاز جولجي (Golgi aygıtı)، الليسوسوم (lizozom) والفجوة (koful).
+
+- هتعرف كل عضيّة ليها غشاء (zar) ولا لأ، وموجودة في أنهي خلايا.
+- هتتعلم ترتّب طريق الإفراز (salgı yolu): البروتين بيمشي إزاي من ribozom لحد ما يخرج برّه الخلية.
+- هتفرّق بين الالتهام الذاتي (otofaji) والتحلل الذاتي (otoliz)، وبين أنواع koful الأربعة.
+
+**ليه مهم؟** في TYT بييجي كتير سؤال توصيل العضيّة بوظيفتها، وسؤال ترتيب العضيّات اللي بتشتغل في إفراز البروتين.
+
+خد لك ٢٥ دقيقة مع الدرس، والجداول والصور هتسهّل عليك المذاكرة جدًا. بالتوفيق!
+
+</div>
 
 **Bu dersin sonunda:** bu beş organelin zar durumunu ve görevini söyleyebilecek, bir salgı proteininin ribozomdan hücre dışına kadar izlediği yolu sıralayabilecek ve koful çeşitlerini ayırt edebileceksin.
 

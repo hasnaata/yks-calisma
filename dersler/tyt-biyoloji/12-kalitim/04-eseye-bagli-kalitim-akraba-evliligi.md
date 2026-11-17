@@ -3,9 +3,23 @@ baslik: Eşeye Bağlı Kalıtım, Akraba Evliliği
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti ec1023e80d
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Eşeye Bağlı Kalıtım, Akraba Evliliği
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الصفات اللي جيناتها على كروموسومات الجنس X و Y، يعني الوراثة المرتبطة بالجنس (eşeye bağlı kalıtım)، وبعدها جواز القرايب (akraba evliliği).
+
+- هتعرف ليه الولد بياخد كروموسوم X من أمه بس، وليه الأب بيدّي الـ X بتاعه لكل بناته.
+- هتتعلم تحسب احتمال إن الطفل يطلع عنده عمى ألوان (renk körlüğü) أو الهيموفيليا (hemofili)، ومين يبقى حامل للصفة (taşıyıcı) من غير ما يبان عليه.
+- هتفهم ليه جواز القرايب بيزوّد فرصة ظهور الأمراض الوراثية، مع إنه مش بيعمل مرض جديد.
+
+**ليه مهم؟** أسئلة الاحتمالات دي ثابتة في TYT، وفيها فخ مشهور بين سؤالين شبه بعض، والدرس ده كمان أساس أسئلة شجرة العيلة اللي جاية.
+
+الدرس ٢٥ دقيقة، وفيه أمثلة محلولة خطوة خطوة. ركّز في أول قاعدة والباقي هييجي لوحده.
+
+</div>
 
 **Bu dersin sonunda:** X kromozomuna bağlı çekinik bir özellikte (kısmi renk körlüğü, hemofili) anne babanın genotipinden kız ve erkek çocukların durumunu ve olasılıklarını hesaplayabilecek, Y'ye bağlı kalıtımı ayırt edebilecek ve akraba evliliğinin kalıtsal hastalık riskini neden artırdığını açıklayabileceksin.
 

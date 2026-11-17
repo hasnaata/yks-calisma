@@ -3,9 +3,23 @@ baslik: Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm 
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 281270c28f
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Çevre Sorunlarının Ortaya Çıkmasında Bireylerin Rolü ve Çözüm Önerileri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن نصيب كل واحد فينا في مشاكل البيئة، وإزاي بنقيسه بتلات مقاييس: البصمة البيئية (ekolojik ayak izi)، البصمة الكربونية (karbon ayak izi)، والبصمة المائية (su ayak izi).
+
+- هتعرف كل ayak izi بيقيس إيه ووحدته إيه: مساحة، ولا كتلة، ولا لترات مَيّة.
+- هتفرّق بين الأولية (birincil) والثانوية (ikincil) في karbon ayak izi: الوقود اللي بتحرقه بنفسك، والمنتجات اللي اتصنعت علشانك.
+- هتتعلم تختار التصرفات اللي بتصغّر الـ ayak izi، وهتاخد فكرة عن حلول زي Paris İklim Anlaşması (اتفاقية باريس للمناخ).
+
+**ليه مهم؟** في TYT بيدّوك موقف من الحياة اليومية ويسألوك ده تبع أنهي ayak izi، أو أنهي تصرف بيكبّره أو بيصغّره.
+
+ربع ساعة بس (١٥ دقيقة) وتكون قفلت موضوع مشاكل البيئة كله. شدّ حيلك!
+
+</div>
 
 **Bu dersin sonunda:** ekolojik, karbon ve su ayak izlerinin neyi ölçtüğünü birbirinden ayırabilecek, birincil ve ikincil karbon ayak izine örnek verebilecek ve ayak izini küçülten davranışları seçebileceksin.
 

@@ -3,9 +3,23 @@ baslik: Mendel İlkeleri ve Çaprazlamalar
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 3b0d17daba
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Mendel İlkeleri ve Çaprazlamalar
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن قوانين مندل (Mendel ilkeleri) والتهجين (çaprazlama): إزاي الصفات بتتنقل من الأب والأم للأولاد، وإزاي نحسب احتمال ظهورها.
+
+- هتعرف تعمل تهجين صفة واحدة (monohibrit) وتهجين صفتين (dihibrit) وتطلّع نِسَب الـ genotip (التركيب الجيني) والـ fenotip (الشكل الظاهري).
+- هتتعلم طريقة مختصرة: كل صفة تهجّنها لوحدها وبعدين تضرب الاحتمالات في بعض، من غير ما ترسم جدول كبير.
+- هتفهم kontrol çaprazlaması (التهجين الاختباري) بيكشف إيه، وكل قانون من قوانين مندل الأربعة بيقول إيه.
+
+**ليه مهم؟** ده أكتر درس في الوراثة (kalıtım) بييجي منه أسئلة في TYT، وأغلبها حساب احتمالات بسيط لو مشيت بالخطوات.
+
+خد ٢٥ دقيقة بتركيز وامشي مع الأمثلة المحلولة واحدة واحدة، وهتلاقي الموضوع أسهل مما كنت فاكر.
+
+</div>
 
 **Bu dersin sonunda:** monohibrit ve dihibrit çaprazlamaları kurup genotip ve fenotip oranlarını bulabilecek, çok karakterli çaprazlamalarda istenen yavrunun olasılığını "her karakteri ayrı çaprazla, sonra çarp" yöntemiyle hesaplayabilecek ve kontrol çaprazlamasının sonucunu yorumlayabileceksin.
 

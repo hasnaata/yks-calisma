@@ -3,9 +3,23 @@ baslik: Canlılardaki Beslenme Şekilleri
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti f913f3d80b
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Canlılardaki Beslenme Şekilleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** كل كائن حي بيجيب أكله إزاي: فيه اللي بيصنع غذاه بنفسه، ذاتية التغذية (ototroflar)، وفيه اللي بياخده جاهز، غير ذاتية التغذية (heterotroflar)، وفيه اللي بيعمل الاتنين.
+
+- هتتعلم تصنّف أي كائن يتقال لك: ototrof ولا heterotrof ولا الاتنين مع بعض زي öglena.
+- هتفرّق بين البناء الضوئي (fotosentez) والبناء الكيميائي (kemosentez): الفرق في مصدر الطاقة بس.
+- هتعرف المحلِّلات (ayrıştırıcılar) بتشتغل إزاي، وإيه اللي بيحصل في البيئة لو عددها قلّ.
+
+**ليه مهم؟** في TYT بييجي سؤال "أنهي من الكائنات دي heterotrof؟" وسؤال "لو ayrıştırıcılar قلّت إيه اللي يحصل؟"، وكمان من غير التصنيف ده مش هتعرف تحل أسئلة السلسلة الغذائية.
+
+عشرين دقيقة بس، وفي الدرس صور حقيقية ورسمتين بيلمّوا لك الموضوع. ركّز وهتلاقيه أسهل مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** verilen bir canlıyı ototrof, heterotrof ya da hem ototrof hem heterotrof olarak sınıflandırabilecek, fotosentez ile kemosentezi ve holozoik beslenme ile ayrıştırıcılığı birbirinden ayırabileceksin.
 

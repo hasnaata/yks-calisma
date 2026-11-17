@@ -3,9 +3,23 @@ baslik: Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 2c32ff5fe5
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Eş Baskınlık, Çok Alellilik, Kan Gruplarının Kalıtımı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** فصيلة دمك جاية منين؟ النهارده هنشوف إزاي فصايل الدم (kan grupları) بتتورّث من الأب والأم، ومعاها فكرتين جداد: السيادة المشتركة (eş baskınlık) وتعدد الأليلات (çok alellilik).
+
+- هتعرف يعني إيه أليلين يظهروا مع بعض في نفس الشخص، زي فصيلة AB و MN.
+- هتتعلم تطلّع فصايل الدم الممكنة للأولاد واحتمال كل واحدة في نظام ABO و Rh، وكمان ترجع من فصيلة الأولاد للتركيب الجيني (genotip) بتاع الأب والأم.
+- هتفهم عدم توافق العامل الريزوسي (Rh uyuşmazlığı): بيحصل بشروط إيه، وليه المشكلة غالبًا بتظهر من الحمل التاني مش الأول.
+
+**ليه مهم؟** أسئلة TYT هنا شكلها ثابت: احتمال طفل بفصيلة معينة، أنهي فصيلة مستحيل تطلع في العيلة دي، وشروط Rh uyuşmazlığı. اللي يتمرّن على الجدول الصغير بتاع التهجين يحلّها بسرعة.
+
+الدرس ٢٥ دقيقة بس، وفيه خمس أمثلة محلولة خطوة خطوة. ركّز معانا وهتلاقيه أسهل ما تتخيل!
+
+</div>
 
 **Bu dersin sonunda:** ABO ve Rh kan gruplarında anne babanın genotipinden çocukların olası kan gruplarını ve olasılıklarını hesaplayabilecek, çocukların kan grubundan anne babanın genotipini çıkarabilecek ve Rh uyuşmazlığının hangi koşullarda görüldüğünü söyleyebileceksin.
 

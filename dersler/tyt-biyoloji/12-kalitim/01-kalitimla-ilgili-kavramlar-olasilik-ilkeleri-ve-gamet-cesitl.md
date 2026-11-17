@@ -3,9 +3,23 @@ baslik: Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti a8cdc267b5
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Kalıtımla İlgili Kavramlar, Olasılık İlkeleri ve Gamet Çeşitlerinin Bulunması
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** ده أول درس في الوراثة (kalıtım): هنتفق على لغة الموضوع كله، وبعدين نحسب الجاميتات (gamet) اللي الفرد بيكوّنها.
+
+- هتعرف الفرق بين alel (الأليل) و lokus (موقع الجين)، وبين homozigot (نقي) و heterozigot (هجين)، وبين genotip (التركيب الجيني) و fenotip (الشكل الظاهر).
+- هتتعلم قواعد الاحتمالات (olasılık) التلاتة: إمتى تضرب وإمتى تجمع.
+- هتحسب الفرد بيكوّن كام نوع gamet، واحتمال gamet معيّن، سواء الجينات مستقلة (bağımsız) أو مرتبطة (bağlı) ومعاها krossing over (العبور).
+
+**ليه مهم؟** كل أسئلة الوراثة في TYT مبنية على الكلام ده، وأول خطوة في أي سؤال تهجين هي إنك تكتب الجاميتات صح.
+
+خمسة وعشرين دقيقة بس، وبأمثلة محلولة خطوة خطوة. ركّز فيه والباقي هيبقى سهل!
+
+</div>
 
 **Bu dersin sonunda:** genotipi verilen bir bireyin kaç çeşit gamet oluşturacağını ve belirli bir gameti hangi olasılıkla oluşturacağını hesaplayabilecek, alel, lokus, homozigot, heterozigot, genotip ve fenotip kavramlarını karıştırmadan kullanabileceksin.
 

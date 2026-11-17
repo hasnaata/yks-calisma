@@ -3,9 +3,23 @@ baslik: Bilimsel Yöntem ve Basamakları
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 4a4b47ef3e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Bilimsel Yöntem ve Basamakları
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الطريقة العلمية (bilimsel yöntem): العالِم بيمشي إزاي خطوة خطوة، من أول الملاحظة (gözlem) لحد ما يختبر الفرضية (hipotez) بتجربة.
+
+- هتعرف ترتّب خطوات الطريقة العلمية الستة من غير ما تتلخبط.
+- هتفرّق بين hipotez والتوقّع (tahmin)، وبين الملاحظة الوصفية (nitel gözlem) واللي بالقياس (nicel gözlem).
+- هتتعلم تطلّع من أي تجربة المتغيّر المستقل (bağımsız değişken) والمتغيّر التابع (bağımlı değişken) والمجموعة الضابطة (kontrol grubu).
+
+**ليه مهم؟** سؤال TYT هنا بيحكيلك تجربة ويسألك إيه اللي اتغيّر وإيه اللي اتقاس؛ معلومات قليلة بس عايز تركيز في القراءة، وده بينفعك في باقي أسئلة العلوم كمان.
+
+ربع ساعة بس، وفيها تجربة حقيقية بالصور على شتلات طماطم. ركّز معانا وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** bilimsel yöntemin basamaklarını sıraya koyabilecek, verilen bir deneyde bağımsız, bağımlı ve sabit tutulan değişkenleri ve kontrol grubunu gösterebileceksin.
 

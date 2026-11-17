@@ -3,9 +3,23 @@ baslik: Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti d08b25252e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hücre Zarı, Hücre Duvarı, Sitoplazma, Çekirdek
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** هندخل جوه الخلية ونشوف أربع حاجات أساسية فيها: غشاء الخلية (hücre zarı)، جدار الخلية (hücre duvarı)، السيتوبلازم (sitoplazma) والنواة (çekirdek).
+
+- هتفهم نموذج الفسيفساء السائلة (akıcı-mozaik zar modeli) بتاع الغشاء، وكل جزيء في الغشاء شغلته إيه.
+- هتقارن بين hücre zarı و hücre duvarı: مين فيهم حي ومين لأ، ومين بيختار اللي يعدّي ومين بيعدّي كل حاجة.
+- هتعدّ أجزاء النواة الأربعة، وتعرف علاقة النويّة (çekirdekçik) بالريبوسوم (ribozom).
+
+**ليه مهم؟** سؤال "إيه المشترك وإيه المختلف بين الغشاء والجدار" بيتكرر كتير في TYT، والدرس ده كمان أساس الدرس اللي بعده عن مرور المواد من الغشاء.
+
+محتاج ٢٥ دقيقة تركيز بس، والصور والجداول هتسهّل عليك الموضوع. شدّ حيلك!
+
+</div>
 
 **Bu dersin sonunda:** akıcı-mozaik zar modelini ve zardaki her molekülün görevini açıklayabilecek, hücre zarı ile hücre duvarını karşılaştırabilecek, çekirdeğin dört kısmını görevleriyle sayabileceksin.
 

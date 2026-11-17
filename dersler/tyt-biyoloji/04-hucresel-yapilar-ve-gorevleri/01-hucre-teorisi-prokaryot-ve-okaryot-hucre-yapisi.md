@@ -3,9 +3,23 @@ baslik: Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 2178f5e829
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Hücre Teorisi, Prokaryot ve Ökaryot Hücre Yapısı
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** ده أول درس في الخلية (hücre): مين اللي اكتشفها، وإيه هي نظرية الخلية (hücre teorisi)، وإيه الفرق بين الخلية بدائية النواة (prokaryot) والخلية حقيقية النواة (ökaryot).
+
+- هتعرف كل عالِم عمل إيه بالظبط، من Janssen لحد Virchow.
+- هتحفظ الخمس بنود بتوع hücre teorisi.
+- هتتعلم تقارن بين prokaryot و ökaryot في جدول واحد، وتعرف إيه المشترك بين كل الخلايا.
+
+**ليه مهم؟** مقارنة prokaryot و ökaryot هي أكتر سؤال بييجي من الدرس ده في TYT، ومعاها سؤال توصيل كل عالِم بشغله.
+
+عشرين دقيقة بس، وفيهم صور حقيقية من تحت الميكروسكوب. خد نَفَس وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** hücrenin keşfine katkı yapan bilim insanlarını çalışmalarıyla eşleştirebilecek, hücre teorisinin maddelerini sayabilecek ve prokaryot hücre ile ökaryot hücreyi tek tabloda karşılaştırabileceksin.
 

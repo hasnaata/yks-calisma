@@ -3,9 +3,23 @@ baslik: Sağlıklı Beslenme
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 8d42a40d5b
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Sağlıklı Beslenme
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن التغذية الصحية (sağlıklı beslenme): يعني إيه أكل كافي ومتوازن ومنتظم، وإيه اللي بيحصل للجسم لما الأكل يبقى ناقص أو مش متوازن.
+
+- هتعرف مجموعات الأكل الأربعة (dört temel besin grubu) وكل مجموعة بتدّي الجسم إيه.
+- هتفهم نتايج التغذية الناقصة وغير المتوازنة، ومنها السمنة (obezite).
+- هتتعلم خطوة بخطوة إزاي مقاومة الإنسولين (insülin direnci) بتوصّل لمرض السكر من النوع التاني (tip 2 diyabet).
+
+**ليه مهم؟** السؤال المباشر منه قليل في TYT، بس بييجي في شكل فقرة أو موقف من الحياة اليومية، والدرس كمان مراجعة لكل العناصر الغذائية اللي أخدتها قبل كده.
+
+الدرس خفيف، ١٥ دقيقة بس، وبعده هتبص لطبق أكلك بعين تانية.
+
+</div>
 
 **Bu dersin sonunda:** dört temel besin grubunu ve her birinin sağladığı besin ögelerini sayabilecek, yetersiz ve dengesiz beslenmenin sonuçlarını söyleyebilecek ve insülin direnci ile tip 2 diyabet arasındaki ilişkiyi açıklayabileceksin.
 

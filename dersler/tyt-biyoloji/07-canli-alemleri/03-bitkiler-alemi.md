@@ -3,9 +3,23 @@ baslik: Bitkiler Âlemi
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti 8a50dcc247
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Bitkiler Âlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** النهارده هنتكلم عن مملكة النباتات (bitkiler âlemi): إيه اللي بيجمع النباتات كلها، وإزاي بنقسّمها لمجموعات.
+
+- هتعرف الصفات المشتركة بين النباتات، زي جدار الخلية من السليلوز (selüloz) وتخزين الغذا على شكل نشا (nişasta).
+- هتفهم النباتات المتطفلة (parazit bitkiler) زي الحامول (küsküt otu) والهدال (ökse otu)، وإزاي نبات زي الصبار (kaktüs) بيستحمل الجفاف.
+- هتتعلم تحط أي نبات في مجموعته بسؤالين بس: فيه أوعية ناقلة ولا لأ (damarlı / damarsız)؟ بيعمل بذور ولا لأ (tohumlu / tohumsuz)؟
+
+**ليه مهم؟** في TYT بييجي سؤال "إيه الصفة المشتركة في كل النباتات؟" وسؤال توصيل النبات بمجموعته، والنباتات المتطفلة هي اللي بتتحط عشان تلخبطك.
+
+كلها ١٥ دقيقة، ومعاك صور وجداول بسيطة بترتّب لك الموضوع. ركّز وهتلاقيه سهل.
+
+</div>
 
 **Bu dersin sonunda:** bitkilerin ortak özelliklerini sayabilecek, parazit bitkileri ve kurak ortam uyumlarını yorumlayabilecek ve bir bitkiyi "damarlı mı, tohumlu mu" sorularıyla doğru gruba yerleştirebileceksin.
 

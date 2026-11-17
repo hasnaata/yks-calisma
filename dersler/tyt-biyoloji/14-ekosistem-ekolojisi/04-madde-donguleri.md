@@ -3,9 +3,23 @@ baslik: Madde Döngüleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti 1ccd8d74ee
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Madde Döngüleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن دورات المواد (madde döngüleri): المَيّة والكربون والنيتروجين بيلفّوا إزاي بين الكائنات الحية والبيئة اللي حواليها من غير ما يخلصوا.
+
+- هتعرف خطوات دورة المَيّة (su döngüsü) ودورة الكربون (karbon döngüsü) بالترتيب، وإيه اللي بيقلّل ثاني أكسيد الكربون في الجو وإيه اللي بيزوّده.
+- هتتعلم دورة النيتروجين (azot döngüsü) خطوة خطوة: azot fiksasyonu (تثبيت النيتروجين)، وبعده nitrifikasyon (النترتة) و denitrifikasyon (نزع النيتروجين).
+- هتفرّق مين بيعمل كل خطوة، زي بكتيريا Rhizobium، وأنهي خطوة بتزوّد خصوبة التربة وأنهي واحدة بتقلّلها.
+
+**ليه مهم؟** دورة النيتروجين أكتر حتة بتتسأل في TYT من الدرس ده، والغلطة المشهورة إن الواحد يلخبط بين nitrifikasyon و denitrifikasyon.
+
+الدرس ٢٥ دقيقة بس، وفيه رسمة لكل دورة وجدول واحد بيلمّ دورة النيتروجين كلها. ركّز معاه وهتلاقيه أسهل ما انت متخيّل.
+
+</div>
 
 **Bu dersin sonunda:** su, karbon ve azot döngülerinin basamaklarını sırasıyla anlatabilecek; azot fiksasyonu, nitrifikasyon ve denitrifikasyonu hangi canlının yaptığını ve toprağın verimini nasıl etkilediğini söyleyebileceksin.
 

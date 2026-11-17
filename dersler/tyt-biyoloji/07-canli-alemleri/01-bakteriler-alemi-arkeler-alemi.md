@@ -3,9 +3,23 @@ baslik: Bakteriler Âlemi, Arkeler Âlemi
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 05be472e60
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Bakteriler Âlemi, Arkeler Âlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** أول مملكتين من ممالك الكائنات الحية: البكتيريا (bakteriler) والعتائق (arkeler). كائنات من خلية واحدة وبدائية النواة (prokaryot)، يعني من غير نواة حقيقية.
+
+- هتعرف أجزاء البكتيريا ووظيفة كل جزء، وإيه اللي موجود في كل البكتيريا وإيه اللي في بعضها بس.
+- هتفهم ليه الاقتران (konjugasyon) والبوغ الداخلي (endospor) مش تكاثر، وإن التكاثر الحقيقي هو الانقسام لاتنين (ikiye bölünme).
+- هتقارن بين bakteri و arke في جدول واحد، وتعرف العتائق بتعيش فين.
+
+**ليه مهم؟** أسئلة TYT بتحب تلعب على النقط دي بالذات: "مش موجود في البكتيريا" و"الاقتران تكاثر ولا لأ"، وساعات بيدّوك مدة الانقسام ويسألوك عن عدد البكتيريا.
+
+كلها ٢٠ دقيقة، ومعاك صور من الميكروسكوب ورسومات تسهّل عليك. ركّز وهتلاقيها أسهل من اللي في بالك.
+
+</div>
 
 **Bu dersin sonunda:** bir bakterinin yapılarını görevleriyle eşleştirebilecek, konjugasyon ve endosporun neden üreme sayılmadığını açıklayabilecek ve bakteri ile arkeyi tek tabloda ayırt edebileceksin.
 

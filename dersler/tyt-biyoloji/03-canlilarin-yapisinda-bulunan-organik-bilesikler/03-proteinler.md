@@ -3,9 +3,23 @@ baslik: Proteinler
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 3e148ffcca
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Proteinler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن البروتينات (proteinler): أكتر مركب عضوي موجود في جسم الكائن الحي، وبيتبني من وحدات صغيرة اسمها الأحماض الأمينية (amino asit).
+
+- هتعرف الـ amino asit متركّب إزاي، وإيه الحتة اللي بتخلّي كل واحد مختلف عن التاني.
+- هتتعلم تحسب عدد الروابط الببتيدية (peptit bağı) وعدد جزيئات المَيّة اللي بتطلع معاها.
+- هتفهم في الدنترة (denatürasyon) إيه اللي بيبوظ في البروتين وإيه اللي بيفضل زي ما هو، زي البيضة لما تستوي.
+
+**ليه مهم؟** حساب الـ peptit bağı وسؤال "البروتينات مختلفة عن بعض ليه؟" من الأسئلة الثابتة في TYT، والدرس ده كمان أساس لدروس الإنزيمات اللي جاية.
+
+في آخر الدرس جدول واحد بيقارن الكربوهيدرات والدهون والبروتينات. كلها ٢٠ دقيقة، ركّز فيها وهتطلع فاهم الموضوع كويس.
+
+</div>
 
 **Bu dersin sonunda:** peptit bağı ve su hesabını yapabilecek, denatürasyonda neyin bozulup neyin korunduğunu söyleyebilecek ve üç organik besini (karbonhidrat, yağ, protein) tek tabloda karşılaştırabileceksin.
 

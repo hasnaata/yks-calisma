@@ -3,9 +3,23 @@ baslik: Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti ac2592db80
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Genetik Varyasyonların Kaynakları ve Biyolojik Çeşitlilik
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** ليه أفراد النوع الواحد مش شبه بعض بالظبط؟ ده اللي اسمه التنوع الوراثي (genetik varyasyon)، وهنشوف بييجي منين وليه النوع محتاجه عشان يكمّل.
+
+- هتعرف المصادر الأربعة للتنوع: العبور (krossing over)، والتوزيع المستقل (bağımsız dağılım)، والإخصاب العشوائي (rastgele döllenme)، والطفرة (mutasyon)، ومين فيهم بس اللي ممكن يطلّع أليل (alel) جديد.
+- هتفرّق بين الطفرة اللي بتتنقل للأولاد واللي بتفضل عند صاحبها بس، وبين mutasyon و modifikasyon (تغيّر سببه البيئة ومابيتورّثش).
+- هتفهم ليه التنوع بيزوّد قدرة النوع على التأقلم (adaptasyon)، وإيه علاقته بالتنوع الحيوي (biyolojik çeşitlilik).
+
+**ليه مهم؟** في TYT بييجي سؤال فيه كذا جملة وتختار الصح منهم، والفخ دايمًا في كلمة زي "كل الطفرات"؛ الدرس ده بيعلّمك تاخد بالك منها.
+
+ربع ساعة بس، وبيربطلك الانقسام الميوزي بالوراثة في صورة واحدة. ركّز وهتخلّصه على طول.
+
+</div>
 
 **Bu dersin sonunda:** tür içi genetik varyasyonun dört kaynağını sayabilecek, hangi mutasyonun yavrulara aktarılıp hangisinin aktarılmadığını ayırt edebilecek ve genetik çeşitliliğin bir popülasyonun devamlılığı için neden önemli olduğunu açıklayabileceksin.
 

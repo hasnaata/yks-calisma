@@ -3,9 +3,23 @@ baslik: Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 40e433c64c
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Ekolojik Kavramlar, Ekosistemin Canlı ve Cansız Bileşenleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** ده أول درس في علم البيئة (ekoloji): الكائنات الحية عايشة مع بعض ومع المكان اللي حواليها إزاي، والنظام البيئي (ekosistem) بيتكوّن من إيه.
+
+- هتعرف ترتّب المستويات من الصغير للكبير: النوع (tür)، الجماعة (popülasyon)، المجتمع الحيوي (komünite)، ekosistem، والمحيط الحيوي (biyosfer)، وتطلّع كل مثال تبع أنهي مستوى.
+- هتفرّق بين الموطن (habitat) والدور البيئي (ekolojik niş): الأول عنوان الكائن، والتاني شغلته.
+- هتعدّ مكوّنات الـ ekosistem: غير الحية (abiyotik) زي الضوء والحرارة والمَيّة، والحية (biyotik) اللي هي المنتِجين والمستهلِكين والمحلِّلين.
+
+**ليه مهم؟** أسئلة TYT بتديك مثال وتسألك ده أنهي مستوى، أو أنهي عامل فيهم abiyotik. والمصطلحات دي هي أساس باقي الوحدة كلها.
+
+عشرين دقيقة بس، ومعاهم صور وجداول بتسهّل الموضوع. ركّز فيها وهتلاقي الباقي ماشي لوحده.
+
+</div>
 
 **Bu dersin sonunda:** tür, popülasyon, komünite, ekosistem ve biyosfer kavramlarını örnek üzerinden ayırt edebilecek, habitat ile ekolojik nişi karıştırmayacak ve bir ekosistemin canlı ve cansız bileşenlerini sayabileceksin.
 

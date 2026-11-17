@@ -3,9 +3,23 @@ baslik: Enzimler
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti bdfd85462b
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Enzimler
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الإنزيمات (enzimler): مواد جوّه الكائن الحي بتسرّع التفاعلات، وبتطلع من التفاعل زي ما هي من غير ما تتغيّر.
+
+- هتعرف الإنزيم المركّب بيتكوّن من إيه: apoenzim و koenzim و kofaktör، وكل جزء شغلته إيه.
+- هتفهم الصفات المشتركة بين الإنزيمات، وأولها إن كل إنزيم ليه مادة معيّنة بيشتغل عليها اسمها substrat.
+- هتتعلم تقرا رسومات السرعة: الحرارة (sıcaklık) و pH وكمية الإنزيم والـ substrat بيغيّروا سرعة التفاعل إزاي.
+
+**ليه مهم؟** سؤال "أنهي جملة غلط عن الإنزيمات" ورسومات السرعة بييجوا كتير في TYT، ودروس الهضم والتنفس والبناء الضوئي كلها مبنية على الدرس ده.
+
+خمسة وعشرين دقيقة تركيز، وهتلاقي الموضوع أبسط بكتير من شكله.
+
+</div>
 
 **Bu dersin sonunda:** bir enzimin kısımlarını (apoenzim, koenzim, kofaktör) ayırabilecek, enzimlerin ortak özelliklerini sayabilecek ve sıcaklık, pH, enzim-substrat miktarı, su, yüzey gibi etkenlerin tepkime hızını nasıl değiştirdiğini grafik üzerinden yorumlayabileceksin.
 

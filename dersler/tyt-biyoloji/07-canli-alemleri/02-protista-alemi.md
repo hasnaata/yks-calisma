@@ -3,9 +3,23 @@ baslik: Protista Âlemi
 ders: tyt-biyoloji
 sure: 15 dk
 kaynak: MEBİ Konu Özeti e2f5e6b7c8
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Protista Âlemi
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** بعد البكتيريا، هندخل على أول مملكة خلاياها فيها نواة حقيقية: مملكة الطلائعيات (Protista âlemi)، وهنتعرّف على مجموعاتها الستة واحدة واحدة.
+
+- هتفرّق بين الست مجموعات من طريقة الحركة والتغذية والمثال: öglena و amip و paramesyum و plazmodyum والطحالب (algler) و cıvık mantarlar.
+- هتعرف ليه öglena بتتغذى بطريقتين، وإيه شغلة كل نواة من النواتين اللي في paramesyum.
+- هتفهم الفجوة المنقبضة (kontraktil koful) بتطرد المَيّة الزيادة إزاي، وإمتى بتشتغل أسرع.
+
+**ليه مهم؟** في TYT بييجي سؤال توصيل الكائن بطريقة حركته، وأسئلة تفسير عن kontraktil koful، وفيها كام فخ مشهور هتاخد بالك منهم هنا.
+
+ربع ساعة بس، ومعاك جدول واحد بيلمّ الموضوع كله وصور من تحت الميكروسكوب. ابدأ وإنت مرتاح!
+
+</div>
 
 **Bu dersin sonunda:** altı protist grubunu hareket şekli, beslenme ve örnek canlı üzerinden ayırt edebilecek, kontraktil kofulun ne zaman hızlı çalıştığını yorumlayabileceksin.
 

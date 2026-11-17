@@ -3,9 +3,23 @@ baslik: Mayozun Genel Özellikleri ve Evreleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti b882896bf2
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Mayozun Genel Özellikleri ve Evreleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن mayoz (الانقسام الميوزي): الانقسام اللي بيكوّن الـ gamet (الخلايا التناسلية) وبينزّل عدد الكروموسومات للنص.
+
+- هتعرف مراحل mayoz I و mayoz II بالترتيب، وإيه اللي بيحصل في كل مرحلة.
+- هتتعلم تحسب عدد tetrat (الرباعيات) و kromatit (الكروماتيدات) والكروموسومات من غير لخبطة.
+- هتقارن بين mitoz (الانقسام الميتوزي) و mayoz، وتفهم إزاي krossing over (العبور) بيعمل تنوّع وراثي.
+
+**ليه مهم؟** أسئلة "إيه اللي بيحصل في أنهي مرحلة" والفرق بين mitoz و mayoz ثابتة تقريبًا في TYT، وحساباتها سهلة لما تمسك القاعدة.
+
+قدامك ٢٥ دقيقة بس، ومعاك جداول ورسومات وصورة من الميكروسكوب. ركّز وهتلاقيه أبسط من اللي متخيّله.
+
+</div>
 
 **Bu dersin sonunda:** mayozun evrelerini sırasıyla anlatabilecek, verilen bir $2n$ değeri için tetrat, kromatit ve kromozom sayılarını hesaplayabilecek ve mayozu mitozla karşılaştırabileceksin.
 

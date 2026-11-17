@@ -3,9 +3,23 @@ baslik: İnorganik Bileşiklerin Genel Özellikleri ve Canlılar İçin Önemi
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti dcbf4d3c9a
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # İnorganik Bileşikler: Su, Asit-Baz, Tuz ve Mineraller
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن المركبات غير العضوية (inorganik bileşikler) اللي جسم الكائن الحي مايقدرش يستغنى عنها: المَيّة (su)، الأحماض والقواعد (asitler ve bazlar)، الأملاح (tuzlar) والمعادن (mineraller).
+
+- هتعرف الخمس صفات المشتركة بين المركبات دي، وإنها مابتدّيش طاقة مع إنها ضرورية.
+- هتربط كل خاصية من خواص المَيّة بحاجة بتحصل في الحياة فعلًا، زي التماسك (kohezyon) والتلاصق (adhezyon) ونقل المَيّة في النبات.
+- هتحفظ كل معدن بوظيفته واللي بيحصل لو نقص: الحديد (demir) مع الهيموجلوبين (hemoglobin) والأنيميا (anemi)، واليود (iyot) مع الثيروكسين (tiroksin) وتضخم الغدة الدرقية (guatr).
+
+**ليه مهم؟** أسئلة TYT بتحب تسأل "أنهي معدن بيعمل إيه؟" وتحط خصائص المَيّة في أسئلة I, II, III، فالدرس ده درجات قريبة منك.
+
+خمسة وعشرين دقيقة بس، وفي آخره طريقة سهلة تثبّت بيها جدول المعادن. ركّز معانا وهتلاقيه أبسط مما تتخيل.
+
+</div>
 
 **Bu dersin sonunda:** inorganik bileşiklerin beş ortak özelliğini sayabilecek, suyun her özelliğini bir canlılık olayıyla eşleştirebilecek ve "hangi mineral, hangi görev, hangi eksiklik" sorularını tablosuz çözebileceksin.
 

@@ -3,9 +3,23 @@ baslik: Mitozun Genel Özellikleri ve Evreleri
 ders: tyt-biyoloji
 sure: 25 dk
 kaynak: MEBİ Konu Özeti d932e2b90f
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Mitozun Genel Özellikleri ve Evreleri
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الانقسام الميتوزي (mitoz): إزاي خلية واحدة بتبقى خليتين نسخة طبق الأصل منها، خطوة بخطوة.
+
+- هتعرف المراحل الأربعة بالترتيب: profaz و metafaz و anafaz و telofaz، وإيه اللي بيحصل في كل واحدة.
+- هتفرّق بين انقسام السيتوبلازم (sitokinez) في الخلية الحيوانية والخلية النباتية، وليه مختلفين.
+- هتتعلم تحسب عدد الكروموسومات (kromozom sayısı) وكمية الـ DNA في كل مرحلة، وكام خلية بتطلع بعد كذا انقسام.
+
+**ليه مهم؟** تقريبًا كل سنة بييجي سؤال عن mitoz في TYT، وأغلب الغلطات بتبقى في تفاصيل صغيرة هتلاقيها متوضّحة هنا.
+
+٢٥ دقيقة بس، ومعاك جداول وصور حقيقية من الميكروسكوب. ركّز وهتخلّصه على طول.
+
+</div>
 
 **Bu dersin sonunda:** mitozun dört evresini olaylarıyla sıralayabilecek, bitki ve hayvan hücresindeki farkları söyleyebilecek, bir hücrenin her evredeki kromozom sayısını ve DNA miktarını hesaplayabileceksin.
 

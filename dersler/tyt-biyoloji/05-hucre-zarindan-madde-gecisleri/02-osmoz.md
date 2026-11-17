@@ -3,9 +3,23 @@ baslik: Osmoz
 ders: tyt-biyoloji
 sure: 20 dk
 kaynak: MEBİ Konu Özeti 58cafc184e
-guncelleme: 2026-11-16
+guncelleme: 2026-11-17
 ---
 # Osmoz
+
+<div class="giris" dir="rtl" lang="ar">
+
+**الدرس ده عن إيه؟** عن الخاصية الأسموزية (osmoz): المَيّة بتعدّي غشا الخلية إزاي، وبتمشي في أنهي اتجاه، ومن غير ما الخلية تصرف طاقة.
+
+- هتعرف الخلية بيحصل لها إيه في التلات أوساط: hipertonik (وسط أعلى تركيز)، hipotonik (وسط أقل تركيز)، izotonik (وسط متساوي التركيز).
+- هتفرّق بين plazmoliz (انكماش الخلية) و deplazmoliz (رجوعها لحالتها) و turgor (انتفاخها) و hemoliz (انفجار الخلية الحيوانية).
+- هتتابع التلات ضغوط وهي بتزيد وتقل: osmotik basınç (الضغط الأسموزي)، turgor basıncı (ضغط الامتلاء)، emme kuvveti (قوة الامتصاص).
+
+**ليه مهم؟** سؤال "الخلية اتحطت في محلول كذا، إيه اللي يزيد وإيه اللي يقل؟" من الأسئلة الثابتة في TYT، وحلّه بيبدأ بسؤال واحد بس: الخلية خدت مَيّة ولا خسرت؟
+
+عشرين دقيقة بس، ومعاك صور حقيقية من تحت الميكروسكوب تثبّت الفكرة. ركّز وابدأ!
+
+</div>
 
 **Bu dersin sonunda:** bir hücrenin hipertonik, hipotonik ve izotonik ortamda ne yapacağını söyleyebilecek; osmotik basınç, turgor basıncı ve emme kuvvetinin nasıl değiştiğini yorumlayabileceksin.
 
