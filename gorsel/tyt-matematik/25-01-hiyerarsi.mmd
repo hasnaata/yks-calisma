@@ -1,0 +1,15 @@
+flowchart TD
+    Q["Dörtgen"] --> Y["Yamuk<br/>en az iki kenar paralel"]
+    Q --> DL["Deltoid"]
+    Y --> PK["Paralelkenar"]
+    PK --> DK["Dikdörtgen"]
+    PK --> ED["Eşkenar dörtgen"]
+    DL --> ED
+    DK --> K["Kare"]
+    ED --> K
+    classDef ana fill:#e8f0fc,stroke:#1f5fbf,color:#1d1f24
+    classDef yamuk fill:#fdf3d8,stroke:#8a5a00,color:#1d1f24
+    classDef diger fill:#e3f4e9,stroke:#1c7c45,color:#1d1f24
+    class Q ana
+    class Y yamuk
+    class DL,PK,DK,ED,K diger

@@ -4495,8 +4495,8 @@
       "pdf": "b7900d490f",
       "mebi": "48fa29b2-9397-476e-8b92-08dc0b6b07fd",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "21-dik-ucgen-ve-trigonometri"
@@ -4512,8 +4512,8 @@
       "pdf": "f7d58464ab",
       "mebi": "3df3692c-ef06-4e4d-56a0-08dc0b6b5532",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4522,8 +4522,8 @@
       "pdf": "dd9cd726d3",
       "mebi": "5e2c39f8-e600-47ce-e9e9-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "22-ucgenin-alani"
@@ -4539,8 +4539,8 @@
       "pdf": "d29c2bb071",
       "mebi": "8d38aba1-1884-42fb-b6c7-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "23-cokgenler"
@@ -4556,8 +4556,8 @@
       "pdf": "78b28ad897",
       "mebi": "b3fde499-107e-414c-af9f-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "24-dortgenler-ve-ozellikleri"
@@ -4573,8 +4573,8 @@
       "pdf": "b86fd38bf3",
       "mebi": "ba55ec77-d08b-46f1-31f8-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4583,8 +4583,8 @@
       "pdf": "06c2283cdd",
       "mebi": "e13ba3ae-fceb-438a-31f9-08dc0b6b4f46",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4593,8 +4593,8 @@
       "pdf": "1d1534aae3",
       "mebi": "89b099e0-b6bf-4409-99ed-08dc48bc468e",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4603,8 +4603,8 @@
       "pdf": "c5688aeaf4",
       "mebi": "0e2b0ba9-1e56-41e1-228c-08dc0b6af052",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 5,
@@ -4613,8 +4613,8 @@
       "pdf": "d9988fb2c3",
       "mebi": "47aec3c4-1e9a-42d0-228d-08dc0b6af052",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 6,
@@ -4623,8 +4623,8 @@
       "pdf": "beacc4f03a",
       "mebi": "6c6e88ef-2bac-440c-afa0-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 7,
@@ -4633,8 +4633,8 @@
       "pdf": "af1f234c19",
       "mebi": "62ab8080-0654-4c68-afa1-08dc0b6afc03",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 8,
@@ -4643,8 +4643,8 @@
       "pdf": "635a4a0706",
       "mebi": "da357cd8-c265-4516-8b93-08dc0b6b07fd",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 9,
@@ -4653,8 +4653,8 @@
       "pdf": "230957714a",
       "mebi": "7618f3a2-3d6b-4a35-b6c8-08dc0b6b444a",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 10,
@@ -4663,8 +4663,8 @@
       "pdf": "600e5c8c35",
       "mebi": "800cbf06-32a0-4836-e9ea-08dc0b6ad494",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "25-ozel-dortgenler"
@@ -4680,8 +4680,8 @@
       "pdf": "2aa5a0f3d5",
       "mebi": "8722458a-4b63-4b70-1594-08dc0c34b5fa",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 2,
@@ -4690,8 +4690,8 @@
       "pdf": "dba71cdf63",
       "mebi": "5c631438-b2ce-4d01-1595-08dc0c34b5fa",
       "cikmis": true,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 3,
@@ -4700,8 +4700,8 @@
       "pdf": "4033d4531e",
       "mebi": "1025353b-bcb6-416b-1596-08dc0c34b5fa",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      },
      {
       "no": 4,
@@ -4710,8 +4710,8 @@
       "pdf": "0e0c5c451f",
       "mebi": "db328284-b1ed-48f1-1597-08dc0c34b5fa",
       "cikmis": false,
-      "ders": false,
-      "alistirma": false
+      "ders": true,
+      "alistirma": true
      }
     ],
     "slug": "26-kati-cisimler"

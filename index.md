@@ -1,7 +1,7 @@
 # İçerik Kataloğu (index.md)
 
 Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alıştırma hazır, ⬜ = sırada.
-**Toplam: 159/740 ders hazır.** Son güncelleme: 2026-11-18
+**Toplam: 178/740 ders hazır.** Son güncelleme: 2026-11-18
 
 ## TYT Biyoloji (50/50)
 
@@ -364,7 +364,7 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ⬜ Yaygın Günlük Hayat Kimyasalları — `dersler/tyt-kimya/09-kimya-her-yerde/01-yaygin-gunluk-hayat-kimyasallari.md`
   - ⬜ Kozmetikler-İlaçlar-Gıdalar — `dersler/tyt-kimya/09-kimya-her-yerde/02-kozmetikler-ilaclar-gidalar.md`
 
-## TYT Matematik (109/128)
+## TYT Matematik (128/128)
 
 - **1. Sayı Kümeleri**
   - ✅ [Sayı Kümeleri](dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.md) · [alıştırma](dersler/tyt-matematik/01-sayi-kumeleri/01-sayi-kumeleri.alistirma.md)
@@ -496,30 +496,30 @@ Bu dosyayı `tools/mufredat.py` üretir; elle düzenleme. ✅ = ders ve alışt�
   - ✅ [Dik Üçgende Öklid Teoremi](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/02-dik-ucgende-oklid-teoremi.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/02-dik-ucgende-oklid-teoremi.alistirma.md)
   - ✅ [Trigonometrik Oranlar](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/03-trigonometrik-oranlar.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/03-trigonometrik-oranlar.alistirma.md)
   - ✅ [30,45 ve 60 Derecelerin Trigonometrik Oranları](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/04-30-45-ve-60-derecelerin-trigonometrik-oranlari.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/04-30-45-ve-60-derecelerin-trigonometrik-oranlari.alistirma.md)
-  - ⬜ Birim Çember — `dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/05-birim-cember.md`
+  - ✅ [Birim Çember](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/05-birim-cember.md) · [alıştırma](dersler/tyt-matematik/21-dik-ucgen-ve-trigonometri/05-birim-cember.alistirma.md)
 - **22. Üçgenin Alanı**
-  - ⬜ Üçgenin Alanı — `dersler/tyt-matematik/22-ucgenin-alani/01-ucgenin-alani.md`
-  - ⬜ Üçgenin Alanıyla İlgili Uygulamalar — `dersler/tyt-matematik/22-ucgenin-alani/02-ucgenin-alaniyla-ilgili-uygulamalar.md`
+  - ✅ [Üçgenin Alanı](dersler/tyt-matematik/22-ucgenin-alani/01-ucgenin-alani.md) · [alıştırma](dersler/tyt-matematik/22-ucgenin-alani/01-ucgenin-alani.alistirma.md)
+  - ✅ [Üçgenin Alanıyla İlgili Uygulamalar](dersler/tyt-matematik/22-ucgenin-alani/02-ucgenin-alaniyla-ilgili-uygulamalar.md) · [alıştırma](dersler/tyt-matematik/22-ucgenin-alani/02-ucgenin-alaniyla-ilgili-uygulamalar.alistirma.md)
 - **23. Çokgenler**
-  - ⬜ Çokgenler — `dersler/tyt-matematik/23-cokgenler/01-cokgenler.md`
+  - ✅ [Çokgenler](dersler/tyt-matematik/23-cokgenler/01-cokgenler.md) · [alıştırma](dersler/tyt-matematik/23-cokgenler/01-cokgenler.alistirma.md)
 - **24. Dörtgenler ve Özellikleri**
-  - ⬜ Dörtgenler ve Özellikleri — `dersler/tyt-matematik/24-dortgenler-ve-ozellikleri/01-dortgenler-ve-ozellikleri.md`
+  - ✅ [Dörtgenler ve Özellikleri](dersler/tyt-matematik/24-dortgenler-ve-ozellikleri/01-dortgenler-ve-ozellikleri.md) · [alıştırma](dersler/tyt-matematik/24-dortgenler-ve-ozellikleri/01-dortgenler-ve-ozellikleri.alistirma.md)
 - **25. Özel Dörtgenler**
-  - ⬜ Yamukta Açı ve Uzunluk — `dersler/tyt-matematik/25-ozel-dortgenler/01-yamukta-aci-ve-uzunluk.md`
-  - ⬜ İkizkenar ve Dik Yamuk — `dersler/tyt-matematik/25-ozel-dortgenler/02-ikizkenar-ve-dik-yamuk.md`
-  - ⬜ Yamuğun Alanı — `dersler/tyt-matematik/25-ozel-dortgenler/03-yamugun-alani.md`
-  - ⬜ Paralelkenarda Açı ve Uzunluk — `dersler/tyt-matematik/25-ozel-dortgenler/04-paralelkenarda-aci-ve-uzunluk.md`
-  - ⬜ Eşkenar Dörtgen — `dersler/tyt-matematik/25-ozel-dortgenler/05-eskenar-dortgen.md`
-  - ⬜ Paralelkenarın Alanı — `dersler/tyt-matematik/25-ozel-dortgenler/06-paralelkenarin-alani.md`
-  - ⬜ Dikdörtgende Açı ve Uzunluk — `dersler/tyt-matematik/25-ozel-dortgenler/07-dikdortgende-aci-ve-uzunluk.md`
-  - ⬜ Kare — `dersler/tyt-matematik/25-ozel-dortgenler/08-kare.md`
-  - ⬜ Dikdörtgenin Alanı — `dersler/tyt-matematik/25-ozel-dortgenler/09-dikdortgenin-alani.md`
-  - ⬜ Deltoid — `dersler/tyt-matematik/25-ozel-dortgenler/10-deltoid.md`
+  - ✅ [Yamukta Açı ve Uzunluk](dersler/tyt-matematik/25-ozel-dortgenler/01-yamukta-aci-ve-uzunluk.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/01-yamukta-aci-ve-uzunluk.alistirma.md)
+  - ✅ [İkizkenar ve Dik Yamuk](dersler/tyt-matematik/25-ozel-dortgenler/02-ikizkenar-ve-dik-yamuk.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/02-ikizkenar-ve-dik-yamuk.alistirma.md)
+  - ✅ [Yamuğun Alanı](dersler/tyt-matematik/25-ozel-dortgenler/03-yamugun-alani.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/03-yamugun-alani.alistirma.md)
+  - ✅ [Paralelkenarda Açı ve Uzunluk](dersler/tyt-matematik/25-ozel-dortgenler/04-paralelkenarda-aci-ve-uzunluk.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/04-paralelkenarda-aci-ve-uzunluk.alistirma.md)
+  - ✅ [Eşkenar Dörtgen](dersler/tyt-matematik/25-ozel-dortgenler/05-eskenar-dortgen.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/05-eskenar-dortgen.alistirma.md)
+  - ✅ [Paralelkenarın Alanı](dersler/tyt-matematik/25-ozel-dortgenler/06-paralelkenarin-alani.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/06-paralelkenarin-alani.alistirma.md)
+  - ✅ [Dikdörtgende Açı ve Uzunluk](dersler/tyt-matematik/25-ozel-dortgenler/07-dikdortgende-aci-ve-uzunluk.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/07-dikdortgende-aci-ve-uzunluk.alistirma.md)
+  - ✅ [Kare](dersler/tyt-matematik/25-ozel-dortgenler/08-kare.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/08-kare.alistirma.md)
+  - ✅ [Dikdörtgenin Alanı](dersler/tyt-matematik/25-ozel-dortgenler/09-dikdortgenin-alani.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/09-dikdortgenin-alani.alistirma.md)
+  - ✅ [Deltoid](dersler/tyt-matematik/25-ozel-dortgenler/10-deltoid.md) · [alıştırma](dersler/tyt-matematik/25-ozel-dortgenler/10-deltoid.alistirma.md)
 - **26. Katı Cisimler**
-  - ⬜ Dik Prizmalar — `dersler/tyt-matematik/26-kati-cisimler/01-dik-prizmalar.md`
-  - ⬜ Küp — `dersler/tyt-matematik/26-kati-cisimler/02-kup.md`
-  - ⬜ Dik Piramitler — `dersler/tyt-matematik/26-kati-cisimler/03-dik-piramitler.md`
-  - ⬜ Düzgün Dört Yüzlü — `dersler/tyt-matematik/26-kati-cisimler/04-duzgun-dort-yuzlu.md`
+  - ✅ [Dik Prizmalar](dersler/tyt-matematik/26-kati-cisimler/01-dik-prizmalar.md) · [alıştırma](dersler/tyt-matematik/26-kati-cisimler/01-dik-prizmalar.alistirma.md)
+  - ✅ [Küp](dersler/tyt-matematik/26-kati-cisimler/02-kup.md) · [alıştırma](dersler/tyt-matematik/26-kati-cisimler/02-kup.alistirma.md)
+  - ✅ [Dik Piramitler](dersler/tyt-matematik/26-kati-cisimler/03-dik-piramitler.md) · [alıştırma](dersler/tyt-matematik/26-kati-cisimler/03-dik-piramitler.alistirma.md)
+  - ✅ [Düzgün Dört Yüzlü](dersler/tyt-matematik/26-kati-cisimler/04-duzgun-dort-yuzlu.md) · [alıştırma](dersler/tyt-matematik/26-kati-cisimler/04-duzgun-dort-yuzlu.alistirma.md)
 
 ## TYT Tarih (0/54)
 
